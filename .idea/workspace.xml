@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec7501c0-f186-4cfd-bce1-5e054693c7ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/Among.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Deep_Read_A_Reading_Comprehension_System.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/EnglishDecimalFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Extracting_question_answer_pairs_in_multi_party_meetings.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/FrenchDecimalFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Fuzzy_Match_for_Question_Answering_Passage_Retrieval.ppt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Fuzzy_dependency_relation.ppt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_answers.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c_answers.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Introduction_to_WordNet_An_Online_Lexical_Database.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Lexical_Semantics - Introduction.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Natural_language_question_answering_the_view_from_here.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/QA Passage Retrieval.ppt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/QTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Quantitative_Evaluation_Passage_Retrieval_Algorithms_Question_Answering.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Question_Answering_Passage_Retrieval_Using_Dependency_Relations.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Rule_based_Question_Answering_System_for_Reading_Comprehension_Tests.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/Score.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/SnowballProgram.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/SnowballStemmer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Task-based_evaluation_meeting_browsers_from task_elicitation_user_behavior_analysis.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Wordnet_A_Lexical_Database_for_English.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/algorithm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/commonWord.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/englishStemmer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/field.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/file.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/lucene.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/pair.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/passage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/questions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/sql.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/stop_words.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/tools.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/transcript.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/wordnet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/Answers.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IB4010.Transcript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.Transcript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IB4010.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_name.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_time.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_transcript.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IS1008c.Transcript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.Transcript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IS1008c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/adj.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/adv.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/cntlist.rev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/cntlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/frames.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/frequence_IB4010.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/frequence_IS1008c.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.adj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.adv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.noun" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.sense" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.verb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/lexnames" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/log.grind.3.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mywriting.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/noun.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/sentidx.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/sents.vrb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/stop-words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/verb.Framestext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/verb.exc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="mywriting.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mywriting" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-8" />
+    <option name="width" value="1938" />
+    <option name="height" value="1072" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Internship" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mywriting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="detaivien2005" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/GC/ws/gc_153" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec7501c0-f186-4cfd-bce1-5e054693c7ff" name="Default" comment="" />
+      <created>1436454651794</created>
+      <option name="number" value="Default" />
+      <updated>1436454651794</updated>
+      <workItem from="1436454652891" duration="1206000" />
+    </task>
+    <task id="LOCAL-00001" summary="project &quot;Applying computer vision to traffic surveillance in Vietnam&quot;">
+      <created>1436455097718</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1436455097718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-8" width="1938" height="1072" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32968238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project &quot;Applying computer vision to traffic surveillance in Vietnam&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="project &quot;Applying computer vision to traffic surveillance in Vietnam&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
