@@ -1,0 +1,360 @@
+%
+% English Style http://www.crockford.com/wrrrld/style.html
+% http://sut1.sut.ac.th/strunk/
+%
+\documentclass[a4paper,11pt]{report}
+\usepackage[latin1]{inputenc}
+\usepackage[french,english,]{babel}
+\usepackage{fancyhdr}
+\usepackage{fullpage}
+\usepackage{lastpage}
+\usepackage[]{graphicx}
+\usepackage{listings}
+\usepackage{slashbox}
+\usepackage{color}
+\usepackage{wrapfig}%txt autour d'images
+
+\usepackage{amssymb}
+\usepackage{longtable}
+\usepackage[cyr]{aeguill}
+\usepackage{lettrine}
+\usepackage{enumerate} %pour dans deepbackground
+\usepackage{pstricks}
+\usepackage{pst-fill}
+\usepackage{pst-plot}
+\usepackage{pst-tree}
+\usepackage{verbatim}
+\usepackage{amssymb}
+\usepackage{rotating}
+\usepackage{url}
+
+\usepackage[inactive]{srcltx}
+
+%*********************************
+
+\lhead{\textsl{Travail Pratique de Systèmes d'exploitation}}
+%\chead{}
+%\rhead{}
+
+\lfoot{\textsc{LE} Quoc Anh}
+
+
+\cfoot{} \rfoot{\textsl{\footnotesize{Page \thepage{} /
+\pageref{LastPage}}}}
+%********************************
+
+%\addtolength{\textwidth}{\marginparwidth}
+%\addtolength{\textwidth}{\marginparwidth}
+%\addtolength{\oddsidemargin}{-\marginparwidth}
+%\addtolength{\evensidemargin}{-\marginparwidth}
+%\addtolength{\marginparwidth}{-\marginparwidth}
+%\renewcommand{\footrulewidth}{0.4pt}
+%\renewcommand{\headrulewidth}{0.4pt}
+
+%********************************
+
+\pagestyle{fancy} \hyphenpenalty 10000 \sloppy
+
+%********************************
+
+\def\N{\mbox{I\hspace{-.15em}N}}
+\def\R{\mbox{I\hspace{-.15em}R}}
+
+%*************changer la police des titres*******************
+
+\usepackage{sectsty}
+\allsectionsfont{\usefont{OT1}{phv}{bc}{n}\selectfont}
+
+%*************faire des jolie figure pour les images*******************
+\usepackage[small,normal,bf,up]{caption}
+\renewcommand{\captionfont}{\small\itshape}
+
+%*************enlever l'indentation de merde dans les paragraphes*******************
+
+\parindent=0pt
+\parskip=4pt
+
+\makeatletter
+\def\thickhrulefill{\leavevmode \leaders  \hrule height 1ex \hfill \kern \z@}
+
+%*************Entête des sections*******************
+
+\def\@makechapterhead#1{%
+  {\noindent \centering \reset@font
+        \thickhrulefill\quad
+        \sffamily \@chapapp{} \thechapter
+        \quad \thickhrulefill
+        \par\nobreak
+            \Huge \sffamily #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    \vskip 20\p@
+  }}
+
+%************Entête de la table des matières********************
+\def\@makeschapterhead#1{%
+  {\noindent \centering \reset@font
+        \thickhrulefill
+        \par\nobreak
+        \Huge \sffamily #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+        \hrule
+    \vskip 40\p@
+  }}
+
+%***********encadrer*********************
+
+\usepackage{fancybox}
+\newcommand{\bordsarrondis}[1]{
+  \par
+  \begin{center}
+    \shadowbox{ %ovalbox pour arrondi
+      \parbox{17cm}{
+        #1
+      }
+    }
+  \end{center}
+  \par
+}
+
+%************encadrer 2********************
+\newcommand{\bordsoval}[1]{
+  \par
+  \begin{center}
+    \ovalbox{ % pour arrondi
+      \parbox{17cm}{
+        #1
+      }
+    }
+  \end{center}
+  \par
+}
+
+%**********Page de garde**********************
+
+\author{\vspace{3cm}
+\begin{tabular}{ll}
+    \small \texttt{Cours:}           & \small INFOM446 - Systèmes d'exploitation: étude de cas\\
+    \small \texttt{Professeur:}      & \small Jean RAMAEKERS \{jra@info.fundp.ac.be\}\\
+    \small \texttt{Assistant 1:}       & \small Jean-François Wauthy \{jfw@info.fundp.ac.be\}\\
+    \small \texttt{Assistant 2:}       & \small Geoffrey Miche \{gmi@info.fundp.ac.be\}\\
+    \small \texttt{Année académique:}& \small Master 1 en informatique 2007-2008\\
+    \small \texttt{Auteur:}          & \small Quoc Anh LE \\
+    \small \texttt{Email:}           & \small lequocanh@info.fundp.ac.be\\
+\end{tabular}}
+
+
+
+\date{Mise à jour: \today}
+
+\title{\vspace{-5cm}
+        \LARGE{Facultés Universitaires Notre-Dame de la Paix\\}
+        \large{Rue Grandgagnage 21, 5000 Namur\\}
+        \normalsize{Belgique}\\
+        \vspace{6cm}
+        \LARGE{\emph{\textbf{Proxy HTTP}}}\\
+        \vspace{5cm}
+}
+
+%************well formed in biblio********************
+
+\usepackage{url}
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+
+%********************************
+
+\fancyhf{}
+
+%***********Now begin customizing things. See the fancyhdr docs for more info.*********************
+
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{\MakeUppercase{#1}}{}}
+\renewcommand{\headrulewidth}{0pt}
+
+
+\fancyhead[RE,LO]{} \makeindex
+
+%***********BEGIN********************
+\begin{document}
+\bibliographystyle{plain}
+
+%% Configuration of the header strings for the frontmatter pages.
+\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
+\setcounter{tocdepth}{3}
+\fancyhead[LE]{\thepage\hspace{2em}\footnotesize{\leftmark}}
+\fancyhead[RE,LO]{}
+\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
+%\mainmatter{}
+\renewcommand{\headrulewidth}{0.1pt}%%%%%%$$$$ici
+\renewcommand{\headsep}{16pt} %%espacement entre entete et corp de texte
+%% Configuration of the header strings for the main manuscript pages.
+\fancyhead[RE,LO]{\thesection}
+
+
+\maketitle
+
+\newpage
+\tableofcontents
+\newpage
+\chapter{Introduction}
+Ce document constitue le rapport du travail pratique réalisé dans le
+cadre du cours de Systèmes d'exploitation: étude de cas.
+
+Dans ce rapport, tous les problèmes rencontrés lors de la
+réalisation d'un serveur proxy HTTP seront abordés.
+
+%\part{titre}, \chapter{titre}, \section{titre}, \subsection{titre}, \subsubsection{titre}, \paragraph{titre}, \subparagraph{titre}.
+\newpage
+\chapter{Architecture du système}
+\section{Architecture générale}
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.6]{sodo1.png}
+    \caption{Architecture générale du HTTP serveur proxy}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+\newpage
+\section{Vérification des données disponibles à traiter}
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.45]{sodo2.png}
+    \caption{Vérification des données disponibles à traiter}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+\newpage
+\section{Traitement des données disponibles aux sockets}
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.45]{sodo3.png}
+    \caption{Traitement des données disponibles aux sockets}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+
+\newpage
+\chapter{Règles de filtrage}
+
+\section{Chargement dynamique des modules}
+Afin de charger dynamiquement les règles de filtrage, j'ai utilisé
+les fonctions dlopen, dlsym et dlclose qui permettent de charger
+dynamiquement une libraire à l'exécution du programme.
+
+Le but du module est vérifier les requêtes entrées si elles sont
+satisfaites les règles de filtrage ou non. Ce sont trois règles
+suivants:
+\begin{enumerate}
+    \item {Blocage de certains navigateurs}
+    \item {Blocage d'URL contenant au moins un mot-clé interdit}
+    \item {Blocage de pages sur base de leur nom de domaine. Par exemple, www.info.fundp.ac.be et leibniz.info.fundp.ac.be seront bloqué si info.fundp.ac.be est dans la liste des noms de domaine refusés. Par contre, les requêtes ver www.fundp.ac.be seront acceptées.  }
+\end{enumerate}
+
+La requête est analysée afin de fournir les informations
+correspondantes avec les règles. Ici, elles sont le nom de hôte, le
+nom de navigateur et le contenu complète de l'adresse du site
+demandé.
+
+\section{Fichier de filtrage}
+La configuration des différentes règles de filtrage est stockée dans
+un fichier qui s'appelle \emph{filter.txt}
+
+Les règles qui sont enregistrés dans ce fichier doivent être
+observés strictement comme la suivant:
+\begin{itemize}
+    \item {<Navigators> IE Elisa <Navigators>}
+    \item {<Keywords> sex prof <Keywords>}
+    \item {<Domains> info.fundp.ac.be lesoir.be <Domains>}
+\end{itemize}
+
+
+\newpage
+\chapter{Chaîne des proxies}
+
+\newpage
+\chapter{Conclusion}
+Ce programme marche bien avec toutes les fonctions abordées dans
+l'énoncé sous l'environnement Linux (les autres environnement ne
+sont pas encore testés).
+
+On peut facilement modifier le module du filtrage et aussi modifier
+le fichier de configuration pour ajouter plusieurs règles
+différents.
+
+Pour le code source, le programme observe strictement les règlements
+de l'énoncé. Tous les sockets sont non bloquant et le programme
+appelle seulement une fois la commande "Select()".
+
+Les ressources allouées dynamiques durant son exécution sont bien
+libérés.
+\newpage
+\chapter{Démonstration}
+\section{Lancer le proxy serveur}
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.45]{setup0.png}
+    \caption{Lancer le proxy serveur}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+\section{Configurer le navigateur}
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.3]{setup.png}
+    \caption{Configurer le navigateur (firefox)}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+\section{Chaîne des proxies}
+
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.4]{chaine.png}
+    \caption{Chaîne des proxies}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+
+   \begin{figure}[here]
+    \begin{center}
+    \includegraphics[scale=0.4]{chaine2.png}
+    \caption{Chaîne des proxies}
+    \label{Architecture}
+    \end{center}
+    \end{figure}
+
+\newpage
+\chapter{Code}
+\section{Proxy serveur.c}
+\lstinputlisting{quocanh2.c}
+
+\newpage
+\section{Module du filtrage.c} \lstinputlisting{filter.c}
+
+\newpage
+\section{Fichier de la configuration du fitrage.txt}
+\lstinputlisting{filter.txt}
+
+\section{Scrip makefile} \lstinputlisting{makefile.txt}
+
+\end{document}

@@ -1,0 +1,189 @@
+.outerTable
+{
+	width: 96%;
+}
+
+.outerSendToTable
+{
+	background-color	: #FFFFFF;
+	width: 98%;
+}
+
+.sendToTable td
+{
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;
+	color				: #666666;
+	padding				: 6px;
+	white-space			: nowrap;
+}
+
+.sendToTable textarea
+{
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;
+	color				: #666666;
+	width: 100%;
+}
+
+.sendToTable input
+{
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;
+	color				: #666666;
+	width: 100%;
+}
+
+.headerTitle
+{
+	width				: 100%;
+	font-family			: Trebuchet MS;
+	font-size			: 18px;
+	color				: #818181;
+	padding				: 6px;
+}
+
+.navBar
+{
+	background-color	: #8A2205;
+	background-image	: url(images/nav_bg.gif);
+	background-repeat	: repeat-y;
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;
+	color				: #ffffff;
+	padding				: 0px 10px 0px 10px;
+	height				: 40px;
+}
+
+.navBar a
+{
+	background-color	: Transparent;
+	color				: #FBAF5D;
+}
+
+.navBar a:hover
+{
+	background-color	: Transparent;
+	color				: #FFFFFF;
+}
+
+.subNavBar
+{
+	background-color	: #F8F8F8;
+	background-image	: url(images/subnav_bg.gif);
+	background-repeat	: repeat-x;
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 9px;
+	font-weight			: bold;
+	color				: #979797;
+	padding				: 0px 10px 2px 0px;
+	height				: 27px;
+	text-align			: right;
+}
+
+.subNavBar a
+{
+	background-color	: Transparent;
+	color				: #979797;
+}
+
+.subNavBar a:hover
+{
+	background-color	: Transparent;
+	color				: #333333;
+}
+
+.mainTable
+{
+	background-color	: Transparent;
+	width: 100%;
+}
+
+.mainTable td
+{
+	background-color	: Transparent;
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;
+	color				: #666666;
+	padding				: 6px;
+}
+
+.album_name
+{
+	background-color	: Transparent;
+	font-family			: Arial;
+	font-size			: 19px;
+	color				: #A64E00;
+	padding				: 6px;
+}
+
+
+/* Custom Styles */
+
+.textBlock
+{
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 11px;	
+}
+
+.textBlock h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.55em;
+	line-height: normal;
+	padding: 0px 0px 5px 0px;
+	margin: 0px 0px 12px 0px;
+	border-bottom: solid 1px #DEDEDE;
+	color: #FF6600;	
+}
+
+.currentPageHighlight
+{
+	color: #8A2205;
+}
+
+.topCorner
+{
+	vertical-align: top; 
+	width: 6px;
+}
+
+.bottomCorner
+{
+	vertical-align: bottom; 
+	width: 6px;
+}
+
+.flatVertical
+{
+	height: 20px; 
+	width: 100%;
+}
+
+.subAlbumsHeader
+{
+	background-color	: #F8F8F8;
+	background-image	: url(images/subnav_bg.gif);
+	background-repeat	: repeat-x;
+	font-family			: Verdana, Sans-Serif;
+	font-size			: 9px;
+	font-weight			: bold;
+	color				: #979797;
+	padding				: 0px 10px 2px 0px;
+	height				: 27px;
+	text-align			: right;
+	border-left: #e3e3e3 1px solid;
+	border-right: #e3e3e3 1px solid;
+}
+.subAlbumsBody
+{
+	border-right: #e3e3e3 1px solid;
+	border-left: #e3e3e3 1px solid;
+	border-bottom: #e3e3e3 1px solid;
+	height: 100%;
+}
+
+.album_seemore
+{
+	color: #EC7200;
+}

@@ -1,0 +1,13 @@
+/* CSS Document */
+
+.logo {background-image:url(../images/top/logo.gif); background-position:top left; background-repeat:no-repeat;}
+
+.topmenu_c1 {background-image:url(../images/top/menu/c1.gif); background-position:top left; background-repeat:no-repeat;}
+.topmenu_c2 {background-image:url(../images/top/menu/c2.gif); background-position:top right; background-repeat:no-repeat;}
+.topmenu 			{font:11px Tahoma, Arial; color:#FFFFFF; background-color:#646464;}
+.topmenu a 			{color:#FFFFFF; text-decoration:none;}
+.topmenu a:hover 	{color:#FFCC00; text-decoration:none;}
+
+.search {font:11px tahoma, arial; color:#000000; padding-left:4px; border:#000000 solid 1px; width:150px;}
+.search1 {font:11px tahoma, arial; color:#000000; padding-left:4px; border:#000000 solid 1px; width:250px;}
+.search2 {font:11px tahoma, arial; color:#000000; padding-left:4px; border:#000000 solid 1px;}

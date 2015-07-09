@@ -1,0 +1,54 @@
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial
+}
+A {
+	COLOR: #183484; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #183484; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #183484; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #183484; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ce0000; TEXT-DECORATION: underline
+}
+A.menu {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:visited {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:link {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:active {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-WEIGHT: bold; COLOR: #ce0000; TEXT-DECORATION: none
+}
+A.submenu {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.submenu:visited {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.submenu:link {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.submenu:active {
+	COLOR: #ffff99; TEXT-DECORATION: none
+}
+A.submenu:hover {
+	COLOR: #ce0000; TEXT-DECORATION: none
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #527dbd; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: silver; SCROLLBAR-3DLIGHT-COLOR: #527dbd; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #527dbd; SCROLLBAR-DARKSHADOW-COLOR: #527dbd
+}

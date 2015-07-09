@@ -1,0 +1,384 @@
+/* Main CSS file for "Tin TTVN", built1604 - Kyo*/
+/* Money CSS */
+.vote_box1
+{
+	font-weight: bolder;	
+	color: black;	
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	background-color: #F4FAF1;
+	text-decoration: none;
+}
+.poll_table TD
+{
+	font-weight: normal;
+	color: black;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	background-color: #FEFBA8;
+	text-decoration: none;
+}
+.content1
+{
+	font-weight: bold;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: normal;
+	font-family: Verdana;
+	background-color: #003366;
+	font-variant: normal;
+}
+.content1 A:link
+{
+	font-weight: bold;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: normal;
+	font-family: Verdana;	
+	background-color: #003366;
+	text-align: left;
+	font-variant: normal;
+}
+.content1 A:link
+{
+	font-weight: bold;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: normal;
+	font-family: Verdana;
+	background-color: #003366;
+	text-align: left;
+	font-variant: normal;
+}
+.content1 A:visited
+{
+	text-align: left;
+	font-weight: bold;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #ffffff;
+	line-height: normal;
+	font-family: Verdana;
+	background-color: #003366;
+	font-variant: normal;
+	
+}
+
+.clMoneyTable
+{
+	border-left-color: #7ea9f2;
+	border-bottom-color: #7ea9f2;
+	border-top-style: none;
+	border-top-color: #7ea9f2;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	border-right-color: #7ea9f2;
+	border-bottom-style: none;
+}
+.clMoneyTableList
+{
+	border-right: brown 1px solid;
+	border-top: brown 1px solid;
+	border-left: brown 1px solid;
+	border-bottom: brown 1px solid;
+	background-color: white;
+}
+.clMoneyHeader
+{
+	font-weight: bold;
+	font-size: 13px;
+	background-image: none;
+	color: white;
+	font-family: Tahoma;
+	text-align: center;
+}
+.clMoneyField1
+{
+	font-size: 13px;
+	font-family: Arial;
+	background-color: papayawhip;
+	text-align: center;
+}
+.clMoneyField2
+{
+	font-size: 13px;
+	font-family: Arial;
+	background-color: snow;
+	text-align: center;
+}
+/* End of Money CSS */
+/* Medal CSS */
+.clMedalTable
+{
+	border-left-color: #7ea9f2;
+	border-bottom-color: #7ea9f2;
+	border-top-style: none;
+	border-top-color: #7ea9f2;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	border-right-color: #7ea9f2;
+	border-bottom-style: none;
+}
+.clMedalTableList
+{
+	border-right: #009933 1px solid;
+	border-top: #009933 1px solid;
+	border-left: #009933 1px solid;
+	border-bottom: #009933 1px solid;
+	background-color: white;
+}
+.clMedalHeader
+{
+	font-weight: bold;
+	font-size: 13px;
+	background-image: url(/images/TTVN/title_bg.gif);
+	color: white;
+	font-family: Tahoma;
+	text-align: center;
+}
+.clMedalListHeader
+{
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Verdana;
+	background-color: gainsboro;
+	text-align: center;
+}
+.clMedalListField
+{
+	font-size: 13px;
+	font-family: Arial;
+	background-color: white;
+	text-align: center;
+}
+.clMedalListFieldAlt
+{
+	font-size: 13px;
+	font-family: Arial;
+	background-color: whitesmoke;
+	text-align: center;
+}
+/* End of Medal CSS */
+
+/* Weather CSS */
+.clTable
+{
+	border-left-color: #7ea9f2;
+	border-bottom-color: #7ea9f2;
+	border-top-style: none;
+	border-top-color: #7ea9f2;
+	border-right-style: none;
+	border-left-style: none;
+	background-color: transparent;
+	border-right-color: #7ea9f2;
+	border-bottom-style: none;
+}
+.clTableList
+{
+	border-right: darkred 1px solid;
+	border-top: darkred 1px solid;
+	border-left: darkred 1px solid;
+	border-bottom: darkred 1px solid;
+	background-color: white;
+}
+.clHeader
+{
+	font-weight: bold;
+	font-size: 12px;
+	background-image: none;
+	color: white;
+	font-family: Tahoma;
+	background-color: darkred;
+	text-align:center;
+	height:20;
+}
+
+.clItem1
+{
+	font-size: 12px;
+	font-family: Arial;
+	background-color: peachpuff;
+}
+.clItem2
+{
+	font-size: 12px;
+	font-family: Arial;
+	background-color: #ffffec;
+	text-align: center;
+}
+.clItem3
+{
+	font-size: 13px;
+	font-family: Arial;
+	background-color: #fff6e0;
+	text-align: center;
+}
+/* End of Weather CSS */
+
+.MIO {
+	FILTER: alpha(opacity=100)
+}
+.menu2  { color: #ffffe0; font-weight: bold; font-size: 8pt; font-family: tahoma, verdana, Arial; text-decoration: none }
+.menu2 a:link { color: #ffffe0; font-weight: bold; font-size: 8pt; font-family: tahoma, verdana, Arial; text-decoration: none }
+.menu2 a:hover { color: white; font-weight: bold; font-size: 8pt; font-family: tahoma, verdana, Arial; text-decoration: none }
+.menu2 a:visited { color: #ffffe0; font-weight: bold; font-size: 8pt; font-family: tahoma, verdana, Arial; text-decoration: none }
+/* Search */
+
+.box_title  { color: white; font-weight: bold; font-size: 12px; font-family: Verdana, Tahoma, Arial, Swiss, SunSans-Regular; padding: 2px }
+.box_title a:link { color: white; font-weight: bold; font-size: 12px; font-family: Verdana, Tahoma, Arial, Swiss, SunSans-Regular }
+.box_title a:hover  { color: white; font-weight: bold; font-size: 12px; font-family: Verdana, Tahoma, Arial, Swiss, SunSans-Regular; text-decoration: none }
+.box_title a:visited { color: white; font-weight: bold; font-size: 12px; font-family: Verdana, Tahoma, Arial, Swiss, SunSans-Regular; text-decoration: none }
+
+.spnSearchHighlight0 {	BACKGROUND-COLOR: #ffff66}
+.spnSearchHighlight1 {	BACKGROUND-COLOR: #a0ffff}
+.spnSearchHighlight2 {	BACKGROUND-COLOR: #99ff99}
+.spnSearchHighlight3 {	BACKGROUND-COLOR: #ff9999}
+.spnSearchHighlight4 {	BACKGROUND-COLOR: #ff66ff}
+.spnSearchHighlight5 {	BACKGROUND-COLOR: #f2feff}
+.spnSearchHighlight6 {	BACKGROUND-COLOR: #2b5591}
+.spnSearchHighlight7 {	BACKGROUND-COLOR: #191970}
+.spnSearchHighlight8 {	BACKGROUND-COLOR: #3184bd}
+.spnSearchHighlight9 {	BACKGROUND-COLOR: #f5f5f5}
+
+/* Feedback */
+.feedback             { font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial, tahoma, verdana ; text-decoration: none; background-color: #ffffe9; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; border: none; clip: auto; line-height: 14px }
+.feedback A:link      { color: #001368; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana, "courier new"; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; line-height: 14px }
+.feedback A:visited   { color: #000000; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma,verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+.feedback A:active    { color: #0D47A1; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+.feedback A:hover     { color: #ff9452; font-weight:normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+
+/* Event Flow */
+.event             { font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial, tahoma, verdana ; text-decoration: none; background-color: #FAF5ED; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; border: none; clip: auto; line-height: 14px }
+.event A:link      { color: #00a; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana, "courier new"; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; line-height: 14px }
+.event A:visited   { color: #63576e; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma,verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+.event A:active    { color: #00a; font-weight: normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+.event A:hover     { color: #00006E; font-weight:normal; font-size: 10pt; line-height: 14px; font-family: Arial,tahoma, verdana; text-decoration: none; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;  line-height: 14px }
+
+/* Designs, styles in publshing */
+.home_subtitle       { color: #336a96; font-weight: bold; font-size: 8pt; font-family: Tahoma, Arial, Georgia, Times; text-decoration: underline; padding-top: 3px; position: relative; left: 2px }
+.home_title { color: #191970; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; padding-top: 1px; padding-bottom: 2px }
+.home_title A:link     { color: #191970; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; text-decoration: none; padding-top: 1px; padding-bottom: 2px; position: relative; left: 2px }
+.home_title A:visited     { color: #2f4f4f; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; padding-top:1px; padding-bottom: 2px; position: relative; left: 2px }
+.home_title A:hover     { color: #6495ed; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; text-decoration: none; padding-top: 1px; padding-bottom: 2px; position: relative; left: 2px }
+.home_title A:active      { color: #6488ed; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; padding-top: 1px; padding-bottom: 2px; position: relative; left: 2px }
+
+.news_comment  { color: #930; font-size: 8pt; font-family: verdana }
+.news_comment A:link  { color: #930; font-size: 8pt; font-family: verdana; text-decoration: underline }
+.news_comment A:visited  { color: #930; font-size: 8pt; font-family: verdana; text-decoration: underline }
+.news_comment A:active  { color: #930; font-size: 8pt; font-family: verdana; text-decoration: underline overline }
+.news_comment A:hover  { color: #930; font-size: 8pt; font-family: verdana; text-decoration: underline overline }
+.news_justifybox    { color: #000; font-size: 9pt; text-align: justify; padding-left: 10px }
+.news_justifybox_intro    { color: #000; font-size: 9pt; text-align: justify; }
+.story_headline    { color: #0b819f; font-weight: bold; font-size: 14pt; text-align: left; font-family: "Times New Roman"}
+.story_teaser    { color: #5f5f5f; font-size: 11pt; text-align: justify; font-family: "Times New Roman"}
+.story_teaser a:link	   { color: #00344F; font-size: 11pt; text-decoration: none }
+.story_teaser a:visited  { color: #000000; font-size: 11pt; text-decoration: none }
+.story_teaser a:hover    { color: #4169E1; font-size: 11pt; text-decoration: underline }
+.story_teaser a:active   { color: #4169E1; font-size: 11pt; text-decoration: underline }
+.story_teaser_zonepage    { color: #5f5f5f; font-size: 12pt; text-align: justify; font-family: "Times New Roman"; font-weight: bold;}
+.story_body    { color: #000; font-size: 12pt; text-align: justify; font-family: "Times New Roman"}
+.story_body  A:link  { color: #000; font-size: 12pt; text-align: justify; font-family: "Times New Roman"; text-decoration: underline}
+.story_body  A:visited  { color: #000; font-size: 12pt; text-align: justify; font-family: "Times New Roman"; text-decoration: underline}
+.story_body  A:active  { color: #000; font-size: 12pt; text-align: justify; font-family: "Times New Roman"; text-decoration: underline overline}
+.story_body  A:hover  { color: #000; font-size: 12pt; text-align: justify; font-family: "Times New Roman"; text-decoration: underline overline}
+.image_desc { color: #000; font-size: 8pt; text-align: justify; font-family: "Arial"}
+.title     { color: #000; font-weight: bold; font-size: 14pt; font-family: "palatino linotype", verdana, "Times New Roman", tahoma }
+.topstories_header { color: #00a; font-weight: bold; font-size: 9pt; line-height: 14pt; font-family: verdana, arial, tahoma; }
+.topstories_box { color: #000; font-size: 9pt; line-height: 14pt; font-family: tahoma, verdana, arial }
+.topstories_box A:link { color: #000; font-size: 8pt; line-height: 14pt; font-family: tahoma, verdana, arial; text-decoration: none }
+.topstories_box A:visited { color: #000; font-size: 8pt; line-height: 14pt; font-family: tahoma, verdana, arial; text-decoration: none }
+.topstories_box A:hover { color: #2065df; font-size: 8pt; line-height: 14pt; font-family: tahoma, verdana, arial; text-decoration: underline }
+.topstories_box A:active { color: #000; font-size: 8pt; line-height: 14pt; font-family: tahoma, verdana, arial; text-decoration: none }
+.home_list { color: #002f75; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.home_list a:link { color: #002f75; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.home_list a:hover { color: #216cd7; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.home_list a:visited { color: #003f77; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+
+.right_box_header     { font-weight: bold; font-size: 8pt; font-family: verdana, arial, tahoma, "times new roman"; background-color: #ffd03b; border-style: solid; border-width: 0px 0px 1px 0px; border-color: #000 }
+.leftbox_news
+{
+	border-right: #002e60 1px solid;
+	border-top: #559dcf 1px solid;
+	font-weight: bolder;
+	border-left: #002e60 1px solid;
+	color: white;
+	border-bottom: #002e60 1px solid;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	background-color: #1c64a0;
+	text-align: center;
+	text-decoration: none;
+}
+.article_title   { color: #d73a00; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-bottom: 2px }
+.article_title a:link       { color: #d73a00; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-bottom: 2px }
+.article_title a:visited       { color: #a60900; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-bottom: 2px }
+.article_title a:hover      { color: #ea7c2c; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-bottom: 2px }
+
+.leftbox_news A:link   { color: white; font-weight: bold; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.leftbox_news A:visited   { color: #e4ffe6; font-weight: bold; font-size: 8pt; text-decoration: none }
+.leftbox_news A:hover   { color: #ffec6a; font-weight: bold; font-size: 8pt; text-decoration: none }
+.leftbox_news A:active   { color: #ffec6a; font-weight: bold; font-size: 8pt; text-decoration: none }
+.rightbox_avatar {border: 1px solid #36556D}
+.rightbox_news     { font-weight: bolder; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; background-color: #e6726c; border-style: solid; border-width: 1px; border-color: #f29174 #d5452e #d5452e #d5452e }
+.rightbox_news A:link   { color: white; font-weight: bold; font-size: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.rightbox_news A:visited   { color: #e4ffe6; font-weight: bold; font-size: 8pt; text-decoration: none }
+.rightbox_news A:hover   { color: #ffec6a; font-weight: bold; font-size: 8pt; text-decoration: none }
+.rightbox_news A:active   { color: #ffec6a; font-weight: bold; font-size: 8pt; text-decoration: none }
+.leftbox { font-size: 8pt; font-family: arial; border-style: solid; border-width: 0px 1px 1px 1px; border-color: #3184bd }
+.leftbox_header { color: #fff; font-weight: bold; font-size: 9pt; font-family: verdana, Arial, tahoma, "times new roman"; background-color: #3184bd; border: double 3px #3184bd }
+.sidebar   { background-color: #f1f1f1; border-left: 1px solid #c0c0c0 }
+.main_subtitle         { color: #004175; font-weight: bold; font-size: 10pt; font-family: tahoma, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: underline; padding: 2px 5px 2px 2px }
+.main_title  { color: #004175; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-right: 5px; padding-bottom: 6px; padding-left: 2px }
+.main_title a:link      { color: #004175; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-right: 5px; padding-bottom: 6px; padding-left: 2px }
+.main_title a:visited      { color: black; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-right: 5px; padding-bottom: 6px; padding-left: 2px }
+.main_title a:hover     { color: #4f82ac; font-weight: bold; font-size: 14pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; padding-right: 5px; padding-bottom: 1px; padding-left: 2px }
+/* Special classes */
+.sapeau       { color: #787e83; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Georgia, Times; text-decoration: none; text-align: justify; padding-bottom: 8px }
+.sapeau_box { font-size: 9pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-align: justify; padding-right: 6px; padding-left: 6px }
+.first_box      { background-color: #ffffe9; border: solid 1px #3184bd }
+.first_box_header      { color: #191970; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; padding-top: 3px; padding-bottom: 2px }
+.first_box_header A:link    { color: #191970; font-weight: bold; font-size: 11pt; font-family:  "Times New Roman", Tahoma, Arial, Georgia, Times ; position: relative; left: 2px; padding-top: 3px; padding-bottom: 2px }
+.first_box_header A:visited    { color: #2F4F4F; font-weight: bold; font-size: 11pt; font-family:  "Times New Roman", Tahoma, Arial, Georgia, Times ; position: relative; left: 2px ; padding-top: 3px; padding-bottom: 2px}
+.first_box_header A:hover    { color: #6495ED ; font-weight: bold; font-size: 11pt; font-family:  "Times New Roman", Tahoma, Arial, Georgia, Times; position: relative; left: 2px; padding-top: 3px; padding-bottom: 2px }
+.first_box_header A:active     { color: #6488ed; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Tahoma, Arial, Georgia, Times; padding-top: 3px; padding-bottom: 2px; position: relative; left: 2px }
+.exbox_header_small { color: #fff; font-weight: bold; font-size: 10pt; font-family: Tahoma, "Palatino linotype", "Times new roman", Verdana; background-color: #3184bd }
+.exbox_small { font-size: 8pt; font-family: tahoma; background-color: #e0ecfd; padding-right: 5px; padding-left: 5px; border: solid 1px #3184bd; left: 5px }
+.exbox_small A:link { color: #000; font-size: 8pt; font-family: tahoma; text-decoration: none; padding-right: 5px; padding-left: 5px; left: 5px }
+.exbox_small A:visited { color: #000; font-size: 8pt; font-family: tahoma; text-decoration: none; padding-right: 5px; padding-left: 5px; left: 5px }
+.exbox_small A:hover { color: #006; font-size: 8pt; font-family: tahoma; text-decoration: underline; padding-right: 5px; padding-left: 5px; left: 5px }
+.exbox_small A:active { color: #000; font-size: 8pt; font-family: tahoma; text-decoration: none; padding-right: 5px; padding-left: 5px; left: 5px }
+.info_head { background-color: #e8fdea; border: dashed 1px #2f4f4f }
+.info_altrow { background-color: #e1e1e1 }
+.breaking_news  { color: #00344F; font-size: 9pt; font-family: Arial, Tahoma; text-decoration: none }
+.breaking_news a:link  { color: #000000; font-size: 9pt; font-family: Arial, Tahoma; text-decoration: none }
+.breaking_news a:hover  { color: #4169E1 ; font-size: 9pt; font-family: Arial, Tahoma; text-decoration: underline }
+.breaking_news a:active  { color: #4169E1; font-size: 9pt; font-family: Arial, Tahoma; text-decoration: none }
+.breaking_news a:visited  { color: #00344F; font-size: 9pt; font-family: Arial, Tahoma; text-decoration: none }
+.specialcell  { background-color: #cfecff; border: double 1px #4682b4 } 
+.copyright   { font-size: 8pt; font-family: verdana; background-color: #f5f5f5; border: solid 1px #c0c0c0 }
+.copyright A:link { font-size: 8pt; font-family: verdana; text-decoration: none; background-color: #f5f5f5 }
+.copyright A:visited { font-size: 8pt; font-family: verdana; text-decoration: none; background-color: #f5f5f5 }
+.copyright A:active { font-size: 8pt; font-family: verdana; text-decoration: none; background-color: #f5f5f5 }
+.copyright A:hover { font-size: 8pt; font-family: verdana; text-decoration: underline; background-color: #f5f5f5 }
+.tbflat { BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial}
+.tbflat1 {	FONT-SIZE: 11px; FONT-FAMILY: Arial; color: #6699cc}
+.tbflat2 {	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: xx-small; BORDER-LEFT-COLOR: #ffffff; BORDER-BOTTOM-WIDTH: 0px; BORDER-BOTTOM-COLOR: #ffffff; BORDER-TOP-COLOR: #ffffff; FONT-FAMILY: Verdana; BORDER-RIGHT-WIDTH: 0px; BORDER-RIGHT-COLOR: #ffffff}
+.tbflat3  { font-size: 11px; font-family: Arial,Verdana,Tahoma; background-color: #f2fff4; border: solid 1px #215dc6 }
+.cell { font-family: tahoma; font-size: 10pt; padding-right: 2px; font-weight: bold; letter-spacing: 1px}
+.search_quickbox{ font-family: arial; font-size: 8pt; color:White;}
+.hot_news  { font-size: 9pt; font-family: arial; padding-right: 4px; padding-left: 2px }
+/* Page's style */
+.topbanner_table  { background-color: #d1d1e3 }
+.main_table   { background-color: white; border-top: #a9a9a9; border-right: 1px solid #a9a9a9; border-bottom: #a9a9a9; border-left: #a9a9a9 }
+.quest_zone  { color: #00007c; font-style: italic; font-size: 12pt; font-family: "Times New Roman", Georgia, Times; padding-top: 2px; padding-bottom: 2px; padding-left: 4px;text-align: justify }
+.asker_name { color: #c1476a; font-style: italic; font-weight: bold; font-size: 11pt; font-family: "Times New Roman", Georgia, Times; padding-top: 2px; padding-bottom: 2px; padding-left: 4px }
+
+/* Standard types */
+body	         { font-size: 9pt; font-family: Arial, Verdana, "Palatino linotype", Tahoma; list-style-type: lower-alpha }
+A:link	    { color: #83001e; font-size: 9pt; text-decoration: none }
+A:visited          { color: #000000; font-size: 9pt; text-decoration: none }
+A:hover            { color: #d55f00; font-size: 9pt; text-decoration: underline }
+A:active          { color: #d55f00; font-size: 9pt; text-decoration: underline }
+td                  { color: black; font-size: 9pt; font-family: Arial, "times new roman", Verdana, "Palatino linotype", Tahoma; list-style-type: lower-alpha }

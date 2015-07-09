@@ -1,0 +1,121 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "saovang.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR1             CURSOR  DISCARDABLE     "NORMAL08.CUR"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "&HÖ thèng"
+    BEGIN
+        MENUITEM "&ChÕ ®é OFFLINE",             ID_HETHONG_NOIKETFILENGUON
+        MENUITEM "&ChÕ ®é ONLINE",              ID_HETHONG_NOIKETCAMERA
+        MENUITEM SEPARATOR
+        MENUITEM "&Ghi kÕt qu¶ ra tÖp",         ID_HETHONG_GHIKETQUA
+        MENUITEM SEPARATOR
+        MENUITEM "&Tho¸t khái ch­¬ng tr×nh",    ID_HETHONG_THOAT
+    END
+    POPUP "&Qu¸ tr×nh xö lý"
+    BEGIN
+        MENUITEM "&B¾t ®Çu",                    ID_QUATRINHXULY_BATDAU
+        MENUITEM "&T¹m dõng",                   ID_QUATRINHXULY_TAMDUNG
+        MENUITEM "&KÕt thóc",                   ID_QUATRINHXULY_KETTHUC
+    END
+    POPUP "&KÕt qu¶"
+    BEGIN
+        MENUITEM "&T¸ch ®èi t­îng",             ID_KETQUA_TACHDOITUONG
+        MENUITEM "&§Õm sè ®èi t­îng",           ID_KETQUA_DEMSODOITUONG
+        MENUITEM "&B¸m ®èi t­îng",              ID_KETQUA_BAMDOITUONG
+        MENUITEM SEPARATOR
+        MENUITEM "&KÕt qu¶ toµn bé",            ID_KETQUA_KETQUATOANBO
+    END
+    POPUP "&H­íng dÉn sö dông"
+    BEGIN
+        MENUITEM "&T¸c gi¶",                    ID_HUONGDANSUDUNG_TACGIA
+        MENUITEM "Tµi &liÖu h­íng dÉn",         ID_HUONGDANSUDUNG_TAILIEUHUONGDAN
+
+        MENUITEM SEPARATOR
+        MENUITEM "&C¸c thuËt to¸n chÝnh",       ID_HUONGDANSUDUNG_CACTHUATTOANCHINH
+
+    END
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

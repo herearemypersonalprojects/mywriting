@@ -1,0 +1,40 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+
+int check_filter(char* userAgent, char* command, char *hostname)
+{
+  char navigator[255];
+  char keyword[255];
+  char domain[255];
+
+  /* read configuration file */
+  FILE *f;
+  char line[80];
+
+  f = fopen("filter.txt","r"); 
+  if(f == NULL)
+    {
+      perror("fopen() failed");
+      return 0;
+    }
+
+  fclose(f);
+
+  /* Block IE */
+  if ( strstr( (char*) userAgent,"IE") != NULL)
+    {
+      return 1;
+    }
+
+  /* Block some keywords */
+  if ( strstr( (char*) command, "sex") != NULL)
+	    return 1;
+
+  /* Block some pages */
+  if ( strstr( (char*) command, "info.com") != NULL)
+	    return 1;
+
+  return 0;
+}

@@ -1,0 +1,710 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>Homepage of Le Quoc Anh - Project: Applying Computer Vision in Traffic Surveillance System</title>
+
+
+
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style type="text/css">
+  #g_title p, #g_footer p, #g_description p {
+    margin: 0;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	Browser Fixes
+  	-- -- -- -- -- -- --
+  	
+  	This file uses CSS filtering methods to fix various
+  	layout bugs.
+
+  	Each of the following three imported files is a 
+  	separate, browser-specific CSS file that keeps all 
+  	hacks out of the main style sheet.
+  	
+  	Over time, as supporting these browsers no longer
+  	remains a priority, cleaning up the hacks is as
+  	easy as deleting the @import statement below, or
+  	simply no longer linking this file from the HTML.
+  	
+  */
+
+  /* 
+    fix ie6 "peekaboo bug" using the "holly hack". 
+    Note, this style only gets applied to ie6
+  */
+  * html .wrapper {
+    height: 0.1%;
+  }
+
+  /* 
+   * IE5 mac - overrides the IE/Win hack 
+   */
+
+  /*\*//*/
+
+  * html #threecolumn div {
+  	height: auto;
+  }
+
+  /**/
+
+
+  /* 
+   * IE5/Win-specific CSS -ensures #container wraps all content on window resize
+   */
+
+  @media tty {
+   i{content:"\";/*" "*/}} * html #container { height: 1%; } /*";}
+  }/* */
+  /* Styling for editable elements. Eventually, this will be part of the style. */
+  .editable {
+    border: 1px dashed blue;
+  }
+  
+  #footer {
+    clear: both;
+  }
+  
+  /* Extra divs hidden by default. The custom CSS can override this though */
+  #extraDiv1, #extraDiv2, #extraDiv3, #extraDiv4, #extraDiv5, #extraDiv6 {
+    display: none;
+  }
+  
+  a img, :link img, :visited img {border: none;}
+
+
+  body {
+    text-align: center;
+  }
+  #container {
+    width: 718px;
+    text-align: left;
+    margin: 0 auto;
+  }
+  /** BEGIN CUSTOM SKIN **/
+  /*
+
+  	-- -- -- -- -- -- --
+  	Base CSS
+  	-- -- -- -- -- -- --
+  	
+  	This file simply removes default styling on most HTML elements in 
+  	order to reduce the need to later override them.
+  	
+  */
+
+  h1, h2, h3, h4, h5, h6, pre, code, p {font-size: 1em;}
+  dl, li, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input {margin: 0; padding: 0;}
+  a img, :link img, :visited img {border: none;}
+  address {font-style: normal;}/*
+
+  	-- -- -- -- -- -- --
+  	Type Scheme: Deco
+  	-- -- -- -- -- -- --
+  	
+  */
+
+  body {
+  	font: 76% Verdana, sans-serif;
+  }	
+
+  h1, h2, h3, h4, h5, h6, p.description {
+  	font-family: "Trebuchet MS", Trebuchet, sans-serif;
+  }
+  h1 {
+  	font-size: 3em;
+  	font-weight: bold;
+  	letter-spacing: 2px;
+  }
+  h2 {
+  	font-size: 2em;
+  	font-weight: normal;
+  }
+  h3 {
+  	font-size: 1.5em;
+  }
+  h4 {
+  	font-size: 1.2em;
+  	letter-spacing: 0.2em;
+  }
+  h5 {
+  	font-size: 1.2em;
+  }
+  h6 {
+  	font-size: 1em;
+  	font-weight: bold;
+  }
+
+  p, td {
+  	line-height: 1.8em;
+  }
+  code, kbd {
+  	font-size: 1.25em;
+  }/*
+
+  	-- -- -- -- -- -- --
+  	STYLE: Chemise
+  	-- -- -- -- -- -- --
+
+  */
+
+
+
+
+  /* ie6win */
+
+  #footer {
+  	height: 1%;
+  }
+
+  /* ie5mac */
+
+  /*\*//*/
+  #footer { height: auto; }
+  /**/
+
+  /* ie5 win */
+  @media tty {
+   i{content:"\";/*" "*/}} td, * html th { font-size: 0.8em; } h1 { height: 1%; } /*";}
+  }/* */
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  a:link {
+  	padding: 0 2px;
+  }
+  body {
+  	font: 80% "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  }
+  blockquote {
+          margin: 1em 1em;
+          font-style: italic;
+  }
+  caption {
+  	font-size: 1em;
+  	text-align: left;
+  	padding: 4px 6px;
+  }
+  	font-weight: bold;
+  }
+  dd {
+  	margin: 0 0 1em 1em;
+  }
+  hr {
+  	color: #222;
+  	background: #222;
+  	border-color: #222;
+  }
+  td {
+  	padding: 2px 5px;
+  	vertical-align: top;
+  }
+  th {
+  	font-size: 1em;
+  	padding: 2px 5px;
+  	text-align: left;
+  	border-top: solid 1px #000;
+  	border-right: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+
+  td p {
+  	margin-top: 0;
+  }
+
+  ul li {
+  	margin-bottom: 0.8em;
+  }
+  ol li {
+  	list-style: lower-alpha;
+  	margin-left: 2em;
+  	margin-bottom: 0.8em;
+  }
+
+
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  }
+
+  #header {
+  	border-bottom: solid 1px #000;
+  	position: relative;
+  	margin: 0;
+  	margin-bottom: 10px;
+  }
+  p.description {
+  	font-size: 1em;
+  	margin: 0;
+  	padding: 0.5em 15px;
+  	border-bottom: solid 1px #000;
+  }
+  #g_description {
+  	margin: 1em 0 1em 15px;
+  }
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  p {
+  	margin: 1em 0;
+  	line-height: 1.5;
+  }
+  td, td p {
+  	line-height: 1.5;
+  }
+  h1, h2, h3, h4, h5, h6 {
+  	font-family: "Trebuchet MS", arial, sans-serif;
+  }
+  h1 {
+  	text-align: left;
+  	font-weight: normal;
+  	font-size: 2em;
+  	font-weight: bold;
+  	line-height: 1.5em;
+  	padding: 30px 20px 10px 15px;
+  	margin: 0;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  }
+  h2 {
+  	font-size: 1.5em;
+  	color: #000;
+  	background: url('/-/include/style/chemise/slate/h2.gif') no-repeat left bottom;; margin-left:0; margin-right:0; margin-top:0; margin-bottom:1em
+
+  }
+  h3 {
+  	font-size: 1.2em;
+  	padding: 4px 10px;
+  	margin-top: 0.5em;
+  }
+  h4 {
+  	margin-top: 0.6em;
+  	margin-left: 0.2em;
+  	font-size: 0.9em;
+  }
+  h5 {
+  	padding-left: 10px;
+  	font-size: 1em;
+  }
+  h6 {
+  	font-size: 0.9em;
+  }
+
+  a:link {
+     	color: #f6952e;
+  }
+  a:hover {
+  	background-color: #dbd4a6;
+  }
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	margin-bottom: 2em;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	font-weight: normal;
+  	font-size: 1.3em;
+  	border-top: solid 1px #000;
+  	margin-bottom: 0.5em;
+  }
+  #sidebar h4, #sidebar h5, #sidebar h6,
+  #sidebar-alternate h4, #sidebar-alternate h5, #sidebar-alternate h6,
+  #sidebar p, #sidebar-alternate p {
+  	margin-left: 10px;
+  	margin-right: 20px;
+  }
+
+  #sidebar li, #sidebar-alternate li {
+  	margin-bottom: 0.8em;
+  }
+  #sidebar .links {
+  	margin-bottom: 2em;
+  }
+  #adsense {
+  	text-align: center;
+  }
+
+
+  .editable {
+  	border: dashed 1px #666;
+  }
+
+
+
+  /* layout patches
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #sidebar {
+  	float: left;
+  }
+  #twocolumn-liquid-right #sidebar {
+  	float: right;
+  }
+  #threecolumn #sidebar-alternate {
+  	float: right;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	padding: 1px 15px;
+  	border-top: solid 1px #000;
+  	border-bottom: solid 1px #000;
+  	clear: both;
+  }
+  #footer hr {
+  	display: none;
+  }
+
+
+
+  /* fixed 1 column
+  ----------------------------------------------- */
+  #onecolumn #main-content .wrapper {
+  	margin: 20px;
+  }
+
+
+  /* fixed left 2 column
+  ----------------------------------------------- */
+  #twocolumn-left #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+
+
+  /* fixed right 2 column
+  ----------------------------------------------- */
+  #twocolumn-right #main-content .wrapper {
+  	padding: 0 20px;
+  }
+
+  /* fixed right 3 column
+  ----------------------------------------------- */
+  #threecolumn #main-content .wrapper {
+  	padding: 0 20px;
+  }
+  #threecolumn #sidebar h3, #threecolumn #sidebar-alternate h3 {
+  	margin-bottom: 0;
+  }
+
+  /* liquid left 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-left #main-content .wrapper {
+  	margin: 0 20px;
+  }
+
+
+  /* liquid right 2 column
+  ----------------------------------------------- */
+  #twocolumn-liquid-right #main-content .wrapper {
+  	margin: 0 20px;
+  }
+  /*
+
+  	-- -- -- -- -- -- --
+  	COLOR SCHEME: Asp
+  	-- -- -- -- -- -- --
+
+  */
+
+
+  /* Basic HTML style
+  ----------------------------------------------- */
+  body {
+  	color: #1C2023;
+  	background: #F4F4F4 url('/-/includes/style/chemise/asp/body.gif') repeat-y center top;
+  }
+  caption {
+  	color: #fff;
+  	background: #2AA63B url('/-/includes/style/chemise/asp/h3.gif');
+  }
+  code, kbd {
+  	color: #139522;
+  }
+  dt {
+  	color: #139522;
+  }
+  hr {
+  	background: #604829;
+  	border-color: #604829;
+  	border-top: none;
+  }
+  th {
+  	color: #fff;
+  	background: #001474 url('/-/includes/style/chemise/asp/th.gif') repeat-x 0 0;
+  	border-top: 1px solid #63AFDF;
+  	border-right: 1px solid #002797;
+  	border-bottom: 1px solid #002797;
+  }
+
+
+
+
+
+
+
+
+  /* Header
+  ----------------------------------------------- */
+  #container {
+  	background: #fff url('/-/includes/style/chemise/asp/container.gif') repeat-x;
+  }
+
+  #header {
+  	border-bottom: solid 1px #7DA9C5;
+  }
+  p.description {
+  	color: #85C0E5;
+  	background: #0039A0 url('/-/includes/style/chemise/asp/description.gif') repeat-x 0 0;
+  	border-bottom: 1px solid #002797;
+  }
+
+
+
+  /* Custom font definitions
+  ----------------------------------------------- */
+  h1 {
+  	color: #fff;
+  	background: #55C76B url('/-/includes/style/chemise/asp/h1.gif') repeat-x left bottom;
+  	border-top: 1px solid #9EDFAA;
+  	border-bottom: 1px solid #63AFDF;
+  }
+  h2 {
+  	color: #0D83CE;
+  	background: url('/-/includes/style/chemise/asp/h2.gif') no-repeat left bottom;
+  }
+  h3 {
+  	color: #fff;
+  	background: #2AA63B url('/-/includes/style/chemise/asp/h3.gif');
+  }
+  h4 {
+  	color: #0D83CE;
+  	border-bottom: dotted 1px #7F9CCF;
+  }
+  h5 {
+  	color: #139522;
+  	background: url('/-/includes/style/chemise/asp/h5.gif') no-repeat left center;
+  }
+
+
+  /* sidebar
+  ----------------------------------------------- */
+  #sidebar, #sidebar-alternate {
+  	background: url('/-/includes/style/chemise/asp/sidebar.gif') repeat-x 0 0;
+  }
+  #sidebar h3, #sidebar-alternate h3 {
+  	color: #0D83CE;
+  	background: #E5E5E5 url('/-/includes/style/chemise/asp/sidebar-h3.gif') repeat-x left top;
+  	border-top: 1px solid #ddd;
+  }
+
+  .editable {
+  	border: dashed 1px #f00;
+  }
+
+
+
+  /* Footer
+  ----------------------------------------------- */
+  #footer {
+  	color: #fff;
+  	background: #55C76B url('/-/includes/style/chemise/asp/h1.gif') repeat-x left bottom;
+  	border-top: 1px solid #9EDFAA;
+  	border-bottom: 1px solid #0B8218;
+  }
+
+  /** END CUSTOM SKIN **/
+  </style><!-- Hack to avoid flash of unstyled content in IE -->
+
+  
+  <script> </script><script charset="utf-8" id="injection_graph_func" src="index_files/injection_graph_func.js"></script></head><body id="onecolumn">
+  <div id="container">
+    <div class="wrapper">
+      <div id="header">
+        <div class="wrapper">
+          <h1 id="page-title">&nbsp;</h1>
+          <div id="g_title"><p style="text-align: center;">
+            <font face="Verdana" size="4">Project: Applying Computer Vision in Traffic Surveillance System</font></p></div>&nbsp;&nbsp; </h1>
+          <form method="POST" action="--WEBBOT-SELF--">
+            <!--webbot bot="SaveResults" U-File="fpweb:///_private/form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" --><p style="text-align: center">
+            <font size="3" face="Arial"><a href="vntraffic.htm">Read in 
+            vietnamese here</a></font></p>
+          </form>
+          <div style="clear: both;"></div>
+          <p class="description">&nbsp;</p><div id="g_description"><p>Summary:
+The main functions of this system are solving problems of counting the
+number of vehicles passing on a road during an interval time, as well
+as the problems of vehicles classification and estimating the speed of
+the observed traffic flow from traffic scenes acquired by a camera in
+real-time.</p></div>
+          <div style="clear: both;">
+            <p style="text-align: center"><a href="eng_cacbaocao.html">This 
+            report was presented at the sixth Vietnam Conference on Automation</a></div>
+        </div>
+      </div>
+      <!-- /editable --><!-- /wrapper --><!-- /header -->
+      <div id="main-content">
+        
+        <div class="wrapper">
+          <div class="content-item">
+            <div id="g_body" style="width: 937; height: 2754"><p><font color="#000099" size="4"></font>&nbsp;</p>
+<p class="separator" style="clear: both; text-align: center;"><a style="border-width: 0px; margin-left: 1em; margin-right: 1em; background-color: transparent;" href="http://quocanh263.googlepages.com/image002.jpg/image002-full.jpg"><img style="" src="index_files/image002-custom.jpg" galleryimg="no" wl="1150" height="450" width="600"></a></p>
+<p><font color="#000099" size="4"><a href="http://quocanh263.googlepages.com/">1. Download now</a><br>
+</font></p>
+<p><font color="#000099" size="4"><a href="http://sourceforge.net/projects/vntraffic">2. Sources codes <br>
+</a></font></p><p><font color="#000099" size="4">3. Requirements <br>
+</font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);"><span style="font-weight: bold;">Platform requirements</span><br>
+</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">- Operating System: WindowsXP or above</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">- Computer:&nbsp; Pentium IV, speed 2.4 Ghz, RAM 256 MB, monitoring resolution 800x600</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">- Device: Digital Camera, speed &gt;=25frames/s, connected to computer by USB port<br>
+</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">-&nbsp; Other: Microsoft DirectX 9.0<span style="font-weight: bold;">&nbsp;</span></span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);"><span style="font-weight: bold;">Installation instructions</span>&nbsp;</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);"><span style="font-weight: bold;"></span>- Download the following file VnTraffic.rar</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">- Unzip</span></font></font></p><p><font color="#000099" size="4"><font size="2"><span style="color: rgb(0, 0, 0);">- Run the Traffic.exe file<br>
+</span></font></font></p>
+<p><font color="#000099" size="4"><a href="http://quocanh263.googlepages.com/homepage">4. About author</a></font></p>
+<p><font color="#000099" size="4">5. Introduction</font></p>
+<p>&nbsp;<span lang="EN-GB"><font color="#000000" face="Times New Roman" size="3">In
+order to solve the problem of traffic management, it is indispensable
+to have all information concerning the density as well as the speed of
+various kinds of transport that take part on the way. In some countries
+many kinds of sensor technology are applied to extract such
+information, for example rada, microwaves, tubes or loop detectors,...
+and more modern, the computer vision. This modern way appears to be
+extremely active, not necessary to interfere and is influenced by
+infrastructure factors like the road, the sewerage, so on so forth.</font></span></p>
+<p class="bodytext" style="margin: 0in 0in 6pt;"><font size="3"><font color="#000000"><font face="Times New Roman"><span lang="EN-GB">What a pity that none of these sensor systems can be applied in the situation in </span><st1:country-region><st1:place><span lang="EN-GB">Vietnam</span></st1:place></st1:country-region><span lang="EN-GB">,
+except at the road tax station. The reason for this is the
+characteristics of Vietnamese traffic system: the vehicles
+participating on road do not move on the exact lane with a specific
+distance and the number of motobike and bike are many times more than
+number of car, bus or van. This explains as well<span style="">&nbsp; </span>why some software of developed countries can not be taken in used in </span><st1:country-region><st1:place><span lang="EN-GB">Vietnam</span></st1:place></st1:country-region><span lang="EN-GB">.</span></font></font></font></p>
+<p class="bodytext" style="margin: 0in 0in 6pt;"><span lang="EN-GB"><font color="#000000" face="Times New Roman" size="3">The
+purpose of this&nbsp;project is to&nbsp;build a vision-based traffic
+monitoring system for Vietnam only which allows, in the first place,
+opening an enormous potentiality in establishing the equipment of
+vehicle counting and identification, and in the other place solving the
+problem of traffic management in Vietnam.</font></span></p>
+<p><font color="#000099" size="4">6. System Overview</font></p><font color="#000099" size="4">
+</font><p class="bodytext" style="margin: 0in 0in 6pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="3">The
+application of computer vision in real time into the traffic
+surveillance bases on the helped by computer that perform the
+algorithms of image processing to extract the information necessary
+from traffic scenes acquired with cameras.</font></font></span></p>
+<p class="bodytext" style="border: medium none ; margin: 0in 0in 6pt;"><font color="#000099" size="4"><a style="border-width: 0px; clear: left; float: left; margin-bottom: 1em; margin-right: 1em; background-color: transparent;" href="http://quocanh263.googlepages.com/trafficmonitoring.JPG/trafficmonitoring-full.jpg"><img style="" src="index_files/trafficmonitoring-custom.jpg" galleryimg="no" wl="565" height="272" width="334"></a><v:group id="_x0000_s1043" style="margin-top: 13.15pt; z-index: -1; left: 0px; margin-left: 0px; width: 270pt; position: absolute; height: 177.3pt; text-align: left;" coordorigin="1701,4501" coordsize="5400,3546" wrapcoords="-60 0 -60 19953 21300 19953 21300 0 -60 0"><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></o:lock></v:shapetype><v:shape id="_x0000_s1044" style="left: 1701px; width: 5311px; position: absolute; top: 4501px; height: 3295px;" type="#_x0000_t75"><v:imagedata src="file:///C:%5CDOCUME%7E1%5CQUOCAN%7E1%5CLOCALS%7E1%5CTemp%5Cmsohtml1%5C01%5Cclip_image001.jpg" o:title="YVSM1"><font color="#000000" face="Times New Roman" size="3"></font></v:imagedata></v:shape><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe"><v:stroke joinstyle="miter"></v:stroke><v:path gradientshapeok="t" o:connecttype="rect"></v:path></v:shapetype><v:shape id="_x0000_s1045" style="left: 1701px; width: 5400px; position: absolute; top: 7564px; height: 483px;" filled="f" stroked="f" type="#_x0000_t202"><v:textbox style=""> 
+</v:textbox></v:shape></v:group><table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="border-color: rgb(236, 233, 216); background-color: transparent;">
+<div>
+<p class="FigureCaption" style="margin: 0in 0in 0pt;"><span lang="EN-GB"><font color="#000000" face="Times New Roman" size="2">Figure 1. Model of vision-based traffic monitoring system</font></span></p></div></td></tr></tbody></table><w:wrap type="tight"></w:wrap><span lang="EN-GB"><font color="#000000" face="Times New Roman" size="3">The
+information up to date extracted in real time will facilitate traffic
+management such as vehicle count, vehicle speed, vehicle path, vehicle
+density, and vehicle classification. </font></span></font></p>
+<p class="bodytext" style="border: medium none ; margin: 0in 0in 6pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="3">The
+general model of vision-based traffic surveillance system is
+illustrated in figure 1. Such traffic surveillance system will include
+some step of processing: pre-image processing, detection of vehicles in
+the scope of camera surveillance, segmentation vehicles from the
+background, classification and tracking vehicles. The process steps are
+presented in the figure below (Figure 2):</font></font></span></p>
+<p class="separator" style="clear: both; text-align: center;"><font color="#000099" size="4"><a style="border-width: 0px; margin-left: 1em; margin-right: 1em; background-color: transparent;" href="http://quocanh263.googlepages.com/traffic2.JPG/traffic2-full.jpg"><img style="" src="index_files/traffic2-custom.jpg" galleryimg="no" wl="2113" height="133" width="618"></a></font></p>
+<p class="bodytext" style="border: medium none ; margin: 0in 0in 6pt;"><font color="#000099" size="4"><b style=""><span lang="EN-GB"><o:p><font color="#000000" face="Times New Roman" size="3">&nbsp;</font></o:p></span></b><span lang="EN-GB"><font color="#000000" face="Times New Roman" size="3">The
+CCD camera provides live video which is digitized and fed into the
+computer which may well contain some special purpose hardware to cope
+which the extremely high data rate (~10 MBytes/s). Computer vison
+algorithms then perform vehicle detection, segmentation, tracking and
+classification. Such a single camera is a able to monitor more than one
+lane of traffic along several hundred metres of road. A vision system
+could theoretically have the same powers of observation as a human
+observer but without the detrimental effects of tiredness or boredom.
+In fact, large number of cameras are already installed on road networks
+for surveillance purposes in the other developed contries.</font></span></font></p>
+<p><span lang="EN-GB"><font color="#000099" size="4">7. Vehicle Detection and Segmentation</font></span></p>
+<p><span lang="EN-GB"><font color="#000099" size="4">8. Vehicle Classification</font></span></p>
+<p><span lang="EN-GB"><font color="#000099" size="4">9. Vehicle Tracking</font></span></p>
+<p><span lang="EN-GB"><font color="#000099" size="4">10. References</font></span><span lang="EN-GB"></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[1]<span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span>Belle L.<span style="">&nbsp; </span>Tseng, Ching-Yung Lin and John Smith, <i>Real-time Video Surveillance for Traffic Monitoring using Virtual Line </i>Analysis,<span style="">&nbsp; </span>Proc. IEEE International Conference on Multimedia and Expos, Switzerland, August 2002.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[2]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>R. Cucchiara, A. Prati, R. Vezzani, <i>Real Time Motion Segmentation From Moving Cameras</i>, in<i> </i>Real-Time Imaging (2004), vol. 10, n. 3, p. 127-143.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[3]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>R. Cucchiara R., A. Prati, R. Vezzani, <i>Object Segmentation in Videos From Moving Camera with MRFs on Color and Motion Features</i>,
+in Proceedings of IEEE-CS Conference on Computer Vision and Pattern
+Recognition (IEEE CVPR June 2003), Madison, Wisconsin, USA, vol. 1,
+p405-410.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[4]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>R. Cucchiar, C. Grana, A. Prati, <i>Detecting Moving Objects and their Shadows: an evaluation with the PET2002 dataset</i>,
+Proceeding of Third IEEE International Workshop on Performance
+Evaluation of Tracking and Surveillance (PETS 2002), conj. with ECCV
+May 2002, Copenhagen, Denmark, p18-25.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[5]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>Christopher John SetChell, <i>Applications<span style="">&nbsp; </span>of Computer Vision to Road-Traffic Monitoring</i>,
+PhD thesis in the Faculty of Engineering, Department of Electrical and
+Electronic Engineering, University of Bristol (September 1997).</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[6]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>Cohen and G. Medioni, <i>Detecting and tracking moving objects in video surveillance</i>, IEEE Conference on Computer Vision and Pattern Recognition (1999).</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><font color="#000099" size="4"><font size="2"><font color="#000000"><font face="Times New Roman"><span lang="EN-GB">[7]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>F.J John, <i>Traffic monitoring in </i></span><st1:country-region><st1:place><i><span lang="EN-GB">Great Britain</span></i></st1:place></st1:country-region><span lang="EN-GB">, Second International Conference on Road Traffic Monitoring (1989), p. 1-4.</span></font></font></font></font></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[8]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>C. Koren, J. Schvab, <i style="">Traffic survey system in Hungary</i>, Second International Conference on Road Traffic Monitoring (1989), p. 10-13.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#000000" face="Times New Roman" size="2">[9]<b style=""><span style="">&nbsp;&nbsp;&nbsp;&nbsp; </span></b>S.C. Lee, <i style="">Road Traffic Monitoring in Hong Kong</i>, Second International Conference on Road Traffic Monitoring (1989), p. 14-18.</font></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><!--StartFragment --><span lang="EN-GB"><font color="#000099" size="4"><font face="Times New Roman"><font color="#333333"><font size="1">[10]<b style=""><span style=""><a href="">&nbsp;</a></span></b></font></font></font></font></span><font color="#000099" size="4"><a href=""><font color="#333333" size="1">&nbsp;www.coltech.vnu.edu.vn/yvsm05/yvsm_final_program.pdf </font></a></font></span></p>
+<p class="Reference" style="margin: 3pt 0in 0pt 22.7pt;"><span lang="EN-GB"><font color="#000099" size="4"><font color="#333333"><font size="1"><span lang="EN-GB"><font face="Times New Roman">[11]<b style=""><span style=""><a href="">&nbsp;</a></span></b></font></span>&nbsp;</font><a href=""><font size="1">www.vica.vnn.vn</font></a></font></font></span></p>
+<p><font color="#000099" size="4">&nbsp;11. Others</font></p>
+<p>&nbsp;</p>
+<p><font size="3" face="Times New Roman">
+<span style="font-weight: bold; color: rgb(255, 0, 0);">
+<a href="http://www.mitec.com.vn/en/news/data/scientifics/inews.2006-10-06.3756875966">
+<span class="highlightedSearchTerm">Hệ</span>
+<span class="highlightedSearchTerm">thống</span>
+<span class="highlightedSearchTerm">giám</span>
+<span class="highlightedSearchTerm">sát</span>
+<span class="highlightedSearchTerm">giao</span>
+<span class="highlightedSearchTerm">thông</span>
+<span class="highlightedSearchTerm">tự</span> động</a></span></font></p>
+<p><font color="#000099" size="4">&nbsp;<a class="l" href="http://www.vnn.vn/cntt/2006/01/528304/"><font color="#0000ff" face="arial,sans-serif" size="1">VietNamNet - Trí tuệ Việt Nam 2005: "Sáng tạo để thay thế nhập khẩu"</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E50E5/"><font color="#0000ff" face="arial,sans-serif" size="1">VnExpress - Du thi TTVN 2005: Giai phap giam sat <b>giao</b> thong</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.vnpost.dgpt.gov.vn/bao_2005/so52/chuyende/t9b1.htm"><font face="arial,sans-serif" size="1">Diem mat anh tai</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.ttvn.com.vn/Uploaded/Administrator/13ck.doc"><font color="#0000ff" face="arial,sans-serif" size="1">Danh sách 13 sản phẩm vào chung khảo “Trí tuệ Việt Nam 2005”</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp; </font><a href="http://www.ttvn.com.vn/vi-VN/tintuc/tin-baochi/2006/1/430.ttvn"><font face="arial,sans-serif" size="1">http://www.ttvn.com.vn/vi-VN/tintuc/tin-baochi/2006/1/430.ttvn</font></a></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://vnexpress.net/Vietnam/Vi-tinh/2005/12/3B9E4DD3/"><font color="#0000ff" face="arial,sans-serif" size="1">VnExpress - Vong chung khao TTVN 2005 co 13 san pham</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.vnn.vn/cntt/2005/12/520434/"><font color="#0000ff" face="arial,sans-serif" size="1">VietNamNet - Trí tuệ VN 2005: Các sản phẩm có độ hoàn thiện cao</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font size="1">&nbsp;</font><a class="l" href="http://www.khoahoc.com.vn/view.asp?Cat_ID=2&amp;news_id=1991"><font color="#0000ff"><font size="1"><font face="arial,sans-serif">KhoaHoc.com.vn: Trí tuệ Việt Nam 2005: Các sản phẩm đều ở mức hoàn <b></b></font></font></font></a></font></p>
+<p><font color="#000099" size="4"><a href="http://sokhoahoccn.angiang.gov.vn/xemnoidung.asp?maid=180%20%20%20%20%20&amp;page=7"><font face="arial,sans-serif" size="1">http://sokhoahoccn.angiang.gov.vn/xemnoidung.asp?maid=180%20%20%20%20%20&amp;page=7</font></a></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.vista.gov.vn/pls/portal/url/ITEM/0969547404E2D84EE040A8C005017D87"><font color="#0000ff" face="arial,sans-serif" size="1">Trao giải thưởng Trí tuệ Việt Nam 2005</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><font color="#000099" size="4"><a href="http://www.tnvn.gov.vn/?page=109&amp;nid=1449"><font face="arial,sans-serif" size="1">http://www.tnvn.gov.vn/?page=109&amp;nid=1449</font></a></font></p>
+<p><font color="#000099" size="4"><a href="http://www.xahoithongtin.com.vn/index.asp?ID=51&amp;SubjectID=5726"><font face="arial,sans-serif" size="1">http://www.xahoithongtin.com.vn/index.asp?ID=51&amp;SubjectID=5726</font></a></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.thanhnien.com.vn/CNTT/2006/1/2/134342.tno"><font color="#0000ff"><font size="1"><font face="arial,sans-serif">Thanh Nien Online | Cuộc thi Trí tuệ Việt Nam 2005: Giải nhất <b>...</b></font></font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;<!--StartFragment --> </font><a class="l" href="http://vinhphucdost.gov.vn/default.asp?tablename=W000000040&amp;key=_000002CED&amp;PageNum=8"><font color="#0000ff" face="arial,sans-serif" size="1">So Khoa hoc &amp; Cong nghe Vinh Phuc</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.noivuqnam.gov.vn/index.php?option=content&amp;task=view&amp;id=1746&amp;Itemid="><font color="#0000ff" face="arial,sans-serif" size="1">QUANGNAM Posts &amp; Telecommunications</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.ttvn.com.vn/vi-VN/tintuc/tin-baochi/2006/1/428.ttvn"><font face="arial,sans-serif" size="1">Trí tuệ Việt Nam | Vườn ươm và... rừng! - Vuon uom va... rung!</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.ttvn.com.vn/vi-VN/tintuc/tin-baochi/2005/12/418.ttvn"><font color="#0000ff"><font size="1"><font face="arial,sans-serif">Trí tuệ Việt Nam | Chuẩn bị cho thời khắc quyết định - Chuan bi <b>...</b></font></font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://enews.agu.edu.vn/index.php?act=VIEW&amp;a=1206"><font color="#0000ff"><font size="1"><font face="arial,sans-serif"><b>Báo</b> Điện Tử Đại Học An Giang</font></font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.bcvt.danang.gov.vn/dpt.do?mod=3&amp;id_cm=/ttcn/cntt&amp;id_bt=2005/12/69"><font color="#0000ff" face="arial,sans-serif" size="1">.<font face="arial,sans-serif">:: Sở Bưu Chính Viễn Thông - TP Đà Nẵng ::.</font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.dongnai.gov.vn/thong_tin_KTXH/Khoa_hoc_cong_nghe/lelan20060218_B1"><font color="#0000ff"><font size="1"><font face="arial,sans-serif">Trang web tỉnh Đồng Nai - 9 sản phẩm của Việt Nam tham gia Giải <b>...</b></font></font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.ncseif.gov.vn/Default.aspx?mod=News&amp;cat=119&amp;nid=1492"><font color="#0000ff" face="arial,sans-serif" size="1">National Center for Socio-Economic Information &amp; Forecast</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.khoahoc.com.vn/view.asp?Cat_ID=14&amp;news_id=3555"><font color="#0000ff"><font size="1"><font face="arial,sans-serif">KhoaHoc . com . vn : Cúp vàng Giải thưởng APICTA - Khoa học và Tri <b>...</b></font></font></font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p><!--StartFragment --><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font><a class="l" href="http://www.dost-dongnai.gov.vn/chuyenmuc.asp?cat=2&amp;itm=22&amp;idd=642"><font color="#0000ff" face="arial,sans-serif" size="1">Tập san khoa học và Công nghệ</font></a><font face="arial,sans-serif" size="1"> </font></font></p>
+<p class="separator" style="border: medium none ; clear: both; text-align: center;">&nbsp;</p>
+<p style="border: medium none ;"><font color="#000099" size="4"><font face="arial,sans-serif" size="1">&nbsp;</font></font></p>
+            </div></div>
+          <div style="clear: both;"></div>
+        </div>
+      </div>
+      <!-- /wrapper --><!-- /main-content -->
+      <div id="footer"><div class="wrapper">
+        <hr>
+        <p></p><div id="g_footer"><p style="text-align: center;">Last updated by <a href="http://quocanh263.googlepages.com/homepage">Quoc Anh</a>: 23 August 2006</p></div>
+        <div style="clear: both;"></div>
+      </div></div>
+      <!-- /wrapper --><!-- /footer -->
+    </div>
+  </div>
+<!-- /wrapper --><!-- /container -->
+
+<div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div>
+<div id="extraDiv3"><span></span></div><div id="extraDiv4"><span></span></div>
+<div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
+
+</body><script type="text/javascript"><!--
+function __RP_Callback_Helper(str, strCallbackEvent, splitSize, func){var event = null;if (strCallbackEvent){event = document.createEvent('Events');event.initEvent(strCallbackEvent, true, true);}if (str && str.length > 0){var splitList = str.split('|');var strCompare = str;if (splitList.length == splitSize)strCompare = splitList[splitSize-1];var pluginList = document.plugins;for (var count = 0; count < pluginList.length; count++){var sSrc = '';if (pluginList[count] && pluginList[count].src)sSrc = pluginList[count].src;if (strCompare.length >= sSrc.length){if (strCompare.indexOf(sSrc) != -1){func(str, count, pluginList, splitList);break;}}}}if (strCallbackEvent)document.body.dispatchEvent(event);}function __RP_Coord_Callback(str){var func = function(str, index, pluginList, splitList){pluginList[index].__RP_Coord_Callback = str;pluginList[index].__RP_Coord_Callback_Left = splitList[0];pluginList[index].__RP_Coord_Callback_Top = splitList[1];pluginList[index].__RP_Coord_Callback_Right = splitList[2];pluginList[index].__RP_Coord_Callback_Bottom = splitList[3];};__RP_Callback_Helper(str, 'rp-js-coord-callback', 5, func);}function __RP_Url_Callback(str){var func = function(str, index, pluginList, splitList){pluginList[index].__RP_Url_Callback = str;pluginList[index].__RP_Url_Callback_Vid = splitList[0];pluginList[index].__RP_Url_Callback_Parent = splitList[1];};__RP_Callback_Helper(str, 'rp-js-url-callback', 3, func);}function __RP_TotalBytes_Callback(str){var func = function(str, index, pluginList, splitList){pluginList[index].__RP_TotalBytes_Callback = str;pluginList[index].__RP_TotalBytes_Callback_Bytes = splitList[0];};__RP_Callback_Helper(str, null, 2, func);}function __RP_Connection_Callback(str){var func = function(str, index, pluginList, splitList){pluginList[index].__RP_Connection_Callback = str;pluginList[index].__RP_Connection_Callback_Url = splitList[0];};__RP_Callback_Helper(str, null, 2, func);}
+//--></script></html>

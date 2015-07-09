@@ -1,0 +1,117 @@
+.bartext {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana
+}
+.barcolor {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; BACKGROUND-COLOR: #9999b4
+}
+.barcolor2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #cc0066; BACKGROUND-COLOR: #c0c0c0
+}
+.barcolor3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #cc0066; BACKGROUND-COLOR: #b6d8e0
+}
+.infocolor {
+	FONT-SIZE: 8pt; COLOR: #000080; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #dedee6
+}
+.infocolor2 {
+	FONT-SIZE: 8pt; COLOR: #cc0066; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #dfe4ea
+}
+.infocolor3 {
+	FONT-SIZE: 8pt; COLOR: #cc0066; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #fff9f4
+}
+.adminlogin {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #dedee6
+}
+.welcome {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana
+}
+.polled {
+	FONT-SIZE: 8pt; COLOR: #5e5019; FONT-FAMILY: Tahoma, Verdana
+}
+.tb_news {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.memberlist {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.dbpost {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.desc {
+	FONT-SIZE: 8pt; COLOR: #999999; FONT-FAMILY: Tahoma, Verdana
+}
+.intro {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Tahoma, Verdana
+}
+.showpage {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana
+}
+.vietkey {
+	FONT-SIZE: 8pt; COLOR: #cc0066; FONT-FAMILY: Tahoma, Verdana
+}
+.poll {
+	FONT-SIZE: 10pt; COLOR: #cc0066; FONT-FAMILY: Tahoma, Verdana
+}
+.subject {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #b2581d; FONT-FAMILY: Tahoma, Verdana
+}
+.menutext {
+	FONT-SIZE: 10px; COLOR: #ffffff
+}
+TR.menu TD {
+	BORDER-RIGHT: #600 1px solid; BORDER-TOP: #f66 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #600 1px solid
+}
+TR.menu TD.menuleft {
+	BORDER-RIGHT: medium none; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #ff6666
+}
+TR.menu TD.menuright {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #FF6600
+}
+TR.submenu TD {
+	BORDER-RIGHT: #FFFFFF 1px solid; BORDER-TOP: #99CCFF 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #003 1px solid
+}
+TR.submenu TD.submenuleft {
+	FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #306161; border-right-width:medium none
+}
+TR.submenu TD.submenuright {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #245EDC
+}
+TR.static TD {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #ddd 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #666 1px solid
+}
+TR.static TD.staticleft {
+	BORDER-RIGHT: medium none; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #666666
+}
+TR.static TD.staticright {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #666666
+}
+TR.substatic TD {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #fff 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: medium none; BORDER-BOTTOM: #666 1px solid
+}
+TR.substatic TD.substaticleft {
+	BORDER-RIGHT: medium none; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #cccccc
+}
+TR.substatic TD.substaticmid {
+	BORDER-RIGHT: medium none; PADDING-LEFT: 4px; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #dddddd
+}
+TR.substatic TD.substaticright {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #dddddd
+}
+TR.static TD.pollright {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #a7a054
+}
+TR.substatic TD.subpollleft {
+	BORDER-RIGHT: medium none; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #cccccc
+}
+TR.substatic TD.subpollright {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #b6d8e0
+}
+TR.substatic TD.cpanelright {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #c6e0e6
+}
+TR.static TD.login {
+	PADDING-LEFT: 4px; FONT-SIZE: 8pt; COLOR: #ff0000; FONT-FAMILY: Tahoma, Verdana; BACKGROUND-COLOR: #a7a054
+}
+TR.none TD {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #fff 0px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #666 0px solid; BORDER-BOTTOM: #666 0px solid
+}

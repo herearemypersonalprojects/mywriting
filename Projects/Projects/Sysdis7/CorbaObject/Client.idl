@@ -1,0 +1,8 @@
+module CorbaObject
+{
+	interface Client
+	{
+		// Permet au dispatcher leader d'envoyer la réponse du traitement :
+		void RenduTermine(in long numeroduticket, in string contenudelimagefinale);
+	};
+};

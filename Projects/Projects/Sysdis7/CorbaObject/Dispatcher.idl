@@ -1,0 +1,44 @@
+module CorbaObject
+{
+	interface Dispatcher
+	{
+		typedef sequence<octet> octetList;
+		// il faudra une belle structure pour l'etat d'avancement, histoire d'obtenir le temps de debut,...
+		struct Informations {long percentageDone; long startingTime; long endingTime; long startingDate; long endingDate;};
+		
+		struct DataFinale {octetList data;};
+		
+		// permet d'annuler une teche !
+		boolean annulerTache(in long numticket);
+		
+		// l'argument de retour correspond e l'image finale recomposee
+		// si l'entiertee de la teche n'est pas terminee, retour d'une valeure nulle !
+		
+		octetList obtenirResultatFinal(in long numticket);
+	
+		// l'argument de retour correspond au numero du ticket choisi !
+		long commanderUnRendu(in octetList contentpovrayfile, in long width, in long height);
+		
+		// méthode utilisée pour synchroniser les dispatchers aux niveaux des différentes tâches à effectuées, 
+		// vu qu'il est possible que des doublons arrive, autant spécifier le numéro de ticket!
+		long synchronizeCommandeDeRendu(in octetList contentpovrayfile, in long width, in long height, in long numberticket, in long datedebuttache, in long heuredebuttache, in long datefintache, in long heurefintache);
+
+		// l'argument de retour correspond e l'etat d'avancement de la tache associee au ticket
+		Informations obtenirEtatAvancement(in long numeroticket);
+		
+		// obtient un petit fragment calcule par un worker...
+		void updateFragment(in long numticket, in long numfragment, in octetList content);
+		
+		// il faut égalemment pouvoir attribuer un ID au dispatcher !
+		void setID(in long IDnumber);
+		
+		// pour les dispatchers non leader, il est important d'avoir la liste des différents élements !
+		void saveNewDispatcher(in string IOR);
+		void saveNewWorker(in string IOR);
+		void saveNewClient(in string IOR);
+		
+		// une dernière méthode nous permet également de savoir si le dispatcher leader est toujours actif ou non !
+		void dearLeaderAreUStillThere();
+		
+	};
+};

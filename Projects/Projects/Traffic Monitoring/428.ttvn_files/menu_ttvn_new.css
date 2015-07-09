@@ -1,0 +1,249 @@
+/* Main Navigation */
+.Menu_NavBarHomePageHover
+{
+	font-weight: bold; 
+	background-image:url(/images/TTVN/HomePage_Hover.gif);
+	padding-top: 2px; 
+	padding-bottom: 2px; 
+	padding-left: 32px; 
+	border-right: none; 	
+	border-left: none; 
+	clip: auto ;
+	height:23px;
+	width:158px;
+	font: 12px arial; 
+	color: #F5F8FD; 
+	text-decoration: none; 
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.Menu_NavBarHomePage
+{
+	background-image:url(/images/TTVN/HomePage.gif);
+	padding-top: 2px; 
+	padding-bottom: 2px; 
+	padding-left: 32px; 
+	border-right: none; 	
+	border-left: none; 
+	clip: auto ;
+	height:23px;
+	width:158px;
+	font: 12px arial; 
+	color: #F5F8FD; 
+	text-decoration: none;
+	font-weight:bold;
+	cursor:pointer;
+}
+.Menu_NavBar
+{			
+	background-image:url(/images/TTVN/Navbar_Normal.gif);
+	padding-top: 2px; 
+	padding-bottom: 2px; 
+	padding-left: 32px; 
+	border-right: none; 	
+	border-left: none; 
+	clip: auto ;
+	height:23px;
+	width:158px;
+	font: 12px arial; 
+	color: #F5F8FD; 
+	text-decoration: none;
+	font-weight:bold;
+	cursor:pointer;
+}
+.Menu_NavBarHilighted
+{
+	background-image:url(/images/TTVN/Navbar_Normal.gif);
+	padding-top: 2px; 
+	padding-bottom: 2px; 
+	padding-left: 32px; 
+	border-right: none; 	
+	border-left: none; 
+	clip: auto ;
+	height:23px;
+	width:158px;
+	font: 12px arial; 
+	color: #F5F8FD; 
+	text-decoration: none;	
+	font-weight:bold;
+	cursor:pointer;
+}
+.Menu_NavBarHover
+{	
+	font-weight: bold; 
+	background-image:url(/images/TTVN/Navbar_Hover.gif);
+	padding-top: 2px; 
+	padding-bottom: 2px; 
+	padding-left: 32px; 
+	border-right: none; 	
+	border-left: none; 
+	clip: auto ;
+	height:23px;
+	width:158px;
+	font: 12px arial; 
+	color: #F5F8FD; 
+	text-decoration: none; 
+	font-weight:bold;
+	cursor:pointer;
+}
+.Menu_SubNavBarHilighted
+{
+	background-image:url(/images/TTVN/SubMenuH.gif);
+	padding-left: 44px;
+	padding-right: 0px;
+	vertical-align:middle;
+	font: 11px arial;
+	color: #F5F8FD;
+	height: 21px;
+	text-decoration: none;	
+	cursor: hand;
+	font-weight:bold;
+}
+.Menu_SubNavBar
+{
+	padding-right: 0px;
+	padding-left: 44px;
+	font: 11px Arial;
+	vertical-align: middle;
+	cursor: hand;
+	color: #F5F8FD;
+	height: 21px;
+	background-image:url(/images/TTVN/SubMenu.gif);
+	text-decoration: none;
+	width:119px;
+}
+
+.Menu_SubNavBarHover
+{
+	background-image:url(/images/TTVN/SubMenu.gif);
+	padding-left: 44px;
+	padding-right: 0px;
+	vertical-align:middle;
+	font: 11px arial;
+	color: #F5F8FD;
+	height: 21px;
+	text-decoration: none;
+	text-decoration: underline;
+	cursor: hand;
+	width:119px;
+}
+.MIO
+{
+	filter: alpha(opacity=100);
+}
+.navgrid
+{
+	background-color: #f0f0f0;
+}
+/*
+.Menu_NavBar
+{
+	color: black;
+	font-size: 11px;
+	font-family: Arial, tahoma, verdana;
+	text-decoration: none;
+	background-color: #E5E3DA;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	cursor: hand;
+}
+.Menu_NavBarHover
+{
+	color: white;
+	font-size: 11px;
+	font-family: Arial, tahoma, verdana;
+	text-decoration: none;
+	background-color: #407080;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	cursor: hand;
+}
+.Menu_Separator
+{
+	background-image: url(/Images/dot_bg.gif);
+	height: 1px;
+}
+.Menu_NavBarHomePage
+{
+	padding-left: 4px;
+	font-weight: bold;
+	font-size: 11px;
+	padding-bottom: 3px;
+	color: #8b0000;
+	padding-top: 3px;
+	font-family: Arial, tahoma;
+	background-color: #E5E3DA;
+	text-decoration: none;
+	cursor: hand;
+}
+
+.Menu_NavBarHomePageHover
+{
+	padding-left: 4px;
+	font-weight: bold;
+	font-size: 11px;
+	padding-bottom: 3px;
+	color: white;
+	padding-top: 3px;
+	font-family: Arial, tahoma;
+	background-color: #8b0000;
+	text-decoration: none;
+	cursor: hand;
+}
+
+.Menu_NavBarHilighted
+{
+	color: white;
+	font-size: 11px;
+	font-family: Arial, tahoma;
+	text-decoration: none;
+	background-color: #407080;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+}
+
+.Menu_SubNavBarHilighted
+{
+	padding-left: 4px;
+	font-weight: bold;
+	font-size: 11px;
+	padding-bottom: 2px;
+	cursor: hand;
+	color: white;
+	padding-top: 2px;
+	font-family: Tahoma;
+	background-color: #880116;
+	text-decoration: none;	
+}
+
+.Menu_SubNavBar
+{
+	color: white;
+	font-size: 11px;
+	font-family: tahoma, verdana, Arial;
+	background-color: #880116;
+	text-decoration: none;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	clip: auto;
+	cursor: hand;
+}
+
+.Menu_SubNavBarHover
+{
+	padding-left: 4px;
+	font-size: 11px;
+	padding-bottom: 2px;
+	cursor: hand;
+	color: white;
+	background-color: #880116;
+	padding-top: 2px;
+	font-family: tahoma, verdana, Arial;
+	text-decoration: underline overline;
+}
+*/

@@ -1,0 +1,20 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Architecture du syst\`eme}{3}
+\contentsline {section}{\numberline {2.1}Architecture g\'en\'erale}{3}
+\contentsline {section}{\numberline {2.2}V\'erification des donn\'ees disponibles \`a traiter}{5}
+\contentsline {section}{\numberline {2.3}Traitement des donn\'ees disponibles aux sockets}{6}
+\contentsline {chapter}{\numberline {3}R\`egles de filtrage}{7}
+\contentsline {section}{\numberline {3.1}Chargement dynamique des modules}{7}
+\contentsline {section}{\numberline {3.2}Fichier de filtrage}{7}
+\contentsline {chapter}{\numberline {4}Cha\IeC {\^\i }ne des proxies}{8}
+\contentsline {chapter}{\numberline {5}Conclusion}{9}
+\contentsline {chapter}{\numberline {6}D\'emonstration}{10}
+\contentsline {section}{\numberline {6.1}Lancer le proxy serveur}{10}
+\contentsline {section}{\numberline {6.2}Configurer le navigateur}{10}
+\contentsline {section}{\numberline {6.3}Cha\IeC {\^\i }ne des proxies}{11}
+\contentsline {chapter}{\numberline {7}Code}{12}
+\contentsline {section}{\numberline {7.1}Proxy serveur.c}{12}
+\contentsline {section}{\numberline {7.2}Module du filtrage.c}{31}
+\contentsline {section}{\numberline {7.3}Fichier de la configuration du fitrage.txt}{33}
+\contentsline {section}{\numberline {7.4}Scrip makefile}{33}

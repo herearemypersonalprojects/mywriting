@@ -1,0 +1,38 @@
+function showDateVIE()
+{
+        var strdate;
+	var dt = new Date();
+	var strarrDay = new Array("Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"); 
+	var strarrMonth = new Array("01","02","03","04","05","06","07","08","09","10","11","12"); 
+		
+	var strThu = dt.getDay();
+	strThu = strarrDay[strThu] + ", ";
+	var strDay=dt.getDate();
+	if (strDay<10) strDay="0" + strDay
+	var strMonth= dt.getMonth();
+	strMonth= strarrMonth[strMonth] ;
+	var strYears = dt.getYear();
+	if (strYears<1900) strYears += 1900;
+	
+	strdate=strThu + "ngày " + strDay + "/" + strMonth + "/" + strYears
+		
+	window.document.write (strdate);
+}
+function showdateEN() {
+    // variables declaration
+    var dt=new Date();
+    var strMonth = new Array("January","February","March","April","May","June","July","August","September","Octorber","November","December");
+    var strDay = new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
+    var date=strDay[dt.getDay()] + ", ";
+    var years= dt.getYear();
+    if (years<1900) years+= 1900;
+    strdate=date + strMonth[dt.getMonth()] + "-" + dt.getDate() + "-" + years
+    window.document.write (strdate);
+}
+
+function openLink(url) {
+    window.open(url,'mywindow','width=600,height=400,addressbar=yes,scrollbars=yes,toolbar=yes,resizable=yes,menubar=yes');
+}
+function openNewWin(url) {
+    window.open(url,'NewWin','width=320,height=325,addressbar=no,scrollbars=no,toolbar=no,resizable=yes,menubar=no');
+}

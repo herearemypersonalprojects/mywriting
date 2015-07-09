@@ -1,0 +1,377 @@
+body {
+	margin: 0px;
+	padding: 0px;
+   FONT-FAMILY: Arial,Helvetica,sans-serif
+	cursor: default;
+}
+input{
+	 border: 1px; border-color: Silver; 
+}
+
+table {
+	text-align: left;
+	border-top: 1;
+	}
+
+H1 {font: 16px Arial; color: #000000; font-weight: bold; margin: 0px;}
+H2 {font: 15px Arial; color: #000000; font-weight: bold; margin: 0px;}
+H3 {font: 13px arial; color: #000000; font-weight: bold; margin: 0px;}
+H4 {font: 12px arial; color: #000000; font-weight: bold; margin: 0px;}
+H5 {font: 11px arial; color: #000000; font-weight: bold; margin: 0px;}
+H6 {font: 10px arial; color: #000000; font-weight: bold; margin: 0px;}
+
+textarea { padding:1px; border:1px solid #7F9DB9; font:11px tahoma,arial,helvetica; }
+input {	font:11px tahoma,arial,helvetica; }
+select { color: #7F9DB9;font:11px tahoma,arial,helvetica;  }
+
+
+/* text classes */
+.text { font: 12px arial; color: #000000;}
+.text10 { font: 10px arial; color: #000000; font-weight: normal; }
+.text11 { font: 11px arial; color: #000000; font-weight: normal; }
+.text11b { font: 11px arial; color: #000000; font-weight: bold; }
+.text13b { font: 13px arial; color: #000000; font-weight: bold; }
+.text16b { font: 16px Arial; color: #000000; font-weight: bold; }
+
+.dropMenu {
+    border-bottom: 1px solid #999999;
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+    position: relative;
+    background-color: #fafafa;
+    width: 166px;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    -moz-opacity: .80;
+    filter: alpha(opacity=95);
+}
+
+.dropMenuItem {
+    font: 11px tahoma;
+    background-color: #fafafa;
+    border: 1px solid #fafafa;
+    padding-left: 19px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.dropMenuItemOver {
+    font: 11px tahoma;
+    background-color: #e4ebf9;
+    border: 1px solid #557fd7;
+    padding-left: 19px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+/* general text indent used throughout */
+
+A:link {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #6666cc; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+
+a.link1 {font: 11px arial; color: #FFFFFF; text-decoration: none;}
+a.link1:visited {font: 11px arial; color: #FFFFFF; text-decoration: none;}
+a.link1:hover {font: 11px arial; color: #FFFFFF; text-decoration: underline;}
+
+a.link2 {font: 11px arial; color: Red; text-decoration: none; font-weight: bold;}
+a.link2:visited {font: 11px arial; color: Red; text-decoration: none; font-weight: bold;}
+a.link2:hover {font: 11px arial; color: Red;; text-decoration: underline; font-weight: bold;}
+
+a.link3 {font: 11px arial; color: White; text-decoration: none; font-weight: bold;}
+a.link3:visited {font: 11px arial; color: White; text-decoration: none; font-weight: bold;}
+a.link3:hover {font: 11px arial; color: White;  text-decoration: underline; font-weight: bold;}
+
+a.link4 {font: 11px arial; color: #CC0000; text-decoration: none;}
+a.link4:visited {font: 11px arial; color: #CC0000; text-decoration: none;}
+a.link4:hover {font: 11px arial; color: #FF6600; text-decoration: underline;}
+
+a.link5 {font: 12px arial; color: Black; text-decoration: none;font-weight: bold;}
+a.link5:visited {font: 12px arial; color: Black; text-decoration: none;font-weight: bold;}
+a.link5:hover {font: 12px arial; color: Black; text-decoration: underline;font-weight: bold;}
+
+a.link6 {font: 11px arial; color: Navy; text-decoration: none;  }
+a.link6:visited {font: 11px arial; color: Navy; text-decoration: none; }
+a.link6:hover {font: 11px arial; color: #0000CD; text-decoration: underline;}
+
+a.link7 {font: 11px arial; color: White; text-decoration: none;}
+a.link7:visited {font: 11px arial; color: White; text-decoration: none;}
+a.link7:hover {font: 11px arial; color: White; text-decoration: underline;}
+
+a.link8 {font: 11px arial; color: #9BC100; text-decoration: none; font-weight: bold; }
+a.link8:visited {font: 11px arial; color: #9BC100; text-decoration: none; font-weight: bold;}
+a.link8:hover {font: 11px arial; color: #6F8A55; text-decoration: underline; font-weight: bold;}
+
+a.link9 {font: 14px arial; color: White; text-decoration: none; font-weight: bold}
+a.link9:visited {font: 14px arial; color: White; text-decoration: none; font-weight: bold}
+a.link9:hover {font: 14px arial; color: White; text-decoration: underline; font-weight: bold}
+
+a.link10 {font: 11px arial; color: White; text-decoration: underline;}
+a.link10:visited {font: 11px arial; color: White; text-decoration: underline;}
+a.link10:hover {font: 11px arial; color: White; text-decoration: none;}
+
+a.link11 {font: 11px arial; color: Black; text-decoration: none;}
+a.link11:visited {font: 11px arial; color: Black; text-decoration: none;}
+a.link11:hover {font: 11px arial; color: #696969; text-decoration: none;}
+
+a.link12 {font: 12px arial; color: #00008F; text-decoration: none; FONT-WEIGHT: bold; }
+a.link12:visited {font: 12px arial; color: #00008F; text-decoration: none; FONT-WEIGHT: bold;}
+a.link12:hover {font: 12px arial; color: #3678CB; text-decoration: none; FONT-WEIGHT: bold;}
+
+a.link13 {font: 11px arial; color: Black; text-decoration: underline;}
+a.link13:visited {font: 11px arial; color: Black; text-decoration: underline;}
+a.link13:hover {font: 11px arial; color: Black; text-decoration: none;}
+
+a.link14 {font: 11px arial; color: #CC0000; text-decoration: none; font-weight:bold;}
+a.link14:visited {font: 11px arial; color: #CC0000; text-decoration: none; font-weight:bold;}
+a.link14:hover {font: 11px arial; color: #FF6600; text-decoration: underline; font-weight:bold;}
+
+
+.titleboximage1 {
+	border: 1px solid #DADADA;
+	color: Black;
+	font-style: normal;
+	}
+.titleboximage2 {
+   vertical-align: middle;
+   border: 1px solid #8B4513;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	background: #D27400;
+}
+
+.titleboximage2 a:link
+{
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration:none;
+}
+
+.titleboximage2 a:hover
+{
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration:none;
+}
+
+.titleboximage2 a:visited
+{
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration:none;
+}
+
+.titleboximage3 {
+   vertical-align: middle;
+   border: 1px solid #483D8B;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+   font-weight: bold;
+	font-style: normal;
+   background: #6194A5;
+
+}
+
+.titleboximage4 {
+   vertical-align: middle;
+   border: 1px solid #264040;
+	color: White;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+   font-weight: bold;
+	font-style: normal;
+	background: #EC8200;
+}
+
+.titleboximage5 {
+	border: 1px solid #F1EFBC;  
+	color: Black;
+	font-style: normal;
+	background: #FFF8EC;
+}
+
+.titleboximage6 {
+	border: 1px solid #A9A9A9;
+	color: Black;
+	font-style: normal;
+	background-color: #EBEBEB;
+}
+
+.titleboximage7 {
+	border: 1px solid #C2DAFC;  border-left-width: 0px;  
+	color: Black;
+	font-style: normal;
+}
+
+.titleboximage8 {
+	border: 1px solid #BE9A27;
+	color: Black;
+	font-style: normal;
+	background: #F7DC88;
+}
+
+
+.indexstorytext {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 4px; COLOR: #000000; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.indexheadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; FONT-FAMILY: Arial,Helvetica,sans-serif;
+}
+
+
+
+.indexheadline2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+
+.seealso {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 10px; BACKGROUND: #ffffff url(Arr3.gif) no-repeat 0px 0px; MARGIN-BOTTOM: 2px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.sectiontitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; COLOR: #666666; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.inlinetextlink {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-BOTTOM: 3px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+
+.puffheadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.pufftext {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+
+A.lp:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+A.lp:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+A.lp:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc6666
+}
+A.lp:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000
+}
+
+.emailandprint {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.storyheadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 0px; COLOR: Navy; PADDING-TOP: 12px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.spacedstorytext {
+	FONT-SIZE: 13px; PADDING-BOTTOM: 6px; COLOR: #000000; PADDING-TOP: 6px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.storytext {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.caption {
+	FONT-SIZE: 10px; COLOR: #666666; PADDING-TOP: 4px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.promotextlink {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: #ffffff url(Arr1.gif) no-repeat 0px 0px; MARGIN-BOTTOM: 6px; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.promoextratext {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Arial,Helvetica,sans-serif
+}
+.style1 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+}
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+.style3 {
+	color: #333300;
+	font-size: 12px;
+}
+.style4 {font-size: 50px; color: #FFFFFF; font-family: Arial, Helvetica, sans-serif;}
+.style6 {font-size: 11px}
+.style9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.style10 {
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+.style11 {font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.style12 {font-size: 11px; font-family: Arial, Helvetica, sans-serif; }
+.style16 {color: #333333}
+.style17 {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style18 {color: #000000}
+.style19 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; }
+.author
+{
+	color: #606060;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	text-transform: capitalize;
+	padding-top: 4px;
+	padding-bottom: 2px;
+}
+.vote_box1
+{
+	background-color:#FEFBA8;
+	padding-Bottom:6;
+	border: solid 1 #9eb58b;
+}
+.tbflat3   { font-size: 11px; font-family: Arial; background-color: #e3f1f4; padding: 2px; border: solid 1px #8bb6dc }
+.tbflat2    { font-size: 11px; font-family: Arial; background-color: #ffeacd; padding: 2px; border: solid 1px #ffb271 }
+.tbflat { font-size: 11px; font-family: Arial; border: solid 1px #4383CB }
+.Detail a:link
+{
+	color: #00344F;
+	font-family:Arial, Verdana, Tahoma;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.Detail a:visited
+{
+	color: #00344F;
+	font-family:Arial, Verdana, Tahoma;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.Detail a:hover
+{
+	color: #4169E1;
+	font-family:Arial, Verdana, Tahoma;
+	font-size:10px;
+	font-weight:bold;
+}

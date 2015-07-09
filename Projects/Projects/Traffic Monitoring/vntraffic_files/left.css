@@ -1,0 +1,40 @@
+/* CSS Document */
+
+.quickList {background-color:#646464;}
+.quickList_c4 {background-image:url(../images/top/menu/c4.gif); background-position:bottom right; background-repeat:no-repeat;}
+.quickList_c5 {background-image:url(../images/top/menu/c5.gif); background-position:bottom left; background-repeat:no-repeat;}
+.quickList_menu {font:11px tahoma, arial; line-height:16px; border:#000000 solid 1px; width:150px; background-color: #646464; color:#FFFFFF}
+
+.leftmenu 				{ font:11px tahoma, arial; background-color:#EEECED; color:#000000;}
+.leftmenu_link 			{height:20px;}
+.leftmenu_link a 		{ text-decoration:none; color:#000000;}
+.leftmenu_link a:hover 	{ text-decoration:none; color:#FF0000;}
+.leftmenu_arrow 		{ text-align:center;}
+.leftmenu_dot 			{ background-image:url(../images/left/lm_dot.gif); background-position:left; background-repeat:repeat-x;}
+
+.leftmenu_active		{font-weight:bold; height:20px;}
+
+.lmcb {background-color:#FFFFFF; border-left:#646464 solid 1px; border-right:#646464 solid 1px;}
+
+.focus 			{font:10px tahoma, arial; color:#333333; padding-left:3px;}
+.focus a 		{color:#333333; text-decoration:none;}
+.focus a:hover 	{color:#000000; text-decoration:none;}
+
+.lmts {font:10px tahoma; color:#000000; background-color:#FFF8DB; border-left:#646464 solid 1px; border-right:#646464 solid 1px;}
+
+.weblink 			{font:10px tahoma, arial; color:#000000; padding-bottom:2px;}
+.weblink_active			{font-weight:normal; color:#990000;}
+.weblink_active:hover	{color:#990000; text-decoration:none;}
+.weblink_list		{font:10px tahoma, arial; color:#000000; width:147px;}
+.weblink a 			{color:#000000; text-decoration:none;}
+.weblink a:hover 	{color:#990000; text-decoration:none;}
+
+.lmvote {font:10px tahoma; color:#000000; font-weight:bold; background-color:#F3FFF1; background-image:url(../images/left/vote_bg.gif); background-position:right; background-repeat:repeat-y; border-left:#646464 solid 1px; border-right:#646464 solid 1px;}
+.lmvotet {font:10px tahoma; color:#000000;}
+.lmvotebt {font:10px tahoma; font-weight:bold; color:#000000;}
+
+
+
+
+
+

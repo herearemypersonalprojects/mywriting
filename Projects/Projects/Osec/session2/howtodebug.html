@@ -1,0 +1,673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+
+
+
+
+
+  
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>How to debug — IDIAP intranet</title>
+
+    
+
+    
+      
+        <!-- base href="http://intranet.idiap.ch/System/howtodebug" -->
+      
+    
+
+    <meta name="generator" content="Plone - http://plone.org">
+
+    <meta content="Debugging and optimizing programs" name="description">
+    <meta content="Debugging and optimizing programs" name="DC.description">
+    <meta content="carron" name="DC.creator">
+    <meta content="2005-09-06 14:04:12" name="DC.date.created">
+    <meta content="2005-09-06 14:05:09" name="DC.date.modified">
+    <meta content="Document" name="DC.type">
+    <meta content="text/plain" name="DC.format"><!-- Basic crude style for Netscape4.x - This can be removed
+         if you don't want the special NS4 look - it will still work,
+         just be plain text instead. Column layout for Netscape4.x included -->
+
+    
+    <link rel="Stylesheet" type="text/css" href="howtodebug_files/ploneNS4.css"><!-- Column style sheet. -->
+
+    
+    <style type="text/css" media="screen"><!-- @import url(http://intranet.idiap.ch/ploneColumns.css); --></style><!-- Main style sheets for CSS2 capable browsers -->
+
+    
+    <style type="text/css" media="screen"><!-- @import url(http://intranet.idiap.ch/plone.css); --></style><!-- Old style sheet from Plone 1.0, remove tal:condition="nothing" if you need to use the old styles.
+         Will be removed in Plone 2.1. --><!-- Alternate style sheets for the bigger/smaller text switcher -->
+
+    
+    
+
+    
+    <link rel="alternate stylesheet" type="text/css" media="screen" href="howtodebug_files/ploneTextSmall.css" title="Small Text">
+    <link rel="alternate stylesheet" type="text/css" media="screen" href="howtodebug_files/ploneTextLarge.css" title="Large Text"><!-- Style sheet used for printing -->
+
+    
+    <link rel="stylesheet" type="text/css" media="print" href="howtodebug_files/plonePrint.css"><!-- Style sheet used for presentations (Opera is the only browser supporting this at the moment) -->
+
+    
+    <link rel="stylesheet" type="text/css" media="projection" href="howtodebug_files/plonePresentation.css"><!-- Internet Explorer CSS Fixes --><!--[if IE]>
+    <style type="text/css" media="all">@import url(http://intranet.idiap.ch/ploneIEFixes.css);</style>
+    <![endif]--><!-- Custom style sheet if available -->
+
+    
+    
+
+
+    
+    <style type="text/css" media="all"><!-- @import url(http://intranet.idiap.ch/ploneCustom.css); --></style>
+
+    <link rel="shortcut icon" href="http://intranet.idiap.ch/favicon.ico" type="image/x-icon">
+
+    <link rel="search" href="http://intranet.idiap.ch/search_form" title="Search this site">
+
+    
+
+    <link rel="up" href="http://intranet.idiap.ch/System" title="Up one level"><!-- Disable IE6 image toolbar -->
+
+    
+
+    
+    <meta http-equiv="imagetoolbar" content="no"><!-- A slot where you can insert CSS in the header from a template --><!-- A slot where you can insert elements in the header from a template --><!-- A slot where you can insert javascript in the header from a template --><!-- Common Plone ECMAScripts --><!-- Pull-down ECMAScript menu, only active if logged in --><!-- Define dynamic server-side variables for javascripts in this one  -->
+
+    
+      
+      
+    
+
+    
+
+      
+    
+    
+    
+    
+    
+
+
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+
+    
+    
+
+    
+    <script type="text/javascript" src="howtodebug_files/plone_javascript_variables.js">
+    </script>
+
+    <script type="text/javascript" src="howtodebug_files/plone_javascripts.js">
+    </script><!-- Old JS from Plone 1.0, remove tal:condition="nothing" if you need to use the old pop-ups.
+           Will be removed in Plone 2.1 --></head><body class="section-System">
+
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+
+        <a class="hiddenStructure" href="http://intranet.idiap.ch/System/howtodebug#documentContent">Skip to content</a>
+
+           
+
+           <div id="portal-searchbox">
+    <form name="searchform" action="http://intranet.idiap.ch/search">
+        <label for="searchGadget" class="hiddenStructure">Search</label>
+        <input id="searchGadget" name="SearchableText" size="20" alt="Search" title="Search" accesskey="s" class="visibility:visible" tabindex="30001" type="text">
+        <input class="searchButton" value="Search" accesskey="s" tabindex="30002" type="submit">
+    </form>
+</div>
+
+           <h1 id="portal-logo">
+    <a href="http://intranet.idiap.ch/"></a>
+</h1>
+
+           <div id="portal-skinswitcher">
+  
+</div>
+
+           
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav">
+        
+        <li id="portaltab-index_html" class="plain">
+            <a href="http://intranet.idiap.ch/" accesskey="t">Home</a>
+        </li>
+        
+        
+        <li id="portaltab-news" class="plain">
+            <a href="http://intranet.idiap.ch/news" accesskey="t">News</a>
+        </li>
+        
+        
+        <li id="portaltab-phdstudentinformation" class="plain">
+            <a href="http://intranet.idiap.ch/Staff/phdstudentinformation" accesskey="t">PhD student information</a>
+        </li>
+        
+        
+        <li id="portaltab-sitemap" class="plain">
+            <a href="http://intranet.idiap.ch/sitemap" accesskey="t">SiteMap</a>
+        </li>
+        
+    </ul>
+
+
+
+           
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools">
+    
+
+    <li class="portalNotLoggedIn">
+              You are not logged in
+    </li>
+
+       
+    
+        <li>
+            <a href="http://intranet.idiap.ch/login_form" accesskey="u">
+               Log in
+            </a>
+        </li>
+    
+
+</ul>
+
+
+           <div id="portal-breadcrumbs">
+
+    You are here:
+    
+            <a href="http://intranet.idiap.ch/">Home</a>
+            <span class="breadcrumbSeparator">»</span>
+    
+    
+    <span>
+        
+            <a href="http://intranet.idiap.ch/System/" accesskey="accesskeys-breadcrumbs">System</a>
+            <span class="breadcrumbSeparator"> » </span>
+            
+         
+    </span>
+    <span>
+        
+            
+            
+            <span>How to debug</span>
+         
+    </span>
+</div>
+      </div>
+
+      <div class="visualClear"></div>
+
+      <!-- The wrapper table. It contains the three columns. There's a table-less
+           alternative in the plone_tableless skin layer that you can use if you
+           prefer layouts that don't use tables. -->
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            <!-- start of the left (by default at least) column -->
+            <td id="portal-column-one">
+              <div class="visualPadding">
+                
+                  
+
+    
+
+        
+            
+    <div class="portlet" id="portlet-navigation-tree">
+    <div>
+        <h5>Navigation</h5>
+        <div class="portletBody">
+            <div class="portletContent odd">
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/Organization/" accesskey="n" class="navItem navLevel1" title="">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">Organization</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/Staff/" accesskey="n" class="navItem navLevel1" title="Staff Newsletter, PhD students Status Reports">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">Staff</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/System/" accesskey="n" class="navItem navLevel1 currentNavItem" title="">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">System</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/resources/" accesskey="n" class="navItem navLevel1" title="">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">Resources</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/links/" accesskey="n" class="navItem navLevel1" title="">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">Links</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/publishing/" accesskey="n" class="navItem navLevel1" title="">
+                            <img src="howtodebug_files/folder_icon.gif" alt="" class="navIcon" title="Folder" height="16" width="16">
+                            <span class="navItemText">Publishing</span>
+                        </a>
+
+                        
+                    
+                
+                
+                    
+                        <a href="http://intranet.idiap.ch/corporate-idiap/document_view" accesskey="n" class="navItem navLevel1" title="">
+                            <img src="howtodebug_files/document_icon.gif" alt="" class="navIcon" title="Document" height="16" width="16">
+                            <span class="navItemText">Idiap Corporate identity, rules of use</span>
+                        </a>
+
+                        
+                    
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+
+        
+    
+    
+
+        
+            <div>
+
+    <div class="portlet" id="portlet-news">
+
+        <h5>News</h5>
+
+        <div class="portletBody">
+
+            
+
+                <div class="portletContent odd">
+
+                    <a href="http://intranet.idiap.ch/news/June%2008%20Staff%20Newsletter" title="The June 08 Staff Newsletter is now available.">
+                        <img src="howtodebug_files/newsitem_icon.gif" alt="" title="News" longdesc="" height="16" width="16">
+                        June 08 Staff Newsletter
+                    </a>
+
+                    <div class="portletDetails">2008-07-29</div>
+                </div>
+
+            
+
+            <div class="portletContent odd">
+
+                <a href="http://intranet.idiap.ch/news" class="portletMore">
+                    More...
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+        
+
+        
+    
+
+                
+                &nbsp;
+              </div>
+            </td>
+            <!-- end of the left (by default at least) column -->
+
+            <!-- start of main content block -->
+            <td id="portal-column-content">
+
+              
+                <div id="content" class="">
+
+                  
+
+                  <div class="documentContent" id="region-content">
+
+                    <a name="documentContent"></a>
+
+                    
+
+                    
+
+                    
+    
+        <h1 class="documentFirstHeading">How to debug</h1>
+    
+        <div class="documentActions">
+
+    <h5 class="hiddenStructure">Document Actions</h5>
+
+    <ul>
+    
+        <li>
+            <a href="http://intranet.idiap.ch/System/howtodebug/sendto_form">
+            
+                <img src="howtodebug_files/mail_icon.gif" alt="Send this page to somebody" title="Send this page to somebody" height="16" width="16">
+            </a>
+        </li>
+    
+    
+        <li>
+            <a href="javascript:this.print();">
+            
+                <img src="howtodebug_files/print_icon.gif" alt="Print this page" title="Print this page" height="16" width="16">
+            </a>
+        </li>
+    
+
+    </ul>
+
+    
+      
+
+            
+
+
+    
+
+</div>
+    
+        <div class="documentDescription">Debugging and optimizing programs</div>
+    
+        
+    
+        <div class="plain">
+            <p></p><h1>Preventing errors</h1> 
+<ol>
+<li> <b>Proper programs:</b> use indentation (emacs does this nicely), comments,
+explicit data structure, variable, and function names. Organize your code in
+modules/objects.
+<p></p></li><li><b>Use typed programming languages</b> like ANSI C or C++
+<p></p></li><li><b>Automatic code analysis</b> Most compilers have options to analyse the
+code for most grossly errors. In my experience, <code>gcc -Wall -O</code> finds
+a lot of such errors (gcc provides some more checks which are sometimes somewhat
+annoying, man gcc). CC appears to be less good for this.
+<p></p></li><li> <b>Check return codes</b> and react according to them (fopen(), malloc(),
+read(), write(),...). For mathematical operations see <code>matherr()</code>.
+<p></p></li><li><b>Simple assertions</b>: add 
+<pre> #include &lt;assert.h&gt;
+<p></p></pre>
+somewhere at the beginning of the C or C++ file. At places, where you want to
+ensure that, for example, a variable i is positive, add the line
+<pre>assert(i&gt;0)</pre> If the output of the program is OK, and you want to gain
+some processing time, recompile with the option <code> -DNDEBUG </code> or
+define <code>NDEBUG</code> before the insertion of <code>assert.h</code>. It is
+not required to debug all modules.
+<p></p></li><li><b>Advanced assertions</b>: a package called <span class="link-external"><a href="http://www/local/nana/nana_toc.html">nana</a></span> permits to add
+more sophisticated assertions to your code. I never used it, but it seems to be
+useful.
+<p></p></li><li> Use <b>Makefiles</b> and keep dependencies in them up to date (<code>gcc
+-M</code> helps 8-)!
+</li></ol>
+<p></p><h1>General Debugging of C and C++</h1> 
+<p>In general, several tools are available to debug C
+and C++ programs. Which tool to use, depends on the type of error.
+</p><ol>
+<li><b>The program stops with a "segmentation fault" or "bus error"</b>. This is
+usually due to so some pointer going wild. In most cases the error can be found by  running the program under gdb (<a href="#usegdb">use gdb</a>) and wait for the error. The
+debugger command <code>where </code> should show you the stack (this fails
+sometimes).<br>
+<p>If this does not give you a clue on the error, it may be that the
+real
+error is occurring much earlier, only the trouble is rising now. This
+can for example happen if you write to a pointer with an illegal value.
+Try to run <a href="file://localhost/home/system/purify/doc/purify.pdf">purify</a> on your
+code (see also <a href="#usepurify">how to use purify</a>).  </p>
+<p></p></li><li><b>The program  gets  bigger than expected</b>. This
+often a memory leak:
+you allocate memory, but do not "free" it after using it. Be aware of
+library functions that return allocated memory. This can be handled by
+<a href="#usepurify">purify</a>. 
+<p></p></li><li><b>The results are strange</b>. Run your program under <a name="#usegdb">gdb</a> and observe the program flow. Conditional break points
+(help br and help cond in gdb) are often helpful. <br>Be aware that sometimes errors
+occur because some variable is over written falsely by some 
+pointer which went mad. Try to find such problems using purify.
+<p></p></li></ol>
+<p>Supposed, your program is doing what it should do. If you want to give the code
+to somebody else, purify it - this still may reveal a lot of illegal memory
+accesses! And maybe open file descriptors.</p>
+<p></p><h1>Debugging perl scripts</h1>
+<p>Add an option <code>-d</code> to the startup line in your script or call the
+script using <code>perl -d script</code>. If you run the script, you will get a
+debug prompt; <code>h</code> gives a list of debugger commands. You can also give
+perl instructions.</p><p></p>
+<p>Start your program with <code>use strict;</code> and the execution flag</p>
+<p><code>-w</code>.</p>
+<p></p><h1>Debugging perl CGI scripts</h1>
+<dl>
+<dt>excerpt from "Linux Journal Weekly News Notes</dt>
+<dd>August 17 2005". This may
+interest some of you. (Of course, if you start some new scripts from
+scratch, I suggest you choose Python. ;-) )
+<br>
+   If you're learning how to write CGI scripts in Perl, you can save
+   yourself some time looking at error logs by putting error messages in
+   your browser session. Add "fatalsToBrowser" to your "use CGI" line to
+   turn it on. Try this:
+<br>
+<pre>#!/usr/bin/perl -Tw
+</pre></dd></dl>
+<p>use strict;
+use CGI::Carp qw(fatalsToBrowser);</p>
+<p>print "Content-type: text/plain\n\n";</p>
+<p>prnit "Hello world!";
+
+<br>
+   In general, it's a bad idea security-wise to expose details about your
+   system, so you probably will choose to turn off "fatalstoBrowser" on
+   your production site.</p>
+<p>See http://lists.ssc.com/pipermail/lj-announce/ for more information on
+this list.</p>
+<p></p><h1>Optimize your C/C++/Pascal/... code</h1>
+<p></p><ol>
+<li>Think, I mean is there a more efficient algorithm than the one you use? No
+code optimization can gain as much as you can by using a better algorithm.
+<p></p></li><li> Try compiler option <b>-O3</b> for gcc or some of the more fancy options (man
+gcc). This should give a couple of percents. CC knows similar options.
+<p></p></li><li> Remove debugging code (recompile with <code> -DNDEBUG </code>).
+<p></p></li><li> Profile your program to find the most expensive routines and loops:
+<p></p><ol>
+<li>Recompile and link all object files with the option <b>-pg</b>. 
+<p></p></li><li>Run the program as before.
+</li><li> Use gprof to analyse the resulting statistic file (man
+gprof). 
+</li><li> Have a close look at the parts of the program where most of the
+processing time is spend.<br>
+</li></ol> <b>ATTENTION:</b> if you want to analyse function
+calls to libraries too (include them into your statistics), you need the
+profiling version of the library!
+<p></p></li><li> Watch out for frequent calls for system routines, including malloc(),
+calloc(), and free(). It is sometimes worth to write it's own memory allocation
+routines (i.e. use malloc() to allocate a big bunch of memory which you chop
+into small pieces. Another candidate are IO routines: better use read(), write()
+or similar to read big amounts of data at once than for example fscanf() or
+getc().
+<p></p></li><li> Last resorts: "inline" functions by hand (if the compiler can't), flat out
+loops (in some cases the compiler can do this!), try to avoid counters in loops.
+<p></p></li><li> Hacking assembler - if you want to go mad ;-)
+</li></ol>
+<p></p><h1>Optimize scripts</h1>
+<p>First of all, consider to rewrite them in perl (C or C++ are faster, but the
+implementation effort for what is typically done in csh (Brghs...) or sh scripts
+is very easy in perl. Csh scripts running for hours may correspond to perl
+scripts running for seconds - especially if there are a lot of calls for
+programs (awk, cut, etc.).</p><p></p>
+<p>If your perl scripts are too slow, you may consider to rewrite parts in C
+(i.e. numerical stuff), and embed some <a href="file://localhost/com/doc/perl/pod/perlembed.html#Evaluating_a_Perl_statement_from">perl</a>
+instructions that are difficult to implement in C or C++ into it.</p>
+<p><a name="usegdb"><h1>How to use gdb</h1></a></p>
+<p>First, make sure that the option -g is passed to the compiler and linker during
+the compilation (if you don't, the debugger will complain about missing
+symbols). Then start ddd (a graphical interface to gdb) and run your program
+(type "run <a href="#refoptions">[options]</a>" in the command window). Real programmers use emacs (M-x
+gdb), as this is faster and the code ready-to-modify. Most useful commands are
+</p><ul>
+<li> br [line|function]
+<p></p></li><li> print expression
+</li><li> display expression
+</li><li> where
+</li><li> up
+</li><li> down
+</li></ul><p></p>
+<p><a name="usepurify"><h1>How to use purify</h1></a></p>
+<p>Remove all your object files and recompile your code by setting "purify " before
+your compiler and linker command. Do not forget to add the flag -g to the
+compiler and linker flags. Then, run your program alone or run it under a
+debugger. A window will pop up and indicate problems. The <a href="file://localhost/home/system/purify/doc/purify.pdf">documentation</a> of
+Purify explains how to set breakpoints on such places.<br> Purify finds also
+uninitialized static variables. Be aware, that although a static variable is
+likely to be zero, there is no guarantee for this.  <br> Note that purify can be
+used only on bishorn, and the currently installed version (4.2) is operable only
+with CC and gcc version 2.7.2.2 (give flag -V2.7.2.2).
+</p>
+
+        </div>
+    
+        <div class="documentByLine">
+
+  
+
+  <span>
+    Created by
+  </span>
+
+  <a href="http://intranet.idiap.ch/Members/carron">carron</a>
+
+  
+
+  <br>
+
+  
+
+  
+
+  <span>
+    Last modified
+  </span>
+  2005-09-06 14:05
+
+  
+
+</div>
+    
+
+
+                    
+                      <div class="discussion">
+
+    
+
+</div>
+                    
+
+                  </div>
+
+                </div>
+
+              
+            </td>
+            <!-- end of main content block -->
+
+            <!-- start of right (by default at least) column -->
+            
+            <!-- end of the right (by default at least) column -->
+          </tr>
+        </tbody>
+      </table>
+      <!-- end column wrapper -->
+
+      <div class="visualClear">&nbsp;</div>
+
+
+      <hr class="netscape4">
+
+      
+	<div id="portal-footer">
+
+
+Copyright © <span>2008</span>
+by IDIAP Research Institute, All Rights Reserved.
+
+
+</div>
+
+	<div id="portal-colophon">
+      <!--
+
+	Please keep the Plone Powered button (or a textual link to us) if you use
+	Plone on your site. It's a nice token of gratitude, and we appreciate your
+	help in promoting the Plone name.
+
+	Plone is powered by the combined forces of Zope and CMF, two absolutely
+	great systems made by Zope Corporation (http://zope.com) and they in turn
+	are based on the best programming language in the world - Python
+	(http://www.python.org). We owe these guys a lot, thanks for making Plone
+	possible!
+
+      -->
+
+      <a href="http://plone.org/">
+	<img src="howtodebug_files/plone_powered.gif" alt="Powered by Plone" title="This Plone site was built using the Plone Content Management System. Click for more information." height="15" width="80">
+      </a>
+
+      
+
+
+
+    </div>
+      
+
+    </div>
+
+  </body></html>

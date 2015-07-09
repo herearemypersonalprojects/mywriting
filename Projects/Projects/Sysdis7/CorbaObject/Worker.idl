@@ -1,0 +1,31 @@
+module CorbaObject
+{
+	interface Worker
+	
+	{
+	
+		typedef sequence<long> longList;
+		typedef sequence<octet> octetList;
+	
+		
+		// Permet la soumission d'un job à un worker;
+		// chunkHeight représente la hauteur d'une bandrolle
+		// chunkAlreadyDone, une liste d'entier  reprenant la liste des éléments déjà traités ;
+		void executeJob(in octetList contentpovrayfile, in longList chunkAlreadyDone, in long chunkHeight ,in long width, in long height, in long ticketnumber, in long numberoffragment);
+	
+		// permet de remettre à jour la liste des éléments à traiter pour un worker
+		void updateJob(in long numeroticket, in long chunkjustdone);
+		
+		// permet de savoir si le worker travaille toujours pour le dispatcher ?;
+		boolean areUstilWorking();
+		
+		// permet au dispatcher de donner un numéro unique aux différents workers !
+		void setId(in long id);
+		
+		// message attendu par le worker pour savoir si le dispatcher leader s'occupe tjs de lui !
+		void wakeUp();
+		
+		// permet l'arrêt brutal du worker...
+		void cancelTask(in long ticket);
+	};
+};

@@ -1,0 +1,15 @@
+/* CSS Document */
+
+.tbbx {background-color:#FAFAFA; border-left:#646464 solid 1px; border-right:#646464 solid 1px;}
+.qctb {background-color:#FFFFFF; border-left:#646464 solid 1px; border-right:#646464 solid 1px;}
+
+.tnb 			{font:10px tahoma, arial; color:#000000; text-align:justify;}
+.tnb a 			{color:#000000; text-decoration:none;}
+.tnb a:hover 	{color:#990000; text-decoration:none; background-color:#FFFFFF;}
+
+.playlist_title 		{ font:11px tahoma, arial; color:#000000; font-weight:bold;}
+.playlist_title a 		{ color:#000000; font-weight:bold; text-decoration:none;}
+.playlist_title a:hover	{ color:#990000; font-weight:bold; text-decoration:none;}
+.playlist_tgia { font:11px tahoma, arial; color:#000000;}
+.playlist_stt { font:20px tahoma, arial; color:#FF9900; text-align:center; font-weight:bold;}
+.line {border-bottom:#000000 dashed 1px; padding-bottom:4px; padding-top:4px;}
