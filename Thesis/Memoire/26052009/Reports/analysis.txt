@@ -1,0 +1,36 @@
+IB4010
+Basescore = stopword + without extensions
+Base score + non-overlapping window: 50/116 = 43 % without Ngram (unigram) : 56/116 = 48 % with Ngram (bigram,trigram,...)  
+Base score + overlapping window: 
+Base score (without extensions) + dynamic window: (So sanh passage, neu bang nhau thi)
+Stem1: Stem2: Stem3: 48/116 = 41 % : 54/116 = 46 %
+Lemma1: Lemma2: Lemma3:x 35/116 = 30 % : 53/116 = 45 %
+
+Synonyms1: Synonyms2: Synonyms3
+Name weight+Ngram1: Name weight+Ngram2: Name weight+Ngram2: <-> 53%
+Word frequencies+Ngram1: Word frequencies+Ngram2: Word frequencies+Ngram3:
+
+IS8001c:
+Basescore + non-overlapping window: 	30/50 = 60 % 
+Stem: 32/50 = 64 % without N-gram : 	33/50 = 66 %
+Stem+Lemma: 							30/50 = 60 % with N-gram
+Stem+Synonyms: 							32/50 = 64 %
+Stem + Lemma + Synonyms: 				30/50 = 60 %
+Stem + Lemma + Synonyms + Name: 		33/50 = 66 %
+Stem + Name weighted: 					36/50 = 72 % <-> 66% correct (33/50)
+
+IB4010 (non-overlapping window)
+Basescore: 						52/116 = 44 % 
+Stem: 							54/116 = 46 %
+Stem+Lemma: 					48/116 = 41 %
+Stem+Synonyms: 					56/116 = 48 %
+Stem + Lemma + Synonyms: 		51/116 = 43 %
+Stem + Lemma + Synonyms + Name: 54/116 = 46 % //56/116 = 48 %
+Stem + Name weighted: 			57/116 = 49 %:59/116 = 50 % (croiss=0) <-> 53% correct (62/116)
+
+IS8001c - IB4010
+Base score (phuong phap dau tien, so sanh 2 windows diem so cao nhat):
+Passage score + keyword density (distance):
+Passage score + question length + keyword density:
+
+	

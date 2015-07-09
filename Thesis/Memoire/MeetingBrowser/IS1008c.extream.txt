@@ -1,0 +1,519 @@
+speaker	start	end	rank	text
+MIO086 	26.58	30.84	0.193050193050193 I haven't come back of the lunch I hope a very good lunch 	
+MIO086 	32.34	32.78	0.194980694980695 To do that 	
+MIO086 	35.56	38.42	0.196911196911197 For uh this meeting domain i didn't okay 	
+MIO086 	38.42	38.88	0.198841698841699 uh 	
+MIO086 	38.88	40.47	0.200772200772201 to discuss about the 	
+MIO086 	41.88	44.17	0.162162162162162 Conceptual design meeting 	
+MIO086 	46.89	47.33	0.202702702702703 Okay 	
+MIO086 	47.33	49.51	0.204633204633205 and the agenda will be 	
+MIO086 	52.67	54.55	0.206563706563707 Double opening and uh 	
+MIO086 	54.55	55.68	0.208494208494208 that's uh 	
+MIO086 	55.68	60.55	0.21042471042471 the project manager or secretary that's me and the the the presentations from the christian 	
+MIO086 	61.25	62.01	0.212355212355212 And the 	
+MIO086 	64.18	64.93	0.214285714285714 Agnes 	
+MIO086 	65.83	66.87	0.216216216216216 And then you see it 	
+MIO086 	68.89	70.67	0.218146718146718 And finally in this meeting we 	
+MIO086 	71.19	72.05	0.22007722007722 decide 	
+MIO086 	73.55	77.16	0.137065637065637 And we have to take a decision on the remote control 	
+MIO086 	78.81	79.6	0.222007722007722 Concepts 	
+MIO086 	80.42	82.76	0.223938223938224 And uh oh the functional design 	
+MIO086 	83.66	85.15	0.225868725868726 So we all forty minutes 	
+MIO086 	85.93	87.23	0.227799227799228 I think it's uh 	
+MIO086 	89.26	90.36	0.22972972972973 It a bit uh 	
+MIO086 	90.36	92.73	0.231660231660232 no but i i hope we can finish it up 	
+MIO086 	93.48	95.36	0.233590733590734 So i'll hand go to the 	
+MIO086 	97.17	99.65	0.235521235521236 The functionality into the christian okay 	
+MIO086 	99.65	103.13	0.083011583011583 to discuss about the the components Concept 	
+FIE073 	104.19	104.58	0.237451737451737 Okay 	
+FIE073 	105.59	109.78	0.239382239382239 So uh if you could open the powerpoint presentation 	
+FIE073 	110.45	111.55	0.241312741312741 And number two 	
+MIO086 	111.67	112.95	0.243243243243243 Mm but to 	
+MIO086 	117.43	117.73	0.245173745173745 "'kay" 	
+FIE073 	121.52	122.73	0.0849420849420849 Components design 	
+FIE073 	123.41	123.66	0.247104247104247 Okay 	
+FIE073 	127.64	129.58	0.11003861003861 to put the slideshow moment 	
+MIO086 	131.01	131.83	0.249034749034749 The next alright 	
+FIE073 	131.61	132.04	0.250965250965251 Right here 	
+FIE073 	132.93	134.81	0.252895752895753 Is that that one yes please 	
+FIE073 	135.29	135.59	0.254826254826255 Thank you 	
+FIE073 	136.46	137.55	0.256756756756757 Oh yes 	
+FIE073 	140.03	141.47	0.258687258687259 So well um 	
+FIE073 	143.91	152.64	0.00772200772200772 We were looking you specifically uh the components so that the following components Not the case the power supply 	
+FIE073 	153.52	153.93	0.260617760617761 Uh 	
+FIE073 	153.93	157.53	0.262548262548263 means of communications with the television set 	
+FIE073 	158.09	166.83	0.129343629343629 And then since we talked about using some sort of speech recognition have to have mike from all made an extra hum have to have mike found in the device 	
+FIE073 	167.33	168.37	0.264478764478765 But um 	
+FIE073 	169.07	170.55	0.266409266409266 Maybe to have it uh 	
+FIE073 	170.97	175.71	0.268339768339768 A way it has to pass to here at the speaker And um 	
+FIE073 	175.71	180.35	0.111969111969112 so it could be in the television set could be in the device but Summary have to put the microphone 	
+FIE073 	180.89	181.63	0.27027027027027 Um 	
+FIE073 	181.63	186.73	0.175675675675676 and a way of making beeps or sounds you can find it when it gets lost 	
+FIE073 	187.12	187.79	0.272200772200772 Um 	
+FIE073 	187.79	192.26	0.274131274131274 so the other one thing that we sort Are method For 	
+FIE073 	192.95	197.88	0.276061776061776 One about this as we've looked at uh of the store it it's torque or record what's work hasn't 	
+FIE073 	198.37	200.25	0.277992277992278 And then we also um 	
+MIE085 	198.51	198.99	0.27992277992278 Mm 	
+FIE073 	200.72	206.04	0.055984555984556 One to evaluate some new materials and we contacted manufacturing for their input because 	
+FIE073 	206.44	207.12	0.281853281853282 Course stream 	
+FIE073 	207.58	217.61	0.0579150579150579 Might come up and choose the material that then manufacturing didn't have the technologies capabilities to offer us so well this is the approach that which uh during our um 	
+FIE073 	217.61	218.51	0.283783783783784 our research 	
+FIE073 	219.88	220.85	0.285714285714286 So um 	
+FIE073 	220.85	222.15	0.287644787644788 for the case 	
+FIE073 	222.46	223.3	0.28957528957529 Um 	
+FIE073 	223.3	233.37	0.0115830115830116 we at all we were making a specification specific assumption that it would be curved and design course now i wanted it to be expendable and shrink a ball but 	
+FIE073 	233.83	234.92	0.291505791505791 Um 	
+FIE073 	234.92	239.29	0.293436293436293 that that doesn't seem to be one of the year choice not option we can 	
+FIE073 	239.91	241.84	0.295366795366795 We can really serious the explorer 	
+FIE073 	242.41	244.42	0.297297297297297 So then we were thinking about um 	
+FIE073 	244.42	246.39	0.299227799227799 rubber but um 	
+FIE073 	246.99	250.26	0.301158301158301 Unfortunately that's gonna because of the sheets uh 	
+FIE073 	250.26	251.94	0.303088803088803 factor and um 	
+FIE073 	251.94	252.5	0.305019305019305 that might be some 	
+FIE073 	253.03	255.63	0.306949806949807 Problems with them uh how it's 	
+FIE073 	257.04	258.73	0.308880308880309 It goes with the board 	
+FIE073 	260.13	260.72	0.310810810810811 Uh 	
+FIE073 	260.72	270.83	0.312741312741313 and uh then plastic also has its problems melt saying and it's brittle it is brittle laughter while so i'm still had thai titanium and and what available  
+MIE085 	261.06	261.24	0.314671814671815 Mm 	
+FIE073 	271.23	272.09	0.316602316602317 But um 	
+FIE073 	272.09	273.99	0.318532818532819 unfortunately uh 	
+FIE073 	273.99	281.96	0.0598455598455598 uh titanium's also gonna laminated the them people and manufacturing said that you could make curved case a set of titanium although 	
+FIE073 	283.5	284.37	0.32046332046332 Apple do it with 	
+FIE073 	285.04	286.82	0.322393822393822 Power but i'm not quite sure but 	
+FIE073 	287.35	291.22	0.324324324324324 At nevertheless so um the eliminated all of our options except what 	
+FIE073 	292.46	292.92	0.326254826254826 So 	
+FIE038 	293.03	294.26	0.328185328185328 Financially friendly 	
+FIE073 	293.39	294.65	0.33011583011583 This is our flying 	
+FIE073 	295.07	299.46	0.332046332046332 And it is she said it's environmentally friendly a mature or so 	
+FIE073 	300.41	302.78	0.333976833976834 were correctly uh proposing 	
+FIE073 	303.31	309.22	0.0694980694980695 Uh we'll get oh my personal preferences in just a sec so there's this other matter of the chips and um 	
+FIE073 	309.22	316.1	0.00193050193050193 well we could use a simple design on the board but uh this simple chips but that's only works for the buttons you don't get very much um 	
+FIE073 	316.1	317.86	0.158301158301158 intelligence with the simple one 	
+FIE073 	318.3	319.41	0.335907335907336 And um 	
+FIE073 	319.41	321.7	0.337837837837838 then there was a regular which 	
+FIE073 	322.7	325.03	0.33976833976834 I regret that i've forgotten exactly what 	
+FIE073 	325.85	327.8	0.341698841698842 Why um well emanating that one 	
+FIE073 	328.43	332.02	0.0714285714285714 Uh the other option was is advanced chip on print 	
+FIE073 	332.85	342.51	0.0463320463320463 And uh we like we we found that it it includes is infrared sender which we member the beam was that was an important component of finding the right chip 	
+FIE073 	343.05	346.79	0.0617760617760618 And and manufacturing as tall as they they if i um 	
+FIE073 	346.79	354.99	0.0733590733590734 uh recently developed a uh a sensor and a speaker at that would that be integrated into this advanced chip on print so 	
+FIE073 	355.51	356.81	0.343629343629344 Uh we we uh 	
+FIE073 	357.3	359.99	0.345559845559846 Yeah jen thing right you are personal preferences 	
+FIE073 	360.57	361.43	0.347490347490348 Well um 	
+FIE073 	361.43	361.83	0.349420849420849 i 	
+FIE073 	362.29	365.59	0.351351351351351 think we should you know you some of us some real exotic words 	
+FIE073 	365.99	367.04	0.353281853281853 Like um 	
+FIE073 	367.04	368.81	0.355212355212355 you know uh 	
+FIE073 	368.81	375.23	0.357142857142857 well you guys come from tropical country so you can can think of some trees than some nice words i think that	
+FIE073 	375.87	381.58	0.164092664092664 People might really want to design their own cases to see they could do through the the 	
+FIE073 	382.24	398.79	0.00965250965250965 dimensional design on the internet and then they could submit their orders can like you submit a custom car or do or you know when you can choose the colour and size of the wheels and the colours of the weather and things like that and then i uh i think we should go with the solar cells as well as the um 	
+MIE085 	390.88	391.31	0.359073359073359 You know 	
+FIE073 	398.79	401.46	0.361003861003861 the microphone and speaker on the advanced chip 	
+FIE073 	402.58	407.39	0.177606177606178 So the so the findings of our research and my recommendations 	
+FIE073 	407.87	408.54	0.362934362934363 Um 	
+FIE073 	408.54	412.57	0.0366795366795367 for the new remote control well mm would be to have um 	
+FIE073 	413.03	414.22	0.364864864864865 Have be made out of wood 	
+FIE073 	414.82	415.72	0.366795366795367 Any problems with a 	
+MIO086 	416.33	418.29	0.368725868725869 Can you go back uh one slide 	
+FIE073 	419.27	422.77	0.370656370656371 I'm not sure uh well i don't see it go back here 	
+MIO086 	422.82	423.83	0.372586872586873 Yeah it's uh 	
+MIO086 	423.83	425.08	0.374517374517374 our costs and uh 	
+MIO086 	425.08	425.25	0.376447876447876 uh 	
+MIO086 	426.22	430.64	0.0752895752895753 What's mean exactly a a once a chip on print what's meaning of that 	
+FIE073 	430.97	432.19	0.378378378378378 I think it um 	
+FIE073 	432.19	433.08	0.38030888030888 no um 	
+FIE073 	433.08	434.67	0.382239382239382 a multiple uh 	
+FIE073 	434.67	437.71	0.028957528957529 chip design um 	
+MIE085 	435.73	436.33	0.384169884169884 Mm 	
+FIE073 	437.71	440.6	0.386100386100386 and it's that may be printed on to the circuit board 	
+FIE073 	442.1	442.79	0.388030888030888 Uh 	
+FIE073 	442.79	445.12	0.17953667953668 it i could find out more about that uh 	
+MIO086 	444.47	445.9	0.38996138996139 Is it means it's on this 	
+FIE073 	445.12	446.91	0.391891891891892 the for the next a next meeting 	
+MIO086 	446.85	450.44	0.0984555984555985 Yeah is it on uh michael was my control set based or or uh 	
+FIE073 	452.7	455.31	0.181467181467181 I don't know but i'll find out more our next meeting 	
+MIO086 	454.86	459.77	0.183397683397683 Okay that that would be great so if you find out know technology background okay so that would be cord 	
+FIE073 	459.86	460.48	0.393822393822394 Sounds good 	
+FIE038 	461.22	463.95	0.395752895752896 Why the plastic eliminated as a possible to 	
+FIE073 	463.92	465.28	0.397683397683398 Because um 	
+FIE073 	465.28	466.39	0.3996138996139 it gets a little 	
+FIE073 	467.45	468.44	0.401544401544402 Cracks 	
+FIE038 	468.65	469.08	0.403474903474904 Uh-huh 	
+FIE073 	471.3	471.76	0.405405405405405 Um 	
+FIE073 	473.12	475.08	0.407335907335907 We want we expect these um 	
+FIE073 	475.79	479.97	0.0386100386100386 And these remote controls to be around for several hundred years 	
+FIE073 	480.92	481.4	0.409266409266409 So 	
+FIE038 	482.63	482.89	0.411196911196911 What 	
+MIE085 	482.83	484.56	0.413127413127413 Well i 	
+MIE085 	486.64	489.83	0.415057915057915 Right but it's fresh as well after s. i. 	
+FIE073 	492.14	494.17	0.416988416988417 Ah to speak for itself up there 	
+FIE038 	493.57	494.09	0.418918918918919 Well i think 	
+FIE038 	496.91	502.92	0.420849420849421 I think what the way that you ran in the same types of problems with me i mean it's yeah so it if you drop bit	
+FIE038 	503.95	505.7	0.422779922779923 It's i'm not so it's 	
+MIO086 	507.1	508.7	0.424710424710425 See on a comment about the 	
+MIE085 	508.18	509.27	0.185328185328185 I find where to sell it 	
+FIE073 	510.87	511.49	0.426640926640927 Yeah oh well 	
+MIE085 	511.71	512.59	0.428571428571429 Ready to sell it 	
+FIE038 	512.52	517.31	0.43050193050193 If you we if he is really good quality what it that might work but you can just use 	
+MIE085 	515.74	524.26	0.432432432432432 No it's not no no no the only one delay would you can use of the ones that are hard it's hard work but there's some very pretty close that there 	
+FIE073 	515.89	516.43	0.434362934362934 And you can 	
+FIE073 	517.03	519.3	0.436293436293436 It's a little sweater to take care of 	
+FIE038 	521.1	522.39	0.438223938223938 Yeah exactly yeah 	
+FIE073 	525.97	526.68	0.44015444015444 Oh i'm glad 	
+MIE085 	526.32	528.07	0.442084942084942 That's actually very innovative idea 	
+FIE073 	528.34	533.02	0.0405405405405405 O. k. i. c. r. and r. time people remote control of my uh it's 	
+MIE085 	535.75	536.48	0.444015444015444 Let's have a very 	
+MIE085 	537.2	538.84	0.445945945945946 different idea that uh 	
+MIE085 	538.84	541.88	0.0888030888030888 you can choose you colour would you type of what 	
+FIE038 	542.92	543.56	0.447876447876448 The stain 	
+MIE085 	543.38	550.35	0.0154440154440154 I mean each person they have their personalised individualised Speech recognition remote control and what it's	
+MIE085 	550.76	551.65	0.44980694980695 Not on the market 	
+MIO086 	552.41	557.87	0.0791505791505791 Yeah so it's it's looks got the the design the function design uh what about a year you know 	
+FIE038 	559.43	559.99	0.451737451737452 Um 	
+FIE038 	561.02	564.08	0.453667953667954 In terms of comments on that so in terms of my own mm 	
+MIO086 	562.28	563.93	0.455598455598456 Yes yes yes 	
+MIE085 	563.53	565.19	0.457528957528958 Because of well i 	
+MIO086 	565.01	566.58	0.459459459459459 In terms of comments cost 	
+FIE038 	565.19	565.65	0.461389961389961 Yeah 	
+FIE038 	565.65	565.79	0.463320463320463 yeah 	
+FIE073 	567.59	571.57	0.465250965250965 She works and keep the context a nice to she's that she was a real little bit prepared for 	
+FIE038 	571.54	572.26	0.467181467181467 Yeah 	
+MIE085 	571.94	572.29	0.469111969111969 But 	
+FIE073 	572.96	574.55	0.471042471042471 But the way yeah it was not 	
+MIE085 	574.75	575.75	0.472972972972973 Well i 	
+FIE038 	578.29	593.27	0.166023166023166 I think that the quality materials that then It shouldn't influence the design principles to match which you'll see with my presentation When think we'd have to check those what the user's whether How quickly the novelty wears off of having 	
+FIE073 	592.23	592.71	0.474903474903475 Uh-huh 	
+FIE073 	593.23	596.49	0.476833976833977 That you would wanna have to have splinters and and what you're using yeah 	
+FIE038 	595.1	595.77	0.478764478764479 Yeah 	
+FIE038 	595.77	596.68	0.480694980694981 for example 	
+FIE038 	597.49	597.97	0.482625482625483 So 	
+FIE038 	598.83	599.81	0.484555984555985 Have to see how 	
+FIE038 	600.38	602.21	0.486486486486487 Kid friendly and it's and it's 	
+FIE038 	602.94	603.69	0.488416988416988 And all that but 	
+FIE073 	604.05	606.43	0.49034749034749 So you if you do i get ahold of it they can use it 	
+FIE073 	607.96	608.67	0.492277992277992 For teething 	
+MIE085 	610.34	612.4	0.494208494208494 I do any with the rubber plastic so 	
+FIE073 	612.46	615.26	0.496138996138996 Yeah they do it with other materials as well yeah 	
+MIE085 	613.67	614.01	0.498069498069498 Sure 	
+MIE085 	615.37	615.89	0.5 Joe more 
+MIO086 	616.83	618.84	0.501930501930502 Okay then uh let's more to uh 	
+MIO086 	618.84	619.28	0.503861003861004 acne 	
+MIO086 	630.05	631.25	0.505791505791506 So mm 	
+MIO086 	638.87	640.17	0.507722007722008 You know in parts bin to it 	
+FIE038 	639.7	640.19	0.50965250965251 Three 	
+FIE038 	642.33	642.74	0.511583011583012 Uh 	
+FIE038 	642.74	642.87	0.513513513513513 yeah 	
+MIO086 	643.58	643.86	0.515444015444015 So 	
+FIE038 	644.22	645.01	0.517374517374517 I think so yeah 	
+FIE038 	648.23	652.57	0.519305019305019 So it's a very short presentation "'cause" i'm actually gonna draw you the layout on the board so 	
+FIE038 	653.08	655.31	0.521235521235521 If you wanna discuss stick to the second slide 	
+FIE038 	656.28	656.9	0.523166023166023 Um 	
+FIE038 	656.9	661.18	0.525096525096525 which basically shows is sort of like to the ideas that we're talking about last time 	
+FIE038 	661.77	662.53	0.527027027027027 Um 	
+FIE038 	662.53	670.89	0.52702 and try to put that into the remote control so things it you can actually see on i i have a on off switch Volume and channel control them any access button 	
+FIE038 	671.51	684.76	0.0135135135135135 Ergonomic shape which are completely agree for scenes idea to have it sort of moulded so it's slightly more ergonomic and comfortable to hold on the standard Very straight remote controls Actually the thing with the word if we take your customising idea is that	
+FIE038 	685.21	691.75	0.138996138996139 actually do sort of quasi measurements on their hand size of someone as large your hands You have a wider remote control 	
+FIE073 	689.09	692.87	0.528957528957529 Right my hand it's different size then you worse for example 	
+FIE038 	693.6	696.72	0.102316602316602 So that takes a really good idea to estimate customise ability 	
+FIE038 	697.26	702.76	0.113899613899614 Um one thing i thought might be kind of interesting is to put a flipscreen i just like you have one flip phones	
+FIE038 	703.35	715.89	0.00579150579150579 So that you don't have this case where someone sits on the remote controller accidentally press their hand on especially get little kids around They're not pressing the buttons well you're trying to watch a t. v. show and accidentally change the channel or turn it off 	
+FIE073 	715.55	715.98	0.530888030888031 hmm 	
+FIE038 	716.72	717.51	0.532818532818533 And also 	
+FIE038 	718.25	722.67	0.115830115830116 Um you have issues of batteries are aiming at said that maybe we could put a little battery life like 	
+FIE038 	723.17	727.01	0.534749034749035 On it kinda goes demand demand them as your battery it starts to die 	
+FIE038 	727.66	728.87	0.536679536679537 And in terms of invisible 	
+FIE038 	730.39	732.9	0.121621621621622 and um tax uh feedback on button presses 	
+FIE073 	732.97	733.35	0.538610038610039 Hmm 	
+FIE073 	733.35	733.67	0.540540540540541 hmm 	
+FIE038 	733.62	736.24	0.131274131274131 And Like you said speech recognition 	
+FIE038 	737.42	738.57	0.542471042471042 So in terms 	
+FIE038 	739.18	740.73	0.544401544401544 this thing that actually look like 	
+FIE038 	743.52	747.77	0.167953667953668 Despite working in interface designer not the greatest artists in the world so you have to forgive me 	
+FIE038 	750.9	751.7	0.546332046332046 You have something like 	
+FIE038 	752.37	760.4	0.548262548262548 an on off switch really big Sort of in a corner and by itself so you don't accidentally turn the t. v. off are are trying to manoeuvre other buttons 	
+FIE038 	761.14	764.03	0.146718146718147 And then you have sort of one of those topple display is 	
+FIE038 	764.76	765.64	0.55019305019305 For oops 	
+FIE038 	766.77	767.55	0.552123552123552 Channels 	
+FIE038 	768.04	776.99	0.0173745173745174 And volume sort of for surfing channels and then volume so the volume would be the up and down volume goes up and down and then channels left or right 	
+FIE038 	777.77	779.85	0.554054054054054 And then here you have your sort of standard 	
+FIE038 	780.71	781.73	0.555984555984556 Telephone ish 	
+FIE038 	782.83	783.66	0.557915057915058 Number pad 	
+FIE038 	786.81	790.36	0.55984555984556 And then on one side you would have an access to the manual 	
+FIE038 	791.25	793.86	0.561776061776062 On your t. v. And on the other side 	
+FIE038 	794.66	796.58	0.563706563706564 A way to turn off the voice control 	
+FIE038 	797.05	802.69	0.0424710424710425 So that if the user doesn't want to use the voice they can just turn it off and you don't have a remote control Accidentally 	
+FIE073 	798.06	798.53	0.565637065637066 Mm 	
+FIE073 	801.14	801.73	0.567567567567568 Uh-huh 	
+FIE038 	803.32	804.4	0.569498069498069 Changing things on yeah 	
+FIE038 	805.66	806.18	0.571428571428571 Um 	
+FIE038 	806.18	808.66	0.573359073359073 so again you can have a little l. c. d. light somewhere 	
+FIE038 	809.68	810.13	0.575289575289575 The flat 	
+FIE038 	811.68	814.15	0.577220077220077 Thing and the forgotten anything 	
+FIE038 	815.97	816.94	0.579150579150579 I don't think so 	
+FIE038 	817.38	822.23	0.0772200772200772 So as you can see it's a very very simple design which is one of the things i really wanted to keep 	
+FIE038 	823.1	826.92	0.0675675675675676 simple not have too many buttons that have to me functionalities trying to it 	
+FIE038 	827.66	829.57	0.16988416988417 I think the design can pretty much carry 	
+FIE038 	830.13	833.43	0.581081081081081 everything although With the world the flipscreen 	
+FIE038 	834.05	835.87	0.583011583011583 Might have to do something slightly 	
+FIE073 	836.63	837.36	0.584942084942085 A hinge 	
+FIE038 	836.67	837.43	0.586872586872587 Difference 	
+FIE073 	838.24	840.26	0.588803088803089 We have to copper hand sure you know 	
+FIE038 	839.72	840.19	0.590733590733591 Yeah 	
+FIE038 	840.5	845.37	0.0907335907335907 It does have will start watching uh for the weight is depending on how much the the flipscreen will add to the way 	
+FIE073 	845.48	846.04	0.592664092664093 Mm hmm 	
+FIE038 	845.99	848.39	0.0444015444015444 Of the remote control you don't want it to start getting too happy 	
+FIE038 	849.32	853.74	0.594594594594595 But that's the general layout with the general functionalities if we come up with something else 	
+FIE038 	854.23	857.41	0.140926640926641 As you can see there's still lots of space on the actual remote control 	
+FIE038 	857.84	863.02	0.104247104247104 And if you do a customisable e. You could make this thing fairly small fairly all large 	
+FIE073 	863.47	864.23	0.596525096525097 Mm hmm 	
+FIE038 	863.57	865.7	0.0926640926640927 Depending on personal preferences 	
+FIE038 	867.35	869.13	0.598455598455598 So that's pretty much 	
+FIE038 	869.76	873.6	0.171814671814672 Oh i had to say i mean everything else in terms of design issues 	
+FIE038 	874.09	876.54	0.6003861003861 And this century know the keypad and 	
+FIE038 	877.78	880.6	0.0212355212355212 The channel is just depending on where you're from it is 	
+FIE038 	881.08	884.39	0.1003861003861 And you tend to use the the volume control and uh 	
+FIE038 	884.82	890.87	0.142857142857143 The browsing more than the actual number pad so that would be sort of interact line for your time goes when you're holding the remote control 	
+FIE073 	889.85	890.49	0.602316602316602 Mm 	
+FIE038 	891.33	894.03	0.604247104247104 That number have little bit lower to use less frequently 	
+FIE073 	894.01	894.62	0.606177606177606 Mm hmm 	
+FIE038 	895.1	899.03	0.608108108108108 So once we decide exactly what we want then we can figure out the exact positioning 	
+FIE038 	899.5	901.85	0.61003861003861 But more or less i think it should go along those lines 	
+MIO086 	904.59	905.8	0.611969111969112 So what's your yeah 	
+MIO086 	906.83	908.26	0.613899613899614 The comments or uh 	
+MIE085 	909.63	910.45	0.16023166023166 Simple design 	
+MIE085 	911.97	912.96	0.615830115830116 So consumers want 	
+MIO086 	913.25	913.59	0.617760617760618 Okay 	
+MIE085 	914.64	917.51	0.61969111969112 Some of like fifteen we have a product i i 	
+FIE038 	916.66	917.67	0.621621621621622 I 	
+MIE085 	919.26	920.45	0.623552123552124 Problems obviously gonna be 	
+FIE038 	921.49	921.84	0.625482625482625 Uh-huh 	
+MIE085 	923.15	924.7	0.627413127413127 Okay i also have of 	
+MIE085 	925.43	926.4	0.629343629343629 Very simple 	
+MIE085 	927.81	928.67	0.631274131274131 Presentation 	
+MIO086 	928.81	928.94	0.633204633204633 Yeah 	
+MIE085 	929.19	931.95	0.635135135135135 But from a marketing point you have to see what the consumers want 	
+MIE085 	933.37	934.52	0.637065637065637 Also have well 	
+MIE085 	935.39	936.15	0.638996138996139 Copied uh 	
+MIE085 	937.94	938.93	0.640926640926641 Different type of remote 	
+MIE085 	940.99	942.63	0.187258687258687 If you can find me where i'm at 	
+MIE085 	944.37	945.55	0.642857142857143 Should we be one in here 	
+MIE085 	946.8	947.55	0.644787644787645 Sure sure 	
+FIE073 	953.22	953.6	0.646718146718147 Sure 	
+MIE085 	954.95	955.72	0.648648648648649 Being modified 	
+MIE085 	957.21	958.35	0.650579150579151 For stealing our product 	
+MIE085 	960.63	970.41	0.652509652509653 With the municipal questionnaires and every year is because it was a cinetis you would come most consumers are looking for today This is the trends changing very very quickly 	
+MIE085 	970.94	974.6	0.654440154440154 In six months maybe this ideas already got out the window So 	
+MIE085 	975.21	976.88	0.656370656370656 be a question how fast we can act 	
+MIE085 	977.68	977.89	0.658301158301158 Yeah 	
+MIE085 	977.89	978.5	0.66023166023166 uh 	
+MIE085 	978.5	980.08	0.662162162162162 they are your wrist wrist am i know 	
+FIE073 	980.77	981.1	0.664092664092664 No 	
+FIE073 	981.62	982.72	0.666023166023166 Go to findings 	
+MIE085 	982.11	982.54	0.667953667953668 No no 	
+MIE085 	982.99	983.45	0.66988416988417 No 	
+MIE085 	985.38	986.58	0.671814671814672 So i don't know the commentator 	
+MIE085 	987.26	988.24	0.673745173745174 the market trend 	
+MIE085 	989.23	999.99	0.0501930501930502 This is what we know from the last uh or from the questionnaires and although although Surveys we've done fancy and feel good that's what we're looking for something that feels good in the hand that's easy to use 	
+MIE085 	1000.58	1006.73	0.144787644787645 But different next generation of innovation because all the remote out there now they're all very similar they'll do the same thing 	
+MIE085 	1007.2	1008.56	0.675675675675676 We have to something completely different 	
+MIE085 	1009.28	1014.07	0.0521235521235521 "'kay" easy to use as well as become has become another major interest that the 	
+MIE085 	1014.67	1017.51	0.0193050193050193 With the whiteboard we can see that uh remote that's easy to 	
+MIE085 	1019.4	1024.52	0.677606177606178 And i think this is another thing is interesting is the consumers actually willing to pay the price for exciting to have technology 	
+MIE085 	1025.3	1027.89	0.67953667953668 So we have we have a product that may be more expensive 	
+MIE085 	1028.65	1029.73	0.681467181467181 If it comes out right 	
+MIE085 	1030.38	1034.55	0.683397683397683 If they didn't look it looks and feels good to have technology 	
+MIE085 	1035.33	1039.55	0.0231660231660232 The second two you can see the last one is a very easy simple design 	
+MIE085 	1040.62	1048.31	0.123552123552124 The second one is about uh forty five thousand different buttons on it which makes it very hard to read for an i. d. is the first one i see 	
+MIE085 	1048.84	1050.32	0.117760617760618 But they put in a display 	
+MIE085 	1051.41	1059.24	0.148648648648649 That is something also with a little flip up now we're adding all kinds of things and a little flip up if you have a little display on the flip up the wanna close it everything's locked 	
+MIE085 	1060.02	1065.98	0.0482625482625483 Maybe the display also makes it easier to use because sometimes in your looking for buttons maybe if you see a display 	
+FIE073 	1066.81	1069.03	0.685328185328185 Context instead of instructions 	
+FIE038 	1069.23	1069.57	0.687258687258687 Right 	
+MIE085 	1069.53	1070.04	0.689189189189189 Okay 	
+FIE073 	1069.97	1073.69	0.691119691119691 I mean with the top what mode the t. v. you're the d. v. d. or something else to say and 	
+MIE085 	1072.99	1075.74	0.693050193050193 "'cause" i've seen mostly the standard ones yeah 	
+FIE038 	1073.65	1077.21	0.133204633204633 Especially many something like that for training the speech recognition 	
+MIE085 	1076.25	1082.91	0.027027027027027 Now you have as many have one with a very simple also the idea simple but with the display So you can see which are going 	
+FIE038 	1081.75	1082.06	0.694980694980695 Uh-huh 	
+MIE085 	1083.81	1086.61	0.0540540540540541 So maybe three in incorporate the easiness of use 	
+MIE085 	1087.98	1089.35	0.696911196911197 Train be fancy 	
+MIE085 	1090.08	1090.82	0.698841698841699 Feels good 	
+MIE085 	1093.85	1094.66	0.700772200772201 Uh 	
+MIE085 	1095.17	1095.98	0.702702702702703 With the display 	
+MIE085 	1097.23	1099.83	0.0810810810810811 Would designer would design colours 	
+MIE085 	1100.37	1100.77	0.706563706563707 Mine 	
+FIE073 	1100.37	1101.7	0.704633204633205 Yeah maybe which you could do is 	
+FIE073 	1102.23	1104.01	0.708494208494209 video orders the device 	
+FIE073 	1105.04	1107.12	0.71042471042471 You could send them like um 	
+FIE073 	1107.8	1108.67	0.712355212355212 He uh 	
+FIE073 	1110.05	1110.69	0.714285714285714 At some 	
+FIE073 	1111.14	1112.57	0.716216216216216 foam rubber 	
+FIE073 	1113.08	1114.27	0.718146718146718 Um 	
+FIE073 	1115.4	1118.83	0.72007722007722 Ball And then they would squeeze it you would take the shape of 	
+FIE038 	1115.64	1116.69	0.722007722007722 Arrow yeah 	
+FIE038 	1119.41	1122.84	0.723938223938224 Yeah so it's really moulded to do it to your specific 	
+FIE073 	1121.08	1123.7	0.725868725868726 To to it it it in and then you would 	
+FIE073 	1124.88	1125.34	0.727799227799228 Um 	
+FIE073 	1125.34	1129.06	0.72972972972973 what the geometry of their hands would be e. and uh 	
+MIE085 	1129.38	1130.91	0.731660231660232 Hard disk reason i 	
+MIE085 	1131.96	1134.91	0.733590733590734 Resisted resisted i uh 	
+FIE073 	1132.18	1133.36	0.735521235521235 You know what i know what 	
+FIE038 	1132.3	1132.99	0.737451737451737 I 	
+FIE038 	1136.52	1143.48	0.739382239382239 But the for that you'd also have to do sort of an average across families and things like that if Unless everyone has their own personal remote 	
+FIE073 	1139.78	1142.68	0.741312741312741 That's right that's right you wouldn't wanna go too far down that 	
+FIE073 	1143.72	1146.33	0.743243243243243 Oh that that actually would uh increase the um 	
+FIE073 	1146.33	1148.17	0.745173745173745 the revenue it so we could expect yeah 	
+FIE038 	1146.64	1147.84	0.747104247104247 To say i 	
+MIO086 	1150.6	1151.04	0.749034749034749 I hope so 	
+MIE085 	1151.25	1153.17	0.750965250965251 No but incorporating the three uh 	
+MIE085 	1153.53	1154.5	0.752895752895753 Obviously be something 	
+MIE085 	1155.22	1155.74	0.754826254826255 on the market 	
+FIE038 	1155.91	1156.28	0.756756756756757 Yeah 	
+MIE085 	1156.3	1157.19	0.758687258687259 Totally different 	
+MIE085 	1157.95	1158.65	0.760617760617761 Yeah 	
+MIE085 	1158.65	1159.29	0.762548262548263 for my 	
+FIE038 	1158.71	1160.74	0.106177606177606 Already the customisable really is 	
+FIE038 	1161.44	1162.72	0.764478764478765 A really good sort of 	
+MIE085 	1163.29	1166.5	0.766409266409266 Well what it was the the uh was a nokia taking all of those 	
+FIE038 	1163.31	1164.13	0.768339768339768 New gimmick 	
+MIE085 	1167.56	1172.6	0.0308880308880309 Changeable colours Right you take a part for another face take it off button interface 	
+FIE038 	1169.36	1169.8	0.77027027027027 Yeah 	
+FIE073 	1169.5	1170.45	0.772200772200772 hmm 	
+FIE073 	1172.12	1172.69	0.774131274131274 Right 	
+MIE085 	1173.18	1175.53	0.776061776061776 And then they sold millions 	
+FIE038 	1173.58	1174.27	0.777992277992278 That's a a 	
+MIE085 	1176.22	1176.83	0.77992277992278 Millions 	
+MIE085 	1177.9	1178.31	0.781853281853282 So 	
+MIE085 	1179.31	1181.75	0.0328185328185328 And so with that do the findings were the researched easy to 	
+MIE085 	1182.51	1183.2	0.783783783783784 whole you know 	
+MIE085 	1183.93	1186.57	0.785714285714286 We have to come up with something totally new there's not on the market 	
+FIE073 	1186.71	1188.3	0.787644787644788 But also have to work um 	
+FIE073 	1188.3	1194.42	0.0637065637065637 consider that to who we were gonna get to make this custom cases in terms of manufacturing process system right	
+FIE073 	1194.94	1195.86	0.78957528957529 Right um 	
+FIE073 	1196.26	1197.79	0.791505791505791 Learn about um 	
+FIE073 	1197.79	1198.89	0.793436293436293 labour wires 	
+FIE073 	1199.98	1205.75	0.795366795366795 You know and Different countries and so forth so we can do it cheap but you don't wanna explore it to uh 	
+FIE073 	1205.75	1207.39	0.797297297297297 labour and um 	
+FIE073 	1207.39	1208.51	0.799227799227799 third world countries 	
+FIE073 	1209.58	1216.67	0.801158301158301 Actually that right you turn around and say they your um for the reason the cost is high for the devices because	
+FIE073 	1217.42	1221.02	0.803088803088803 you're paying uh a working wage to the person who made 	
+FIE073 	1221.5	1222.2	0.805019305019305 The device 	
+FIE038 	1222.77	1223.11	0.806949806949807 Uh-huh 	
+MIO086 	1223.43	1226.04	0.808880308880309 Yeah but we can get the production and uh 	
+MIO086 	1226.82	1228.21	0.810810810810811 Confuse like uh 	
+FIE073 	1228.04	1229.3	0.812741312741313 Cost of living is low 	
+MIO086 	1228.21	1232.84	0.814671814671815 in the uh yes yes and disliking d. or a chain or a mono ratio so 	
+MIO086 	1233.56	1236.65	0.816602316602317 You can go a bit of features then but the price any kind some more 	
+MIO086 	1237.65	1238.07	0.818532818532819 So 	
+FIE073 	1241.95	1245.07	0.0656370656370656 That would that be something that manufacturing would have to um 	
+MIO086 	1244.54	1244.77	0.82046332046332 Yeah 	
+MIO086 	1245.36	1245.89	0.822393822393822 Yeah so 	
+FIE073 	1245.59	1247.91	0.824324324324324 Explore more into where 	
+MIE085 	1246.88	1249.54	0.826254826254826 Where are we are we in any fashion is is 	
+FIE073 	1248.38	1249.09	0.828185328185328 Uh-huh 	
+MIE085 	1250.77	1252.34	0.83011583011583 Than other stuff We're here to 	
+MIO086 	1251.59	1252.09	0.832046332046332 Yeah so 	
+MIO086 	1253.2	1259.65	0.0945945945945946 Yes uh but uh but that that they can't that we can talk about the production later okay depends on the the quantity okay 	
+MIE085 	1254.19	1255.6	0.833976833976834 Come up with a nice product 	
+FIE073 	1259.66	1259.9	0.835907335907336 Hmm 	
+FIE073 	1259.9	1260.19	0.837837837837838 hmm 	
+MIO086 	1260.12	1265.19	0.83976833976834 So we don't need to have uh well one uh fabric factor or something so we can have a have it will 	
+MIO086 	1265.91	1268.71	0.841698841698842 There are do the fabric okay but the different uh 	
+MIO086 	1268.71	1274.72	0.843629343629344 electronics items then we can have a business step and the the good the cost okay 	
+MIO086 	1274.72	1275.4	0.845559845559846 to sell more 	
+MIO086 	1276.65	1279.74	0.847490347490347 So that the led lights to decide foster board uh 	
+MIO086 	1279.74	1282.97	0.0868725868725869 oh components concept and uh interface concept 	
+MIO086 	1283.49	1284.6	0.849420849420849 Okay if it is 	
+MIO086 	1285.16	1287.7	0.851351351351351 Picks up the phone for both of you what uh 	
+MIO086 	1287.7	1288.62	0.853281853281853 it was talking 	
+MIO086 	1290.61	1291.53	0.855212355212355 And you are design 	
+MIO086 	1292.53	1293.18	0.857142857142857 With uh 	
+MIO086 	1293.18	1296.88	0.0250965250965251 oh you wanna the display or bit of a display or just a simple so 	
+FIE038 	1298.51	1306.21	0.0965250965250965 I think it depends i mean i think it's a good idea that we need to really think about how useful it's gonna be because theoretically with the t. v. you already have 	
+FIE038 	1306.82	1309.09	0.150579150579151 A big display right in front of you know 	
+FIE073 	1309.36	1309.84	0.859073359073359 Hmm 	
+FIE038 	1310.2	1310.9	0.861003861003861 So 	
+FIE038 	1311.52	1313.44	0.862934362934363 If we're trying to keep costs down 	
+FIE038 	1314.13	1316.38	0.864864864864865 Then maybe sacrifice in the display 	
+FIE073 	1316.84	1317.27	0.866795366795367 Uh-huh 	
+FIE038 	1318.16	1325.17	0.00386100386100386 Is a way to go out and it depends on how much putting a display costs And what it would be used for very specifically would it would be used for 	
+FIE073 	1324.96	1325.4	0.868725868725869 Hmm 	
+FIE073 	1325.4	1325.73	0.870656370656371 hmm 	
+FIE038 	1325.68	1328.61	0.11969111969112 "'cause" if it's only use for one little thing then putting in a big display 	
+FIE038 	1329.37	1330.53	0.152509652509653 Or a big display that's 	
+FIE038 	1331.74	1335.01	0.872586872586873 Probably expensive just to do the training on the chip 	
+FIE038 	1336.03	1338.15	0.135135135135135 For the speech recognition or whatever 	
+FIE038 	1338.7	1341.03	0.874517374517375 May not be the most cost efficient way to go but 	
+FIE038 	1342.34	1344.15	0.876447876447876 That's a sort of speculation i mean 	
+FIE073 	1345.24	1346.52	0.878378378378378 We think uh jean 	
+FIE073 	1346.95	1350.08	0.154440154440154 You like the display in one of the concepts that you share 	
+FIE073 	1351.18	1352.1	0.88030888030888 Um 	
+FIE073 	1352.1	1354.15	0.882239382239382 you know how much it costs uh uh 	
+FIE073 	1354.15	1357.57	0.156370656370656 mm to to add a little display like that's uh 	
+MIE085 	1358.18	1359.43	0.884169884169884 No one knows 	
+FIE073 	1359.02	1360.97	0.189189189189189 You want a connection i am to go find out 	
+MIE085 	1362.15	1363.16	0.191119691119691 have to find that cost 	
+FIE073 	1363.84	1364.31	0.886100386100386 Okay 	
+FIE073 	1366.34	1367.23	0.888030888030888 Sorry about that 	
+MIE085 	1366.61	1373.09	0.88996138996139 And last a problem i mean for them pushing it after it's made i. either market it i 	
+MIE085 	1374.1	1375.64	0.891891891891892 Once we get a price on that we can 	
+FIE073 	1379.23	1382.89	0.893822393822394 So but The advanced chip-on-print is what um 	
+FIE073 	1382.89	1383.3	0.895752895752896 what we've 	
+FIE073 	1384.7	1387.16	0.897683397683398 We've decided we determined in the uh 	
+FIE073 	1387.57	1390.85	0.173745173745174 Engineering industrial design is the recommendation 	
+FIE073 	1391.55	1392.84	0.8996138996139 And um 	
+FIE073 	1392.84	1396.71	0.901544401544402 i think we've kinda come to some Agreement regarding um 	
+FIE073 	1397.38	1399.12	0.903474903474903 This concept of a wooden case 	
+FIE038 	1399.28	1399.6	0.905405405405405 Uh-huh 	
+FIE073 	1401.17	1402.68	0.108108108108108 Uh customisable um 	
+MIE085 	1402.82	1405.81	0.907335907335907 Nice beautiful mahogany redwoods cases 	
+FIE038 	1404.21	1405.82	0.125482625482625 What about that Buttons would 	
+FIE038 	1406.68	1408.41	0.127413127413127 With the buttons be would say over 	
+FIE073 	1409.13	1409.62	0.909266409266409 Uh 	
+FIE073 	1409.62	1410.5	0.911196911196911 i don't think so 	
+MIO086 	1410.12	1410.91	0.913127413127413 I don't think so 	
+FIE073 	1410.91	1412.76	0.915057915057915 No i think they could be rubber like they 	
+MIO086 	1412.26	1412.8	0.916988416988417 Yes 	
+FIE073 	1413.22	1416.08	0.918918918918919 so you have a tactile experience of 	
+MIO086 	1413.27	1413.65	0.920849420849421 Yes 	
+MIO086 	1414.13	1415.16	0.922779922779923 Don't that's nice 	
+FIE038 	1415.16	1415.56	0.924710424710425 Yeah 	
+MIO086 	1417.53	1418.02	0.926640926640927 Yeah so 	
+MIO086 	1418.56	1420.05	0.928571428571429 Or what we'll do is uh 	
+MIO086 	1420.05	1429.05	0.0347490347490347 we'll we'll stick with the the simple design for coming into the egg find out about know how much it's cost of extra think if we go for the display 	
+MIO086 	1429.74	1430.55	0.930501930501931 Okay 	
+MIO086 	1430.55	1434.85	0.932432432432432 so maybe what you can do is uh about a few you can come up with the 	
+MIO086 	1435.4	1436.26	0.934362934362934 The product right 	
+MIO086 	1437.18	1438.12	0.936293436293436 Okay the more than 	
+FIE038 	1437.99	1438.37	0.938223938223938 Okay 	
+MIO086 	1438.87	1439.28	0.94015444015444 Okay 	
+FIE038 	1442.59	1442.89	0.942084942084942 Sure 	
+FIE073 	1450.52	1451.78	0.944015444015444 So um 	
+FIE073 	1452.36	1453.37	0.945945945945946 Are we done that's me 	
+MIO086 	1454.98	1459.71	0.947876447876448 Uh i hope uh for is it okay if uh they will come up with a prototype design 	
+MIO086 	1460.18	1463.89	0.94980694980695 Okay then they can show you how it looks like and then we can uh submitted a 	
+MIO086 	1464.88	1466.37	0.951737451737452 I do some into the management 	
+MIO086 	1466.84	1467.26	0.953667953667954 Okay 	
+MIO086 	1468.44	1473.01	0.955598455598456 Then mean that and you can come up with the price so how much it's cost of extra for the the display 	
+FIE073 	1473.29	1474.3	0.957528957528958 I'm marketing strategy 	
+MIO086 	1473.75	1477.05	0.959459459459459 And and a might be sturdy that's very important okay 	
+MIE085 	1474.97	1475.49	0.961389961389961 Okay 	
+MIE085 	1475.49	1476.29	0.963320463320463 i think yeah 	
+MIO086 	1480.04	1480.38	0.965250965250965 How much 	
+MIE085 	1480.22	1480.64	0.967181467181467 Finer 	
+MIO086 	1481.33	1483.22	0.969111969111969 Oh my how much how much you can select so uh 	
+MIO086 	1484.28	1486.04	0.971042471042471 Of course you make minute or so 	
+MIE085 	1485.8	1486.62	0.972972972972973 Yeah 	
+MIE085 	1486.62	1486.78	0.974903474903475 yeah 	
+MIO086 	1487.21	1489.87	0.976833976833977 It's modified you make money to uh your commission 	
+MIO086 	1492.59	1494.1	0.978764478764479 Okay so any questions 	
+MIO086 	1497.12	1500.89	0.980694980694981 So by next meeting so place come up with the 	
+MIO086 	1502.35	1502.87	0.982625482625483 Okay 	
+MIO086 	1502.87	1503.86	0.984555984555985 then uh 	
+MIO086 	1504.12	1504.94	0.986486486486487 can proceed from there 	
+MIO086 	1506.61	1506.88	0.988416988416988 Okay 	
+MIO086 	1507.82	1509.74	0.99034749034749 So thanks for all your uh efforts 	
+MIO086 	1510.16	1512.06	0.992277992277992 And coming for the meeting again 	
+MIO086 	1512.81	1513.84	0.994208494208494 And the c.s on that 	
+MIO086 	1514.82	1515.33	0.996138996138996 Okay 	
+MIO086 	1515.33	1515.63	0.998069498069498 thank you	

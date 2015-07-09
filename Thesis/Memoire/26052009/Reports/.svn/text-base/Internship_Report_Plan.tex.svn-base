@@ -1,0 +1,203 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\author{Quoc Anh Le}
+\title{Plan for Internship Report}
+\begin{document}
+
+\section	{Introduction}
+\subsection{Presentation of Idiap}
+\subsection{Presentation of project}
+\begin{itemize}
+\item {Browser Evaluation Test: BET}
+\item {Objective of Internship Project}
+\end{itemize}
+
+\section{State of the art (Related works)}
+Present some related works: information retrieval methods. These include both modern methods (dependency relations, language modeling,...) and traditional methodes (lexical similarity, lexical density,...). A short presentation of TREC and some existing QA systems. 
+\begin{itemize}
+\item {Question Answrering Systems (Prefer to analyze question type: Who, When, What,...)}
+\item {Web Search Engine Systems (Prefer to return long documents,...)}
+\end{itemize}
+
+
+
+Giving some differences of this project in comparison with other systems: 
+
+Total new research subtopic.
+
+\begin{list} {}{}
+\item {Questions are written in form of indirect speech while meeting transcript sentences are written in form of direct speech}
+\item {Using spoken language, dialog form}
+\item {Passage detection comparing passage retrieval of other systems: Only one correct passage}
+\item {There are not separated paragraphs in a meeting transcript}
+\end{list}
+
+\section{Proposed algorithm}
+
+\subsection{Data preprocessing}
+Objective: i) Normalise questions and transcript, ii) Reduce the computation time
+	
+\begin{itemize}
+\item {Remove characters not related to words}
+\item {Convert abbreviated words into full forms: I'll = I will, haven't = have not,..}
+\item {Convert numeric form to text: 34 becomes thirty four, 2nd becomes second,..}
+\item {Remove stop-words}
+\end{itemize}
+
+\subsection{Passage detection}
+\begin{enumerate}
+\item {Question processing: \\
+			- Splitting\\
+			- Lemmatisation\\
+			- Stem}
+\item {Transcrip processing: \\
+		- Splitting \\
+		- Synonyms \\
+		- Stem \\
+		- Indexing (position - word:stem:synonyms - speaker ID)}
+
+\item {Definition of search window form: \\
+			- Matching unit is word\\
+			- Dynamic size: depends on question size (ex:  window size = 5 x question size)\\
+			- Splitting methods: \\
+					+  non-overlapping: window step = window size\\
+					+  overlapping: window step = 1/2 x window size \\
+					+  dynamic location: each window is located on a question word in transcript, start of window = position of a question word - window size/2 and end of window = position of a question word + window size/2}
+
+
+\item {Definition search window score based on lexical similarity: \\
+				-   score = score + 2 if question word is a name of participant in window \\
+				-   score = score + 0.2 if question word belongs to synonyms of one word in window\\
+				-   score = score + 1 in other cases\\}
+
+\item {Definition search window score based on word frequencies \\
+	- WFT = Word frequencies in the transcript \\
+	- WFS = Word frequencies in spoken english \\
+	- N = number of transcript words \\
+	- Formula: score = score + log((N/WFT)*(1/WFS)) (not experimented)}
+
+		
+\item{Algorithm: if there are two windows having the same score then recalculate their score with bigram. If they still have the same score, recalculate their score with trigram, etc,... until we obtain only one window having the highest score.}
+		
+\item {Evaluation method: \\
+		- Comparing reference answer (made by hand) and candidate answer (made by algorithm)\\
+		- If two answer are overlapped, the candidate answer will be considered correct\\
+		- Number of overlapped words must be over a threshold (ex: question size)}
+\end{enumerate}
+
+
+\subsection{Question Answering}
+- Comparison of two passages scores corresponding two questions in a pair. The question whose higher passage score will be considered true.
+
+- If they have the same score, distance among question words in the corresponding passage will be computed. The question whose smaller distance will be considered true.
+
+
+\section{Evaluations}
+\subsection{Experiment Setup}
+\begin{list}{}{}
+\item {Describe brief of two meeting transcrips for testing IB4010 et IS8001c (time, number of words,... }
+\item {Describe brief of questions(length average, number of questions containing name of participant, not throughout,...)}
+\end{list}
+
+\subsection{Performance Evaluation}
+
+\subsubsection{Parameters Optimization}
+Cross-validation method: 
+\begin{list}{}{}
+\item {Randomly split data into training and test sets}
+\item {Usually performed multiple times and results averaged}
+\item {4:1-fold cross-validation: Split data into 5 parts; train on 4, test on 1; repeat for each part; average (or 80\% for train data and 20\% for test data)}
+\end{list}
+
+
+
+
+
+\subsubsection{Passage detection}
+
+Performance progress for the meeting transcript IB4010 
+
+\begin{tabular}{|l|l|l|l|}
+\hline  & non-overlapping window & overlapping window  & dynamic window  \\ 
+\hline Basescore (without extensions) & 0.3 & 0.4  & 0.34  \\ 
+\hline Stem &  &  &  \\ 
+\hline Stem + lemma &  &  &  \\ 
+\hline Stem + lemma + synonyms &  &  &  \\ 
+\hline Based on name weight + bigram &  &  &  \\ 
+\hline Based on word frequencies + bigram &  &  &  \\ 	   
+\hline 
+\end{tabular} 
+\\
+\\
+
+
+Performance progress for the meeting transcript IS8001c 
+
+\begin{tabular}{|l|l|l|l|}
+\hline  & non-overlapping window & overlapping window  & dynamic window  \\ 
+\hline Basescore (without extensions) & 0.3 & 0.4  & 0.34  \\ 
+\hline Stem &  &  &  \\ 
+\hline Stem + lemma &  &  &  \\ 
+\hline Stem + lemma + synonyms &  &  &  \\ 
+\hline Based on name weight + bigram &  &  &  \\ 
+\hline Based on word frequencies + bigram &  &  &  \\ 	   
+\hline 
+\end{tabular} 
+
+
+\subsubsection{Questions Assessment}
+Performance progress of algorithm \\
+\begin{tabular}{|l|l|l|}
+\hline   & Meeting transcript IB4010 & Meeting transcript IS8001c  \\ 
+\hline Basecore &  &  \\ 
+\hline Passage score + keyword density (Distance) &  &  \\ 
+\hline Passage score + question length + keyword density &  &  \\ 
+\hline  &  &  \\ 
+\hline 
+\end{tabular} \\ \\
+
+
+Experiment on correct passages and incorrect passages:
+
+\begin{tabular}{|c|c|c|}
+\hline  & On correct passages & On incorrect passages \\ 
+\hline Meeting transcript IB4010 &  &  \\ 
+\hline Meeting transcript IS8001c &  &  \\ 
+\hline 
+\end{tabular} 
+
+\subsection{Error Analysis}
+\begin{list}{}{}
+\item {Check the score of correct window found by hand in comparison with best score by algorithm and distance between them}
+\item {Classify questions: \\
+		- Define a set of error signals: Inference, deduction, argumentation,... for instance: four = up down left right; simplicity or easy = simple; thump = finger; keypad = button; without = not, ... \\
+		- Compare each question with this set in order to classify it (easy or difficult) }
+\end{list}
+
+Giving a percent of easy questions from this analysis and comparing with the correct answers by algorithm.
+
+\section{Comparing with BET scores by humans}
+
+\section{Conclusion and future works}
+
+Future works
+\begin{itemize}
+\item{Automatic meeting transcript topic assignment in the preprocessing step in the backward way. For instance: \\
+		denis : so i don't know if you all received the the a agenda for this meeting (topic: received, agenda, meeting)
+
+		denis : do you no (topic: received, agenda, meeting)
+
+		mirek : no i haven't (topic: received, agenda, meeting)
+
+		denis : here it is (topic: agenda, meeting, mirek)}
+\item{Exploiting relations dependency among words/terms - (If I still have time, I will apply this method for phase 2)}
+
+\end{itemize}
+\section{Acknowledgements}
+
+\section{References}
+\end{document}

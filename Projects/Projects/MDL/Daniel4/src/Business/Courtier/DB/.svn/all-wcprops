@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB
+END
+Build.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/Build.java
+END
+DESTRUCTOR.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/DESTRUCTOR.ddl
+END
+getDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/getDataManager.java
+END
+CONSTRUCTOR.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/CONSTRUCTOR.ddl
+END
+DOMAIN.ddl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/DOMAIN.ddl
+END
+Destroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/DB/Destroy.java
+END

@@ -1,0 +1,17 @@
+\chapter{Conclusion}
+% Recapitulation des axes essentiels du travail, mettant en evidence l'apport original qu'il constitue. Il ne faut jamais introduire d'elements nouveaux dans une conclusion.	
+% Tranh su pho truong, chi dan ko hop thoi
+
+
+\section{Conclusion}
+
+The performance of the automatic true-false question answering system is quite below than that of humans using existing browsers. However, the scores of passage retrieval stage are a lot better than random scores, in a short time (less than 1 s per question).
+
+\section{Summary of contributions}
+
+The author proposed an fit algorithm for the passage retrieval that pays more attention to given data that are the BET questions and meeting transcripts. The analysis on the results given by the system satisfies the proposed question as the main goal of this project. The human subjects answer questions that require a deduction or a reflexion better than the system does but the system gives the answers much more quickly. Thus, the automatic system should give consultative information for a question given by users rather than return the answer in a fully autonomous way.
+
+\section{Future Research}
+The results of the passage retrieval propose a promising assistant tool for meeting browsers. This automatic tool integrated into a meeting browser help users locate relevant information in the meeting in a quick time, so that they can save time to reason out the answer to a question.
+
+This is the first design for an automatic meeting browser following to question answering approach. Thus, this system can be developed by adding a \textit{answer extraction} stage after the passage retrieval stage in order to extract a short phrase that express the answer instead of giving an answer \textit{true} or \textit{false}. However, this requires a deeply research on semantic text.

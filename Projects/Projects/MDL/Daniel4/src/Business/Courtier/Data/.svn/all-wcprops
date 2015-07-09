@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mdl3/!svn/ver/139/Daniel4/src/Business/Courtier/Data
+END
+CompteTitres.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/CompteTitres.java
+END
+Liquidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Liquidation.java
+END
+CoursTitre.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/CoursTitre.java
+END
+Particulier.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mdl3/!svn/ver/139/Daniel4/src/Business/Courtier/Data/Particulier.java
+END
+CompteLiquidites.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/CompteLiquidites.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Transaction.java
+END
+Titre.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Titre.java
+END
+LigneJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/LigneJournal.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Journal.java
+END
+Ordre.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Ordre.java
+END
+Politique.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Politique.java
+END
+SocieteCotee.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/SocieteCotee.java
+END
+Courtier.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Data/Courtier.java
+END
+RootData.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mdl3/!svn/ver/139/Daniel4/src/Business/Courtier/Data/RootData.java
+END

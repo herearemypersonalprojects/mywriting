@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Automatic BET Question Answering}{}
+\BOOKMARK [2][-]{subsection.1.1}{Pre-processing}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Passage Retrieval}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{True-False Answer}{section.1}
+\BOOKMARK [1][-]{section.2}{Results for AutoBET and comparison}{}
+\BOOKMARK [2][-]{subsection.2.1}{How to evaluate the 2 phases}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{The data}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{The results}{section.2}

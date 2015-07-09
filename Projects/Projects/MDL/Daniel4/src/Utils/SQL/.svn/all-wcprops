@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL
+END
+SQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLDB.java
+END
+SQLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLQuery.java
+END
+SQLFileBatchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLFileBatchQuery.java
+END
+couple.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/couple.java
+END
+SQLExecBatchQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLExecBatchQuery.java
+END
+SQLStringQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLStringQuery.java
+END
+SQLUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mdl3/!svn/ver/123/Daniel4/src/Utils/SQL/SQLUser.java
+END

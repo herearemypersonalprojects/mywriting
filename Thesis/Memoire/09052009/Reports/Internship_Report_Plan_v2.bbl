@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{buscaldi2007ngv}
+D.~Buscaldi, J.M. Gomez, P.~Rosso, and E.~Sanchis.
+\newblock {N-Gram vs. Keyword-Based Passage Retrieval for Question Answering}.
+\newblock {\em LECTURE NOTES IN COMPUTER SCIENCE}, 4730:377, 2007.
+
+\bibitem{cui2005qap}
+H.~Cui, R.~Sun, K.~Li, M.Y. Kan, and T.S. Chua.
+\newblock {Question answering passage retrieval using dependency relations}.
+\newblock In {\em Proceedings of the 28th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  400--407. ACM New York, NY, USA, 2005.
+
+\bibitem{hirschman1999drr}
+L.~Hirschman, M.~Light, E.~Breck, and J.D. Burger.
+\newblock {Deep Read: a reading comprehension system}.
+\newblock In {\em Proceedings of the 37th annual meeting of the Association for
+  Computational Linguistics on Computational Linguistics}, pages 325--332.
+  Association for Computational Linguistics Morristown, NJ, USA, 1999.
+
+\bibitem{kaszkiel2001era}
+M.~Kaszkiel and J.~Zobel.
+\newblock {Effective ranking with arbitrary passages}.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 52(4):344--364, 2001.
+
+\bibitem{kohavi1995scv}
+R.~Kohavi.
+\newblock {A Study of Cross-Validation and Bootstrap for Accuracy Estimation
+  and Model Selection}.
+\newblock In {\em INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE},
+  volume~14, pages 1137--1145. LAWRENCE ERLBAUM ASSOCIATES LTD, 1995.
+
+\bibitem{light2002aec}
+M.~LIGHT, G.S. MANN, E.~RILOFF, and E.~BRECK.
+\newblock {Analyses for elucidating current question answering technology}.
+\newblock {\em Natural Language Engineering}, 7(04):325--342, 2002.
+
+\bibitem{pasca2001irw}
+M.~Pasca and S.~Harabagiu.
+\newblock {The informative role of WordNet in Open-Domain Question Answering}.
+\newblock In {\em Proceedings of NAACL-01 Workshop on WordNet and Other Lexical
+  Resources}, pages 138--143, 2001.
+
+\bibitem{porter2001ss}
+MF~Porter.
+\newblock {Snowball Stemmer}, 2001.
+
+\bibitem{BET}
+P.~Wellner, M.~Flynn, S.~Tucker, and S.~Whittaker.
+\newblock {A meeting browser evaluation test}.
+\newblock In {\em Conference on Human Factors in Computing Systems}, pages
+  2021--2024. ACM New York, NY, USA, 2005.
+
+\end{thebibliography}

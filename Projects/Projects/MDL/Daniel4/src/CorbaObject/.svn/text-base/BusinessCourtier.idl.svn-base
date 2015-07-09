@@ -1,0 +1,123 @@
+module CorbaObject
+
+{
+ 	struct DateStruct {
+	     long year;
+	     long month;
+	     long day;
+	     long hour;
+	     long minute;
+	     long second;
+	     long microsecond;
+	 };
+
+	struct Ordre
+	{
+		string numeroParticulier; 	// c'est aussi le login du particulier
+		boolean estUnAchat;		// est un achat, vrai ou faux ! (achat ou vente)
+		boolean estAToutPrix; 		// est-ce un ordre à tout prix ?			
+		string numeroSociete; 		// numero de la societe => prendre nom de la societe
+		long quantiteDesiree;		// nombre de titres desires
+		long quantiteRealisee; 		// le nombre de titres vraiment achete, vendu !
+		float montant;			// montant  limite
+		DateStruct dEmission;		// date d'emission de l'ordre
+		DateStruct dButoir;		// date de butoir de l'ordre
+		DateStruct dRealisation;	// date de realisation 
+		string etat;			// etat de l'ordre (en cours ou re'alise')
+	};
+
+	struct Titre
+	{
+		string numero;			// numero de titre
+		string numeroSociete;		// numero de societe		
+	};
+
+	typedef sequence<Titre> TitreList;	// liste de titres
+
+	struct Societe
+	{
+		string numeroSociete; 		// le numero de la societe
+		string nomSociete;		// nom de societe		
+		TitreList titreListe;		// liste de titres
+		float valeur;			// valeur d'un titre en cours de la societe	 
+		boolean etat;			// si elle est bloque ou pas		
+	};
+
+	struct Virement
+	{
+		DateStruct date;		// date de virement
+		string numeroDebiteur;		// numero du debiteur (compte de liquidite)
+		string numeroCrediteur;		// numero du crediteur (compte de liquidite)
+		float montant;			// montant de l'argent de virement
+	};
+
+	struct Succes
+	{
+		boolean etat;			// etat d'une action
+		string msg;			// message pour expliquer le resultat de l'action
+	};
+	//
+
+	typedef sequence<Ordre> OrdreList;	// liste d'ordres
+	typedef sequence<Societe> SocieteList;	// liste de societes
+	typedef sequence<Virement> VirementList;// liste de virements
+	typedef sequence<float>	FloatList;	// 
+	typedef sequence<string> StringList;	// 
+	//
+
+	struct CompteDeTitre
+	{		
+		string numeroCompte;		// numero de compte		
+		SocieteList societeListe;	// liste des societe dont les titres appartiennent		
+		OrdreList ordreListe;		// liste des ordres en cours
+	};
+
+	struct CompteDeLiquidite
+	{		
+		string numeroCompte;		// numero de compte
+		float soldeCourant;		// montant total de l'argent	
+		float soldeDisponible; 		// le montant disponible pour les débit...
+	};
+
+	typedef sequence<CompteDeLiquidite> CompteDeLiquiditeList;
+	typedef sequence<CompteDeTitre> CompteDeTitreList;
+
+
+	struct Evolution
+	{
+		DateStruct date;		// le mois est consulte
+		FloatList valeur;		// la liste des valeur de chaque periode dans le mois
+		Societe unesociete;		// la societe est consulte
+		FloatList les5meilleursAchat;	// liste des valeurs de 5 meilleurs ordres d achat
+		FloatList les5meilleursVente;	// liste des valeurs de 5 meilleurs ordres de vente		
+	};
+
+
+	// L'interface suivante s'applique évidemment au Courtier responsable d'un Client !
+	interface CourtierForParticulier
+
+	{
+		//Le client envoie les infomation au courtier
+
+		Succes checkLogin(in string loginCourtier, in string loginParticulier, in string motDePasse);
+		Succes EmettreOrdre(in string loginCourtier, in string loginParticulier, in Ordre unordre);
+		//Succes ModifierOrdre(in Ordre unordre); => Pour l'instant on ne modifie pas d'ordre !
+		Succes TransfererLiquidite(in string loginCourtier, in Virement unvirement, in string loginParticulier);		
+		Succes TransfererTitre(in string loginCourtier, in string loginParticulier, in string numeroSociete, in long nombreTitre, in string numeroCompteDebiteur, in string numeroCompteCrediteur);
+
+
+		//Le client demande les informations
+		Evolution ConsulterBourse( in string numeroSociete);
+		SocieteList getListSociete();				
+		SocieteList getListSocietePourUnParticulier(in string loginCourtier, in string numeroParticulier);
+		CompteDeTitreList getListCompteTitre(in string loginCourtier, in string numeroParticulier, in string numeroCompteDeLiquidites);		
+		CompteDeLiquiditeList getListCompteLiquidite(in string loginCourtier, in string numeroParticulier);
+// Daniel, je viens d'ajouter deux methodes pour consulter l'histoire ici
+		VirementList getListVirement(in string numeroCompteLiquidite, in DateStruct date); //on utilise seleument (mois/an - Avril/2007)
+		OrdreList getListOrdre(in string numeroCompteTitre, in DateStruct date);
+//et voila pour prendre la liste courtier
+		StringList getListCourtier(); // demander tous les numeros de courtiers
+	};
+
+};
+

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="294"
+   name=""
+   committed-date="2009-01-23T12:33:01.912681Z"
+   url="https://meetingbrowser.googlecode.com/svn/trunk/MeetingBrowser/Reports"
+   last-author="giahuy.le"
+   kind="dir"
+   uuid="e9c7d086-8355-0410-a1e4-f74efce07487"
+   repos="https://meetingbrowser.googlecode.com/svn"
+   revision="297"/>
+<entry
+   committed-rev="286"
+   name="bet4qtb-results-pourAnh.xls"
+   text-time="2009-01-18T09:18:03.305000Z"
+   committed-date="2009-01-19T08:15:39.680665Z"
+   checksum="40320a1fabbca8b1628bac77bb6452ea"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-11T14:36:51.748000Z"/>
+<entry
+   committed-rev="291"
+   name="question_process.jpg"
+   text-time="2009-01-20T16:51:38.470600Z"
+   committed-date="2009-01-21T17:59:26.810861Z"
+   checksum="da2b87cdd15965f74643f16d716c021b"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-21T17:57:46.083946Z"/>
+<entry
+   committed-rev="337"
+   name="Algorithm.tex"
+   text-time="2009-03-04T12:13:40.204000Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="50c3a1c9ded94ea2669185f87ee02f35"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="179"
+   name="autobet-im2sitevisit08_v5.pdf"
+   text-time="2009-01-07T10:14:42.675154Z"
+   committed-date="2008-11-10T14:14:52.292058Z"
+   checksum="414c28c81313e92f6cea163a47477e5e"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:49.666354Z"/>
+<entry
+   committed-rev="136"
+   name="passage_evaluation.jpg"
+   text-time="2009-01-07T10:14:42.706354Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="93c0c6365dadb8d1130c53128caf960d"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:50.477554Z"/>
+<entry
+   committed-rev="131"
+   name="logo-fundp.jpg"
+   text-time="2009-01-07T10:14:42.706354Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="588a61f698615616878da75a491bde81"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:51.616354Z"/>
+<entry
+   committed-rev="263"
+   name="plain.bst"
+   text-time="2009-01-08T21:15:08.047000Z"
+   committed-date="2009-01-09T02:48:11.245009Z"
+   checksum="2333da366b5c8f6cd632b85558783a79"
+   last-author="giahuy.le"
+   kind="file"/>
+<entry
+   committed-rev="241"
+   name="Internship_Report_Plan_v1.tex"
+   text-time="2009-01-07T10:14:42.753154Z"
+   committed-date="2009-01-03T23:35:55.915584Z"
+   checksum="88a6d3521c6ba39d929908304d200fad"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-07T10:13:52.645954Z"/>
+<entry
+   committed-rev="294"
+   name="Internship_Report_Plan_v2.tex"
+   text-time="2009-01-23T12:13:10.608766Z"
+   committed-date="2009-01-23T12:33:01.912681Z"
+   checksum="fc266c87c8e6b21bd5d71fbacef24820"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-12T17:39:28.153580Z"/>
+<entry
+   committed-rev="307"
+   name="BET_stages.jpg"
+   text-time="2009-02-06T19:05:32.454800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="c8fc81ec449621bb03764b7a34627384"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-07T23:47:41.318755Z"
+   revision="307"/>
+<entry
+   committed-rev="272"
+   name="Human_Machine.xls"
+   text-time="2009-01-12T10:33:19.661000Z"
+   committed-date="2009-01-12T11:09:04.200456Z"
+   checksum="732983477c8bccd47e650175789dd496"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-12T11:08:40.758000Z"/>
+<entry
+   committed-rev="337"
+   name="Acknowledgement.tex"
+   text-time="2009-03-04T01:13:38.104459Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="cb2930edaddea3e98c7a3c1c2caaa77a"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="143"
+   name="wordnet_hyponyms.jpg"
+   text-time="2009-01-07T10:14:42.815554Z"
+   committed-date="2008-10-29T08:02:56.098253Z"
+   checksum="3ab62133328f58dba6b556f38518b362"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:54.471154Z"/>
+<entry
+   committed-rev="303"
+   name="BET_interface.jpg"
+   text-time="2009-02-02T01:31:15.720600Z"
+   committed-date="2009-02-04T17:33:36.235223Z"
+   checksum="d18f55267046ecc532905dc29f677127"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-02T15:00:29.660800Z"
+   revision="303"/>
+<entry
+   committed-rev="334"
+   name="Report.tex"
+   text-time="2009-03-01T15:58:36.740949Z"
+   committed-date="2009-03-01T15:59:11.540644Z"
+   checksum="b967e433f3220c0a1207d162fe7d4840"
+   last-author="giahuy.le"
+   kind="file"
+   revision="334"/>
+<entry
+   committed-rev="274"
+   name="statistics_summary.doc"
+   text-time="2009-01-12T21:30:10.674000Z"
+   committed-date="2009-01-13T04:16:57.744055Z"
+   checksum="b2bf0d2d966bc20021819be55bfc8101"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-12T17:39:31.320380Z"/>
+<entry
+   committed-rev="337"
+   name="Description_data.tex"
+   text-time="2009-03-04T08:59:04.458200Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="74a5d719a1fd2a371c4f2ed3e7692a3a"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="337"
+   name="Conclusion.tex"
+   text-time="2009-03-04T12:00:43.530600Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="6d4661bd392d835ab78bcd49e474c445"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="270"
+   name="ib4010.txt"
+   text-time="2009-01-09T14:09:24.332000Z"
+   committed-date="2009-01-11T14:38:37.158039Z"
+   checksum="9338574f8c4b823b748cd978f77f0dea"
+   last-author="giahuy.le"
+   kind="file"/>
+<entry
+   committed-rev="136"
+   name="passage_retrieval.jpg"
+   text-time="2009-01-07T10:14:42.877954Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="da5cf4a0b762a5089331f436153ca0e2"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:57.279154Z"/>
+<entry
+   committed-rev="188"
+   name="autobet-im2sitevisit08_v4.ppt"
+   text-time="2009-01-07T10:14:42.893554Z"
+   committed-date="2008-11-16T21:50:01.121875Z"
+   checksum="cd279a6c74df3a8160822d23ad117711"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:02.427154Z"/>
+<entry
+   committed-rev="287"
+   name="BET_results_compararison_IB4010_truefalse.jpg"
+   text-time="2009-01-19T17:16:08.415500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="c236fc1d4bade5d4d31f102045df849d"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.671500Z"/>
+<entry
+   committed-rev="180"
+   name="autobet-im2sitevisit08_v5.ppt"
+   text-time="2009-01-07T10:14:42.909154Z"
+   committed-date="2008-11-10T14:15:18.499677Z"
+   checksum="40ad7ce34c7c062651177bb4c5440b2b"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:07.606354Z"/>
+<entry
+   committed-rev="337"
+   name="Introduction.tex"
+   text-time="2009-03-04T13:10:11.598600Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="df9946be8c4c106beee46fff11f35864"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="138"
+   name="BET.pdf"
+   text-time="2009-01-07T10:14:42.924754Z"
+   committed-date="2008-10-27T22:12:57.914811Z"
+   checksum="bb19828e6c783a7395d62729f8d04a67"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:19.665154Z"/>
+<entry
+   committed-rev="303"
+   name="IM2.HMI Q4 2008 Quarterly R.pdf"
+   text-time="2009-02-02T00:32:33.232600Z"
+   committed-date="2009-02-04T17:33:36.235223Z"
+   checksum="bab55fbf95021e504834545dc54a8492"
+   last-author="giahuy.le"
+   kind="file"
+   revision="303"/>
+<entry
+   committed-rev="175"
+   name="index.jpg"
+   text-time="2009-01-07T10:14:42.955954Z"
+   committed-date="2008-11-09T23:53:18.429818Z"
+   checksum="09282f47a7b94ff9cfac3e0ba87750f9"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:20.101954Z"/>
+<entry
+   committed-rev="231"
+   name="Internship_Report_Plan.tex"
+   text-time="2009-01-07T10:14:42.971554Z"
+   committed-date="2008-12-24T09:09:58.146510Z"
+   checksum="88a6d3521c6ba39d929908304d200fad"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-07T10:14:20.538754Z"/>
+<entry
+   committed-rev="308"
+   name="Abbreviations.tex"
+   text-time="2009-02-08T00:41:11.204755Z"
+   committed-date="2009-02-08T00:49:53.034890Z"
+   checksum="b822e3f3c07db8983a5817ce1aafd0e8"
+   last-author="giahuy.le"
+   kind="file"
+   revision="308"/>
+<entry
+   committed-rev="228"
+   name="plan.tex"
+   text-time="2009-01-07T10:14:43.002754Z"
+   committed-date="2008-12-16T09:51:41.403110Z"
+   checksum="7c59e8780d83f8c275327ad1ca4cd7af"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:22.535554Z"/>
+<entry
+   committed-rev="307"
+   name="BET 4 TQB SecondIB4010.pdf"
+   text-time="2009-02-06T17:00:23.767800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="8d3b3444f8fd3afcd480909b77fef539"
+   last-author="giahuy.le"
+   kind="file"
+   revision="307"/>
+<entry
+   committed-rev="303"
+   name="BET.jpg"
+   text-time="2009-02-02T01:31:43.820600Z"
+   committed-date="2009-02-04T17:33:36.235223Z"
+   checksum="ee08bbaae038461208fef8a24cc1b40e"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-02T15:00:29.582800Z"
+   revision="303"/>
+<entry
+   committed-rev="326"
+   name="IS1008c.xls"
+   text-time="2009-02-16T22:49:33.305942Z"
+   committed-date="2009-02-17T00:30:39.809859Z"
+   checksum="71778b67761529e5cb9ac2117aeb9744"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-17T00:30:12.530742Z"
+   revision="326"/>
+<entry
+   committed-rev="322"
+   name="Stages_of_system.jpg"
+   text-time="2009-02-15T12:49:17.666341Z"
+   committed-date="2009-02-15T20:07:46.579270Z"
+   checksum="b0e8752e80793b5aef0afafbcd1fd1d1"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-08T03:09:50.393855Z"
+   revision="322"/>
+<entry
+   committed-rev="162"
+   name="Plan.doc"
+   text-time="2009-01-07T10:14:43.049554Z"
+   committed-date="2008-11-04T10:24:21.092391Z"
+   checksum="86610f33cc6a2f9cabe5b054bcce0978"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:25.000354Z"/>
+<entry
+   committed-rev="163"
+   name="schema1.jpg"
+   text-time="2009-01-07T10:14:43.065154Z"
+   committed-date="2008-11-04T11:01:43.433182Z"
+   checksum="2189bc0288ce1994e53bb8a8073ce78a"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:25.717954Z"/>
+<entry
+   committed-rev="160"
+   name="schema2.jpg"
+   text-time="2009-01-07T10:14:43.065154Z"
+   committed-date="2008-11-03T12:17:28.177963Z"
+   checksum="3c532153706d1138916322ed433c5184"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:26.560354Z"/>
+<entry
+   committed-rev="337"
+   name="Abstract.tex"
+   text-time="2009-03-04T11:27:11.836000Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="c8e83aee626607081f11fdd65aaf43c8"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="136"
+   name="transcript_process.jpg"
+   text-time="2009-01-07T10:14:43.158754Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="a6aa707bdaaf91aa81112d521df3d081"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:35.202754Z"/>
+<entry
+   committed-rev="171"
+   name="autobet-im2sitevisit08.ppt"
+   text-time="2009-01-07T10:14:43.174354Z"
+   committed-date="2008-11-07T10:40:52.947775Z"
+   checksum="1b005dbda89ba42d812adc10ffd8e76f"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:39.305554Z"/>
+<entry
+   committed-rev="136"
+   name="transcript.jpg"
+   text-time="2009-01-07T10:14:43.189954Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="4298ae4646793c70a1ba3c5107b7ca5b"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:41.115154Z"/>
+<entry
+   committed-rev="307"
+   name="BET 4 TQB - Subjects per qu.pdf"
+   text-time="2009-02-06T16:59:16.693800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="144742007e7047ac254c15799477fcc8"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-07T23:47:42.029755Z"
+   revision="307"/>
+<entry
+   committed-rev="291"
+   name="BET_results_compararison.xls"
+   text-time="2009-01-21T04:15:21.011400Z"
+   committed-date="2009-01-21T17:59:26.810861Z"
+   checksum="1b668a30252416a997ba6e0d4336daf9"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T04:08:27.565300Z"/>
+<entry
+   committed-rev="322"
+   name="Stages_of_system.ppt"
+   text-time="2009-02-15T12:47:53.090000Z"
+   committed-date="2009-02-15T20:07:46.579270Z"
+   checksum="38072ff9dcc5ea8f8fa701cdc88807d4"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-08T03:09:39.801455Z"
+   revision="322"/>
+<entry
+   committed-rev="131"
+   name="fancyheadings.sty"
+   text-time="2009-01-07T10:14:42.628354Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="8eb3984bd344d8557aad7a97941a9c8b"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:45.532354Z"/>
+<entry
+   committed-rev="173"
+   name="schema1.ppt"
+   text-time="2009-01-07T10:14:42.659554Z"
+   committed-date="2008-11-07T18:12:41.811163Z"
+   checksum="4f95e73451744914936ad6bb09a33216"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:45.750754Z"/>
+<entry
+   committed-rev="160"
+   name="schema2.ppt"
+   text-time="2009-01-07T10:14:42.675154Z"
+   committed-date="2008-11-03T12:17:28.177963Z"
+   checksum="5a26195cb93fb7ff1a107698837d288e"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:45.953554Z"/>
+<entry
+   committed-rev="335"
+   name="biblio.bib"
+   text-time="2009-03-01T16:02:51.617949Z"
+   committed-date="2009-03-01T16:06:07.506379Z"
+   checksum="d2e4f5be7274e3539747e985fafaed6d"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-07T10:13:51.631954Z"
+   revision="335"/>
+<entry
+   committed-rev="138"
+   name="Schemas.pdf"
+   text-time="2009-01-07T10:14:42.737554Z"
+   committed-date="2008-10-27T22:12:57.914811Z"
+   checksum="31a90a450d289acfb718c4f593d9974d"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:52.505554Z"/>
+<entry
+   committed-rev="291"
+   name="Cross_validation_for_summary.xls"
+   text-time="2009-01-21T04:15:24.537000Z"
+   committed-date="2009-01-21T17:59:26.810861Z"
+   checksum="223ed81f0eee778d5ec9689ae1dac1b6"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-17T22:17:59.269000Z"/>
+<entry
+   committed-rev="273"
+   name="statistics.doc"
+   text-time="2009-01-12T17:39:31.382780Z"
+   committed-date="2009-01-12T16:45:22.501779Z"
+   checksum="536489f1a7f76367bcf031219a1d61e1"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-12T17:39:30.103580Z"/>
+<entry
+   committed-rev="307"
+   name="BET 4 TQB - IS1008cSecond.pdf"
+   text-time="2009-02-06T17:00:52.641800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="81053477580a83eb977ae003f2fb3721"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-07T23:47:42.085755Z"
+   revision="307"/>
+<entry
+   committed-rev="337"
+   name="Results.tex"
+   text-time="2009-03-04T12:19:58.274000Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="bc5d66e4fb4cb97a75af2a2424d3672b"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="287"
+   name="Parameters_Optimisation_IB4010.jpg"
+   text-time="2009-01-19T17:41:02.527500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="e2a96e07854a14e731bb805049d8be9b"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.722500Z"/>
+<entry
+   committed-rev="287"
+   name="BET_results_compararison_IS1008c_passage.jpg"
+   text-time="2009-01-19T19:29:11.388500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="19ae539fb353f6e4852941d5af933c7b"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.739500Z"/>
+<entry
+   committed-rev="337"
+   name="Glossary.tex"
+   text-time="2009-03-03T23:55:35.582059Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="7bcda35b833779dc6198873a60c01ec7"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="136"
+   name="image_preview_fundp.jpeg"
+   text-time="2009-01-07T10:14:42.799954Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="b932fcc9bfc673f99f1e46445fe7c8b8"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:53.878354Z"/>
+<entry
+   committed-rev="337"
+   name="Evaluation_method.tex"
+   text-time="2009-03-04T10:59:10.242600Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="08c49970f6c993ffbda9767fc9d994dd"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="291"
+   name="Parameters_Optimisation.doc"
+   text-time="2009-01-13T02:51:58.035000Z"
+   committed-date="2009-01-21T17:59:26.810861Z"
+   checksum="8ea0c7339a1fa34e8dfb63d022422b61"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-21T17:57:45.986946Z"/>
+<entry
+   committed-rev="282"
+   name="parameters_optimisation.xls"
+   text-time="2009-01-15T16:53:03.684370Z"
+   committed-date="2009-01-16T13:59:19.431777Z"
+   checksum="4fb1458fa2aab6ea616cdbe49c71e74a"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-13T04:16:30.105280Z"/>
+<entry
+   committed-rev="333"
+   name="Appendix.tex"
+   text-time="2009-02-28T00:48:12.860000Z"
+   committed-date="2009-02-28T00:52:55.289854Z"
+   checksum="55a5a6eca2a843b4451fc124306a7169"
+   last-author="giahuy.le"
+   kind="file"
+   revision="333"/>
+<entry
+   committed-rev="337"
+   name="State_of_the_art.tex"
+   text-time="2009-03-04T02:22:10.628259Z"
+   committed-date="2009-03-05T01:14:09.480711Z"
+   checksum="9efb876d8b3c7dab8ba0795e7d85b2de"
+   last-author="giahuy.le"
+   kind="file"
+   revision="337"/>
+<entry
+   committed-rev="131"
+   name="myjfm.bst"
+   text-time="2009-01-07T10:14:42.815554Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="60a1d99dc119395db03cd17f709b35b4"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:54.611554Z"/>
+<entry
+   committed-rev="309"
+   name="Bibliography.tex"
+   text-time="2009-02-08T00:23:32.969755Z"
+   committed-date="2009-02-08T00:50:19.368711Z"
+   checksum="40642c923af67712216f6f3bec0d3849"
+   last-author="giahuy.le"
+   kind="file"
+   revision="309"/>
+<entry
+   committed-rev="307"
+   name="BET 4 TQB - IS1008cFirst.pdf"
+   text-time="2009-02-06T17:01:19.596800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="b5fe6b6f68a56ebc50563859a9d07841"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-07T23:47:41.991755Z"
+   revision="307"/>
+<entry
+   committed-rev="131"
+   name="LogoFUNDP.jpg"
+   text-time="2009-01-07T10:14:42.846754Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="e595bd22807f1a502d945c18e8fe6003"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:13:55.297954Z"/>
+<entry
+   committed-rev="307"
+   name="BET 4 TQB.pdf"
+   text-time="2009-02-06T17:01:55.323800Z"
+   committed-date="2009-02-07T23:48:58.096595Z"
+   checksum="4f75cf16383993eb01f91b6471d8ea7f"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-02-07T23:47:41.895755Z"
+   revision="307"/>
+<entry
+   committed-rev="136"
+   name="answer.jpg"
+   text-time="2009-01-07T10:14:42.862354Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="23b42899e5ac790bdade0ed7e327a808"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:13:56.374354Z"/>
+<entry
+   committed-rev="131"
+   name="Thumbs.db"
+   text-time="2009-01-07T10:14:42.955954Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="67c49e82c43b57541b7c30a71756b201"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:20.491954Z"/>
+<entry
+   committed-rev="287"
+   name="Parameters_Optimisation_IS1008c.jpg"
+   text-time="2009-01-19T17:41:41.697500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="427933afa56f259b4ac24c5e9fa74980"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.756500Z"/>
+<entry
+   committed-rev="136"
+   name="Idiap-logo-E.png"
+   text-time="2009-01-07T10:14:42.987154Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="906b8fc806407a4c3d629dfcbb83b33d"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:22.129954Z"/>
+<entry
+   committed-rev="131"
+   name="idiap.gif"
+   text-time="2009-01-07T10:14:43.033954Z"
+   committed-date="2008-10-26T17:29:04.773117Z"
+   checksum="91227f72ac8850b85510eac45ab502d9"
+   last-author="giahuy2309"
+   kind="file"
+   prop-time="2009-01-07T10:14:24.033154Z"/>
+<entry
+   committed-rev="136"
+   name="Idiap-logo-F.png"
+   text-time="2009-01-07T10:14:43.018354Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="b5e77ca2775e026894cbf56127fd0e86"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:23.877154Z"/>
+<entry
+   committed-rev="239"
+   name="analysis.txt"
+   text-time="2009-01-07T10:14:43.080754Z"
+   committed-date="2009-01-03T21:06:30.071009Z"
+   checksum="ed317e47d61e855e8e398002558a2521"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-07T10:14:26.575954Z"/>
+<entry
+   committed-rev="232"
+   name="plan.pdf"
+   text-time="2009-01-07T10:14:43.096354Z"
+   committed-date="2009-01-01T18:06:10.180786Z"
+   checksum="eab1fbd1bf40f9792c21a0e15267de24"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-07T10:14:34.188754Z"/>
+<entry
+   committed-rev="136"
+   name="logo-idiap.jpg"
+   text-time="2009-01-07T10:14:43.127554Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="664e2aaa139cf7c7ecd04a4703a155d9"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:34.282354Z"/>
+<entry
+   committed-rev="270"
+   name="is1008c.txt"
+   text-time="2009-01-09T14:09:24.357000Z"
+   committed-date="2009-01-11T14:38:37.158039Z"
+   checksum="06803cc1ee3dc0792678cc8bc91dabdb"
+   last-author="giahuy.le"
+   kind="file"/>
+<entry
+   committed-rev="287"
+   name="BET_results_compararison_IS1008c_truefalse.jpg"
+   text-time="2009-01-19T19:35:29.677500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="b7b52c72dac5d42c1f09360de07a53eb"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.687500Z"/>
+<entry
+   committed-rev="136"
+   name="questions.jpg"
+   text-time="2009-01-07T10:14:43.205554Z"
+   committed-date="2008-10-27T09:06:57.402542Z"
+   checksum="097ec96f7ca8963bef3539b7c4c0d9a9"
+   last-author="quocanh263"
+   kind="file"
+   prop-time="2009-01-07T10:14:42.612754Z"/>
+<entry
+   committed-rev="287"
+   name="BET_results_compararison_IB4010_passage.jpg"
+   text-time="2009-01-19T17:15:46.623500Z"
+   committed-date="2009-01-19T21:34:34.924214Z"
+   checksum="c9ae67be89ab4af273d40baf47fcddd1"
+   last-author="giahuy.le"
+   kind="file"
+   prop-time="2009-01-19T21:33:55.705500Z"/>
+</wc-entries>

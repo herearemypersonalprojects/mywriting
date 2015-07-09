@@ -1,0 +1,1376 @@
+speaker	start	end	rank	text	
+MIO036 	47.16	47.4 0.185454545454545 Right 	
+MIO046 	47.74	48.03 0.186181818181818 Right 	
+MIO095 	48.29	48.58 0.186909090909091 Hello 	
+MIO036 	48.97	49.59 0.187636363636364 Hi everyone 	
+MIO046 	49.25	49.83 0.188363636363636 So 	
+MIO046 	50.72	54.26 0.189090909090909 I don't know if you all received the t. i. and enough for this meeting 	
+MIO046 	54.8	55.2 0.189818181818182 You 	
+MIO095 	55.18	56.1 0.190545454545455 No i haven't 	
+MIO046 	55.67	56.05 0.191272727272727 No 	
+MIO046 	57.17	57.74 0.192 Which is 	
+MIO095 	57.34	57.71 0.192727272727273 Thank you 	
+MIO036 	58.12	58.82 0.193454545454545 I have to 	
+MIO046 	59.88	60.61 0.194181818181818 So um 	
+MIO046 	61.28	61.77 0.194909090909091 Um 	
+MIO046 	62.45	64.66 0.195636363636364 The goal for today of um 	
+MIO046 	64.66	66.84 0.196363636363636 we have Two goals um 	
+MIO046 	66.84	70.89 0.106909090909091 first is to decide the movie for uh the next projection for a movie club 	
+MIO036 	71.62	72.1 0.197090909090909 Uh-huh 	
+MIO046 	72.11	76.27 0.0501818181818182 As you know uh so it's for the last friday of this month of fact real 	
+MIO046 	77.01	81.56 0.0458181818181818 As you probably remember of the movie already projected where uh lawrence of um 	
+MIO046 	81.56	81.87 0.197818181818182 yeah 	
+MIO046 	82.27	85.66 0.198545454545455 And apocalypse now since february and i'm at it was 	
+MIO046 	86.07	87.82 0.199272727272727 last format in march 	
+MIO046 	89.45	91.02 0.2 So um 	
+MIO046 	91.02	91.7 0.200727272727273 the question 	
+MIO046 	92.74	96.94 0.0363636363636364 Is it up and these are we going to select a movie from the nineties and which which 	
+MIO046 	97.41	101.65 0.107636363636364 So that's the first goal decide for movie to be protected and simple goal is to 	
+MIO046 	102.25	104.02 0.201454545454545 Uh discuss for um 	
+MIO046 	104.02	105.81 0.202181818181818 are advertising posture 	
+MIO046 	106.64	107.23 0.202909090909091 Um 	
+MIO046 	107.23	108.45 0.203636363636364 for how how um 	
+MIO046 	108.94	109.83 0.204363636363636 Uh 	
+MIO046 	109.83	110.19 0.205090909090909 time 	
+MIO046 	110.79	115.09 0.100363636363636 Because we not is that in the last time not enough people came to the projection 	
+MIO046 	116.11	118.69 0.205818181818182 So that's it's um 	
+MIO046 	119.39	120.46 0.206545454545455 Who wants to start 	
+MIO046 	120.87	121.28 0.207272727272727 Two 	
+MIO046 	123.23	127.36 0.0581818181818182 So i guess you all prepared some documents or so um selection of moving 	
+FIE038 	127.63	127.9 0.208 Yeah 	
+MIO036 	128.26	131.09 0.208727272727273 Yes so who who has what's actually maybe 	
+MIO036 	131.72	132.2 0.209454545454545 I am 	
+FIE038 	131.82	134.24 0.210181818181818 And i've got a powerpoint presentation 	
+MIO036 	135.02	136.45 0.210909090909091 Oh we do have me right 	
+MIO095 	136.53	142.75 0.117818181818182 Okay i had a powerpoint presentation and it uh it's about that they are some reviews of the of the all i think that's the movies 	
+MIO036 	142.91	143.29 0.211636363636364 Uh-huh 	
+MIO036 	143.92	145.35 0.212363636363636 And i have a um 	
+MIO036 	146.11	147.33 0.213090909090909 Well just uh 	
+MIO036 	148.14	151.33 0.213818181818182 A piece of paper with some suggestions well but you didn't 	
+MIO046 	151.27	151.61 0.214545454545455 Yeah 	
+MIO046 	151.61	155.01 0.215272727272727 yeah also a piece of paper with uh with my favourite movie 	
+MIO036 	155.3	155.64 0.216 Oh 	
+MIO046 	156.41	157.09 0.216727272727273 Okay so 	
+MIO036 	156.83	159.28 0.032 Should we start with that Two presentations maybe yep 	
+MIO046 	157.99	158.76 0.217454545454545 Presentations 	
+MIO046 	159.64	160.02 0.218181818181818 Okay 	
+MIO046 	160.48	161.8 0.0872727272727273 I guess we can start with you 	
+FIE038 	163.82	165.35 0.218909090909091 It's not very long in any case 	
+MIO046 	166.71	167.39 0.219636363636364 here it is 	
+MIO046 	168.73	169.64 0.220363636363636 I pass this one 	
+FIE038 	169.03	169.85 0.221090909090909 Mm yeah 	
+FIE038 	169.85	170.57 0.221818181818182 i 	
+FIE038 	172.57	180.04 0.0610909090909091 Okay so What i was thinking is basically the previous movies that we had which you've already mentioned see in the agenda um 	
+FIE038 	180.04	188.46	0.222545454545455 once every the apocalypse now and amadeus What really historical serious dramatic and also action in movies except for maybe amadeus 	
+FIE038 	189.1	189.59	0.223272727272727 Um 	
+FIE038 	189.59	196.23	0.00290909090909091 that's not i was thinking of selecting something that's more in the present time Still dramatic but slightly less serious 	
+FIE038 	197.24	199.23	0.224 And what i propose is something of uh 	
+FIE038 	199.58	200.78	0.224727272727273 A thriller a mystery 	
+FIE038 	202.09	203.66	0.225454545454545 know that a lot of people find 	
+FIE038 	204.15	208.22	0.0698181818181818 Mysteries not really missed reason the movies these days a kind of can predict what's gonna happen 	
+FIE038 	208.87	209.36	0.226181818181818 Um 	
+FIE038 	209.36	215.08	0.171636363636364 but in the nineties there were some movies that did have supplies and things and and people came out saying okay didn't see that coming 	
+FIE038 	215.57	217.56	0.226909090909091 So i thought we could maybe show one of those 	
+FIE038 	217.96	222.72	0.0138181818181818 And Even if people are very seen the movie a lot of the times you go back and watch the movie again 	
+FIE038 	223.13	232.46	0.101090909090909 And you pick up on things that you didn't really notice the first time around or you see where the clues work And what led up to the end so that's more along the lines of us thinking 	
+FIE038 	233.41	236.19	0.227636363636364 And it to in particular that i would propose are 	
+FIE038 	237.4	238.35	0.168727272727273 Next slide please 	
+FIE038 	239.01	241.66	0.0792727272727273 The usual suspects and a six cents um 	
+FIE038 	241.66	243.81	0.228363636363636 i don't know if you've seen any of them 	
+FIE038 	244.38	250.63	0.08 Uh the usual suspects Why is directed by brian singer and written by chris from corey 	
+FIE038 	251.13	257.83	0.229090909090909 It has a fairly large cast so i'm not gonna read all of them but the main characters you kevin spacey and gabriel byrne 	
+FIE038 	258.51	259.65	0.229818181818182 And it's basically 	
+FIE038 	260.25	262.05	0.230545454545455 criminals to get set out 	
+FIE038 	262.73	263.17	0.231272727272727 Um 	
+FIE038 	263.17	265.36	0.232 the rested The release from prison 	
+FIE038 	266.13	267.07	0.232727272727273 They get together 	
+FIE038 	267.52	268.17	0.233454545454545 Um 	
+FIE038 	268.17	270.27	0.0705454545454546 and it's kind of crime 	
+FIE038 	270.93	275.05	0.0196363636363636 And basically the stories tall through the views of one of the suspects 	
+FIE038 	275.8	276.38	0.234181818181818 Um 	
+FIE038 	276.7	280.16	0.234909090909091 That had one is kinda neat five criminals one line at know common sense 	
+FIE038 	280.61	283.23	0.235636363636364 And you get whole story um 	
+FIE038 	283.23	283.96	0.236363636363636 as 	
+FIE038 	284.86	285.27	0.237090909090909 Uh 	
+FIE038 	285.27	288.39	0.237818181818182 that these characters you being control um 	
+FIE038 	288.39	290.54	0.238545454545455 by one sort of ravel and 	
+FIE038 	291.07	293.56	0.124363636363636 And in the end you find it in brazil and what is 	
+FIE038 	294.13	299.47	0.00945454545454546 And i kind of like the the call for rolling stone magazine the usual suspects the fascist funniest 	
+MIO046 	298.85	303.9	0.176727272727273 Which which one was it again the guy was controlling i don't remember i have seen the movie twice but uh 	
+FIE038 	303.84	305.62	0.239272727272727 Well they had any guess in a movie 	
+MIO036 	305.6	306.5	0.24 No i haven't seen a 	
+MIO095 	306.25	306.88	0.240727272727273 No i haven't 	
+MIO046 	306.97	308.8	0.241454545454545 It's the bald guy the 	
+FIE038 	307.09	309.13	0.242181818181818 So i'm not gonna give away 	
+FIE038 	309.83	311.1	0.242909090909091 You wanna go away the movie 	
+MIO046 	310.9	313.83	0.243636363636364 I know that i i 	
+FIE038 	312.4	314.99	0.244363636363636 Well i i was a u. s. i. 	
+FIE038 	316.22	324.01	0.0472727272727273 But the the call from rolling stone is fairly accurate i think it's one of the freshest fun isn't scary is kinda worse to come along since pulp fiction 	
+FIE038 	325.19	330.44	0.064 And the other movie is a six cents worth the famous line i see that people watch the little boy says 	
+FIE038 	331.22	331.65	0.245090909090909 Um 	
+FIE038 	331.65	338.98	0.245818181818182 it was written and directed by and they uh she on the line And stars bruce willis really joe was meant and then it'll act 	
+FIE038 	339.61	342.55	0.125090909090909 And again it has any twice that you find out right at the end 	
+MIO046 	343.93	344.41	0.246545454545455 Yeah 	
+MIO046 	344.41	347.02	0.155636363636364 it's a bit more commercial that one but yeah for school 	
+FIE038 	346.21	346.53	0.247272727272727 Yeah 	
+MIO036 	347.41	347.86	0.248 Uh-huh 	
+FIE038 	347.94	350.41	0.248727272727273 I mean yeah this expense was very commercial that 	
+MIO036 	351.92	357.28	0.0334545454545455 So what what is this the second image on the slide is that the the poster or 	
+FIE038 	356.33	361.29	0.0123636363636364 It's the poster for the sixth sense but unfortunately i couldn't find it clear big enough one 	
+MIO036 	362.32	364.27	0.249454545454545 it has a strange format um 	
+FIE038 	364.65	365.01	0.250181818181818 Yeah 	
+MIO036 	364.86	368.27	0.250909090909091 Horizontal and also it's one two three four five six 	
+FIE038 	365.84	366.3	0.251636363636364 Yeah i 	
+FIE038 	366.77	369.02	0.252363636363636 I think it's only part of the fall yeah 	
+FIE038 	369.02	371.92	0.253090909090909 it was the all the set all the senses 	
+FIE038 	372.51	373.02	0.253818181818182 Um 	
+FIE038 	373.02	373.71	0.254545454545455 if you do the next 	
+FIE038 	374.16	381.15	0.0109090909090909 slightly more detailed things about the movies So the usual suspects is a hundred five minutes long so it's 	
+MIO036 	375.3	375.73	0.255272727272727 Uh-huh 	
+FIE038 	381.62	382.77	0.256 I. d. some point of time 	
+FIE038 	383.36	388.43	0.0770909090909091 It has an r. rating so i don't remember what type of audience we had at the last 	
+FIE038 	389.26	393.31	0.256727272727273 It shows but it may not necessarily be suitable for kids 	
+MIO046 	389.35	389.63	0.257454545454545 Oh 	
+MIO046 	392.47	393.76	0.258181818181818 Are is what i mean 	
+FIE038 	394.29	398.05	0.258909090909091 is sort of if you're eighteen and then do you have to have a talk with you 	
+MIO046 	398.52	398.84	0.259636363636364 Okay 	
+MIO036 	399.16	400.24	0.260363636363636 So it means restrict 	
+FIE038 	399.27	401.67	0.261090909090909 It's mostly for violence yeah it's just record 	
+MIO046 	400.59	400.95	0.261818181818182 That's right 	
+FIE038 	402.34	403.09	0.262545454545455 Um 	
+FIE038 	403.97	412.43	0.008 It got any point seven and it and on the internet movie database Sixteen from the top two hundred fifty movies and forth and the top movies of the nineties 	
+FIE038 	413.04	413.93	0.263272727272727 A wind-up 	
+FIE038 	414.33	415.18	0.264 Um 	
+FIE038 	415.18	418.3	0.0836363636363636 a couple of academy awards notably for bus writing um 	
+FIE038 	418.3	419.49	0.264727272727273 so that's for the scripts 	
+FIE038 	419.96	422.29	0.265454545454545 And best actor or for kevin spacey 	
+MIO046 	422.04	422.86	0.266181818181818 That way to it 	
+MIO046 	423.5	423.85	0.266909090909091 I mean 	
+MIO046 	424.59	425.4	0.267636363636364 Uh you have the 	
+MIO046 	426.02	430.13	0.0174545454545455 Top ten from the natives know the top fifty and it's false 	
+FIE038 	431.31	436.55	0.00509090909090909 Yeah forth and the top movies of the nineties Sixteenth and the top two hundred fifty i think of all time 	
+MIO046 	433.23	434.18	0.268363636363636 Oh sorry sorry 	
+MIO095 	434.06	434.44	0.269090909090909 Uh-huh 	
+MIO095 	434.44	434.84	0.269818181818182 uh-huh 	
+MIO046 	434.93	435.28	0.270545454545455 Yeah 	
+MIO036 	436.45	439.33	0.0356363636363636 Yeah because your table was only the nineties yeah 	
+MIO046 	438.36	438.82	0.271272727272727 The front 	
+MIO095 	439.23	439.9	0.172363636363636 Nineties yeah 	
+MIO046 	439.33	439.79	0.272 Yeah 	
+MIO046 	439.79	440.23	0.272727272727273 yeah 	
+MIO036 	439.95	440.33	0.273454545454545 Uh-huh 	
+FIE038 	440.4	443.44	0.274181818181818 So it one what's the words um 	
+FIE038 	443.44	446.03	0.274909090909091 a one best from from the british um 	
+FIE038 	446.67	449.41	0.275636363636364 But are some association of the british got wanted it any words 	
+FIE038 	450.08	450.52	0.276363636363636 Um 	
+FIE038 	450.52	452.93	0.0370909090909091 i was nominated for best foreign film for this is a 	
+MIO095 	453.26	454.63	0.277090909090909 So plenty of hours a week 	
+FIE038 	454.58	455.4	0.0843636363636364 Tony awards yeah 	
+MIO046 	455.1	460.06	0.0225454545454545 That's sixteen is in top Two hundred fifty it's what to know all all days 	
+MIO036 	455.98	456.67	0.277818181818182 Yeah well 	
+FIE038 	459.53	460.6	0.101818181818182 I think of all time yeah 	
+MIO095 	460.35	461.45	0.278545454545455 Of all the movies yeah 	
+MIO046 	460.61	461.22      0.279272727272727 All times 	
+MIO095 	461.45	461.76	0.28 yeah 	
+FIE038 	463.39	464.05	0.280727272727273 So 	
+MIO095 	464.06	464.69	0.281454545454545 It still go to 	
+MIO046 	464.59	464.97	0.282181818181818 Okay 	
+FIE038 	465.07	465.36	0.282909090909091 Yeah 	
+MIO046 	466.41	470.2	0.04 But those rating are more like a a it's a number of votes no 	
+MIO036 	466.5	466.83	0.283636363636364 All 	
+FIE038 	470.48	473.1	0.134545454545455 Yeah it's ratings by Viewers and 	
+MIO046 	472.55	473.17	0.111272727272727 Vote's on it 	
+MIO036 	472.63	476.61	0.056 No no actually if you look at your table so i think it's a sort of um 	
+MIO095 	472.77	473.51	0.284363636363636 But the users 	
+MIO036 	476.61	476.78	0.285090909090909 mm 	
+MIO036 	477.39	484.12	0.0116363636363636 at a number of votes and and and uh yeah the the rating board the the markets because they're in your  table you have um 	
+MIO046 	478.55	479.18	0.285818181818182 And rating 	
+MIO036 	484.12	487.18	0.112 things that have very few votes but still our rain quite high 	
+MIO036 	487.63	491.33	0.286545454545455 For instance number twenty four which has only four thousand votes 	
+FIE038 	487.64	489.04	0.287272727272727 Yeah like memories 	
+MIO046 	488.32	488.65	0.288 Yeah 	
+FIE038 	490.96	492.53	0.288727272727273 Yeah and forty four as well 	
+MIO036 	492.45	493.07	0.289454545454545 But uh 	
+FIE038 	493.22	494.46	0.142545454545455 Which has seven hundred and 	
+FIE038 	494.9	496.11	0.290181818181818 Forty something remotes 	
+MIO095 	495.41	495.59	0.290909090909091 There's 	
+MIO095 	496.23	500.83	0.135272727272727 the average of the rating and the okay but the the number of divorces they're just for the information 	
+MIO036 	500.77	501.2	0.291636363636364 Yeah 	
+MIO095 	501.33	502.41	0.292363636363636 So that you know 	
+MIO036 	502.14	505.61	0.156363636363636 Maybe it's just this or just Compensated a bit for the 	
+MIO095 	503.13	504.03	0.293090909090909 reliable yeah 	
+MIO095 	505.59	506.1	0.293818181818182 Yes 	
+MIO036 	506.13	507.66	0.294545454545455 people i don't know actually 	
+MIO095 	507.22	507.52	0.295272727272727 Um 	
+MIO036 	508.24	512.28	0.112727272727273 Because if you have just ten votes and it's yeah probably are not in the database 	
+MIO095 	509.85	512.46	0.296 Okay then you yeah then it's it's it's it's sure 	
+FIE038 	513.39	513.66	0.296727272727273 Yeah 	
+MIO036 	513.78	515.59	0.297454545454545 But anyway it has its own thoughts 	
+FIE038 	515.93	516.41	0.298181818181818 Yeah 	
+FIE038 	516.41	516.95	0.298909090909091 um 	
+MIO036 	516.54	517.32	0.299636363636364 I haven't seen it 	
+FIE038 	518.53	520.54	0.300363636363636 That's a good no yeah i i highly recommend it 	
+FIE038 	521.15	527.09	0.0305454545454545 And i would mind thing again because i do know the ending and i haven't been able to watch it again to  see where it begins work 	
+FIE038 	527.61	530.22	0.301090909090909 That were scattered across know because apparently there are hints 	
+FIE038 	530.77	531.44	0.301818181818182 As to do with it 	
+MIO046 	531.22	532.39	0.302545454545455 And now i remember 	
+FIE038 	532.92	533.78	0.303272727272727 I 	
+MIO095 	534.01	534.25	0.304 Yeah 	
+MIO046 	534.82	535.03	0.304727272727273 Yep 	
+FIE038 	535.54	535.86	0.305454545454545 Okay 	
+MIO046 	537.09	542.4	0.306181818181818 Trade there is one guy a we use the at the police station and they Asking to tell the story 	
+FIE038 	541.53	542.45	0.306909090909091 He's the one telling the 	
+MIO095 	543.2	543.53	0.307636363636364 Uh-huh 	
+MIO095 	543.53	543.84	0.308363636363636 uh-huh 	
+FIE038 	545.32	546.63	0.309090909090909 Yes came and uh 	
+FIE038 	546.63	547.66	0.309818181818182 the guy in a burn unit 	
+MIO095 	548.05	548.93	0.310545454545455 But is the second movie 	
+FIE038 	549.22	554.45	0.136 The second movie is a six cents again it's really sure where it hasn't use the ratings p. g. thirteen 	
+FIE038 	554.98	555.78	0.311272727272727 Um 	
+FIE038 	555.78	557.04	0.312 it's much less violence 	
+FIE038 	557.5	560.68	0.312727272727273 A car the main point one at it and it's a handwritten first on the top 	
+FIE038 	561.28	562.23	0.143272727272727 Two hundred fifty 	
+FIE038 	562.95	565.42	0.125818181818182 And it's nineteen find your list of thing 	
+FIE038 	566.07	568.37	0.313454545454545 And not mistaken yeah it's nineteenth 	
+FIE038 	569.12	569.76	0.314181818181818 Um 	
+FIE038 	569.76	570.95	0.113454545454545 fair number of votes to 	
+FIE038 	571.38	572.91	0.173090909090909 Ninety six thousand 	
+FIE038 	573.72	574.32	0.314909090909091 Um 	
+FIE038 	574.32	578.46	0.0276363636363636 again i was nominated for a lot of different academy awards um 	
+FIE038 	578.46	580.37	0.315636363636364 we didn't win any But it's 	
+FIE038 	580.97	582.26	0.316363636363636 I got a lot of buttons and 	
+FIE038 	583.19	583.77	0.317090909090909 A lot of people 	
+FIE038 	584.23	584.7	0.317818181818182 so 	
+FIE038 	586.22	597.6	0.0269090909090909 Those are my two selections and as you can see the plot is a point to communicate a spare so don't know when their dad six to help of the discarded child psychologist to figure out what he's seeing what he's seeing and 	
+FIE038 	598.92	599.81	0.318545454545455 What it means 	
+MIO046 	600.76	606.69	0.319272727272727 But movies are quite similar in some way because the last sentence is a totally contradictory to the whole movie 	
+FIE038 	607.11	607.49	0.32 Yeah 	
+MIO046 	607.23	607.53	0.320727272727273 yeah 	
+MIO036 	609.36	611.57	0.321454545454545 The last sentence from the movie or not 	
+MIO046 	611.35	612.59	0.322181818181818 Last sentence from the movie 	
+FIE038 	612.62	617.75	0.126545454545455 Yeah it's only right right at the end or you find it really what's going on and it makes a brief think 	
+FIE038 	618.39	620.22	0.322909090909091 Everything that happened before and 	
+MIO036 	620.27	620.71	0.323636363636364 Uh-huh 	
+FIE038 	622.75	623.33	0.324363636363636 So 	
+FIE038 	624.13	629.69	0.0778181818181818 Does it be made to suggestions and you they are they are slightly more Commercial or at least a six and  says 	
+FIE038 	630.18	631.72	0.325090909090909 And the other ones we think that 	
+MIO036 	632.2	639.85	0.0378181818181818 So these guys were actually nominated so the the bottom part of your slide actually It says yeah so these are the best the words they had 	
+FIE038 	640.08	644.54	0.0283636363636364 Yeah they were there were nominated for a lot of different awards they didn't win 	
+MIO036 	645.04	645.46	0.325818181818182 Do that 	
+FIE038 	645.66	648.71	0.177454545454545 I guess the comp i can't remember what the competition was that year but 	
+MIO036 	647.46	649.24	0.326545454545455 Well there's just one winter so 	
+MIO036 	650.26	650.64	0.327272727272727 Uh-huh 	
+FIE038 	650.48	653.04	0.0894545454545455 And they were nominated for a lot of um and that mm 	
+MIO046 	656.03	656.33	0.328 Okay 	
+FIE038 	656.29	659.2	0.328727272727273 So i think that said unless you have any questions yep that's it 	
+MIO036 	656.77	657.21	0.329454545454545 Okay 	
+MIO046 	657.13	658.78	0.169454545454545 You have a last slide or no 	
+MIO095 	661.9	666.64	0.170181818181818 Okay now you can go to to my slides but actually what type it well i have prepared is just 	
+MIO046 	663.58	663.9	0.330181818181818 Okay 	
+MIO095 	667.34	668.38	0.330909090909091 of uh 	
+MIO095 	668.38	670.19	0.331636363636364 review of four well um 	
+MIO095 	670.19	673.37	0.332363636363636 say six or seven weeks if you go to that slide 	
+FIE038 	672.85	674.21	0.170909090909091 You centre slides around right 	
+MIO095 	674.01	681.09	0.00654545454545455 Yes basic a seven movies and it's it's at the top movies uh based on the uh on the right i'm thinking kind that and and arts of arts 	
+MIO095 	681.62	682.41	0.333090909090909 Um 	
+MIO095 	682.41	685.8	0.333818181818182 you see the the names of the movies on the on uh 	
+MIO095 	686.39	686.92	0.334545454545455 The wall 	
+MIO095 	687.76	688.89	0.335272727272727 So um 	
+MIO095 	689.3	693.75	0.157090909090909 We can perhaps go through all of them and we can little bit discuss so i i have in 	
+MIO095 	694.33	702.93	0.0589090909090909 I didn't see all of them actually So It's just you should probably select one of these because i think the these are really good movies and the 	
+MIO095 	703.29	703.75	0.336 Okay 	
+MIO095 	703.75	704.33	0.336727272727273 we will see 	
+MIO095 	704.79	705.76	0.337454545454545 So if you can go to 	
+MIO046 	704.8	705.16	0.338181818181818 Okay 	
+MIO095 	706.44	706.85	0.338909090909091 Uh 	
+MIO095 	708.13	712.22	0.339636363636364 Okay so this is the first movie and uh it's it's it's more like a drum are uh 	
+MIO095 	712.22	718.61	0.340363636363636 it's uh it's a very uh a higher ranked make sure you have uh a nice released because it we can even see the number of the votes 	
+MIO095 	719.16	720.6	0.341090909090909 So what is the number of the people 	
+MIO046 	719.33	721.84	0.144 Yeah one hundred uh well uh one hundred 	
+MIO036 	721.26	723.49	0.0567272727272727 Yeah i think your table is very clear them 	
+MIO046 	722.47	723.58	0.341818181818182 Forty thousand 	
+MIO095 	724.86	730.59	0.0298181818181818 Fine i found actually or table much better than my name my presentation because perhaps you'd we can we can really see i mean 	
+MIO046 	730.89	732.85	0.342545454545455 No we don't have a lot of the um 	
+MIO095 	732.57	733.9	0.343272727272727 We didn't have that but yeah 	
+MIO046 	732.85	733.75	0.344 the movie and uh 	
+MIO046 	736.42	736.93	0.344727272727273 Okay but 	
+MIO046 	737.37	740.02	0.345454545454545 Maybe we can what's in this movie 	
+MIO095 	740.32	742.64	0.346181818181818 Yeah who's in this movie because then they have someone go 	
+MIO036 	742.2	742.87	0.346909090909091 No i haven't 	
+FIE038 	742.68	746.01	0.347636363636364 I've heard a lot of good things about i've heard is a really powerful movie 	
+MIO095 	744.17	744.81	0.348363636363636 Some comments 	
+MIO046 	745.67	747.6	0.349090909090909 I think a uh yeah i've seen it 	
+FIE038 	746.52	747.83	0.349818181818182 But i haven't seen it 	
+MIO046 	748.22	748.33	0.350545454545455 uh 	
+MIO036 	748.32	750.69	0.351272727272727 What is the name in french "'cause" 	
+MIO046 	750.76	751.65	0.352 I have no idea 	
+MIO036 	752.04	752.43	0.352727272727273 Uh-huh 	
+MIO036 	753.05	753.66	0.353454545454545 Ah yeah 	
+MIO046 	753.7	756.6	0.354181818181818 It's it's in the jail right it's taking 	
+FIE038 	755.96	756.37	0.354909090909091 Yeah 	
+FIE038 	756.37	757.33	0.355636363636364 but certainly gel 	
+MIO046 	759.12	760.89	0.178181818181818 My name don't remember well 	
+MIO036 	759.65	760.14	0.356363636363636 Yeah 	
+MIO036 	760.58	765.05	0.0429090909090909 Well actually am your third slide has to plot so 	
+MIO095 	765.56	765.72	0.357090909090909 It's 	
+MIO036 	766.24	766.5	0.357818181818182 Yeah 	
+MIO095 	766.41	767.96	0.358545454545455 is the one that this on the wall 	
+MIO095 	768.47	768.85	0.359272727272727 Project 	
+MIO036 	768.73	770.05	0.36 Oh yeah exactly yeah 	
+MIO046 	769.16	769.58	0.360727272727273 Oh okay 	
+MIO095 	769.76	770.06	0.361454545454545 Yeah 	
+MIO036 	770.05	771.19	0.362181818181818 so yeah 	
+MIO046 	770.08	770.44	0.362909090909091 Okay 	
+MIO036 	771.19	773.08	0.363636363636364 this guy's jail okay 	
+MIO036 	773.08	773.43	0.364363636363636 oh 	
+MIO036 	774.08	774.59	0.365090909090909 Well 	
+MIO046 	774.43	775.19	0.365818181818182 Okay so on 	
+MIO095 	775.38	782.97	0.157818181818182 So i get okay so no one of us so this movie so in that case perhaps it's it's it's a bit danger to so like that movie for the for the uh 	
+MIO036 	775.66	776.16	0.366545454545455 Okay 	
+MIO036 	778.19	778.63	0.367272727272727 Yeah 	
+MIO046 	778.19	779.05	0.368 Yeah so let's 	
+MIO095 	784.45	787.18	0.368727272727273 Right so ocean there's just a well so this 	
+FIE038 	787.3	787.67	0.369454545454545 Me 	
+MIO046 	788.14	789.19	0.370181818181818 Yeah see so 	
+MIO095 	789.31	791.01	0.370909090909091 So i i think this one is uh 	
+MIO036 	789.46	790.92	0.371636363636364 Yeah haven't seen her do that but 	
+MIO095 	791.01	791.76	0.372363636363636 huh this one is 	
+MIO095 	792.37	793.1	0.373090909090909 it's uh 	
+MIO095 	793.1	796.19	0.373818181818182 you know all all all of you know so the the story so 	
+MIO036 	794.96	795.32	0.374545454545455 Uh-huh 	
+FIE038 	796.04	796.35	0.375272727272727 Uh-huh 	
+MIO095 	797.65	798.05	0.376 Uh 	
+MIO095 	798.74	802.88	0.376727272727273 It's quite hot uh it's quite a higher ranked so i think uh 	
+MIO095 	802.88	807.09	0.377454545454545 it's not a bad movie i'm i'm thinking whether there was some good occasion uh 	
+MIO095 	807.09	807.68	0.378181818181818 something but 	
+MIO095 	808.58	811.35	0.378909090909091 Has happened recently that was something like a celebration of the 	
+MIO095 	812.32	814.91	0.145454545454545 Fifty years after the war or something chris and 	
+MIO036 	815.73	816.48	0.379636363636364 Um 	
+MIO095 	816.46	816.72	0.380363636363636 No 	
+MIO046 	816.67	817.2	0.381090909090909 Sixteen 	
+MIO036 	816.84	821.64	0.381818181818182 I think there was a celebration of us sixty years from the liberation of the cameras 	
+MIO046 	818.32	819.04	0.382545454545455 Six years 	
+MIO095 	819.49	819.95	0.383272727272727 Stay yeah 	
+MIO095 	820.47	821.98	0.146181818181818 Is it can be fifty sure 	
+MIO036 	822.35	825.04	0.130181818181818 Because they were the brave the beginning forty five 	
+MIO095 	824.31	824.87	0.384 Yeah 	
+MIO095 	825.18	825.96	0.384727272727273 So 	
+MIO036 	826.23	833.51	0.0341818181818182 Yeah it's not bad and it's also i think it's a good idea but at least from my point of view it's coherent with the previous films like history 	
+MIO036 	833.97	839.69	0.385454545454545 In the major events I don't know if we want to keep this coherence or Change radical it but maybe 	
+MIO095 	833.99	834.43	0.386181818181818 That's true 	
+MIO046 	834.86	835.66	0.386909090909091 That's right yeah 	
+FIE038 	839.16	840.5	0.387636363636364 Very emotional movie uh 	
+MIO036 	840.71	841.39	0.388363636363636 Yeah that's 	
+FIE038 	840.94	842.63	0.389090909090909 That's one thing to keep in mind is that it 	
+MIO036 	841.79	842.99	0.389818181818182 Yeah i think it's a drawback 	
+MIO046 	842.94	843.9	0.390545454545455 But then it's not 	
+MIO036 	843.36	843.87	0.391272727272727 Uh 	
+MIO046 	844.7	849.44	0.0632727272727273 All present that even of the nineties it's more a movie about the story of uh 	
+MIO046 	850.2	851.75	0.392 They'll all on uh 	
+MIO046 	851.75	854.54	0.392727272727273 on job i did you wish doing is the second world war 	
+FIE038 	854.57	857.91	0.393454545454545 Yeah but i mean this isn't really representative of the easily i 	
+MIO046 	856.96	857.71	0.394181818181818 I 	
+MIO095 	857.18	858.09	0.394909090909091 I 	
+MIO036 	858.13	859.72	0.395636363636364 Well of the seventeen eighties 	
+MIO046 	859.46	860.17	0.396363636363636 Yeah 	
+FIE038 	859.81	863.69	0.397090909090909 Yeah and according to your thing it's nineteen eighty four is i 	
+MIO046 	860.17	860.82	0.397818181818182 but it's 	
+MIO036 	866.3	873.32	0.398545454545455 Maybe it's representative of a style of the eighties i don't know that's why i'm against that so i that's I dunno 	
+MIO046 	870.31	870.83	0.399272727272727 Yeah 	
+MIO046 	870.83	871.06	0.4 yeah 	
+MIO095 	873.26	879.42	0.173818181818182 Mm but even here i wouldn't uh uh say that the the the the style it's a representative of the nineties right so on 	
+FIE038 	879.36	879.64	0.400727272727273 Yeah 	
+MIO036 	879.72	880.84	0.401454545454545 Yeah right uh 	
+MIO095 	880.55	881.16	0.402181818181818 Um 	
+MIO095 	882.36	883.7	0.402909090909091 Okay but uh 	
+MIO095 	883.7	887.47	0.403636363636364 anyway i think it's it's real good movie i like it when i say and the 	
+FIE038 	885.38	886.69	0.404363636363636 It is a good movie yeah 	
+MIO046 	888.5	891.66	0.405090909090909 Okay and it's just it's a it's a very good As uh 	
+MIO095 	889.63	892.73	0.405818181818182 It's one of the candidates i definitely a steven spielberg is recorded 	
+MIO095 	893.28	896.55	0.406545454545455 So i i director so i i would say we we could think about it 	
+MIO046 	897.08	897.45	0.407272727272727 Okay 	
+MIO095 	897.15	899.23	0.408 So i would keep it as a candidate at least 	
+FIE038 	898.92	899.27	0.408727272727273 Yeah 	
+MIO095 	900.82	901.03	0.409454545454545 So 	
+MIO046 	901.11	901.55	0.410181818181818 Okay 	
+MIO046 	901.55	904.71	0.0807272727272727 the usual suspect do we want to say something it in about it or 	
+MIO095 	903.56	903.99	0.410909090909091 Um 	
+MIO095 	904.73	906.92	0.411636363636364 No one i think we can just get this like 	
+MIO046 	906.59	907.94	0.412363636363636 Oh come it's coming for 	
+MIO046 	909.59	910.35	0.413090909090909 On the list 	
+FIE038 	911.24	911.58	0.413818181818182 Yeah 	
+MIO095 	911.27	911.91	0.414545454545455 And yeah 	
+MIO046 	913.57	920.87	0.415272727272727 It's false on and he's uh and on my knees that took a huge use a cat some movies no you didn't take of six first 	
+MIO095 	920.06	921.43	0.416 Yeah that's true that is the root 	
+MIO036 	921.89	923.72	0.416727272727273 Yeah it's funny actually um 	
+MIO095 	923.99	925.06	0.417454545454545 That is it's changed 	
+MIO036 	924.68	936.66	0.00363636363636364 Because on your on your slides actually the ratings are eight point seven for both No they have the same usual suspects and pulp fiction those are at eight point seven but on the nice table 	
+MIO095 	929.01	929.55	0.418181818181818 It's higher 	
+MIO036 	937.04	937.75	0.418909090909091 Uh this one is that 	
+FIE038 	937.25	938.63	0.419636363636364 I guess that they they they like 	
+MIO036 	938.25	938.83	0.420363636363636 six 	
+MIO095 	938.43	939.67	0.421090909090909 It gets outdated 	
+MIO036 	939.51	941.69	0.114181818181818 When i was maybe people voted for it yeah 	
+MIO095 	941.67	944.49	0.421818181818182 Yes yes and i did i did it on wednesday 	
+FIE038 	941.98	942.31	0.422545454545455 Yeah 	
+MIO036 	942.51	944.04	0.423272727272727 Could have changed in the meanwhile 	
+MIO046 	945.26	946.86	0.424 Amy i'm sure they probably 	
+MIO036 	945.84	948.99	0.0436363636363636 The with one hundred thousand votes it shouldn't change too much 	
+MIO036 	949.5	954.04	0.114909090909091 I mean given the number of votes i wonder but anyway it it may change i think yeah 	
+MIO095 	953.07	953.41	0.424727272727273 Uh-huh 	
+MIO095 	954.04	955.85	0.425454545454545 So it probably is trained so um 	
+MIO095 	957.31	959.13	0.426181818181818 It becomes more popular no but uh 	
+MIO095 	959.13	959.78	0.426909090909091 yeah 	
+MIO095 	959.78	960.04	0.427636363636364 yeah 	
+MIO046 	959.82	960.49	0.428363636363636 I 	
+MIO095 	960.04	960.48	0.429090909090909 yeah yeah 	
+MIO036 	960.13	960.56	0.429818181818182 Well 	
+MIO046 	961.35	961.71	0.430545454545455 Okay 	
+MIO036 	961.57	962.28	0.431272727272727 Encouraging 	
+MIO046 	962.29	964.36	0.432 Do we have something to add on this movie or 	
+FIE038 	964.83	965.75	0.432727272727273 Mm no 	
+FIE038 	967.21	969.07	0.0938181818181818 We had numerous on schindler's list 	
+FIE038 	969.65	973.62	0.433454545454545 Three of us to do it and shiny keep track of how do you have a sixteen 	
+MIO095 	973.67	974.41	0.0945454545454545 Schindler's list 	
+FIE038 	975.05	976.21	0.434181818181818 You have you have 	
+MIO095 	975.16	975.93	0.434909090909091 It so it has 	
+FIE038 	976.59	976.89	0.435636363636364 Yeah 	
+MIO036 	976.87	977.37	0.436363636363636 Haven't 	
+MIO036 	978.94	981.37	0.437090909090909 I've seen very few movies from the list 	
+MIO036 	981.83	983.77	0.437818181818182 About ten out of the first yeah 	
+MIO046 	983.54	985.15	0.438545454545455 And that's why you are in the movie club 	
+MIO046 	985.75	986.78	0.439272727272727 To see more movies 	
+MIO036 	985.84	986.35	0.44 Okay 	
+MIO095 	988.34	991.45	0.0450909090909091 Okay pulp fiction i i think it's again quite um 	
+MIO095 	991.45	995.53	0.440727272727273 a high higher ranked uh but From my perspective everybody already sorry 	
+MIO095 	996.1	1002.89	0.102545454545455 Who was interested in that movie you so it always not interested in that movie he he didn't see time he wouldn't uh 	
+MIO036 	996.79	997.16	0.441454545454545 Uh-huh 	
+MIO095 	1002.89	1005.01	0.442181818181818 like to see in the in our more eco 	
+MIO095 	1005.5	1011.51	0.442909090909091 So i think we should sit in a they should just leave it is keep it out and leave it out i i wouldn't think about this as a candidate 	
+MIO046 	1012.16	1012.58	0.443636363636364 Why not 	
+MIO095 	1012.3	1014.36	0.444363636363636 Even if it's a good movie but i don't know i think 	
+MIO046 	1013.89	1018.97	0.174545454545455 It's quite well but not active of the nineties i think And the structure of the movies interesting 	
+MIO046 	1020.34	1024.67	0.445090909090909 I i think that the first seeing is actually the same seen as of the lasting know 	
+MIO036 	1021.08	1021.56	0.445818181818182 Uh-huh 	
+MIO046 	1025.51	1027.22	0.0712727272727273 There is a kind of loop in this movie 	
+FIE038 	1026.06	1027.07	0.446545454545455 I can't remember 	
+IO095 	1028.21	1030.62	0.447272727272727 yes that i i think there are plenty of loops actually 	
+MIO046 	1030.85	1031.06	0.448 Yep 	
+FIE038 	1031.14	1036.83	0.0218181818181818 And also it's old enough that even if people start the first time around they don't necessarily remember everything that happened because 	
+MIO095 	1031.23	1031.81	0.448727272727273 But if 	
+MIO036 	1036.78	1037.16	0.449454545454545 Uh-huh 	
+FIE038 	1037.51	1040.54	0.178909090909091 I remember seeing it when it came out that And uh particularly 	
+MIO095 	1041.75	1042.77	0.450181818181818 If we agree you can see 	
+MIO095 	1043.3	1044.61	0.103272727272727 three times perhaps three 	
+MIO046 	1043.37	1043.58	0.450909090909091 Yeah 	
+MIO046 	1043.58	1045.27	0.451636363636364 yeah it's a very bizarre yeah 	
+MIO095 	1045.18	1055.34	0.104 for the for time so you still discover something you But uh on the other hand i had the impression it's really it's uh you know every everyone so wait it's it's quite don't know in uh in for it 	
+MIO046 	1054.87	1055.84	0.452363636363636 You've you've seen it 	
+MIO036 	1055.86	1056.81	0.453090909090909 Yeah i see to this 	
+MIO095 	1056.95	1057.17	0.453818181818182 Yeah 	
+MIO036 	1057.42	1058.28	0.454545454545455 I and i like it 	
+FIE038 	1058.42	1059.06	0.455272727272727 So we've lost 	
+MIO046 	1058.9	1061.24	0.152 And the sound track is uh is called use them so 	
+MIO036 	1059.11	1059.9	0.456 I'm actually seen it 	
+FIE038 	1062.13	1062.51	0.456727272727273 It's like 	
+MIO046 	1062.66	1063.45	0.457454545454545 The soundtrack 	
+FIE038 	1063.86	1065.46	0.179636363636364 And i don't remember the centre 	
+MIO036 	1065.95	1068.19	0.458181818181818 Well it's plenty of well known songs 	
+MIO095 	1066.03	1066.4	0.458909090909091 Mm yeah 	
+MIO036 	1068.85	1069.1	0.459636363636364 Yeah 	
+MIO036 	1069.91	1070.63	0.460363636363636 Twist thing 	
+MIO095 	1070.26	1070.64	0.461090909090909 Mm 	
+MIO046 	1070.46	1070.75	0.461818181818182 Yeah 	
+MIO046 	1070.75	1070.94	0.462545454545455 yeah 	
+MIO095 	1071.54	1071.93	0.463272727272727 So 	
+MIO095 	1072.6	1076.37	0.464 But the think i live and think about these other candidate because it seems to me it's 	
+MIO036 	1076.07	1077.71	0.464727272727273  I would keep it as a candidate that 	
+MIO036 	1078.25	1082.94	0.465454545454545 I don't know i think for the moment in this most of the user candidate so we'll try to 	
+MIO095 	1082.97	1083.32	0.466181818181818 Uh-huh 	
+MIO046 	1083.29	1085.57	0.466909090909091 Well we've looked at the end all you want to know 	
+MIO036 	1085.11	1087.97	0.115636363636364 Yeah we should probably vote off their everyone 	
+FIE038 	1086.4	1086.84	0.467636363636364 Yeah i mean if 	
+MIO095 	1086.61	1087.84	0.468363636363636 Well that's the best yeah 	
+FIE038 	1087.32	1091.17	0.0974545454545455 that none of us like we can just eliminate it but we might as well leave everything top and 	
+MIO095 	1091.12	1094.37	0.469090909090909 I'm going to week we could just a minute okay so we are not good i mean it is one 	
+MIO095 	1095.52	1096.19	0.469818181818182 Uh yeah 	
+MIO095 	1096.19	1097.38	0.470545454545455 good for last i didn't see 	
+MIO095 	1099.56	1106.18	0.471272727272727 Oh i see that you can read the the comment from the users uh that's the that's the last uh blah point 	
+FIE038 	1100.02	1100.71	0.472 I 	
+MIO046 	1105.68	1107.05	0.472727272727273 I just got says as well 	
+MIO095 	1106.85	1109.48	0.473454545454545 And it's a says simply a masterpiece uh 	
+MIO095 	1109.48	1111.98	0.474181818181818 and it's us course last three great movie 	
+MIO046 	1111.95	1113.62	0.474909090909091 It's like yeah again the movie 	
+MIO046 	1114.21	1115.19	0.475636363636364 on my channel 	
+FIE038 	1115.24	1116.61	0.476363636363636 Yeah it's a gangster in the way 	
+MIO095 	1115.26	1116.18	0.477090909090909 Mafia yes 	
+MIO046 	1116.82	1120.42	0.152727272727273 With a little better than your call and well the the two of the guys can uh 	
+FIE038 	1119.97	 1121.24	0.477818181818182 Oh really oh it uh 	
+FIE038 	1121.24	1122.97	0.478545454545455 and it's 	
+MIO095 	1122.1	1123.64	0.479272727272727 I can't recogniser from the picture 	
+MIO095 	1125.06	1126.73	0.48 The pictures not very good okay 	
+FIE038 	1125.69	1127.33	0.480727272727273 Joe pesci i think maybe 	
+MIO046 	1126.83	1127.93	0.481454545454545 And your page she yeah 	
+MIO046 	1128.24	1129.53	0.482181818181818 On the on the right yeah 	
+FIE038 	1128.29	1128.88	0.482909090909091 I think 	
+FIE038 	1129.19	1132.15	0.483636363636364 Yeah on the right and the guy and the left is really a a 	
+MIO036 	1133.1	1135.52	0.484363636363636 You you recognise them or it can read the 	
+MIO036 	1136.04	1137.8	0.485090909090909 The text on the images are 	
+FIE038 	1136.11	1137.07	0.485818181818182 I recognise them 	
+FIE038 	1138.2	1141.31	0.486545454545455 I'm a movie buff i know way too much about movies and 	
+MIO036 	1140.17	1140.9	0.487272727272727 Very well 	
+MIO046 	1141.21	1144.18	0.488 It's the exact same type course we played in um 	
+MIO046 	1144.18	1148.63	0.488727272727273 i'm other remotes a movie that they cannot for these of course she it was a name in french 	
+MIO046 	1149.27	1149.43	0.489454545454545 Oh 	
+FIE038 	1149.72	1150.53	0.490181818181818 What was it about 	
+MIO046 	1151.53	1152.69	0.490909090909091 About so uh 	
+MIO046 	1152.69	1153.23	0.491636363636364 enough yeah 	
+MIO046 	1154.85	1163.92	0.492363636363636 I that's why it Oh that's why it didn't go to see this one it's quite it seems to me that all about the same Subject and just saying 	
+FIE038 	1155.53	1156.32	0.493090909090909 I 	
+MIO036 	1164.21	1164.66	0.493818181818182 Uh-huh 	
+MIO046 	1164.64	1165.1	0.494545454545455 I don't know 	
+MIO095 	1165.38	1166.53	0.495272727272727 It's a movie from and please 	
+MIO036 	1166.11	1166.38	0.496 Yeah 	
+MIO095 	1167.78	1169.38	0.496727272727273 The one that you so that you mentioned 	
+MIO046 	1175.22	1177.02	0.497454545454545 Or came in nobody sees so 	
+MIO036 	1176.36	1176.87	0.498181818181818 Okay 	
+MIO036 	1176.87	1177.82	0.498909090909091 now yeah 	
+MIO036 	1178.49	1179.54	0.499636363636364 Probably not uh 	
+MIO095 	1179.69	1181.3	0.0487272727272727 Silence of the lands um 	
+MIO046 	1179.74	1180.04	0.500363636363636 Okay 	
+MIO095 	1182.45	1187.06	0.501090909090909 Should i tell something not a good fired off or killers that's what that's what that's a sound uh 	
+MIO095 	1187.06	1187.35	0.501818181818182 huh 	
+MIO095 	1189.1	1190.83	0.502545454545455 Some users say is uh 	
+MIO095 	1190.83	1191.47	0.503272727272727 so 	
+MIO095 	1192.29	1195.1	0.158545454545455 Okay it's it's a bit or so i think it's quite it's uh 	
+MIO095 	1195.1	1195.84	0.504 it's uh 	
+FIE038 	1195.72	1196.22	0.504727272727273 A little bit 	
+MIO046 	1196.62	1197.39	0.505454545454545 I 	
+MIO095 	1196.73	1197.76	0.506181818181818 I 	
+FIE038 	1196.76	1197.57	0.506909090909091 I 	
+MIO046 	1198.33	1199.04	0.507636363636364 For the for the for 	
+MIO095 	1199.22	1201.8	0.508363636363636 Is definitely not for kids uh but uh 	
+FIE038 	1199.61	1199.84	0.509090909090909 Yeah 	
+FIE038 	1199.84	1200.05	0.509818181818182 yeah 	
+MIO095 	1202.73	1205.61	0.510545454545455 If the kids are not visitors of course of them are why not 	
+MIO095 	1207.56	1207.79	0.511272727272727 Eh 	
+MIO095 	1209.1	1214.62	0.0647272727272727 One have to rethink when when when you are watching this movie you have to think and it's uh scanning yeah why not 	
+MIO036 	1212.45	1212.8	0.512 Uh-huh 	
+MIO046 	1215.48	1217.37	0.0981818181818182 So it's about top secret but it to your 	
+MIO095 	1218.27	1218.76	0.512727272727273 Uh-huh 	
+MIO046 	1218.46	1218.88	0.513454545454545 And 	
+MIO095 	1218.76	1219.04	0.514181818181818 uh-huh 	
+MIO046 	1220.09	1221.36	0.514909090909091 What was it again the part 	
+MIO046 	1222.83	1223.32	0.515636363636364 The 	
+MIO095 	1223.35	1229.21	0.127272727272727 So the f. b. i. agent it's assigned to to help find uh and a single woman And uh 	
+MIO095 	1229.21	1233.18	0.516363636363636 say five a hour from a sick a particular uh with the help of another cue or 	
+FIE038 	1234.15	1236.19	0.517090909090909 the other killers hannibal lecter 	
+FIE038 	1236.73	1237.07	0.517818181818182 Ooh 	
+MIO036 	1237.37	1238.73	0.518545454545455 Who's in prison actually 	
+MIO046 	1238.16	1239.97	0.519272727272727 He's in jail it is still here 	
+MIO095 	1238.85	1239.48	0.52 He's in prison 	
+FIE038 	1239.27	1241.39	0.520727272727273 He's in jail when he's really know which 	
+MIO036 	1240.69	1245.05	0.521454545454546 No no he tries to to create the the in the other killers behaviour 	
+MIO046 	1242.03	1242.5	0.522181818181818 Um 	
+MIO046 	1242.5	1242.86	0.522909090909091 okay 	
+MIO046 	1243.27	1243.58	0.523636363636364 Yeah 	
+FIE038 	1243.54	1248.39	0.524363636363636 He tries to help the f. b. i. agent but he plays had games of the f. b. i. agent at the same time 	
+MIO095 	1249.51	1249.98	0.525090909090909 History 	
+MIO036 	1249.82	1250.41	0.525818181818182 Yeah 	
+MIO036 	1250.41	1253.9	0.526545454545455 well not very nasty ones are those there yeah 	
+MIO095 	1250.58	1251.36	0.527272727272727 Psychotic man 	
+FIE038 	1252.89	1253.38	0.528 What part 	
+FIE038 	1253.89	1255.26	0.528727272727273 I just a free corrupt 	
+MIO036 	1255.32	1255.56	0.529454545454545 Yeah 	
+MIO036 	1255.56	1257.04	0.0618181818181818 um that's basically the point 	
+FIE038 	1255.86	1256.59	0.530181818181818 I 	
+FIE038 	1258.05	1258.41	0.530909090909091 So 	
+MIO036 	1258.72	1259.09	0.531636363636364 Uh-huh 	
+MIO036 	1259.73	1263.21	0.532363636363636 So on the picture you can see uh jodie foster and ah 	
+FIE038 	1260.31	1260.99	0.533090909090909 There is a very 	
+MIO095 	1263.11	1263.45	0.533818181818182 Uh-huh 	
+MIO036 	1263.68	1264.19	0.534545454545455 How hard 	
+FIE038 	1264.97	1265.67	0.535272727272727 Them off 	
+MIO046 	1265.59	1267.69	0.165818181818182 With playing that you to go back again 	
+MIO036 	1266.38	1266.85	0.536 The more 	
+MIO046 	1268.28	1268.65	0.536727272727273 Don't 	
+FIE038 	1268.77	1272.24	0.537454545454545 Which the one who's in jail or the one who Anthony hopkins 	
+MIO036 	1271.02	1272.17	0.538181818181818 Anthony hopkins 	
+MIO046 	1272.02	1272.48	0.538909090909091 Okay 	
+MIO046 	1272.48	1272.62	0.539636363636364 yeah 	
+MIO036 	1272.89	1276.16	0.180363636363636 The other one i don't remember we don't seem to see him very often 	
+FIE038 	1274.59	1274.86	0.540363636363636 I don't 	
+MIO095 	1276.01	1280.22	0.541090909090909 But he plays do we go And then add up can see replies it very good very good to yeah 	
+MIO036 	1276.81	1277.57	0.541818181818182 But it's 	
+FIE038 	1278.97	1280.06	0.542545454545455 Scary that would be 	
+MIO036 	1279.87	1280.3	0.543272727272727 Uh-huh 	
+MIO095 	1282.05	1282.9	0.544 So 	
+MIO036 	1282.56	1286.86	0.0989090909090909 But the point is quite hard know i mean that not the plots but for the what's 	
+MIO036 	1287.39	1290.09	0.544727272727273 The the active killer wants to do is quite horrible 	
+FIE038 	1290.73	1291.12	0.545454545454545 Yeah 	
+FIE038 	1291.81	1292.8	0.546181818181818 I vaguely remember 	
+MIO036 	1293.06	1293.33	0.546909090909091 Yeah 	
+MIO036 	1293.33	1293.45	0.547636363636364 yeah 	
+MIO036 	1295.95	1296.46	0.548363636363636 Okay 	
+MIO046 	1295.99	1296.37	0.549090909090909 Okay 	
+FIE038 	1297.4	1299.72	0.549818181818182 I mean that's the thing that i'm guessing you haven't seen uh 	
+MIO046 	1299.54	1301.61	0.550545454545455 No i've seen it actually twice i think 	
+MIO036 	1301.76	1302.5	0.551272727272727 Yes yeah 	
+MIO036 	1302.5	1305.49	0.104727272727273 i think i say the second time on t. v. but maybe not uh huh 	
+FIE038 	1304.74	1305.51	0.552 So we'll see 	
+MIO095 	1305.1	1309.45	0.181090909090909 I've i've see i've seen it but i can't remember exactly the all the details 	
+FIE038 	1306.08	1306.83	0.552727272727273 These are lost in 	
+FIE038 	1309.19	1311.66	0.553454545454545 I can't either "'cause" i thought it right when it came out 	
+MIO046 	1310.03	1310.54	0.554181818181818 But it's 	
+MIO095 	1310.19	1310.55	0.554909090909091 The 	
+MIO046 	1311.16	1312.05	0.153454545454545 called beginning 	
+MIO095 	1311.63	1313.37	0.0552727272727273 It's on time ago is from ninety one 	
+FIE038 	1312.75	1315.52	0.175272727272727 They came out one ninety one yeah 	
+MIO046 	1313.74	1314.45	0.176 Ninety one 	
+MIO095 	1315.22	1315.98	0.555636363636364 you wanna yeah 	
+MIO095 	1317.21	1317.99	0.556363636363636 So 	
+MIO095 	1318.5	1320.38	0.557090909090909 And i said when i was like twelve or thirteen 	
+FIE038 	1320.33	1321.61	0.557818181818182 Yeah me too i 	
+MIO095 	1320.85	1321.5	0.558545454545455 I 	
+MIO046 	1320.91	1321.47	0.559272727272727 I 	
+MIO095 	1321.97	1322.67	0.56 So perhaps 	
+FIE038 	1322.03	1323.22	0.560727272727273 And at that age tools like 	
+MIO036 	1322.97	1323.78	0.561454545454545 They're much too yeah 	
+MIO046 	1325.03	1325.17	0.562181818181818 Yeah 	
+FIE038 	1325.46	1325.86	0.562909090909091 Okay 	
+MIO046 	1327.21	1327.54	0.563636363636364 Okay 	
+MIO046 	1327.54	1332.86	0.136727272727273 uh american beauty you know what's coming next seven was quite quite nice actually 	
+MIO095 	1331.53	1332.72	0.564363636363636 Could you go to the next slide 	
+FIE038 	1332.61	1333.75	0.565090909090909 That was very good yeah 	
+MIO046 	1335.22	1336.3	0.565818181818182 actually there okay 	
+MIO095 	1335.94	1338.1	0.566545454545455 Yeah is here and that's it should my last slide 	
+MIO095 	1338.85	1340.04	0.567272727272727 So um 	
+MIO046 	1340.47	1342.42	0.568 Or you shows you choose seven we 	
+MIO095 	1342.95	1347.48	0.568727272727273 I don't know because it's nice if i i was thinking perhaps we are not able to go to more of them 	
+MIO046 	1347.45	1347.8	0.569454545454545 Okay 	
+MIO095 	1348.54	1348.89	0.570181818181818 Uhuh 	
+MIO036 	1349.08	1349.37	0.570909090909091 Okay 	
+MIO095 	1350.3	1354.9	0.048 So american beauty so i can perhaps read a little bit the user comment if you want or uh uh 	
+MIO095 	1354.9	1356.61	0.571636363636364 yeah you can read the outline on 	
+MIO095 	1357.29	1358.11	0.572363636363636 the projector but 	
+MIO095 	1358.77	1361.42	0.0625454545454545 It's basically deep on the front and trading movie 	
+MIO095 	1361.87	1363.5	0.573090909090909 Extraordinary uh uh 	
+MIO095 	1363.5	1366.93	0.573818181818182 irony and that and that psychological drama about american life 	
+MIO046 	1367.9	1368.71	0.574545454545455 Yeah it's definitely 	
+FIE038 	1369.6	1370.02	0.575272727272727 Yeah 	
+MIO046 	1369.81	1370.13	0.576 life 	
+FIE038 	1370.02	1371.71	0.576727272727273 i suburban life 	
+MIO046 	1372.19	1376.67	0.072 It's it's kind of Fruit that pretty but it uh on the other way it it's 	
+FIE038 	1376.85	1378.85	0.577454545454545 There's a lot of very true things and uh 	
+MIO046 	1377.09	1378.37	0.578181818181818 Like twenty two so 	
+MIO095 	1379.15	1379.44	0.578909090909091 Point 	
+MIO046 	1380.78	1384.23	0.579636363636364 Yeah you know with the the way of feel mean and um 	
+MIO046 	1384.65	1385.55	0.128 I don't know i find it 	
+MIO095 	1385.15	1387.19	0.148363636363636 Okay the video film and perhaps but uh 	
+MIO036 	1385.86	1387.92	0.580363636363636 I haven't seen it but i would like to see it so 	
+MIO046 	1388.32	1390.86	0.581090909090909 No it's it's quite an interesting 	
+MIO036 	1389.08	1389.43	0.581818181818182 Uh-huh 	
+FIE038 	1392.01	1392.31	0.582545454545455 Yeah 	
+MIO046 	1392.99	1394.36	0.583272727272727 So yeah 	
+FIE038 	1394.05	1397.27	0.088 As much as i start from the other movies we have on that list 	
+MIO036 	1397.14	1397.5	0.584 Uh-huh 	
+MIO036 	1397.93	1399.6	0.584727272727273 So it's not very violent really 	
+MIO046 	1398.02	1399.13	0.585454545454545 Well it depends 	
+FIE038 	1399.34	1399.82	0.586181818181818 It's not 	
+FIE038 	1400.28	1401.16	0.586909090909091 Well it's dark 	
+MIO046 	1401.08	1406.9	0.587636363636364 I know it's it's not violent at all but more it's more that that indicated that is 	
+FIE038 	1401.9	1402.33	0.588363636363636 No 	
+MIO036 	1402.73	1403.26	0.589090909090909 Oh okay 	
+MIO046 	1407.34	1412.8	0.166545454545455 Quite true that because all the people in this movie are How hard to go back in the uh on the way 	
+MIO036 	1412.77	1413.19	0.589818181818182 Uh-huh 	
+FIE038 	1413.17	1416.4	0.167272727272727 But not line via like telling people to pieces i go back and they're it 	
+MIO046 	1414.47	1415.85	0.590545454545455 But they are not like people can 	
+MIO036 	1415.84	1416.27	0.591272727272727 Oh okay 	
+MIO036 	1416.27	1416.51	0.592 yeah 	
+FIE038 	1416.87	1418.97	0.592727272727273 Is everyone has their own issues and 	
+MIO036 	1418.53	1418.87	0.593454545454545 Oh 	
+MIO036 	1419.67	1426.57	0.594181818181818 And what about the the well that's picture with a picture on this see naked people in the movie or 	
+MIO046 	1426.59	1428.84	0.594909090909091 Actually there is less it's uh 	
+FIE038 	1426.85	1427.24	0.595636363636364 No 	
+MIO036 	1427.2	1428.62	0.596363636363636 Is it about sex or something 	
+MIO046 	1428.84	1433.6	0.146909090909091 huh what the fifty old man that which is job and fall in love with um 	
+MIO046 	1434.11	1435.04	0.597090909090909 The best friend off 	
+FIE038 	1435.25	1440.79	0.597818181818182 His daughter it's like teenage daughter So that's the best friend and he fantasises about r. and 	
+MIO046 	1435.83	1435.96	0.598545454545454 Is 	
+MIO036 	1436.68	1437.37	0.599272727272727 Ah okay 	
+MIO036 	1439.24	1440.1	0.6 I suppose that way 	
+MIO036 	1442.94	1442.97	0.600727272727273 Mm 	
+MIO036 	1443.57	1444.02	0.601454545454545 Okay 	
+MIO046 	1443.64	1445.05	0.602181818181818 Yeah it's it's a good movie 	
+MIO036 	1445.32	1445.69	0.602909090909091 Uh-huh 	
+MIO046 	1448.6	1448.93	0.603636363636364 Okay 	
+MIO095 	1449.1	1449.99	0.604363636363636 And that's my last slide 	
+MIO095 	1450.5	1451.04	0.605090909090909 So 	
+MIO046 	1450.68	1451.64	0.605818181818182 We have seen it yet 	
+MIO095 	1452.5	1454.43	0.606545454545454 yes yes and i think okay why not 	
+MIO095 	1455.77	1462.15	0.0952727272727273 It seems to me at perhaps a shame to okay so the physician that schindler's list Is perhaps more serious topic For sure 	
+MIO095 	1462.65	1463.66	0.607272727272727 But uh 	
+MIO095 	1463.66	1463.84	0.608 um 	
+MIO095 	1464.62	1472.57	0.608727272727273 But it depends it depends what we want do we want that people are more like a relaxed in our in our cinema or are more interested in some topic or thinks 	
+MIO095 	1473.63	1474.34	0.609454545454545 Oh uh 	
+MIO095 	1474.34	1476.94	0.610181818181818 well the thing i mean what should we how we shoot uh 	
+MIO095 	1478.38	1481.69	0.610909090909091 Which should be the influence how we are influencing the people in the cinema 	
+MIO095 	1483.08	1483.56	0.611636363636364 Um 	
+MIO046 	1484.67	1493.16	0.0596363636363636 I think we we want them to go to see movies that they want see all all the wires but i'm not sure then that's quite popular the movie was selected so 	
+MIO095 	1485.03	1485.81	0.612363636363636 But do we want 	
+MIO036 	1493.48	1494.19	0.613090909090909 Uh-huh 	
+MIO036 	1494.19	1501.64	0.154181818181818 yeah i think it's a mixture of bringing new things to them but also making them enjoy the show so that they come to our movie called so 	
+MIO036 	1502.01	1509.3	0.613818181818182 Yeah i think we shouldn't maybe two very mainstream movies that well okay the list here it's quite uh 	
+FIE038 	1509.47	1513.97	0.614545454545455 See i don't know what was mainstream in europe like all of these movies of a mainstream for me 	
+MIO036 	1514.65	1516.5	0.615272727272727 Yeah i think also if you look at the number of 	
+MIO046 	1515.95	1519.14	0.0392727272727273 If they are in the top fifty they are quite mainstream but uh 	
+MIO036 	1518.88	1519.34	0.616 Oh 	
+MIO036 	1520.72	1528.64	0.0574545454545455 You know regarding denise table i would say given that the side I don't know if it's mainly american that's how i would say that 	
+FIE038 	1528.07	1530.32	0.616727272727273 It has other movies but i think it's predominantly 	
+MIO036 	1530.4	1534.39	0.617454545454545 Yeah i thing yeah it's english speaking anyway so uh 	
+MIO046 	1530.42	1531.51	0.618181818181818 Uh 	
+MIO046 	1531.51	1532.7	0.618909090909091 i think there is the 	
+MIO036 	1535.17	1536.12	0.619636363636364 Though so 	
+MIO046 	1535.74	1537.57	0.620363636363636 Chinese movies english movies 	
+MIO036 	1537.46	1538.63	0.621090909090909 Yeah but if you look at 	
+FIE038 	1538.15	1539.73	0.621818181818182 No there's no this from everywhere that 	
+MIO036 	1540.14	1540.66	0.622545454545455 Yeah 	
+MIO036 	1540.66	1542.74	0.623272727272727 but i would say mainstream are the 	
+MIO036 	1543.14	1545.84	0.624 have more than whatever sixty thousand votes 	
+MIO036 	1546.37	1548.3	0.624727272727273 And you can see some more 	
+MIO036 	1548.98	1551.46	0.149090909090909 Well confidential films that have like 	
+MIO036 	1551.95	1553.82	0.625454545454545 Ten thousand twenty thousand 	
+FIE038 	1553.99	1554.33	0.626181818181818 Uh-huh 	
+MIO036 	1555.61	1558.76	0.626909090909091 princess mono "'kay" twenty pounds and and uh 	
+MIO036 	1559.3	1563.64	0.138181818181818 Whatever the the case of ski at eleven thousand a park or or whoosh 	
+MIO046 	1563.01	1567.18	0.627636363636364 It's it's quite a lot for chernotsky actually i was surprised yes yeah 	
+MIO036 	1565.68	1567.12	0.628363636363636 Yeah it's not bad at all yeah 	
+MIO036 	1568.48	1571.34	0.629090909090909 So yeah anyway if you want a definition of mainstream 	
+MIO046 	1572.24	1574.69	0.629818181818182 And sister and also is uh is quite high 	
+MIO036 	1574.82	1575.33	0.630545454545455 Uh-huh 	
+MIO046 	1575.72	1579.17	0.631272727272727 I i don't know if it's in this one it's the celebration i think 	
+FIE038 	1577.07	1577.37	0.632 No 	
+FIE038 	1577.88	1578.97	0.632727272727273 I've never even heard of that 	
+MIO046 	1579.9	1581.61	0.633454545454545 It's a um movie from 	
+MIO046 	1582.02	1582.72	0.634181818181818 Sweet is guy 	
+MIO036 	1583.01	1586.25	0.634909090909091 Uh danish i think it's the problem uh movement yeah 	
+MIO046 	1585.21	1586.31	0.635636363636364 Don't my movies yeah 	
+MIO046 	1586.88	1588.01	0.636363636363636 Last point higher 	
+MIO036 	1588.7	1588.99	0.637090909090909 Yep 	
+FIE038 	1589.4	1589.95	0.637818181818182 Okay 	
+MIO046 	1592.08	1592.77	0.638545454545455 Okay 	
+MIO046 	1592.77	1593.55	0.639272727272727 can we 	
+MIO036 	1593.88	1594.61	0.64 Yeah that's uh 	
+MIO046 	1594.18	1595.98	0.640727272727273 It's discuss about l. document maybe 	
+MIO036 	1596.07	1596.93	0.641454545454545 Yeah 	
+MIO036 	1596.93	1598.31	0.642181818181818 oh so it's uh 	
+MIO036 	1598.31	1599.2	0.642909090909091 actually i have made 	
+MIO095 	1598.73	1600.43	0.643636363636364 We can ask you for the for the 	
+MIO036 	1600.21	1602.95	0.644363636363636 I have made photocopies i have them them so uh 	
+MIO046 	1601.77	1602.09	0.645090909090909 Okay 	
+MIO046 	1603.1	1603.42	0.645818181818182 Okay 	
+MIO036 	1603.37	1604.27	0.646545454545455 That's all for yeah 	
+MIO036 	1604.27	1605.64	0.647272727272727 actually i i try to 	
+MIO036 	1606.4	1608.73	0.648 one movie was some alternates 	
+MIO095 	1608.32	1609.34	0.648727272727273 This one and uh 	
+MIO036 	1610.35	1610.55	0.649454545454546 One 	
+MIO095 	1610.79	1614.29	0.147636363636364 Danny danny could you give me the the the stuff to talk to fifty yeah 	
+MIO046 	1613.12	1613.63	0.650181818181818 Yeah sure 	
+MIO095 	1614.72	1615.44	0.650909090909091 You have your own copy 	
+MIO095 	1616.03	1617.51	0.651636363636364 Then okay good thank you 	
+MIO036 	1618.7	1619.53	0.652363636363636 Um 	
+MIO036 	1619.53	1620.65	0.653090909090909 so my proposal 	
+MIO036 	1621.38	1623.32	0.653818181818182 Which is only a proposal would be too 	
+MIO036 	1623.78	1626.02	0.654545454545455 To keep the focus on on 	
+MIO036 	1626.5	1626.96	0.655272727272727 Uh 	
+MIO036 	1626.96	1631.69	0.0850909090909091 more or less history an action So lawrence of arabia was 	
+MIO036 	1632.4	1638.11	0.656 this guy during the first world war so it happens okay outside europe in the states but uh 	
+MIO036 	1638.6	1639.86	0.656727272727273 It's a piece of history 	
+MIO036 	1640.23	1642.69	0.657454545454545 Uh apocalypse now it's a good number of time 	
+FIE038 	1642.88	1643.19	0.658181818181818 Uh-huh 	
+MIO036 	1643.42	1643.69	0.658909090909091 Uh 	
+MIO036 	1643.69	1644.15	0.659636363636364 um 	
+MIO036 	1644.15	1651.62	0.660363636363636 correct and okay but those that's much are much earlier and it's not about it's not violent which is a nice thing i think 	
+MIO036 	1652.14	1653.04	0.661090909090909 But um 	
+MIO036 	1653.79	1660.83	0.0101818181818182 Given that we would like a movie from the nineties i thought that's saving private ryan of things for project in the document 	
+MIO036 	1661.52	1662.35	0.661818181818182 Um 	
+MIO036 	1662.35	1666.26	0.662545454545455 woods keep this more or less this team of um 	
+MIO036 	1666.26	1669.97	0.663272727272727 history and warren's action drama 	
+MIO036 	1671.5	1676.05	0.0785454545454545 actually am very new and i would say if you monastic view on on more 	
+MIO036 	1676.47	1678.48	0.664 Because it's it's not like the um 	
+MIO036 	1678.48	1684.33	0.664727272727273 sort of glorification of uh you know the good guys that's that uh well go against the nazis 	
+MIO036 	1684.88	1685.95	0.665454545454545 But it's uh 	
+MIO036 	1685.95	1697.03	0.0232727272727273 it's uh it's well the plot actually if you don't know it It's about people are looking for just one soldier in fact it's a um it's about a a family of four brothers two 	
+MIO036 	1697.44	1704.23	0.666181818181818 Actually three of them get killed during the war in these days to forty what i guess summer forty four 	
+MIO036 	1705.22	1706.32	0.666909090909091 And uh 	
+MIO036 	1706.32	1715.15	0.00581818181818182 well the government decides that they need to get back to force brother Just to save one number of the family and this this guy's private ryan 	
+MIO036 	1715.8	1722.68	0.0741818181818182 So the movies not about to killing detriments or whatever it's about saving at least one guy from a family 	
+MIO036 	1723.3	1727.18	0.667636363636364 So but of course the the setting use during the war and um 	
+MIO036 	1727.18	1730.96	0.0509090909090909 it's a realistic and uh very dramatic in fact it so um 	
+MIO036 	1731.34	1737.03	0.159272727272727 It's not all of glorification of war but it's just a It shows a bit that the violence of um 	
+MIO036 	1737.65	1740.22	0.130909090909091 Of the things and especially the the beginning is uh 	
+MIO036 	1740.95	1745.24	0.668363636363636 I think it's great it's it's very violent that it's it's an image of of four 	
+MIO046 	1745.14	1745.6	0.669090909090909 Yeah 	
+MIO036 	1745.66	1746.43	0.669818181818182 It's uh 	
+MIO046 	1746.39	1747.92	0.670545454545455 It's quite or a ball actually 	
+FIE038 	1747.29	1749.1	0.671272727272727 Very of violence 	
+MIO036 	1749.01	1752.93	0.672 Yeah but i think if well if you compare it was 	
+MIO046 	1751.92	1752.93	0.672727272727273 Yeah like you can see 	
+MIO095 	1752.63	1756.45	0.0763636363636364 Is that i i i so then i'd i'm trying to remember the beginning there's the normandy landing 	
+FIE038 	1755.58	1756.32	0.673454545454545 The landing 	
+MIO036 	1756.05	1756.78	0.674181818181818 It's yeah it's 	
+MIO095 	1756.86	1757.26	0.674909090909091 Oh okay 	
+MIO095 	1757.26	1757.55	0.675636363636364 yeah 	
+MIO095 	1757.55	1757.78	0.676363636363636 yeah 	
+MIO095 	1758.23	1759.13	0.677090909090909 that was really or 	
+MIO036 	1758.34	1761.64	0.677818181818182 And actually we're more or less everyone get skills and 	
+FIE038 	1759.82	1760.84	0.678545454545455 Does not a movie it 	
+MIO046 	1760.46	1765.02	0.144727272727273 It's it's a piece of our because you use something like one hundred come out of thing that or 	
+MIO036 	1765.18	1769.38	0.679272727272727 Oh i i don't know but yeah actually it's very wealthy on then it's very realistic 	
+MIO036 	1769.95	1777.99	0.0858181818181818 And i don't know if you compare with i don't know in lawrence of arabia i think they have some battles and camels a know it's very nice someone falls somewhere there and 	
+MIO095 	1774.72	1775.12	0.68 Uh-huh 	
+MIO095 	1775.12	1775.44	0.680727272727273 uh-huh 	
+MIO046 	1775.28	1775.79	0.681454545454545 Yeah 	
+MIO046 	1775.79	1776.43	0.682181818181818 it's yeah 	
+MIO036 	1778.69	1783.45	0.682909090909091 Well you know it's like battles that looks nice but this one doesn't look nice and i think it's 	
+MIO095 	1783.2	1783.93	0.683636363636364 No no no 	
+MIO036 	1784.14	1793.82	0.0247272727272727 It's also maybe representative of the nineties you know people saying to get tomorrow Realistic view of of of four but it's true it's it's a bit violent 	
+MIO036 	1794.28	1797.94	0.16 And so when i put your uh it's a bit longer to it's nearly three hours 	
+MIO036 	1798.96	1801.96	0.684363636363636 But uh i don't know apocalypse now it's quite want to 	
+FIE038 	1802.03	1802.49	0.685090909090909 Yeah 	
+MIO046 	1802.42	1806.8	0.685818181818182 Yeah it is there is to they have to make sure that thing and that but we 	
+MIO036 	1803.39	1804.21	0.686545454545455 I don't remember 	
+FIE038 	1805.06	1805.52	0.687272727272727 Yeah 	
+FIE038 	1805.52	1807.12	0.688 the read x. version of longer 	
+MIO046 	1807.14	1809.02	0.688727272727273 Yeah we project that the longer one 	
+MIO036 	1807.4	1807.85	0.689454545454545 Uh-huh 	
+MIO036 	1810.19	1816.51	0.690181818181818 So that one now five all surprises our best director or for steven spielberg 	
+MIO036 	1817.11	1817.61	0.690909090909091 Um 	
+MIO036 	1817.61	1820.24	0.691636363636364 best seminar cinematography et cetera 	
+MIO046 	1820.75	1823.38	0.105454545454545 How many times the spielberg received uh 	
+MIO036 	1820.94	1821.3	0.692363636363636 Oh 	
+MIO046 	1824.09	1825.26	0.693090909090909 Based the director or 	
+FIE038 	1825.47	1827.04	0.693818181818182 I think just ones for this 	
+MIO046 	1825.92	1826.31	0.694545454545455 It's got 	
+MIO036 	1826.01	1826.7	0.695272727272727 I dunno 	
+MIO046 	1827.24	1829.75	0.696 Not for the sinn seen the least four four 	
+FIE038 	1829.65	1830.48	0.696727272727273 On the internet 	
+MIO046 	1830.63	1831.51	0.697454545454545 For each see 	
+FIE038 	1832.02	1833.09	0.698181818181818 No free to you didn't 	
+MIO046 	1833.17	1834.7	0.698909090909091 You want you want and uh 	
+FIE038 	1833.98	1840.21	0.000727272727272727 It wasn't until you started doing things like schindler's list and saving private ryan that he actually started winning awards for it 	
+MIO046 	1840.14	1842.76	0.699636363636364 No you want for it to you want and um 	
+MIO046 	1842.76	1844.81	0.700363636363636 can uh what is the button at all 	
+FIE038 	1844.89	1845.37	0.701090909090909 Okay 	
+MIO036 	1845.88	1846.37	0.701818181818182 Uh-huh 	
+FIE038 	1847.4	1847.79	0.702545454545455 And uh 	
+MIO036 	1849.52	1850.31	0.703272727272727 Um 	
+MIO036 	1850.31	1850.62	0.704 okay 	
+MIO036 	1851.78	1856.9	0.160727272727273 yeah that's that's the point it's it's a bit grey and actually if you look at my second page 	
+MIO036 	1857.31	1857.72	0.704727272727273 Uh 	
+MIO036 	1857.72	1869.63	0.00218181818181818 in the trade yeah i found out that in fact they actually reduced the the colour saturation of the movie just to make it look maybe a bit like the documentaries from the time yeah was very surprised to find the so 	
+MIO046 	1865.55	1867.35	0.705454545454545 That was very interesting to it yeah 	
+MIO046 	1869.58	1873.96	0.706181818181818 But then they they've read that be really what we're was it 	
+MIO036 	1873.87	1876.13	0.0349090909090909 They turn back the colours for uh huh 	
+FIE038 	1874.48	1876.51	0.0821818181818182 Leary enhance the colour yeah 	
+MIO046 	1875.22	1875.82	0.706909090909091 like to 	
+MIO095 	1876.62	1883.11	0.0887272727272727 Because people start to complain that uh i thought that was the problem with the t. v. when they were broadcasting the movie on the t. v. 	
+MIO036 	1877.42	1877.79	0.707636363636364 Yeah 	
+FIE038 	1878.4	1879.98	0.708363636363636 That is the t. v. is a nice 	
+MIO036 	1883.02	1883.44	0.709090909090909 Yeah 	
+MIO036 	1883.44	1887.89	0.0516363636363636 so this uh facts number two i think obviously for the technical people white house 	
+MIO095 	1887.24	1888.97	0.709818181818182 an interesting point interesting point 	
+MIO036 	1888.22	1888.44	0.710545454545455 uh 	
+MIO036 	1889.19	1890.67	0.711272727272727 It's it's it's quite funny 	
+MIO036 	1891.4	1892.65	0.712 So yeah so i i mean 	
+MIO036 	1893.3	1902.28	0.712727272727273 points could serve also it's an introduction if you want to talk for for have a five or ten minutes before the movie and and in in the room 	
+MIO036 	1903.12	1903.83	0.713454545454545 So uh yeah 	
+MIO036 	1903.83	1906.7	0.714181818181818 um so the this would be my candidate that um 	
+MIO046 	1906.35	1909.76	0.714909090909091 And then then there is this a there is any role i 	
+MIO036 	1906.7	1907.4	0.715636363636364 very much 	
+MIO046 	1910.21	1911.82	0.716363636363636 so all and not euro 	
+MIO046 	1912.32	1918.76	0.0865454545454546 And in all the all those two stories know in the previous movies they were in your in your own lawrence of uh be a 	
+FIE038 	1916.02	1916.31	0.717090909090909 Uh-huh 	
+MIO036 	1918.96	1919.42	0.717818181818182 Uh-huh 	
+MIO046 	1919.38	1920.52	0.718545454545455 Uh an idea was 	
+MIO046 	1920.96	1923.95	0.719272727272727 Okay it's now it's also known euro i think that uh 	
+FIE038 	1924.29	1924.56	0.72 Yeah 	
+MIO046 	1924.92	1927.45	0.181818181818182 But yeah i don't remember oh it's actually the them 	
+MIO036 	1927.74	1928.5	0.720727272727273 Yeah on the on the 	
+MIO046 	1927.97	1929.76	0.721454545454545 Dan ellis of the year or you 	
+MIO036 	1928.95	1938.92	0.0152727272727273 Yeah on the picture actually yeah it's tom hanks in fact you you don't see um private ryan until the end more less or is seeing because they they're looking for him 	
+FIE038 	1937.17	1939.19	0.722181818181818 Yeah but if there isn't the way through the movie 	
+MIO095 	1938.94	1939.36	0.722909090909091 Yeah 	
+MIO095 	1939.36	1940.43	0.723636363636364 but in the end you can do it 	
+FIE038 	1939.61	1939.92	0.724363636363636 Most of 	
+FIE038 	1940.37	1943.57	0.0385454545454545 them find trying to find him On the front right 	
+MIO095 	1941.3	1941.86	0.725090909090909 Yes 	
+MIO036 	1942.09	1942.57	0.725818181818182 Uh-huh 	
+MIO046 	1943.18	1946.79	0.0407272727272727 This private try and do things know is not is trying to find in 	
+FIE038 	1944.39	1945.26	0.726545454545454 No no 	
+MIO036 	1945.19	1946.3	0.106181818181818 No time domain 	
+FIE038 	1946.74	1947.77	0.128727272727273 Yeah he's trying to find them 	
+MIO036 	1947.71	1950.27	0.727272727272727 Well the caption says captain john miller so 	
+MIO036 	1951.48	1954.04	0.728 So if you look at the caption um 	
+MIO046 	1951.83	1952.05	0.728727272727273 Yeah 	
+MIO046 	1952.05	1952.21	0.729454545454545 yeah 	
+MIO036 	1954.81	1955.66	0.730181818181818 So he's uh 	
+MIO046 	1954.93	1955.23	0.730909090909091 Okay 	
+FIE038 	1955.25	1957.18	0.731636363636364 And caroline was matt damon 	
+MIO036 	1955.66	1956.19	0.732363636363636 yeah he's 	
+MIO036 	1957.48	1957.91	0.733090909090909 Yeah 	
+MIO036 	1957.91	1960.82	0.733818181818182 so that that that is just a simple soldier actually 	
+MIO095 	1961.05	1964.98	0.129454545454545 By the way it did you find any uh f. five and died finally or not 	
+MIO036 	1965.59	1971.84	0.0130909090909091 Oh who private ryan are no no they find him actually and they sent him back to the family but the captain guys actually 	
+MIO095 	1966.32	1967.48	0.0538181818181818 Uh the private ryan yeah 	
+MIO095 	1969.41	1969.98	0.734545454545455 I remember 	
+MIO095 	1970.42	1973.34	0.735272727272727 There are a file name but ah okay yes yes yes 	
+FIE038 	1972.03	1975.45	0.0414545454545455 Is it came at the beginning it's him at the beginning of the movie at uh 	
+FIE038 	1975.45	1977.02	0.736 at the the graveyard right 	
+MIO036 	1978.21	1981.9	0.0181818181818182 Oh yeah it's private ryan yeah remembering at the beginning uh-huh 	
+FIE038 	1979.35	1979.8	0.736727272727273 Yeah 	
+FIE038 	1980.34	1981.33	0.737454545454545 What does family 	
+MIO095 	1981.79	1988.36	0.738181818181818 Because the rubber that in the end of the movie they're trying to defend some breach or something and there's quite heavy shooting can't uh 	
+MIO036 	1988.57	1989.03	0.738909090909091 Uh-huh 	
+MIO095 	1988.74	1990.92	0.739636363636364 Finally it's actually john miller would die 	
+MIO036 	1991.15	1993.17	0.740363636363636 Yeah exactly actually dies and fortune 	
+MIO095 	1991.72	1992.27	0.741090909090909 Oh okay 	
+MIO036 	1994.03	1996.19	0.741818181818182 So yeah there is sacrifices and 	
+MIO046 	1995.51	2000.87	0.742545454545455 I didn't tell you the truth i didn't like so much the movie because it was quite moralistic because 	
+MIO046 	2001.29	2004.07	0.743272727272727 guy Was we didn't eulogy a man 	
+MIO036 	2004.61	2005.01	0.744 Uh-huh 	
+MIO046 	2004.65	2006.49	0.744727272727273 Because he was quite nonviolent 	
+MIO095 	2006.62	2006.94	0.745454545454545 Uh-huh 	
+MIO046 	2007.21	2009.22	0.746181818181818 And because he didn't kill this this young man 	
+MIO046 	2009.86	2013.25	0.746909090909091 The job and fields i don't know maybe um 	
+MIO036 	2012.66	2013.19	0.747636363636364 Um 	
+MIO095 	2013.08	2015.49	0.748363636363636 Absolutely but it is uh tom hanks yeah 	
+MIO036 	2015.88	2016.33	0.749090909090909 Uh-huh 	
+MIO095 	2017.03	2017.53	0.749818181818182 Oh yeah 	
+MIO046 	2017.09	2018.28	0.750545454545455 And it was like 	
+MIO046 	2018.89	2020.31	0.751272727272727 If you had killed the 	
+MIO036 	2020.63	2021.56	0.752 Yeah and the german 	
+MIO095 	2021.95	2024.32	0.752727272727273 If he would kill him he wouldn't die wow 	
+MIO046 	2023.3	2024.15	0.753454545454545 Because it yeah 	
+MIO036 	2023.38	2023.89	0.754181818181818 Uh-huh 	
+MIO046 	2024.15	2024.41	0.754909090909091 yeah 	
+MIO036 	2024.74	2025.04	0.755636363636364 Yeah 	
+MIO095 	2025.29	2026.19	0.756363636363636 Some things and uh 	
+MIO036 	2026.66	2042.21	0.0749090909090909 Well i mean yeah it has a moral they mention all over the movie you know saving individual and the guys so i yeah i i don't know i don't know how many people have have seen it well among you well most of you actually oh okay oh that's so maybe in people know it's quite well 	
+FIE038 	2037.61	2038.14	0.757090909090909 I have 	
+MIO046 	2038.27	2038.67	0.757818181818182 Yeah yeah 	
+MIO095 	2038.42	2038.85	0.758545454545455 I've seen 	
+MIO046 	2042.61	2044.46	0.759272727272727 Yeah where are in the um 	
+MIO036 	2043.83	2044.47	0.76 Yeah 	
+MIO036 	2044.47	2045.77	0.760727272727273 okay so yeah 	
+MIO036 	2045.77	2050.03	0.761454545454545 so i have some other candidates uh on its own first page at the bottom 	
+MIO036 	2050.44	2052.39	0.132363636363636 Oh i also put pulp fiction 	
+MIO095 	2052.41	2052.72	0.762181818181818 Uh-huh 	
+MIO036 	2052.79	2060.64	0.0494545454545455 Well the silence of the lambs and also that well sort of include it that it that that that that's i know we're in english movie club so i guess it so 	
+MIO036 	2061.71	2063.07	0.161454545454545 It's a bit out of purpose 	
+MIO046 	2062.33	2062.97	0.762909090909091 I had 	
+MIO036 	2063.74	2064.09	0.763636363636364 But it 	
+MIO095 	2063.79	2065.66	0.764363636363636 As the movie about love it i don't know 	
+MIO036 	2066.49	2070.37	0.765090909090909 Oh it's uh it's about again about the can send the second world war 	
+MIO046 	2068.17	2068.89	0.765818181818182 It was in english 	
+MIO036 	2070.81	2080.65	0.0523636363636364 So it's about uh a family of italians which we are rising to a death camp and in fact it's treated no more or less humorous mode so um 	
+FIE038 	2071.57	2072.27	0.766545454545455 No i was in it 	
+MIO036 	2080.65	2085.56	0.767272727272727 the father tries to hide from it from his boring that they are in a death camp 	
+MIO095 	2085.9	2086.55	0.768 Ha 	
+MIO036 	2086.09	2091.66	0.768727272727273 And is this very strange mm well not really cure but relation between yeah 	
+MIO095 	2091.49	2093.44	0.769454545454546 How would end up what is the what is the 	
+MIO036 	2093.73	2096.38	0.0756363636363636 Well the break it saves but the father dice 	
+MIO095 	2096.25	2096.6	0.770181818181818 Uh-huh 	
+MIO095 	2096.6	2096.92	0.770909090909091 uh-huh 	
+MIO036 	2097.68	2107.71	0.771636363636364 So i don't know i i it's created some controversy is i think because people said you send it any form a few more related to the cans but it's very very moving so i think it's 	
+MIO036 	2108.18	2109.34	0.772363636363636 Anyway um 	
+MIO036 	2109.34	2110.16	0.773090909090909 you telling so 	
+MIO095 	2110.22	2112.38	0.773818181818182 Is it to attract movie about the second war 	
+MIO095 	2112.88	2114.02	0.096 Schindler's list that but 	
+MIO095 	2115.36	2116.5	0.0545454545454545 private ryan and 	
+MIO036 	2116.73	2117.04	0.774545454545455 Yeah 	
+MIO095 	2116.92	2117.71	0.775272727272727 But it i don't know 	
+MIO036 	2117.55	2117.87	0.776 Yeah 	
+MIO095 	2119.24	2119.64	0.776727272727273 Uh-huh 	
+MIO036 	2119.33	2119.71	0.777454545454546 Oh great 	
+MIO036 	2120.13	2120.72	0.778181818181818 Okay 	
+MIO036 	2120.72	2121.39	0.778909090909091 uh danny 	
+MIO046 	2121.4	2122.63	0.779636363636364 Yeah so um 	
+MIO046 	2122.63	2123.93	0.780363636363636 i have a look 	
+MIO046 	2124.38	2126.19	0.781090909090909 Quite a different movie to propose you 	
+MIO046 	2126.82	2130.26	0.0254545454545455 I don't know uh it's called the big deal about ski from my um 	
+MIO046 	2130.74	2131.27	0.781818181818182 Uh 	
+MIO046 	2131.27	2132.2	0.782545454545455 it was like when 	
+MIO046 	2132.61	2136.69	0.783272727272727 Actually they are browser as to what we not and i don't know maybe a few i've seen this movie 	
+MIO036 	2138.04	2144.77	0.149818181818182 I haven't seen it but uh i heard that's very funny never seen some other films but i i don't quite brothers 	
+MIO095 	2138.3	2139.45	0.784 Just actually i think 	
+MIO046 	2144.51	2144.98	0.784727272727273 Yeah 	
+MIO046 	2144.98	2147.93	0.785454545454545 they made the final goal which is in the least 	
+MIO036 	2146.82	2148.45	0.786181818181818 Yeah which is in your table 	
+MIO046 	2148.77	2149.57	0.786909090909091 And uh 	
+MIO036 	2150.32	2154.6	0.787636363636364 Um the last one was the one with captain to the jones uh 	
+MIO046 	2153.89	2155.38	0.788363636363636 That could be um 	
+MIO036 	2156.12	2157.24	0.789090909090909 To look room 	
+MIO046 	2156.66	2158.61	0.789818181818182 For all intentions or something like that 	
+MIO036 	2159.07	2160.82	0.790545454545455 Yeah something about scroll thing or 	
+MIO046 	2161.23	2165.01	0.791272727272727 Okay so i don't know i'm going to sell you this movie 	
+MIO036 	2161.47	2162.08	0.792 Very fun 	
+MIO046 	2165.74	2168.45	0.0996363636363636 Because actually the plot is impossible to make 	
+MIO046 	2169.44	2170.92	0.792727272727273 Because it's so um 	
+MIO046 	2170.92	2173.99	0.0443636363636364 actually it's inspired from a movie called a big sleep 	
+MIO046 	2174.67	2175.75	0.793454545454545 And um 	
+MIO036 	2176.45	2177.65	0.794181818181818 The movie or a novel 	
+MIO046 	2178.26	2178.71	0.794909090909091 Uh 	
+MIO046 	2178.71	2180.71	0.795636363636364 it's actually uh 	
+MIO046 	2180.71	2185.01	0.796363636363636 where i've seen that in that it's a a movie form and change that 	
+MIO046 	2185.47	2186.6	0.118545454545455 The big sleep 	
+MIO046 	2187.24	2188.04	0.797090909090909 It's uh 	
+MIO036 	2187.99	2195.05	0.797818181818182 No but they say that's raymond chandler wrote the novel you see it's the the last but one paragraph under second page 	
+MIO046 	2191.53	2192.02	0.798545454545455 Okay 	
+MIO046 	2194.19	2196.95	0.799272727272727 Yeah yeah yeah so it's a it's a it's a novel okay 	
+MIO046 	2198.92	2204.94	0.150545454545455 That that then the story goes that while that film was in production And direct off or one box okay 	
+MIO046 	2205.44	2207.13	0.8 Okay you're right for the walk 	
+MIO046 	2208.07	2210.01	0.800727272727273 Okay so it's about so uh 	
+MIO046 	2210.01	2214.84	0.154909090909091 a had a guy called the the the dude i don't know you pronounce 	
+MIO046 	2216.19	2217.68	0.801454545454545 it's actually uh 	
+MIO046 	2217.68	2221.17	0.802181818181818 oh smoking parts and doing nothing just um 	
+MIO046 	2221.83	2226.11	0.802909090909091 Is living in a in a it's a it's a to pick out to kick off a little from the 	
+MIO046 	2226.73	2228.49	0.803636363636364 From the so bob 	
+MIO046 	2229.08	2236.45	0.168 And you have some friends that at all friends want one is a an old guy from coming back from vietnam upstairs might get them 	
+MIO046 	2237.09	2237.96	0.804363636363636 Um 	
+MIO046 	2237.96	2243.29	0.805090909090909 another guy you whizz Never speaking and they all play together um boeing 	
+MIO095 	2243.67	2244.04	0.805818181818182 Uh-huh 	
+MIO095 	2244.04	2244.33	0.806545454545455 uh-huh 	
+MIO046 	2244.21	2244.96	0.807272727272727 And um 	
+MIO046 	2246.4	2247.71	0.808 The testing is very interesting 	
+MIO046 	2248.26	2248.77	0.808727272727273 um 	
+MIO046 	2249.41	2251.54	0.809454545454545 Okay actually i wanted to propose use um 	
+MIO046 	2252.07	2254.72	0.0654545454545455 Posters only to to this movie that maybe 	
+MIO046 	2256.02	2259.48	0.0661818181818182 Maybe it's going to open to discussion on and posters as well 	
+MIO046 	2260.61	2261.07	0.810181818181818 So 	
+MIO046 	2262.07	2269.71	0.0669090909090909 Actually yeah you on this the first poster you can see they are course from the movie i don't know if you know some of them so just bridges at the top 	
+MIO046 	2270.18	2270.96	0.810909090909091 Uh 	
+MIO046 	2270.96	2273.37	0.119272727272727 good man he's a someone the the big guy 	
+MIO046 	2274.1	2275.08	0.811636363636364 Then doctor or 	
+MIO046 	2275.97	2277.25	0.812363636363636 And the uh 	
+MIO046 	2277.25	2281.25	0.182545454545455 the last one is what she me and i don't remember the name of the goal 	
+FIE038 	2281.74	2282.97	0.813090909090909 It's true and morris know 	
+MIO036 	2282.8	2283.15	0.813818181818182 Um 	
+MIO046 	2283.78	2284.41	0.814545454545455 Should handle 	
+MIO036 	2284.84	2287.22	0.815272727272727 You you wrote that paragraph on the poster 	
+MIO046 	2287.51	2291.4	0.816 Uh i i took it from i don't know where so 	
+MIO036 	2291.02	2291.52	0.816727272727273 Okay 	
+MIO036 	2293.15	2294.82	0.817454545454545 Could be added to that but 	
+MIO046 	2295.34	2310.44	0.0530909090909091 Actually i'm not going to stick to describe much more the bit about ski but uh it's quite up to describe it's uh it's it's a join a about this guy but it's it's a movie quite sure realistic I mean there are some part that are like coming from dreams and uh 	
+FIE038 	2310.36	2310.72	0.818181818181818 Uh-huh 	
+MIO095 	2311.25	2316.88	0.0261818181818182 Why the movie is called the big club of ski why they are the boss "'cause" it's uh feminine right but why 	
+MIO046 	2316.84	2319.43	0.818909090909091 Yeah it's it's funny name and uh 	
+MIO046 	2319.43	2322.91	0.819636363636364 actually just real about skin is used uh 	
+MIO046 	2322.91	2325.7	0.138909090909091 there is uh the story with a knows all about skiing that 	
+MIO036 	2324.97	2326.85	0.820363636363636 Yeah that to the boss casing right 	
+MIO095 	2326.42	2327.14	0.821090909090909 Okay 	
+MIO095 	2327.14	2331.13	0.12 and why the big flap of skin is the is the second one uh huh 	
+MIO046 	2327.96	2328.41	0.821818181818182 And uh 	
+MIO046 	2330.48	2333.35	0.183272727272727 I i i don't remember maybe it's just uh 	
+MIO046 	2334.12	2337.01	0.120727272727273 Uh because of the big sleep there is uh 	
+MIO095 	2336.62	2337.59	0.822545454545455 Uh huh ah okay 	
+MIO095 	2337.59	2337.92	0.823272727272727 okay 	
+MIO036 	2337.75	2339.31	0.824 Yeah there should be reference to 	
+MIO046 	2337.94	2338.5	0.824727272727273 I don't know 	
+MIO046 	2339.15	2344.77	0.0727272727272727 A reference So it's a kind of it's like and they can do it in some way it's even worse 	
+MIO036 	2343.98	2344.41	0.825454545454545 Uh-huh 	
+MIO046 	2345.53	2346.78	0.826181818181818 We see worst people 	
+MIO046 	2347.49	2353.67	0.0734545454545455 So it's kind of yeah and that not every movie i would say but uh i need somebody and you're all this is quite fun 	
+MIO046 	2354.26	2355.68	0.826909090909091 And the casting is is model 	
+MIO046 	2356.19	2358.43	0.827636363636364 that's that's it's for this movie 	
+MIO046 	2359.18	2360.02	0.828363636363636 And um 	
+MIO046 	2361.22	2363.73	0.0676363636363636 wanted to go to the design of the poster actually 	
+MIO046 	2364.86	2365.35	0.829090909090909 Because 	
+FIE038 	2364.93	2365.8	0.829818181818182 I quite like that 	
+MIO036 	2366.52	2367.08	0.830545454545455 Yeah 	
+MIO046 	2366.79	2367.07	0.831272727272727 Yeah 	
+MIO036 	2367.08	2370.7	0.0683636363636364 so the dark for a poster but otherwise it's very nice 	
+MIO046 	2368.85	2369.14	0.832 Yeah 	
+MIO046 	2370.88	2374.89	0.832727272727273 The idea was used uh so to discuss the contents shall we put a summary of 	
+MIO046 	2375.87	2380.15	0.0290909090909091 All the plots and what kind of information do we want so that the first poster 	
+MIO046 	2381.59	2383.18	0.833454545454545 There is a so um 	
+MIO046 	2383.18	2383.99	0.834181818181818 this poster 	
+MIO046 	2384.98	2385.89	0.834909090909091 Quite doctor so 	
+MIO046 	2387.48	2392.01	0.835636363636364 Uh so you i don't know if you you can't really see but uh 	
+MIO046 	2392.01	2393.41	0.836363636363636 there is the um 	
+MIO046 	2393.41	2399.82	0.837090909090909 the pricing information so we say that What movies it friends and three movies eighteen francs 	
+MIO046 	2400.61	2404.4	0.837818181818182 And we can have a i know some sketch subscription of six different 	
+MIO046 	2406.23	2408.77	0.838545454545455 Uh i wanted to say some information to involve 	
+MIO046 	2409.5	2412.99	0.0603636363636364 to comedians well if they want to take up to the committee to select movies 	
+MIO046 	2414.47	2415.27	0.839272727272727 And um 	
+MIO046 	2416.11	2416.84	0.84 What else 	
+MIO046 	2417.73	2418.55	0.840727272727273 Some 	
+MIO095 	2418.14	2421.77	0.162181818181818 I think this is not that because the say something that's a bit about our uh um 	
+MIO095 	2421.77	2423.85	0.841454545454545 we caught up And uh 	
+MIO095 	2423.85	2427.1	0.121454545454545 yeah the big little skits clear that it's a movie and uh 	
+MIO095 	2427.56	2430.82	0.184 I guess that people can remember that it was a movie at least even if 	
+MIO095 	2431.26	2431.5	0.842181818181818 seen 	
+FIE038 	2431.97	2433.08	0.842909090909091 That's a c. d. cover 	
+MIO046 	2434.84	2440.74	0.843636363636364 Yeah actually the idea was just yeah there is uh the buttons uh as seen from one of these dream of the bit 	
+FIE038 	2441.39	2441.77	0.844363636363636 Yeah 	
+MIO036 	2441.75	2442.68	0.845090909090909 Oh okay it's a green 	
+MIO046 	2442.81	2459.66	0.016 And uh the first part is actually use your core body and the the the year all the different about you that would And the car but it's actually At the beginning of the movies or the core body introduce a story and is coming back at the end of the story And is it explaining what kind of movie 	
+FIE038 	2449.68	2450.06	0.845818181818182 Uh-huh 	
+MIO046 	2460.03	2460.47	0.846545454545455 Uh 	
+MIO046 	2460.47	2461.7	0.847272727272727 you are going to to see 	
+MIO036 	2464.23	2465.79	0.162909090909091 Okay sounds a bit crazy 	
+MIO046 	2466.35	2466.82	0.848 And 	
+MIO046 	2473.44	2474.15	0.848727272727273 So 	
+MIO046 	2474.65	2478.98	0.849454545454545 Same principle but they will i don't like it was thinking of adding some 	
+MIO046 	2479.55	2480.38	0.850181818181818 Some um 	
+MIO046 	2480.38	2483.47	0.850909090909091 to take quotations of uh well no and director as 	
+MIO046 	2484.54	2485.31	0.851636363636364 And uh 	
+MIO036 	2484.76	2488.77	0.163636363636364 I like it because it's not so dark so the images are a bit to um 	
+MIO036 	2488.77	2489.37	0.852363636363636 brighter 	
+MIO095 	2489.23	2489.79	0.853090909090909 Yeah but uh 	
+FIE038 	2489.72	2490.86	0.853818181818182 I actually don't like it 	
+MIO095 	2490.68	2495.48	0.0829090909090909 On the contrary i would say there's too many colours cent uh it's difficult to read it and to 	
+FIE038 	2491.49	2493.01	0.854545454545454 It looks like a two yeah 	
+FIE038 	2493.82	2495.57	0.855272727272727 It looks like to say about posters 	
+MIO046 	2496.16	2496.3	0.856 I 	
+FIE038 	2497.63	2500.65	0.856727272727273 Ah but i think you can makes I would keep the format of the 	
+FIE038 	2501.8	2504.73	0.857454545454545 At the quotes and the content formation from the second one 	
+MIO036 	2504.57	2504.85	0.858181818181818 Yep 	
+MIO036 	2505.36	2505.75	0.858909090909091 Uh-huh 	
+MIO095 	2505.69	2506.88	0.859636363636364 Yeah that would be the best 	
+FIE038 	2507.09	2512.49	0.860363636363636 So take those take those quotes get rid of that section of text 	
+MIO095 	2510.96	2511.22	0.861090909090909 Uh-huh 	
+MIO036 	2511.43	2511.94	0.861818181818182 Yeah 	
+FIE038 	2512.89	2513.79	0.862545454545455 But those quotes 	
+FIE038 	2514.97	2524.14	0.00145454545454545 But the uh at the information you had in the second poster about the movie clap at at drawing Kind of in the middle and keep this table and everything just slightly higher at 	
+MIO046 	2520.22	2520.58	0.863272727272727 Okay 	
+MIO046 	2524.54	2525.2	0.864 Okay 	
+MIO046 	2525.2	2525.63	0.864727272727273 i see 	
+MIO036 	2526.22	2530.45	0.865454545454545 What about the brighter background is this one i don't know how it would 	
+MIO036 	2530.9	2535.86	0.866181818181818 Show wanna wall or something like this Doesn't really catch your attention 	
+FIE038 	2536.56	2537.2	0.866909090909091 It does 	
+MIO046 	2537.68	2538.26	0.867636363636364 And yeah 	
+FIE038 	2538.09	2545.59	0.151272727272727 I think the contrast between the the the strip of film and uh the strip of pictures and everything else is 	
+MIO046 	2547.56	2553.87	0.868363636363636 Okay i see what they want a dismal is to know the content of the movie uh what you you want to have on the posture 	
+MIO036 	2554.21	2554.68	0.869090909090909 Yeah 	
+MIO036 	2554.68	2557.66	0.869818181818182 well the content was very good and the second one then 	
+MIO046 	2554.98	2555.88	0.870545454545455 Because we deal with 	
+MIO046 	2557.85	2558.26	0.871272727272727 Okay 	
+MIO046 	2558.26	2559.1	0.872 on that one 	
+FIE038 	2559.77	2560.76	0.872727272727273 Yes to take all of 	
+MIO036 	2560.47	2562.47	0.873454545454545 Yeah all this information is very good 	
+MIO095 	2561.2	2563.87	0.874181818181818 Yeah all this information a point to the first one uh-huh 	
+FIE038 	2562.3	2563.59	0.874909090909091 Throw it up into the 	
+MIO036 	2564.1	2564.39	0.875636363636364 Uh-huh 	
+FIE038 	2564.29	2570.31	0.876363636363636 First one and then maybe at the quotes that you had from the from the frame instructors Sort of at the bottom or something 	
+MIO036 	2569.54	2571.03	0.877090909090909 Or or just one of them 	
+MIO095 	2570.19	2572.02	0.877818181818182 It is david and if the if there 	
+MIO036 	2572.13	2572.47	0.878545454545455 Uh-huh 	
+MIO046 	2573.39	2573.74	0.879272727272727 Okay 	
+MIO046 	2574.31	2574.73	0.88 Great 	
+MIO046 	2575.92	2578.06	0.108363636363636 So i think now we have to decide for movie 	
+MIO036 	2578.62	2579.18	0.880727272727273 Uh-huh 	
+MIO095 	2579.38	2579.63	0.881454545454545 Uh-huh 	
+MIO046 	2579.68	2580.52	0.882181818181818 And um 	
+MIO036 	2581.25	2581.64	0.882909090909091 Oh yep 	
+MIO046 	2583.59	2584.26	0.883636363636364 So 	
+MIO036 	2584.53	2586.1	0.884363636363636 Uh i would suggest 	
+MIO095 	2586.44	2587.63	0.885090909090909 Something come off skew 	
+MIO036 	2587.45	2591.71	0.0901818181818182 If it's not too long maybe each of us could nominate one or two movies we make a 	
+MIO036 	2592.12	2592.88	0.885818181818182 then we vote 	
+MIO095 	2593.15	2593.55	0.886545454545455 Okay 	
+MIO095 	2593.55	2594.06	0.887272727272727 good idea 	
+MIO036 	2595.05	2595.72	0.888 Okay think 	
+MIO046 	2595.84	2596.29	0.888727272727273 Yeah 	
+MIO036 	2596.76	2599.79	0.889454545454545 So who wants so me like what denominator 	
+MIO046 	2597.16	2597.52	0.890181818181818 I think 	
+MIO095 	2599.48	2600.15	0.890909090909091 So 	
+MIO095 	2601.18	2602.84	0.122181818181818 rick or means by the big little skinny 	
+MIO036 	2603.42	2603.91	0.891636363636364 You are 	
+MIO095 	2603.59	2607.23	0.892363636363636 I i yes yeah i would like to at a at least to have it uh in the 	
+MIO036 	2604.31	2604.82	0.893090909090909 Okay 	
+MIO036 	2608.24	2609.88	0.893818181818182 In the nominees okay 	
+MIO095 	2609.13	2610.61	0.894545454545455 And then um a nice exactly 	
+MIO036 	2609.88	2611.33	0.895272727272727 uh another nominee 	
+MIO095 	2611.22	2614.44	0.184727272727273 And the trying to remember all of them 	
+FIE038 	2612.37	2613.51	0.896 Usual suspects 	
+MIO036 	2614.46	2616.81	0.896727272727273 Okay and as usual suspects 	
+FIE038 	2616.48	2618.47	0.897454545454546 Mainly because only two of us have seen that 	
+FIE038 	2619.17	2622.48	0.898181818181818 not a mainstream movies i don't think a lot of people would have seen that 	
+MIO036 	2619.62	2620.07	0.898909090909091 Uh-huh 	
+FIE038 	2623.37	2624.08	0.131636363636364 To begin with 	
+MIO036 	2624.58	2624.86	0.899636363636364 Yeah 	
+MIO036 	2625.38	2629.98	0.0909090909090909 We can nominate one or two of sort of three or whatever um 	
+MIO036 	2629.98	2633.34	0.00872727272727273 i would nominate well came a candidate saving private ryan 	
+MIO036 	2636.64	2642.82	0.0189090909090909 And uh i'm happy with your nominations two i would i mean it also pulp fiction because it's a very good movie 	
+MIO036 	2646.7	2647.24	0.900363636363636 Um 	
+MIO036 	2647.24	2651.5	0.0916363636363636 do any so you were yours is already nominated that you want 	
+MIO046 	2647.74	2649.32	0.0923636363636364 I would nominate um 	
+MIO046 	2651.28	2652.47	0.137454545454545 American beauty as well 	
+MIO036 	2652.7	2653.09	0.901090909090909 Yeah 	
+MIO046 	2654.1	2655.13	0.901818181818182 And um 	
+MIO046 	2658.64	2660.08	0.902545454545455 And i would be okay 	
+MIO046 	2660.08	2662.89	0.0167272727272727 with saving private ryan it's it's against 	
+MIO036 	2662.41	2664.38	0.903272727272727 Okay so it's already on the list 	
+MIO095 	2665.58	2670.81	0.0203636363636364 And then and and still has is it in between the schindler's list and us uh silence of the lambs 	
+MIO036 	2672.04	2672.64	0.904 Uh-huh 	
+MIO095 	2673.28	2674.5	0.0930909090909091 May nominate uh 	
+MIO095 	2674.5	2679.1	0.00727272727272727 these all these three movies big rubber speech schindler's list and the silence of the lambs 	
+MIO036 	2676.47	2677.27	0.904727272727273 Yeah if you want 	
+MIO036 	2681.9	2682.41	0.905454545454545 So 	
+MIO036 	2685.25	2686.68	0.906181818181818 So we have um 	
+MIO036 	2686.68	2688.02	0.906909090909091 seven candidates 	
+MIO036 	2689.1	2689.79	0.907636363636364 Um 	
+MIO036 	2689.79	2693.32	0.908363636363636 if you have a good Short term memory that should be okay 	
+FIE038 	2691.83	2693.28	0.909090909090909 So we really is about what to do 	
+MIO036 	2693.32	2693.67	0.909818181818182 yeah 	
+MIO046 	2693.63	2694.4	0.910545454545455 I 	
+MIO036 	2693.67	2694.02	0.911272727272727 yeah 	
+MIO036 	2695.39	2702.58	0.0000 So uh bit web of ski usual suspects saving private ryan all fiction american beauty schindler's list and sell some commands 	
+MIO036 	2703.24	2708.9	0.0210909090909091 So now let's vote should we vote just for one film or should each of us say give 	
+MIO095 	2708.61	2710.1	0.912 So i mean at first i mean it 	
+MIO046 	2709.52	2713.98	0.912727272727273 Well we can eliminate first one one movie each and then we sit and then we select 	
+MIO095 	2713.92	2718.15	0.913454545454545 I'm sorry could you go to a uh once again to the list of the movies because of them or 	
+MIO036 	2714.83	2715.27	0.914181818181818 Okay 	
+MIO036 	2717.11	2719.16	0.914909090909091 So people above see 	
+MIO095 	2718.55	2721.76	0.915636363636364 Is it possible to put them on the on the on the on the whiteboard 	
+MIO036 	2723.64	2725.31	0.916363636363636 Well i can write on your paper maybe 	
+MIO095 	2724.35	2724.64	0.917090909090909 Okay 	
+MIO095 	2724.64	2728.63	0.0814545454545455 okay so that's the best is to use a suspect so sense of the lambs uh 	
+MIO095 	2728.63	2730.4	0.139636363636364 become of skiing okay 	
+FIE038 	2730.09	2731.25	0.917818181818182 american beauty 	
+MIO036 	2731.4	2732.88	0.0312727272727273 And saving private ryan 	
+MIO046 	2735.14	2735.53	0.918545454545455 Okay 	
+MIO095 	2736.39	2737.17	0.919272727272727 So uh 	
+MIO095 	2737.17	2737.55	0.92 huh 	
+MIO036 	2738.25	2738.69	0.920727272727273 So 	
+FIE038 	2738.43	2740.67	0.133090909090909 And i'm missing one one menacing pulp fiction 	
+MIO095 	2739.49	2740.31	0.921454545454545 One two 	
+FIE038 	2741.32	2741.77	0.922181818181818 "'cause" i wanna 	
+MIO036 	2741.48	2742.61	0.140363636363636 Yep all fiction yeah 	
+MIO095 	2742.41	2743.37	0.141090909090909 A fiction okay 	
+MIO046 	2743.29	2743.71	0.922909090909091 Okay 	
+MIO036 	2743.5	2743.97	0.923636363636364 Okay 	
+MIO036 	2743.97	2746.31	0.924363636363636 so each of us chooses want to eliminate 	
+MIO095 	2746.73	2747.81	0.925090909090909 Six i have six 	
+MIO046 	2747.62	2751.12	0.164363636363636 That's a bit cool but that that's i think a good way 	
+FIE038 	2748.72	2749.42	0.925818181818182 I have seven 	
+MIO095 	2748.73	2749.25	0.926545454545455 How many 	
+MIO095 	2750.16	2750.63	0.927272727272727 Okay with 	
+MIO036 	2751.35	2751.81	0.928 Okay 	
+MIO095 	2751.64	2752.52	0.928727272727273 American beauty 	
+MIO036 	2752.27	2752.79	0.929454545454545 Do you 	
+MIO046 	2752.85	2756.6	0.024 Me a will do we move silence of the times because i think it's too violent 	
+MIO036 	2756.75	2757.25	0.930181818181818 Okay 	
+MIO036 	2757.61	2759.05	0.930909090909091 I'll just remove it this way 	
+MIO036 	2760.33	2761.06	0.931636363636364 Um 	
+MIO036 	2764.78	2767.8	0.0967272727272727 I would remove schindler's list because it's too sad 	
+MIO095 	2767.94	2768.43	0.932363636363636 Okay 	
+MIO036 	2769.75	2771.33	0.933090909090909 Well not very good reason that 	
+MIO046 	2770.83	2772.03	0.933818181818182 I 	
+MIO036 	2772.24	2772.35	0.934545454545455 Okay 	
+FIE038 	2773.83	2774.59	0.133818181818182 Pulp fiction 	
+MIO036 	2775.36	2776.11	0.935272727272727 Oh to that 	
+MIO095 	2776.11	2777.31	0.936 Yeah and i would terminate 	
+MIO046 	2776.71	2778.31	0.936727272727273 And you have a reason for it or 	
+FIE038 	2778.26	2779.81	0.937454545454545 I'm not a huge fan of content and you 	
+MIO046 	2779.98	2780.41	0.938181818181818 But it 	
+MIO095 	2780.52	2782.65	0.141818181818182 And i would i make a fiction actually as well if 	
+FIE038 	2780.59	2781.91	0.938909090909091 And it didn't make it impression 	
+MIO046 	2783.57	2785.3	0.939636363636364 Maybe you can then you can have a one yeah 	
+MIO095 	2785.18	2785.73	0.940363636363636 Another one 	
+MIO036 	2785.27	2788.39	0.941090909090909 No no I believe so 	
+MIO046 	2786.09	2789.09	0.941818181818182 No i 	
+MIO095 	2786.45	2789.23	0.942545454545455 I try and uh 	
+FIE038 	2786.76	2790.27	0.943272727272727 Do we know yeah i mean a lot i know i i 	
+MIO036 	2790.74	2791.33	0.944 Okay 	
+MIO036 	2791.81	2797.07	0.00436363636363636 So we're left with the be the boss "'kay" usual suspects saving private ryan an american be using 	
+MIO036 	2798.11	2801.29	0.116363636363636 Okay so let's vote just simply for one for the moment 	
+MIO036 	2802.97	2806.72	0.117090909090909 So i would vote for american do that because i haven't seen it 	
+MIO046 	2808.01	2808.35	0.944727272727273 Why 	
+MIO095 	2808.09	2809.21	0.122909090909091 would for big trouble screen 	
+FIE038 	2810.1	2810.68	0.945454545454545 Well then uh 	
+MIO036 	2811.01	2811.39	0.946181818181818 Yeah 	
+MIO036 	2811.39	2811.48	0.946909090909091 yeah 	
+FIE038 	2812.24	2812.99	0.947636363636364 Something different 	
+MIO036 	2812.93	2813.83	0.948363636363636 Um 	
+MIO036 	2813.83	2815.53	0.165090909090909 so we're a bit of a ski 	
+MIO036 	2816.05	2816.5	0.949090909090909 And as 	
+MIO046 	2817.76	2818.37	0.949818181818182 I guess you 	
+FIE038 	2819.02	2821.91	0.0327272727272727 I still like the usual suspects they like american beauty tell 	
+FIE038 	2823.62	2824.11	0.950545454545455 So 	
+MIO036 	2827.11	2827.62	0.951272727272727 Oh 	
+MIO095 	2827.96	2828.96	0.952 Make a decision 	
+FIE038 	2830.55	2831.4	0.952727272727273 Usual suspects 	
+MIO036 	2837.2	2838.91	0.953454545454545 Well you we've all your also uh 	
+MIO046 	2837.41	2839.06	0.954181818181818 Okay well i had um 	
+MIO036 	2839.34	2840.36	0.954909090909091 Yeah you can issues 	
+FIE038 	2839.67	2840.86	0.109090909090909 You have a deciding vote 	
+MIO046 	2839.7	2839.9	0.955636363636364 If 	
+MIO046 	2840.36	2841.53	0.956363636363636 okay we if we want to take 	
+MIO036 	2841.4	2843.3	0.957090909090909 Yeah the president maybe after a lot 	
+MIO046 	2842.37	2842.69	0.957818181818182 Okay 	
+MIO046 	2843.84	2847.76	0.0145454545454545 Okay so i'll go with the big label ski since the posters i already ready 	
+MIO095 	2847.75	2849.1	0.958545454545455 Oh really really yeah i 	
+FIE038 	2848.55	2849.2	0.959272727272727 I 	
+MIO036 	2850.04	2850.87	0.96 Okay 	
+MIO036 	2850.87	2852.01	0.960727272727273 yeah i think i'm 	
+FIE038 	2852.5	2853.11	0.961454545454545 That's fine 	
+MIO036 	2852.66	2853.16	0.962181818181818 Fine 	
+MIO095 	2853.33	2853.66	0.962909090909091 So 	
+FIE038 	2854.21	2855.78	0.963636363636364 A make a good change from 	
+MIO036 	2854.83	2855.3	0.964363636363636 Is it is 	
+MIO046 	2855.86	2856.48	0.965090909090909 Yeah it 	
+MIO036 	2856.13	2858.64	0.965818181818182 Yeah i think that this is funny and uh 	
+MIO036 	2858.64	2859.38	0.966545454545455 that's nice 	
+MIO036 	2860.06	2860.41	0.967272727272727 Okay 	
+MIO036 	2861.77	2862.22	0.968 So 	
+MIO046 	2863.29	2863.7	0.968727272727273 Okay 	
+MIO036 	2863.38	2864.09	0.969454545454545 Decision 	
+MIO095 	2863.44	2864.73	0.123636363636364 There's gonna to be big lot of skin 	
+MIO036 	2866.28	2866.79	0.970181818181818 Uh-huh 	
+MIO095 	2867.54	2867.9	0.970909090909091 Okay 	
+MIO036 	2869.14	2870.24	0.971636363636364 That's your fault yeah right 	
+MIO036 	2870.94	2871.46	0.972363636363636 I 	
+FIE038 	2871.89	2873.43	0.973090909090909 You know like it it's your problem 	
+MIO095 	2873.58	2874.52	0.973818181818182 No no no no no i i 	
+MIO036 	2874.2	2876.74	0.974545454545454 No no no i mean yeah i it's you voted 	
+MIO095 	2874.98	2875.47	0.975272727272727 I like it 	
+MIO046 	2876.36	2881.05	0.109818181818182 So we have all i want to use anyway so can we decide for uh 	
+MIO036 	2877.16	2877.81	0.976 Let's have a 
+MIO036 	2878.31	2879.44	0.976727272727273 with the haven't seen it 	
+MIO046 	2881.05	2882.26	0.977454545454545 the next meeting maybe 	
+MIO036 	2883.13	2886.92	0.0465454545454545 Well beginning of may i guess to choose the film for me Was that 	
+FIE038 	2886.24	2886.53	0.978181818181818 Yeah 	
+MIO046 	2886.49	2886.85	0.978909090909091 Okay 	
+MIO095 	2889.06	2892.19	0.0421818181818182 Okay beginning of may but there there's plenty of what it is at the beginning of you know 	
+MIO036 	2892.82	2894.44	0.979636363636364 Yeah the fifth as a um 	
+MIO036 	2894.44	2895.13	0.980363636363636 a source job 	
+MIO036 	2895.59	2896.04	0.981090909090909 What's that 	
+MIO095 	2896.06	2896.57	0.981818181818182 Since yeah 	
+MIO036 	2897.01	2897.6	0.982545454545454 Coming up to the 	
+FIE038 	2897.47	2898.06	0.983272727272727 Ascension 	
+MIO046 	2898.2	2900.84	0.110545454545455 Oh okay always decide after the projection of the movie 	
+MIO046 	2901.57	2902.01	0.984 The data 	
+MIO036 	2902.6	2907.5	0.984727272727273 Yeah we can do it like that you as they before this functions and that's may third 	
+MIO046 	2908.39	2908.76	0.985454545454545 Okay 	
+MIO095 	2908.41	2908.8	0.986181818181818 Okay 	
+MIO095 	2908.8	2909.76	0.986909090909091 okay no problem 	
+MIO036 	2917.01	2917.42	0.987636363636364 Oh yeah 	
+MIO036 	2917.93	2920.91	0.0690909090909091 So thanks for the posters actually doing a very nice 	
+MIO046 	2920.18	2920.53	0.988363636363636 You know 	
+MIO046 	2923.82	2924.25	0.989090909090909 Okay 	
+MIO046 	2925.15	2925.61	0.989818181818182 Thank you 	
+MIO046 	2926.75	2928.36	0.990545454545455 And uh and see what the position yeah 	
+MIO036 	2927.84	2930.61	0.991272727272727 See you on what april twenty six or ones 	
+MIO046 	2930.64	2931.67	0.992 No twenty nine 	
+MIO036 	2931.07	2932.08	0.992727272727273 And twenty ninth 	
+FIE038 	2931.25	2931.46	0.993454545454545 No 	
+MIO095 	2931.97	2932.59	0.994181818181818 Twenty nine 	
+FIE038 	2932.13	2932.58	0.994909090909091 Yeah 	
+FIE038 	2932.58	2932.9	0.995636363636364 yeah 	
+MIO036 	2932.74	2933.19	0.996363636363636 Okay 	
+MIO046 	2933.16	2933.53	0.997090909090909 Okay 	
+MIO095 	2933.68	2934.49	0.997818181818182 We're looking for 	
+MIO095 	2935.54	2936.23	0.998545454545455 I want to see it 	
+MIO046 	2936.37	2936.53	0.999272727272727 Yeah 	

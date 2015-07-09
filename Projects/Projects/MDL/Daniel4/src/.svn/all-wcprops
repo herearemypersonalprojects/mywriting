@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/mdl3/!svn/ver/168/Daniel4/src
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/mdl3/!svn/ver/153/Daniel4/src/.project
+END
+archive.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mdl3/!svn/ver/147/Daniel4/src/archive.tar.gz
+END
+archiveCorrigee.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/mdl3/!svn/ver/168/Daniel4/src/archiveCorrigee.tar.gz
+END
+BUILD_COURTIER.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/mdl3/!svn/ver/126/Daniel4/src/BUILD_COURTIER.java
+END
+BUILD_BOURSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/mdl3/!svn/ver/126/Daniel4/src/BUILD_BOURSE.java
+END

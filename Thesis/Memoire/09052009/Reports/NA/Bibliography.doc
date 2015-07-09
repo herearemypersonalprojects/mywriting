@@ -1,0 +1,14 @@
+
+\label{Bibliography}
+
+%\lhead{\emph{Bibliography}}  % Change the left side page header to "Bibliography"
+\bibliographystyle{unsrtnat}  % Use the "unsrtnat" BibTeX style for formatting the Bibliography
+%\clearpage
+
+\bibliography{biblio}  % The references (bibliography) information are stored in the file named "biblio.bib"
+\addcontentsline{toc}{chapter}{Bibliography}
+
+
+
+%\bibliographystyle{plain}	% (uses file "plain.bst")
+%\bibliography{biblio}		% expects file "myrefs.bib"

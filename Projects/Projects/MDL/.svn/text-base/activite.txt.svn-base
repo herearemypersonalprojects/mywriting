@@ -1,0 +1,5 @@
+Le diagramme d'activité suivant reprend l'ensemble des actions à effectuer pour calculer la valeur optimale d'échange des actions, le nombre d'actions à échanger et quels ordres seront exécutés en priorité. Le fixing est l'activité de calcul du prix optimal d'échange. Par abus de langage, le terme fixing identifie également le résultat de ce calcul.
+
+Pour rappel, on cherche toujours à maximiser le nombre de titres échangés, et à récompenser les donneurs d'ordres prenant le plus de risque en exécutant en priorité les ordres dont le cours limite est le plus éloigné de la valeur du fixing.
+
+

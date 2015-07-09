@@ -1,0 +1,1720 @@
+No: 0
+Correct postion=8
+Correct window size=13
+Found postion=0
+Question=[deni, interest, whether, particip, have, receiv, agenda, meet]
+Size of window = 40
+Step of window = 8
+Score = 6.0
+Common words: (deni 2.0 1 1) (have 1.0 27 19) (receiv 1.0 14 12) (agenda 1.0 18 13) (meet 1.0 21 14) 
+ FOUND WINDOW: hi hi hello hello hi everyon do not know if you all receiv agenda meet do you no no have not here thank you have not goal today have two goal first decid movi next project our movi club you 
+ CORRECT WINDOW: denis  8 do 9 not 10 know 11 if 12 you 13 all 14 received 18 agenda 21 meeting 
+==> PERFECT 
+
+No: 1
+Correct postion=8
+Correct window size=20
+Found postion=0
+Question=[mirek, had, not, receiv, agenda, meet]
+Size of window = 30
+Step of window = 6
+Score = 7.0
+Common words: (mirek 2.0 2 2) (have 1.0 27 19) (not 1.0 9 7) (receiv 1.0 14 12) (agenda 1.0 18 13) (meet 1.0 21 14) 
+ FOUND WINDOW: hi hi hello hello hi everyon do not know if you all receiv agenda meet do you no no have not here thank you have not goal today have two 
+ CORRECT WINDOW: denis  8 do 9 not 10 know 11 if 12 you 13 all 14 received 18 agenda 21 meeting 
+denis  22 do 23 you 24 no 
+mirek  25 no 27 have 28 not
+==> PERFECT 
+
+No: 2
+Correct postion=79
+Correct window size=18
+Found postion=23
+Question=[have, alreadi, seen, lawrenc, arabia, apocolyps, now, amadeus]
+Size of window = 42
+Step of window = 8
+Score = 6.0
+Common words: (have 1.0 27 19) (alreadi 1.0 84 49) (lawrenc 1.0 88 51) (arabia 1.0 90 52) (now 1.0 93 54) (amadeus 1.0 97 56) 
+ FOUND WINDOW: you no no have not here thank you have not goal today have two goal first decid movi next project our movi club you know last friday month april you probabl rememb movi alreadi project lawrenc arabia apocalyps now februari amadeus from 
+ CORRECT WINDOW: denis  79 you 80 probably 81 remember 83 movie 84 already 85 projected 88 lawrence 90 arabia 92 apocalypse 93 now 95 february 97 amadeus 
+==> PERFECT 
+
+No: 3
+Correct postion=112
+Correct window size=7
+Found postion=60
+Question=[go, choos, movi, from, nineti]
+Size of window = 32
+Step of window = 6
+Score = 4.2
+Common words: (go 1.0 112 63) (choos 0.2 114 64) (movi 1.0 61 37) (from 1.0 98 57) (nineti 1.0 119 67) 
+ FOUND WINDOW: our movi club you know last friday month april you probabl rememb movi alreadi project lawrenc arabia apocalyps now februari amadeus from milo forman march question open go select movi from nineti 
+ CORRECT WINDOW: denis  112 going 114 select 116 movie 117 from 119 nineties 
+==> PERFECT 
+
+No: 4
+Correct postion=126
+Correct window size=20
+Found postion=53
+Question=[deni, inform, team, first, object, choos, film, second, discuss, advertis, poster]
+Size of window = 57
+Step of window = 11
+Score = 7.4
+Common words: (deni 2.0 53 33) (first 1.0 126 70) (choos 0.2 114 64) (film 0.2 53 33) (second 1.0 136 75) (discuss 1.0 141 77) (advertis 1.0 145 79) (poster 1.0 146 80) 
+ FOUND WINDOW: movi next project our movi club you know last friday month april you probabl rememb movi alreadi project lawrenc arabia apocalyps now februari amadeus from milo forman march question open go select movi from nineti which movi first goal decid movi project second goal discuss ad advertis poster our club becaus notic last time not enough peopl 
+ CORRECT WINDOW: denis  126 first 127 goal 128 decide 131 movie 134 projected 
+denis  136 second 137 goal 141 discuss 144 ad 145 advertising 146 poster 
+==> PERFECT 
+
+No: 5
+Correct postion=176
+Correct window size=10
+Found postion=117
+Question=[deni, ask, whether, particip, have, prepar, document, their, propos, movi, select]
+Size of window = 57
+Step of window = 11
+Score = 6.2
+Common words: (deni 2.0 117 66) (have 1.0 199 114) (prepar 1.0 179 99) (propos 0.2 134 74) (movi 1.0 122 69) (select 1.0 184 102) 
+ FOUND WINDOW: from nineti which movi first goal decid movi project second goal discuss ad advertis poster our club becaus notic last time not enough peopl came project wh who want start guess you all prepar some docent select movi yes yes ok yes who who has what actual mayb have got powerpoint present ok uhhuh what do you 
+ CORRECT WINDOW: denis  176 guess 177 you 178 all 179 prepared 180 some 181 docents 184 selection 186 movie 
+==> PERFECT 
+
+No: 6
+Correct postion=193
+Correct window size=2
+Found postion=6036
+Question=[andrei, interest, know, what, particip, have, present]
+Size of window = 45
+Step of window = 9
+Score = 5.2
+Common words: (andrei 2.0 6058 3605) (interest 1.0 6117 3634) (know 1.0 6056 3604) (what 1.0 6042 3594) (have 0.2 6102 3626) 
+ FOUND WINDOW: et won cann what palm dor did oh ok yes yes did not know ok yes point bit grey actual if you look my second page trivia found fact actual reduc colour satur movi just make look mayb bit like docentari from time interest read 
+ CORRECT WINDOW: andrei 193 who 194 has 195 what
+==> NOT CORRECT
+
+No: 7
+Correct postion=271
+Correct window size=10
+Found postion=6108
+Question=[andrei, deni, agre, where, start]
+Size of window = 27
+Step of window = 5
+Score = 6.0
+Common words: (andrei 2.0 6108 3630) (deni 2.0 6117 3634) (where 1.0 6149 3646) (start 1.0 6165 3655) 
+ FOUND WINDOW: like docentari from time interest read yes yes surpris find but then read turn back colour where reenhanc colour yes turn back yes becaus peopl start complain 
+ CORRECT WINDOW: andrei  271 should 273 start 276 two 277 presentations 278 maybe 
+denis  279 presentation 280 yes 
+andrei  281 yes
+==> NOT CORRECT
+
+No: 8
+Correct postion=199
+Correct window size=63
+Found postion=180
+Question=[agn, mirek, had, powerpoint, present, deni, andrei, use, paper, note]
+Size of window = 50
+Step of window = 10
+Score = 12.0
+Common words: (agn 2.0 187 104) (mirek 2.0 211 125) (have 1.0 199 114) (powerpoint 1.0 202 116) (present 1.0 203 117) (deni 2.0 180 100) (andrei 2.0 188 105) (paper 1.0 246 140) 
+ FOUND WINDOW: some docent select movi yes yes ok yes who who has what actual mayb have got powerpoint present ok uhhuh what do you have mirek ok have powerpoint present there some review think like seven movi uhhuh have just piec paper some suggest what you deni yes have also piec 
+ CORRECT WINDOW: agnes  199 have 200 got 202 powerpoint 203 presentation 
+denis  204 ok 
+andrei  205 uhhuh 
+andrei  206 what 207 do 208 you 209 have 210 mirek 
+mirek  211 ok 213 have 215 powerpoint 216 presentation 
+mirek  
+mirek  221 there 223 some 224 reviews 230 think 231 like 232 seven 233 movies 
+andrei  234 uhhuh 
+andrei  237 have 241 just 244 piece 246 paper 248 some 249 suggestions 
+andrei  250 what 252 you 253 denis 
+denis  254 yes 256 have 257 also 260 piece 262 paper
+==> PERFECT 
+
+No: 9
+Correct postion=284
+Correct window size=6
+Found postion=161
+Question=[agn, select, first, present, movi, select]
+Size of window = 30
+Step of window = 6
+Score = 5.2
+Common words: (agn 2.0 187 104) (select 1.0 184 102) (first 0.2 172 95) (present 1.0 203 117) (movi 1.0 186 103) 
+ FOUND WINDOW: came project wh who want start guess you all prepar some docent select movi yes yes ok yes who who has what actual mayb have got powerpoint present ok uhhuh 
+ CORRECT WINDOW: denis  284 agnes 286 can 287 start 289 you 
+agnes  290 sure
+==> NOT CORRECT
+
+No: 10
+Correct postion=284
+Correct window size=23
+Found postion=161
+Question=[agn, begin, give, group, her, present]
+Size of window = 30
+Step of window = 6
+Score = 3.4000000000000004
+Common words: (agn 2.0 187 104) (begin 0.2 172 95) (give 0.2 194 110) (present 1.0 203 117) 
+ FOUND WINDOW: came project wh who want start guess you all prepar some docent select movi yes yes ok yes who who has what actual mayb have got powerpoint present ok uhhuh 
+ CORRECT WINDOW: denis  284 agnes 286 can 287 start 289 you 
+agnes  290 sure 
+agnes  292 not 294 long 296 any 297 case 
+denis  298 ok 299 here 
+agnes  302 yes 
+denis  304 pass 306 one 
+agnes  307 yes 
+==> NOT CORRECT
+
+No: 11
+Correct postion=352
+Correct window size=30
+Found postion=377
+Question=[agn, state, her, choic, influenc, theme, mysteri]
+Size of window = 35
+Step of window = 7
+Score = 3.2
+Common words: (agn 2.0 377 224) (state 0.2 428 254) (mysteri 1.0 382 226) 
+ FOUND WINDOW: someth thriller mysteri know lot peopl find mysteri not mysteri movi these day kind can predict what gonna happen but nineti there some movi did have surpris end peopl came say ok did not see 
+ CORRECT WINDOW: agnes  352 month 355 thinking 357 selecting 358 something 360 more 363 present 364 time 365 still 366 dramatic 367 but 368 slightly 369 less 370 serious 
+agnes  372 what 374 would 375 propose 377 something 380 thriller 382 mystery 
+==> PERFECT 
+
+No: 12
+Correct postion=352
+Correct window size=12
+Found postion=313
+Question=[agn, has, chosen, more, recent, movi, than, shown, previous]
+Size of window = 37
+Step of window = 7
+Score = 6.0
+Common words: (agn 2.0 313 182) (have 1.0 324 189) (more 1.0 360 212) (movi 1.0 318 185) (previous 1.0 317 184) 
+ FOUND WINDOW: think basic previous movi had which you have alreadi mention agenda lawrenc arabia apocalyps now amadeus fair histor serious dramat also actioney movi except mayb amadeus month think select someth more present time still dramat but slight 
+ CORRECT WINDOW: agnes  352 month 355 thinking 357 selecting 358 something 360 more 363 present 364 time 
+==> PERFECT 
+
+No: 13
+Correct postion=522
+Correct window size=5
+Found postion=465
+Question=[agn, propos, usual, suspect, sixth, sens, her, movi, select]
+Size of window = 45
+Step of window = 9
+Score = 8.2
+Common words: (agn 2.0 465 279) (propos 1.0 516 308) (usual 1.0 522 312) (suspect 1.0 523 313) (sixth 1.0 526 314) (sens 1.0 527 315) (movi 1.0 465 279) (select 0.2 469 282) 
+ FOUND WINDOW: movi again you pick up thing you did not notic first time around you see where clue what led up end more along line what think two particular would propos next slide pleas usual suspect sixth sens do not know if you have seen ani 
+ CORRECT WINDOW: agnes  522 usual 523 suspects 526 sixth 527 sense 
+==> PERFECT 
+
+No: 14
+Correct postion=522
+Correct window size=30
+Found postion=465
+Question=[agn, give, resum, two, movi, usual, suspect, sixth, sens]
+Size of window = 45
+Step of window = 9
+Score = 8.2
+Common words: (agn 2.0 465 279) (give 0.2 534 321) (two 1.0 510 305) (movi 1.0 465 279) (usual 1.0 522 312) (suspect 1.0 523 313) (sixth 1.0 526 314) (sens 1.0 527 315) 
+ FOUND WINDOW: movi again you pick up thing you did not notic first time around you see where clue what led up end more along line what think two particular would propos next slide pleas usual suspect sixth sens do not know if you have seen ani 
+ CORRECT WINDOW: agnes  522 usual 523 suspects 526 sixth 527 sense 
+agnes  529 do 530 not 531 know 532 if 533 you 534 have 535 seen 536 any 538 them 
+agnes  541 usual 542 suspects 544 directed 546 bryan 547 singer 549 written 551 christopher 552 mcquarrie
+==> PERFECT 
+
+No: 15
+Correct postion=703
+Correct window size=5
+Found postion=625
+Question=[agn, ask, who, has, seen, movi, the, usual, suspect]
+Size of window = 45
+Step of window = 9
+Score = 8.0
+Common words: (agn 2.0 625 378) (who 1.0 654 395) (have 1.0 693 418) (seen 1.0 694 419) (movi 1.0 696 420) (usual 1.0 671 404) (suspect 1.0 672 405) 
+ FOUND WINDOW: lineup no coincid you get told stori these charact be control one sort ubervillain end you find who ubervillain kind like quot from roll stone magazin usual suspect freshest funniest which which one again guy who control do not rememb have seen movi twice but 
+ CORRECT WINDOW: agnes  703 have 704 you 705 guys 706 seen 708 movie 
+==> NOT CORRECT
+
+No: 16
+Correct postion=703
+Correct window size=19
+Found postion=637
+Question=[deni, agn, have, seen, usual, suspect, but, mirek, andrei, have, not]
+Size of window = 55
+Step of window = 11
+Score = 15.0
+Common words: (deni 2.0 677 408) (agn 2.0 637 385) (have 1.0 693 418) (seen 1.0 694 419) (usual 1.0 671 404) (suspect 1.0 672 405) (but 1.0 698 422) (mirek 2.0 715 433) (andrei 2.0 709 429) (have 1.0 703 424) (not 1.0 690 416) 
+ FOUND WINDOW: these charact be control one sort ubervillain end you find who ubervillain kind like quot from roll stone magazin usual suspect freshest funniest which which one again guy who control do not rememb have seen movi twice but ha have you guy seen movi no have not seen no have not bald guy not gonna 
+ CORRECT WINDOW: agnes  703 have 704 you 705 guys 706 seen 708 movie 
+andrei  709 no 711 have 712 not 713 seen 
+mirek  715 no 717 have 718 not 
+denis  721 bald 722 guy
+==> PERFECT 
+
+No: 17
+Correct postion=689
+Correct window size=8
+Found postion=627
+Question=[deni, admit, see, usual, suspect, twice, but, not, rememb, plot]
+Size of window = 50
+Step of window = 10
+Score = 8.2
+Common words: (deni 2.0 677 408) (see 0.2 642 388) (usual 1.0 671 404) (suspect 1.0 672 405) (twice 1.0 697 421) (but 1.0 698 422) (not 1.0 690 416) (rememb 1.0 691 417) 
+ FOUND WINDOW: coincid you get told stori these charact be control one sort ubervillain end you find who ubervillain kind like quot from roll stone magazin usual suspect freshest funniest which which one again guy who control do not rememb have seen movi twice but ha have you guy seen movi no 
+ CORRECT WINDOW: denis  689 do 690 not 691 remember 693 have 694 seen 696 movie 697 twice
+==> PERFECT 
+
+No: 18
+Correct postion=522
+Correct window size=5
+Found postion=442
+Question=[usual, suspect, sixth, sens, suggest, possibl, each, have, been, summari, agn]
+Size of window = 55
+Step of window = 11
+Score = 7.2
+Common words: (usual 1.0 522 312) (suspect 1.0 523 313) (sixth 1.0 526 314) (sens 1.0 527 315) (suggest 0.2 516 308) (have 1.0 449 269) (agn 2.0 442 264) 
+ FOUND WINDOW: one those even if peopl have alreadi seen movi lot time you go back watch movi again you pick up thing you did not notic first time around you see where clue what led up end more along line what think two particular would propos next slide pleas usual suspect sixth sens do not know 
+ CORRECT WINDOW: agnes  522 usual 523 suspects 526 sixth 527 sense 
+==> PERFECT 
+
+No: 19
+Correct postion=833
+Correct window size=19
+Found postion=798
+Question=[agn, has, chosen, more, commerci, film]
+Size of window = 30
+Step of window = 6
+Score = 5.0
+Common words: (agn 2.0 798 486) (has 1.0 821 500) (more 1.0 837 509) (commerci 1.0 838 510) 
+ FOUND WINDOW: say written direct night shyamalan star bruce willi haley joel osment toni collett again has neat twist you find right end yes bit more commerci one first one yes yes 
+ CORRECT WINDOW: denis  833 yes 836 bit 837 more 838 commercial 840 one 842 first 843 one 
+agnes  844 yes 
+agnes  845 yes 847 sixth 848 sense 851 commercial 852 but
+==> PERFECT 
+
+No: 20
+Correct postion=833
+Correct window size=19
+Found postion=466
+Question=[sixth, sens, identifi, more, commer, than, usual, suspect]
+Size of window = 40
+Step of window = 8
+Score = 5.0
+Common words: (sixth 1.0 526 314) (sens 1.0 527 315) (more 1.0 499 300) (usual 1.0 522 312) (suspect 1.0 523 313) 
+ FOUND WINDOW: again you pick up thing you did not notic first time around you see where clue what led up end more along line what think two particular would propos next slide pleas usual suspect sixth sens do not know if 
+ CORRECT WINDOW: denis  833 yes 836 bit 837 more 838 commercial 840 one 842 first 843 one 
+agnes  844 yes 
+agnes  845 yes 847 sixth 848 sense 851 commercial 852 but
+==> NOT CORRECT
+
+No: 21
+Correct postion=856
+Correct window size=10
+Found postion=808
+Question=[andrei, ask, clarif, second, imag, display, present, slide]
+Size of window = 37
+Step of window = 7
+Score = 5.0
+Common words: (andrei 2.0 856 521) (second 1.0 862 523) (imag 1.0 863 524) (slide 1.0 866 525) 
+ FOUND WINDOW: shyamalan star bruce willi haley joel osment toni collett again has neat twist you find right end yes bit more commerci one first one yes yes sixth sens commerci but anyway what what second imag slide poster 
+ CORRECT WINDOW: andrei  856 what 857 what 862 second 863 image 866 slide
+==> PERFECT 
+
+No: 22
+Correct postion=891
+Correct window size=8
+Found postion=128
+Question=[andrei, discuss, powerpoint, present, construct, not, focus, inform, portray]
+Size of window = 45
+Step of window = 9
+Score = 5.0
+Common words: (andrei 2.0 188 105) (discuss 1.0 141 77) (powerpoint 1.0 202 116) (not 1.0 158 87) 
+ FOUND WINDOW: decid movi project second goal discuss ad advertis poster our club becaus notic last time not enough peopl came project wh who want start guess you all prepar some docent select movi yes yes ok yes who who has what actual mayb have got powerpoint 
+ CORRECT WINDOW: andrei  891 has 895 has 897 strange 898 format 899 horizontal 
+==> NOT CORRECT
+
+No: 23
+Correct postion=1035
+Correct window size=12
+Found postion=969
+Question=[agn, report, sixth, sens, acheiv, score, eight, seven, ten, internet, databas]
+Size of window = 55
+Step of window = 11
+Score = 7.0
+Common words: (agn 2.0 969 583) (eight 1.0 1037 621) (seven 1.0 1039 623) (ten 1.0 1042 624) (internet 1.0 1045 625) (databas 1.0 1047 627) 
+ FOUND WINDOW: has rate do not rememb what type audienc had last show but may not necessarili suitabl kid what sort if you eighteen under you have have adult you ok mean restrict uhhuh most violenc yes restrict restrict got eight point seven ten internet movi databas sixteenth top two hundr fifti movi fourth top movi nineti 
+ CORRECT WINDOW: agnes  1035 got 1037 eight 1038 point 1039 seven 1042 ten 1045 internet 1046 movie 1047 database
+==> PERFECT 
+
+No: 24
+Correct postion=1035
+Correct window size=40
+Found postion=913
+Question=[agn, point, usual, suspect, got, eight, seven, internet, movi, databas, sixteenth, top, two, hundr, fifti, movi, fourth, movi, nineti, be, nomin, academi, award]
+Size of window = 112
+Step of window = 22
+Score = 22.0
+Common words: (agn 2.0 913 550) (point 1.0 1038 622) (usual 1.0 952 574) (suspect 1.0 953 575) (got 1.0 1035 620) (eight 1.0 1037 621) (seven 1.0 1039 623) (internet 1.0 1045 625) (movi 1.0 949 573) (databas 1.0 1047 627) (sixteenth 1.0 1050 628) (top 1.0 1053 629) (two 1.0 930 558) (hundr 1.0 956 576) (fifti 1.0 1058 632) (movi 1.0 1046 626) (fourth 1.0 1061 634) (movi 1.0 1059 633) (nineti 1.0 1068 637) (academi 1.0 1074 640) (award 1.0 1075 641) 
+ FOUND WINDOW: yes goe all se all sens oh one two three four five six if you go next slide there slight more detail thing movi usual suspect hundr five minut long decent length time has rate do not rememb what type audienc had last show but may not necessarili suitabl kid what sort if you eighteen under you have have adult you ok mean restrict uhhuh most violenc yes restrict restrict got eight point seven ten internet movi databas sixteenth top two hundr fifti movi fourth top movi nineti won coupl academi award notabl best write script best actor kevin spacey but wait have top ten from nineti no top fifti fourth yes 
+ CORRECT WINDOW: agnes  1035 got 1037 eight 1038 point 1039 seven 1042 ten 1045 internet 1046 movie 1047 database 
+agnes  1050 sixteenth 1053 top 1055 two 1056 hundred 1058 fifty 1059 movies 1061 fourth 1064 top 1065 movies 1068 nineties 
+agnes  1070 won 1072 couple 1074 academy 1075 awards
+==> PERFECT 
+
+No: 25
+Correct postion=1095
+Correct window size=22
+Found postion=1108
+Question=[deni, disput, agn, inform, regard, place, film, top, film, nineti]
+Size of window = 50
+Step of window = 10
+Score = 8.0
+Common words: (deni 2.0 1108 660) (agn 2.0 1109 661) (film 1.0 1162 699) (top 1.0 1113 663) (film 1.0 1167 703) (nineti 1.0 1117 665) 
+ FOUND WINDOW: fourth yes fourth top movi nineti oh sorri sorri yes yes yes sixteenth top two hundr fifti think all time yes becaus your tabl onli nineti yes from yes yes yes yes nineti yes won lot award won best film from british british film associ british equival academi award nomin 
+ CORRECT WINDOW: denis  1095 have 1097 top 1098 ten 1099 from 1101 nineties 
+denis  1102 no 1104 top 1105 fifty 
+denis  1108 fourth 
+agnes  1109 yes 1110 fourth 1113 top 1114 movies 1117 nineties
+==> PERFECT 
+
+No: 26
+Correct postion=1109
+Correct window size=14
+Found postion=2843
+Question=[deni, confus, rate, movi, explain, rate, fourth, nineti]
+Size of window = 40
+Step of window = 8
+Score = 6.0
+Common words: (deni 2.0 2846 1697) (rate 1.0 2877 1718) (movi 1.0 2863 1708) (rate 1.0 2894 1730) (fourth 1.0 2846 1697) 
+ FOUND WINDOW: yes fourth agn my list but ok ah you you select some movi no you did not take six first strang what rate yes funni actual perhap has chang becaus your your slide actual rate eight point seven both higher 
+ CORRECT WINDOW: agnes  1109 yes 1110 fourth 1113 top 1114 movies 1117 nineties 
+denis  1118 oh 1119 sorry 1120 sorry 1121 yes 1122 yes 1123 yes
+==> NOT CORRECT
+
+No: 27
+Correct postion=1155
+Correct window size=3
+Found postion=1129
+Question=[usual, suspect, won, lot, award]
+Size of window = 25
+Step of window = 5
+Score = 3.0
+Common words: (won 1.0 1155 694) (lot 1.0 1156 695) (award 1.0 1158 696) 
+ FOUND WINDOW: hundr fifti think all time yes becaus your tabl onli nineti yes from yes yes yes yes nineti yes won lot award won best film 
+ CORRECT WINDOW: agnes  1155 won 1156 lots 1158 awards
+==> PERFECT 
+
+No: 28
+Correct postion=1124
+Correct window size=12
+Found postion=1124
+Question=[agn, read, her, rate, from, list, top, two, hundr, fifti, movi, all, time, which, other, member, unawar]
+Size of window = 82
+Step of window = 16
+Score = 11.2
+Common words: (agn 2.0 1124 672) (read 0.2 1193 717) (rate 1.0 1238 751) (from 1.0 1146 687) (top 1.0 1127 673) (two 1.0 1128 674) (hundr 1.0 1129 675) (fifti 1.0 1131 676) (movi 1.0 1223 738) (all 1.0 1135 678) (time 1.0 1136 679) 
+ FOUND WINDOW: sixteenth top two hundr fifti think all time yes becaus your tabl onli nineti yes from yes yes yes yes nineti yes won lot award won best film from british british film associ british equival academi award nomin best foreign film cesar plenti award could say but but sixteenth top two hundr fifti what two all all day plenti award yes think all time yes all movi yes yes all time yes still good actual ok yes but those rate more like 
+ CORRECT WINDOW: agnes  1124 sixteenth 1127 top 1128 two 1129 hundred 1131 fifty 1133 think 1135 all 1136 time
+==> PERFECT 
+
+No: 29
+Correct postion=1300
+Correct window size=20
+Found postion=1212
+Question=[unclear, mean, rate, dervi]
+Size of window = 22
+Step of window = 4
+Score = 1.2
+Common words: (mean 0.2 1215 733) (rate 1.0 1238 751) 
+ FOUND WINDOW: yes think all time yes all movi yes yes all time yes still good actual ok yes but those rate more like 
+ CORRECT WINDOW: andrei  1300 because 1301 there 1304 your 1305 table 1306 you 1307 have 1309 things 1311 have 1313 few 1314 votes 1315 but 1316 still 1318 ranked 1319 quite 1320 high
+==> NOT CORRECT
+
+No: 30
+Correct postion=1581
+Correct window size=5
+Found postion=1571
+Question=[pg, rate, explain]
+Size of window = 12
+Step of window = 2
+Score = 2.0
+Common words: (pg 1.0 1586 967) (rate 1.0 1584 966) 
+ FOUND WINDOW: sixth sens yes sixth sen again fair short has easier rate pg 
+ CORRECT WINDOW: 1581 has 1583 easier 1584 rating 1586 pg
+==> PERFECT 
+
+No: 31
+Correct postion=1716
+Correct window size=19
+Found postion=1677
+Question=[deni, point, both, film, similar, fact, do, not, give, away, answer, right, until, end]
+Size of window = 70
+Step of window = 14
+Score = 8.4
+Common words: (deni 2.0 1716 1046) (both 1.0 1716 1046) (film 0.2 1717 1047) (similar 1.0 1720 1049) (do 1.0 1689 1029) (not 1.0 1690 1030) (give 0.2 1774 1081) (right 1.0 1759 1073) (end 1.0 1763 1075) 
+ FOUND WINDOW: can see plot boy who counic spirit do not know when dead seek help dishearten child psychologist figur whi see what see what mean both movi quit similar some way becaus last sentenc total contradictori whole movi yes yes last sentenc from movi oh yes last sentenc from movi yes onli right right end where you find what go make you rethink everyth happen beforehand yes those would my two 
+ CORRECT WINDOW: denis  1716 both 1717 movies 1719 quite 1720 similar 1722 some 1723 way 1724 because 1726 last 1727 sentence 1730 totally 1731 contradictory 1734 whole 1735 movie
+==> PERFECT 
+
+No: 32
+Correct postion=1593
+Correct window size=31
+Found postion=1479
+Question=[agn, gave, rate, sixth, sens, nineteenth, list, nineti, one, hundr, one, two, hundr, fifti, all, time, movi, score, eight, one, ten]
+Size of window = 105
+Step of window = 21
+Score = 18.0
+Common words: (agn 2.0 1479 903) (rate 1.0 1584 966) (sixth 1.0 1571 956) (sens 1.0 1572 957) (nineteenth 1.0 1615 983) (list 1.0 1618 985) (nineti 1.0 1635 997) (one 1.0 1521 929) (hundr 1.0 1603 977) (one 1.0 1544 941) (two 1.0 1609 980) (hundr 1.0 1610 981) (fifti 1.0 1612 982) (movi 1.0 1497 913) (eight 1.0 1595 973) (one 1.0 1597 975) (ten 1.0 1600 976) 
+ FOUND WINDOW: not been abl watch again see where hint scatter across movi caus appar there hint who ah now rememb oh yes ok yes yes actual there one guy who polic station ask him tell stori yes yes yes one tell stori yes there him guy burn unit yes what second movi second movi sixth sens yes sixth sen again fair short has easier rate pg thirteen much less violent got eight point one ten hundr first top two hundr fifti nineteenth your list think if not mistaken yes nineteenth got fair nber vote too nineti six thousand again nomin lot differ academi award did not 
+ CORRECT WINDOW: agnes  1593 got 1595 eight 1596 point 1597 one 1600 ten 1603 hundred 1605 first 1608 top 1609 two 1610 hundred 1612 fifty 1615 nineteenth 1617 your 1618 list 1620 think 1621 if 1623 not 1624 mistaken
+==> PERFECT 
+
+No: 33
+Correct postion=1833
+Correct window size=6
+Found postion=5219
+Question=[andrei, ask, whether, award, list, agn, slide, best, award, receiv, film, which, agn, confirm]
+Size of window = 70
+Step of window = 14
+Score = 10.4
+Common words: (andrei 2.0 5226 3127) (ask 1.0 5236 3132) (list 1.0 5242 3134) (agn 2.0 5277 3158) (good 1.0 5313 3185) (receiv 0.2 5247 3137) (film 0.2 5244 3135) (which 1.0 5319 3190) (agn 2.0 5277 3158) 
+ FOUND WINDOW: can discuss your docent mayb yes let yes mayb can ask you list movi actual have made have made photocopi yes have them deni all you ok ok actual tri propos just one movi some altern thank you one you want one deni deni could you give me list top fifti yes yes sure but you have your own copi then yes ok good thank you my propos which onli 
+ CORRECT WINDOW: andrei  1833 these 1836 best 1837 awards 1839 had
+==> NOT CORRECT
+
+No: 34
+Correct postion=1916
+Correct window size=8
+Found postion=184
+Question=[mirek, ask, display, slide, begin, present]
+Size of window = 30
+Step of window = 6
+Score = 3.4000000000000004
+Common words: (mirek 2.0 211 125) (display 0.2 203 117) (begin 0.2 200 115) (present 1.0 216 128) 
+ FOUND WINDOW: select movi yes yes ok yes who who has what actual mayb have got powerpoint present ok uhhuh what do you have mirek ok have powerpoint present there some review 
+ CORRECT WINDOW: mirek  1916 ok 1917 now 1918 you 1919 can 1920 go 1923 my 1924 slides
+==> NOT CORRECT
+
+No: 35
+Correct postion=1926
+Correct window size=23
+Found postion=1918
+Question=[mirek, introduc, six, seven, movi]
+Size of window = 22
+Step of window = 4
+Score = 5.0
+Common words: (mirek 2.0 1918 1168) (six 1.0 1946 1186) (seven 1.0 1948 1187) (movi 1.0 1949 1188) 
+ FOUND WINDOW: you can go my slide ok but actual what pre what have prepar just kind review fo se six seven movi if 
+ CORRECT WINDOW: mirek  1926 but 1927 actually 1928 what 1930 pre 1931 what 1933 have 1934 prepared 1936 just 1938 kind 1941 review 1943 fo 1945 se 1946 six 1948 seven 1949 movies
+==> PERFECT 
+
+No: 36
+Correct postion=221
+Correct window size=12
+Found postion=206
+Question=[mirek, suggest, seven, movi, group]
+Size of window = 25
+Step of window = 5
+Score = 5.0
+Common words: (mirek 2.0 211 125) (suggest 1.0 249 142) (seven 1.0 232 134) (movi 1.0 233 135) 
+ FOUND WINDOW: what do you have mirek ok have powerpoint present there some review think like seven movi uhhuh have just piec paper some suggest what you 
+ CORRECT WINDOW: mirek  221 there 223 some 224 reviews 230 think 231 like 232 seven 233 movies
+==> PERFECT 
+
+No: 37
+Correct postion=2026
+Correct window size=9
+Found postion=1963
+Question=[mirek, state, has, not, seen, all, seven, film, select]
+Size of window = 42
+Step of window = 8
+Score = 8.2
+Common words: (mirek 2.0 1965 1202) (have 1.0 2026 1229) (not 1.0 2030 1231) (see 1.0 1993 1215) (all 1.0 2013 1223) (seven 1.0 1967 1204) (film 0.2 1968 1205) (select 1.0 2042 1239) 
+ FOUND WINDOW: around right yes basic seven movi top movi base ra rank award award yes you see name movi wall can perhap go through all them can littl bit discuss have did not see all them actual just should probabl select one these 
+ CORRECT WINDOW: mirek  2026 have 2029 did 2030 not 2031 see 2032 all 2034 them 2035 actually
+==> PERFECT 
+
+No: 38
+Correct postion=2202
+Correct window size=22
+Found postion=6755
+Question=[noon, has, seen, shawshank, redempt]
+Size of window = 27
+Step of window = 5
+Score = 2.2
+Common words: (has 1.0 6755 4005) (seen 1.0 6788 4028) (redempt 0.2 6765 4013) 
+ FOUND WINDOW: has moral dimens all over movi you know save individu guy yes yes do not know do not know mani peopl have have seen among you most 
+ CORRECT WINDOW: mirek  2202 yes 2203 who 2204 has 2205 seen 2207 movie 
+agnes  2208 no 2210 have 2211 not 
+mirek  2212 because 2213 then 2214 perhaps 2215 someone 2216 can 2217 give 2218 some 2219 some 2220 coent 
+andrei  2221 no 2223 have 2224 not
+==> NOT CORRECT
+
+No: 39
+Correct postion=2383
+Correct window size=6
+Found postion=2339
+Question=[mirek, ask, who, has, seen, schindler, list]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (mirek 2.0 2349 1419) (who 1.0 2388 1440) (have 1.0 2394 1444) (seen 1.0 2395 1445) (schindler 1.0 2386 1438) (list 1.0 2387 1439) 
+ FOUND WINDOW: guy jail ok uhhuh ok ge ok no one us saw movi case perhap littl bit danger select movi ok yes let yes play schindler list who saw me yes have seen also saw think 
+ CORRECT WINDOW: mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+==> PERFECT 
+
+No: 40
+Correct postion=2383
+Correct window size=34
+Found postion=2333
+Question=[denisagn, mirek, have, all, seen, schindler, list, andrei, has, not]
+Size of window = 50
+Step of window = 10
+Score = 11.0
+Common words: (mirek 2.0 2349 1419) (have 1.0 2394 1444) (all 1.0 2427 1459) (seen 1.0 2395 1445) (schindler 1.0 2386 1438) (list 1.0 2387 1439) (andrei 2.0 2333 1410) (have 1.0 2415 1452) (not 1.0 2416 1453) 
+ FOUND WINDOW: yes ok ok yes guy jail ok uhhuh ok ge ok no one us saw movi case perhap littl bit danger select movi ok yes let yes play schindler list who saw me yes have seen also saw think one nice yes have not seen heard but you know all 
+ CORRECT WINDOW: mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+agnes  2391 me 
+denis  2392 yes 2394 have 2395 seen 2397 also 
+mirek  2399 saw 2403 think 2409 one 2412 nice 
+andrei  2413 yes 2415 have 2416 not 2417 seen
+==> PERFECT 
+
+No: 41
+Correct postion=2383
+Correct window size=34
+Found postion=7044
+Question=[mirek, announc, second, choic, schindler, list, onli, andrei, confess, never, see, it]
+Size of window = 62
+Step of window = 12
+Score = 7.4
+Common words: (mirek 2.0 7061 4171) (second 1.0 7067 4174) (schindler 1.0 7069 4176) (list 1.0 7070 4177) (onli 0.2 7048 4166) (andrei 2.0 7044 4164) (see 0.2 7132 4217) 
+ FOUND WINDOW: relat camp but move think anyway italian actual third movi second war schindler list save privat ryan la vita bella yes yes yes ok deni yes have quit differ movi propos you do not know call big lebowski from joel coen actual brother you probabl know them do not know mani you have seen movi no have not seen but heard funni 
+ CORRECT WINDOW: mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+agnes  2391 me 
+denis  2392 yes 2394 have 2395 seen 2397 also 
+mirek  2399 saw 2403 think 2409 one 2412 nice 
+andrei  2413 yes 2415 have 2416 not 2417 seen
+==> NOT CORRECT
+
+No: 42
+Correct postion=2537
+Correct window size=54
+Found postion=7064
+Question=[mirek, choic, schindler, list, provok, involv, from, other, member, there, obvious, increas, enthusiasm]
+Size of window = 65
+Step of window = 13
+Score = 6.0
+Common words: (mirek 2.0 7064 4173) (schindler 1.0 7069 4176) (list 1.0 7070 4177) (from 1.0 7111 4202) (other 1.0 7157 4233) 
+ FOUND WINDOW: movi second war schindler list save privat ryan la vita bella yes yes yes ok deni yes have quit differ movi propos you do not know call big lebowski from joel coen actual brother you probabl know them do not know mani you have seen movi no have not seen but heard funni no just partial think have seen some other film coen brother yes 
+ CORRECT WINDOW: andrei  2537 also 2539 think 2542 good 2543 idea 2546 least 2547 from 2548 my 2549 point 2551 view 2553 coherent 2556 previous 2557 films 
+andrei  2558 like 2559 history 2560 im 2561 major 2562 events 
+denis  2563 yes 2564 yes 2566 right 2567 yes 
+mirek  2569 true 
+andrei  2571 do 2572 not 2573 know 2574 if 2576 want 2578 keep 2580 coherence 2582 change 2583 radically 2584 but 2585 maybe 
+agnes  2588 fairly 2589 emotional 2590 movie 2591 though
+==> NOT CORRECT
+
+No: 43
+Correct postion=2611
+Correct window size=7
+Found postion=1567
+Question=[agre, shindler, list, not, repres, one, thousand, nine, hundr, nineti]
+Size of window = 47
+Step of window = 9
+Score = 6.0
+Common words: (list 1.0 1618 985) (not 1.0 1623 988) (one 1.0 1597 975) (thousand 1.0 1637 999) (hundr 1.0 1603 977) (nineti 1.0 1635 997) 
+ FOUND WINDOW: second movi sixth sens yes sixth sen again fair short has easier rate pg thirteen much less violent got eight point one ten hundr first top two hundr fifti nineteenth your list think if not mistaken yes nineteenth got fair nber vote too nineti six thousand again 
+ CORRECT WINDOW: denis  2611 but 2612 then 2614 not 2615 representative 2618 nineties 
+==> NOT CORRECT
+
+No: 44
+Correct postion=2537
+Correct window size=32
+Found postion=8753
+Question=[group, agre, schindler, list, similar, previous, film, have, present, their, club, could, present]
+Size of window = 65
+Step of window = 13
+Score = 5.2
+Common words: (schindler 1.0 8784 5158) (list 1.0 8785 5159) (film 1.0 8801 5169) (have 1.0 8753 5135) (present 0.2 8808 5174) (could 1.0 8833 5190) 
+ FOUND WINDOW: have good short term memori should ok you reduc what two yes big lebowski usual suspect save privat ryan pulp fiction american beauti schindler list silenc lamb now let vote should vote just one film should each us say give elimin first elimin first can elimin first one one movi each then then select sorri could you go onc again through list movi becaus do 
+ CORRECT WINDOW: andrei  2537 also 2539 think 2542 good 2543 idea 2546 least 2547 from 2548 my 2549 point 2551 view 2553 coherent 2556 previous 2557 films 
+andrei  2558 like 2559 history 2560 im 2561 major 2562 events 
+denis  2563 yes 2564 yes 2566 right 2567 yes 
+mirek  2569 true
+==> NOT CORRECT
+
+No: 45
+Correct postion=2458
+Correct window size=29
+Found postion=2358
+Question=[mirek, recommend, think, schindler, list]
+Size of window = 25
+Step of window = 5
+Score = 5.0
+Common words: (mirek 2.0 2358 1425) (think 1.0 2403 1448) (schindler 1.0 2386 1438) (list 1.0 2387 1439) 
+ FOUND WINDOW: movi case perhap littl bit danger select movi ok yes let yes play schindler list who saw me yes have seen also saw think one 
+ CORRECT WINDOW: mirek  2458 thinking 2459 whether 2460 there 2462 some 2463 good 2464 occasion 2466 something 2467 what 2468 has 2469 happened 2470 recently 
+mirek  2471 there 2473 something 2474 like 2476 celebration 2479 fifty 2480 years 2481 after 2483 war 2485 something 2486 recently 2487 no
+==> NOT CORRECT
+
+No: 46
+Correct postion=2846
+Correct window size=10
+Found postion=9118
+Question=[mirek, choic, usual, suspect, also, one, agn, choic]
+Size of window = 40
+Step of window = 8
+Score = 7.2
+Common words: (mirek 2.0 9138 5387) (usual 1.0 9163 5404) (suspect 1.0 9164 5405) (also 0.2 9170 5410) (one 1.0 9120 5377) (agn 2.0 9143 5390) 
+ FOUND WINDOW: simpli one moment would vote american beauti becaus have not seen vote big lebowski all gonna vote someth differ mirek big lebowski agn deni agn you still like usual suspect but like american beauti too make decis usual suspect yes 
+ CORRECT WINDOW: denis  2846 fourth 2848 agnes 2852 my 2853 list 2854 but 2856 ok 
+==> NOT CORRECT
+
+No: 47
+Correct postion=2846
+Correct window size=10
+Found postion=2804
+Question=[deni, first, notic, discrep, rate, usual, suspect, mirek, present, compar, agn]
+Size of window = 55
+Step of window = 11
+Score = 10.0
+Common words: (deni 2.0 2810 1676) (first 1.0 2871 1715) (rate 1.0 2877 1718) (usual 1.0 2812 1677) (suspect 1.0 2813 1678) (mirek 2.0 2804 1672) (agn 2.0 2805 1673) 
+ FOUND WINDOW: least yes second one ok usual suspect do want say someth again no think can just skip slide come come third your list yes yes fourth agn my list but ok ah you you select some movi no you did not take six first strang what rate yes funni actual perhap has chang becaus your 
+ CORRECT WINDOW: denis  2846 fourth 2848 agnes 2852 my 2853 list 2854 but 2856 ok
+==> PERFECT 
+
+No: 48
+Correct postion=2903
+Correct window size=27
+Found postion=1131
+Question=[deni, mirek, tabl, differ]
+Size of window = 20
+Step of window = 4
+Score = 5.0
+Common words: (deni 2.0 1146 687) (mirek 2.0 1151 692) (tabl 1.0 1140 683) 
+ FOUND WINDOW: fifti think all time yes becaus your tabl onli nineti yes from yes yes yes yes nineti yes won lot 
+ CORRECT WINDOW: andrei  2903 no 2905 have 2907 same 2908 usual 2909 suspects 2911 pulp 2912 fiction 2913 both 2916 eight 2917 point 2918 seven 
+andrei  2919 but 2921 denis 2922 table 2925 one 2928 eight 2929 point 2930 six
+==> NOT CORRECT
+
+No: 49
+Correct postion=3053
+Correct window size=11
+Found postion=2136
+Question=[agen, interest, keep, track, who, has, seen, what, film]
+Size of window = 47
+Step of window = 9
+Score = 4.2
+Common words: (who 1.0 2197 1328) (have 1.0 2169 1312) (see 1.0 2162 1307) (what 1.0 2179 1315) (film 0.2 2176 1314) 
+ FOUND WINDOW: tabl clear deni final found actual your tabl much better than my than my present becaus perhap here can can see mean no do not have plot movi what rank ha did not have plot yes ok but mayb can wh who has seen movi yes who 
+ CORRECT WINDOW: agnes  3053 just 3054 trying 3056 keep 3057 track 3060 many 3062 us 3063 have 3064 seen
+==> NOT CORRECT
+
+No: 50
+Correct postion=3053
+Correct window size=22
+Found postion=2299
+Question=[agn, briefli, interject, ask, who, has, seen, schindler, list, deni, mirek, herself, have]
+Size of window = 65
+Step of window = 13
+Score = 12.0
+Common words: (agn 2.0 2326 1404) (who 1.0 2388 1440) (has 1.0 2305 1396) (seen 1.0 2395 1445) (schindler 1.0 2386 1438) (list 1.0 2387 1439) (deni 2.0 2325 1403) (mirek 2.0 2310 1398) (have 1.0 2394 1444) 
+ FOUND WINDOW: yes actual your third slide has plot yes one yes one wall yes yes project yes oh yes exact yes ok ok yes guy jail ok uhhuh ok ge ok no one us saw movi case perhap littl bit danger select movi ok yes let yes play schindler list who saw me yes have seen also saw think one nice yes have not seen heard 
+ CORRECT WINDOW: agnes  3053 just 3054 trying 3056 keep 3057 track 3060 many 3062 us 3063 have 3064 seen 
+mirek  3066 schindler 3067 list 
+denis  3068 yes 
+agnes  3069 you 3070 have 
+mirek  3072 saw 3075 saw
+==> NOT CORRECT
+
+No: 51
+Correct postion=3088
+Correct window size=14
+Found postion=3024
+Question=[andrei, has, not, seen, mani, movi, all, approxim, ten, complet, list]
+Size of window = 55
+Step of window = 11
+Score = 9.0
+Common words: (andrei 2.0 3035 1821) (have 1.0 3026 1816) (not 1.0 3082 1854) (see 1.0 3050 1833) (mani 1.0 3039 1824) (movi 1.0 3032 1819) (ten 1.0 3097 1863) (list 1.0 3044 1828) 
+ FOUND WINDOW: do have someth add movi no no ok wait mani us saw schindler list three us did you see just tri keep track mani us have seen schindler list yes you have saw saw you have yes you have not have not have seen few movi from list ten first fifti whi you movi club 
+ CORRECT WINDOW: andrei  3088 have 3089 seen 3091 few 3092 movies 3093 from 3095 list 3097 ten 3101 first 3102 fifty
+==> PERFECT 
+
+No: 52
+Correct postion=3149
+Correct window size=69
+Found postion=3075
+Question=[mirek, say, feel, pulp, fiction, would, not, appropri, film, screen, movi, club]
+Size of window = 57
+Step of window = 11
+Score = 8.2
+Common words: (mirek 2.0 3075 1848) (pulp 1.0 3119 1876) (fiction 1.0 3120 1877) (would 1.0 3166 1903) (not 1.0 3082 1854) (film 0.2 3092 1860) (movi 1.0 3110 1868) (club 1.0 3111 1869) 
+ FOUND WINDOW: saw you have yes you have not have not have seen few movi from list ten first fifti whi you movi club see more movi ok yes ok pulp fiction think again quit hi high rank but from my perspect everyon alreadi saw who interest movi saw wh who not interest movi did not see would not 
+ CORRECT WINDOW: mirek  3149 wh 3150 who 3152 not 3153 interested 3156 movie 3159 did 3160 not 3161 see 3166 would 3167 not 3169 like 3171 see 3176 our 3177 movie 3178 club 
+mirek  3181 think 3183 should 3186 should 3187 just 3188 leave 3189 skip 3193 leave 
+mirek  3198 would 3199 not 3200 think 3205 candidate 3206 even 3207 if 3210 good 3211 movie 3212 but 3214 do 3215 not 3216 know 3218 think
+==> PERFECT 
+
+No: 53
+Correct postion=1965
+Correct window size=20
+Found postion=1963
+Question=[mirek, choos, film, base, their, rank, not, person, prefer]
+Size of window = 40
+Step of window = 8
+Score = 5.4
+Common words: (mirek 2.0 1965 1202) (choos 0.2 2042 1239) (film 0.2 1968 1205) (base 1.0 1978 1208) (rank 1.0 1985 1210) (not 1.0 2030 1231) 
+ FOUND WINDOW: around right yes basic seven movi top movi base ra rank award award yes you see name movi wall can perhap go through all them can littl bit discuss have did not see all them actual just should probabl select 
+ CORRECT WINDOW: mirek  1965 yes 1966 basically 1967 seven 1968 movies 1975 top 1976 movies 1978 based 1984 ra 1985 ranking
+==> PERFECT 
+
+No: 54
+Correct postion=3223
+Correct window size=6
+Found postion=728
+Question=[deni, belivev, pulp, fiction, repres, nineti]
+Size of window = 40
+Step of window = 8
+Score = 4.0
+Common words: (deni 2.0 738 448) (pulp 1.0 776 472) (fiction 1.0 777 473) 
+ FOUND WINDOW: give away you want me give away movi no no spoil ok tell you later but quot from roll stone fair accur think one freshest funniest scariest crime thriller come along sinc pulp fiction other movi sixth sens famous line 
+ CORRECT WINDOW: denis  3223 quite 3224 representative 3227 nineties 3229 think 
+==> NOT CORRECT
+
+No: 55
+Correct postion=3371
+Correct window size=2
+Found postion=6807
+Question=[all, four, have, seen, pulp, fiction]
+Size of window = 32
+Step of window = 6
+Score = 5.0
+Common words: (all 1.0 6811 4041) (have 1.0 6807 4038) (seen 1.0 6808 4039) (pulp 1.0 6852 4065) (fiction 1.0 6853 4066) 
+ FOUND WINDOW: have seen oh all ok all us mayb peopl know quit yes yes run yes time ok yes have some other candid first page bottom also put pulp fiction silenc lamb also 
+ CORRECT WINDOW: agnes  3371 have 3372 all 3373 seen
+==> NOT CORRECT
+
+No: 56
+Correct postion=3118
+Correct window size=192
+Found postion=3199
+Question=[mirek, deni, decid, pulp, fiction, could, seen, numer, time, while, still, find, new, observ]
+Size of window = 70
+Step of window = 14
+Score = 8.399999999999999
+Common words: (mirek 2.0 3199 1918) (deni 2.0 3220 1930) (see 1.0 3292 1970) (time 1.0 3296 1973) (still 1.0 3307 1981) (find 0.2 3305 1979) (new 1.0 3310 1984) (observ 0.2 3308 1982) 
+ FOUND WINDOW: not think candid even if good movi but do not know think whi not quit repres nineti think structur movi interest think first scene actual same scene last scene no there kind loop movi ca not rememb yes yes there ple think there plenti loop actual plenti yes fulli agre you can see movi three time perhap three time fourth time see you still discov someth new yes yes agre 
+ CORRECT WINDOW: mirek  3118 ok 3119 pulp 3120 fiction 
+mirek  3123 think 3125 again 3126 quite 3128 hi 3129 high 3130 ranked 
+mirek  3132 but 3133 from 3134 my 3135 perspective 3136 everyone 3137 already 3138 saw 
+mirek  3140 who 3142 interested 3145 movie 3147 saw 
+mirek  3149 wh 3150 who 3152 not 3153 interested 3156 movie 3159 did 3160 not 3161 see 3166 would 3167 not 3169 like 3171 see 3176 our 3177 movie 3178 club 
+mirek  3181 think 3183 should 3186 should 3187 just 3188 leave 3189 skip 3193 leave 
+mirek  3198 would 3199 not 3200 think 3205 candidate 3206 even 3207 if 3210 good 3211 movie 3212 but 3214 do 3215 not 3216 know 3218 think 
+denis  3220 why 3221 not 
+denis  3223 quite 3224 representative 3227 nineties 3229 think 
+denis  3232 structure 3235 movie 3237 interesting 
+denis  3240 think 3243 first 3244 scene 3246 actually 3248 same 3249 scene 3252 last 3253 scene 3254 no 
+denis  3255 there 3258 kind 3260 loop 3263 movie 
+agnes  3265 ca 3266 not 3267 remember 
+mirek  3268 yes 3269 yes 3270 there 3272 ple 3275 think 3276 there 3279 plenty 3281 loops 3282 actually 3283 plenty 
+denis  3285 yes 
+mirek  3287 fully 3288 agree 3290 you 3291 can 3292 see 3294 movie 3295 three 3296 times 3297 perhaps 3298 three 3299 times 3303 fourth 3304 time 3305 see 3306 you 3307 still 3308 discover 3309 something 3310 new 
+==> PERFECT 
+
+No: 57
+Correct postion=3545
+Correct window size=9
+Found postion=677
+Question=[no, one, had, seen, goodfella]
+Size of window = 22
+Step of window = 4
+Score = 4.0
+Common words: (no 1.0 709 429) (one 1.0 679 410) (have 1.0 693 418) (seen 1.0 694 419) 
+ FOUND WINDOW: which which one again guy who control do not rememb have seen movi twice but ha have you guy seen movi no 
+ CORRECT WINDOW: mirek  3545 goodfellas 3547 did 3548 not 3549 see 
+agnes  3551 no 
+andrei  3552 no 
+denis  3553 no 
+mirek  3554 no
+==> NOT CORRECT
+
+No: 58
+Correct postion=3819
+Correct window size=68
+Found postion=8725
+Question=[mirek, make, joke, next, film, silenc, lamb, rest, team, join, laughter]
+Size of window = 55
+Step of window = 11
+Score = 5.2
+Common words: (mirek 2.0 8725 5115) (make 0.2 8747 5130) (film 1.0 8801 5169) (silenc 1.0 8736 5124) (lamb 1.0 8739 5125) 
+ FOUND WINDOW: these all these three movi big lebowski schindler list silenc lamb yes if you want have seven candid if you have good short term memori should ok you reduc what two yes big lebowski usual suspect save privat ryan pulp fiction american beauti schindler list silenc lamb now let vote should vote just one film 
+ CORRECT WINDOW: mirek  3819 silence 3822 lambs 
+denis  3824 ok 
+mirek  3825 should 3827 tell 3828 something 3829 more 
+mirek  3830 godfather 3832 all 3833 thrillers 3835 what 3837 what 3839 says 
+mirek  3842 what 3843 some 3845 user 3846 says 
+mirek  3849 ok 3852 little 3853 bit 3854 horror 3857 think 3859 quite 
+agnes  3865 little 3866 bit 
+mirek  3868 definitely 3869 not 3871 kids 3873 but 3875 if 3877 kids 3879 not 3880 visitors 3882 our 3883 cinema 3884 why 3885 not 
+agnes  3886 ok 
+agnes  3887 yes
+==> NOT CORRECT
+
+No: 59
+Correct postion=4438
+Correct window size=58
+Found postion=4310
+Question=[quit, lot, discuss, took, place, regard, american, beauti, comment, quit, posit]
+Size of window = 42
+Step of window = 8
+Score = 4.4
+Common words: (quit 1.0 4371 2597) (lot 0.2 4357 2587) (regard 0.2 4331 2575) (american 1.0 4362 2592) (beauti 1.0 4363 2593) (quit 1.0 4372 2598) 
+ FOUND WINDOW: time ago from nineti one came when nineti one yes nineti one nineti one yes saw when like twelv thirteen yes me too perhap would age like much too young yes ok american beauti come next seven quit quit nice actual yes 
+ CORRECT WINDOW: mirek  4438 american 4439 beauty 
+mirek  4442 can 4443 perhaps 4444 read 4446 little 4447 bit 4449 user 4450 coent 4451 if 4452 you 4453 want 4456 yes 
+mirek  4457 you 4458 can 4459 read 4461 plot 4462 outline 4469 projector 
+mirek  4470 but 4472 basically 4473 deep 4474 wonderful 4476 penetrating 4477 movie 4478 extraordinary 4480 irony 4486 psychological 4487 drama 4489 american 4490 life 
+denis  4491 yes 4493 definitely 4495 american 4496 life
+==> NOT CORRECT
+
+No: 60
+Correct postion=4580
+Correct window size=11
+Found postion=4502
+Question=[agn, make, observ, american, beauti, lot, less, dark, than, other, movi]
+Size of window = 52
+Step of window = 10
+Score = 8.4
+Common words: (agn 2.0 4519 2689) (make 0.2 4541 2700) (observ 0.2 4545 2703) (lot 1.0 4521 2690) (less 1.0 4581 2723) (dark 1.0 4582 2724) (than 1.0 4583 2725) (other 1.0 4511 2684) (movi 1.0 4586 2727) 
+ FOUND WINDOW: kind crude critiqu but other way quit poetic yes there lot true thing poetic yes you know way film yes do not know found pretti ok way film perhap but have not seen but would like see no quit interest yes yes much less dark than other movi have list depend not 
+ CORRECT WINDOW: agnes  4580 much 4581 less 4582 dark 4583 than 4585 other 4586 movies 4588 have 4591 list
+==> PERFECT 
+
+No: 61
+Correct postion=4557
+Correct window size=9
+Found postion=9104
+Question=[andrei, tell, group, has, not, seen, american, beauti, but, would, like, to]
+Size of window = 47
+Step of window = 9
+Score = 10.0
+Common words: (andrei 2.0 9104 5364) (have 1.0 9133 5384) (not 1.0 9134 5385) (seen 1.0 9135 5386) (american 1.0 9111 5370) (beauti 1.0 9112 5371) (but 1.0 9165 5406) (would 1.0 9126 5379) (like 1.0 9161 5403) 
+ FOUND WINDOW: lebowski usual suspect save privat ryan american beauti ok let vote just simpli one moment would vote american beauti becaus have not seen vote big lebowski all gonna vote someth differ mirek big lebowski agn deni agn you still like usual suspect but like american beauti too 
+ CORRECT WINDOW: andrei  4557 have 4558 not 4559 seen 4561 but 4563 would 4564 like 4566 see 
+==> NOT CORRECT
+
+No: 62
+Correct postion=4597
+Correct window size=18
+Found postion=8946
+Question=[agn, deni, comment, american, beauti, not, violent, film, although, charact, psychopath]
+Size of window = 52
+Step of window = 10
+Score = 8.0
+Common words: (agn 2.0 8954 5265) (deni 2.0 8956 5267) (american 1.0 8974 5277) (beauti 1.0 8975 5278) (not 1.0 9012 5302) (violent 1.0 8990 5288) 
+ FOUND WINDOW: elimin have six have six have seven yes bit cruel but think good way mani ok ok american beauti deni me would remov silenc lamb becaus think too violent ok just remov way would remov schindler list becaus too sad ok ok not good reason but pulp fiction oh too bad yes 
+ CORRECT WINDOW: andrei  4597 not 4599 violent 
+agnes  4602 not 4605 dark 4606 but 4607 no 
+denis  4608 ah 4609 no 4612 not 4613 violent 4615 all 
+==> NOT CORRECT
+
+No: 63
+Correct postion=4789
+Correct window size=18
+Found postion=1473
+Question=[mirek, again, engag, group, rais, issu, schindler, list, again, bodi, languag, show, him, close, lean, away, from, agn]
+Size of window = 90
+Step of window = 18
+Score = 8.4
+Common words: (mirek 2.0 1516 925) (again 1.0 1485 907) (list 1.0 1618 985) (again 1.0 1576 961) (show 0.2 1596 974) (him 1.0 1533 935) (close 0.2 1475 901) (agn 2.0 1473 900) 
+ FOUND WINDOW: know end have not been abl watch again see where hint scatter across movi caus appar there hint who ah now rememb oh yes ok yes yes actual there one guy who polic station ask him tell stori yes yes yes one tell stori yes there him guy burn unit yes what second movi second movi sixth sens yes sixth sen again fair short has easier rate pg thirteen much less violent got eight point one ten hundr first top two hundr fifti nineteenth your list think if not mistaken 
+ CORRECT WINDOW: mirek  4789 seems 4791 me 4793 perhaps 4795 schindler 4796 ok 4797 definitely 4798 schindler 4799 schindler 4800 list 4802 perhaps 4803 more 4804 serious 4805 topic 4807 sure
+==> NOT CORRECT
+
+No: 64
+Correct postion=5070
+Correct window size=15
+Found postion=5042
+Question=[andrei, suggest, mainstream, film, have, more, than, sixti, zero, vote]
+Size of window = 50
+Step of window = 10
+Score = 9.0
+Common words: (andrei 2.0 5042 3000) (mainstream 1.0 5074 3025) (film 1.0 5094 3040) (have 1.0 5079 3027) (more 1.0 5080 3028) (than 1.0 5081 3029) (sixti 1.0 5083 3031) (vote 1.0 5085 3033) 
+ FOUND WINDOW: yes english speak anyway though there chines movi english movi yes but if you look no there movi from everywher but yes but would say mainstream one have more than whatev sixti thousand vote you can see some more confidenti film have like ten thousand twenti thousand like princess mononok 
+ CORRECT WINDOW: andrei  5070 but 5072 would 5073 say 5074 mainstream 5077 ones 5079 have 5080 more 5081 than 5082 whatever 5083 sixty 5084 thousand 5085 votes 
+==> PERFECT 
+
+No: 65
+Correct postion=5143
+Correct window size=10
+Found postion=4926
+Question=[andrei, use, vote, figur, defin, what, mainstream, film]
+Size of window = 42
+Step of window = 8
+Score = 5.4
+Common words: (andrei 2.0 4926 2928) (vote 1.0 4981 2964) (figur 0.2 4949 2943) (what 1.0 4954 2947) (mainstream 1.0 4938 2936) (film 0.2 4926 2928) 
+ FOUND WINDOW: movi club yes think should not mayb do mainstream movi but ok list here quit see do not know what mainstream europ yes like all these movi mainstream me yes think also if you look nber vote here but if top fifti 
+ CORRECT WINDOW: andrei  5143 yes 5144 anyway 5145 if 5146 you 5147 want 5149 definition 5151 mainstream 5153 whatever
+==> NOT CORRECT
+
+No: 66
+Correct postion=5265
+Correct window size=11
+Found postion=262
+Question=[andrei, mention, one, movi, two, altern]
+Size of window = 30
+Step of window = 6
+Score = 5.0
+Common words: (andrei 2.0 268 154) (one 1.0 306 178) (movi 1.0 267 153) (two 1.0 276 158) 
+ FOUND WINDOW: paper my favourit movi uhhuh ok should start two present mayb present yes yes ok agn can start you sure not long ani case ok here yes pass one yes 
+ CORRECT WINDOW: andrei  5265 actually 5268 tried 5270 propose 5271 just 5272 one 5273 movie 5275 some 5276 alternates 
+==> NOT CORRECT
+
+No: 67
+Correct postion=5218
+Correct window size=9
+Found postion=3417
+Question=[deni, want, know, what, andrei, recommend]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (deni 2.0 3419 2045) (want 1.0 3482 2076) (know 1.0 3454 2065) (what 1.0 3422 2047) (andrei 2.0 3417 2044) 
+ FOUND WINDOW: thing yes yes what do you think would not think candid becaus seem me oh would keep candid but do not know think moment guess most these candid tri vote end you want yes should 
+ CORRECT WINDOW: denis  5218 ok 5219 can 5221 discuss 5223 your 5224 docent 5225 maybe 
+andrei  5226 yes 5227 let  
+==> NOT CORRECT
+
+No: 68
+Correct postion=5400
+Correct window size=16
+Found postion=7058
+Question=[save, privat, ryan, propos, andrei]
+Size of window = 25
+Step of window = 5
+Score = 6.0
+Common words: (save 1.0 7074 4178) (privat 1.0 7075 4179) (ryan 1.0 7076 4180) (propos 1.0 7098 4194) (andrei 2.0 7058 4170) 
+ FOUND WINDOW: italian actual third movi second war schindler list save privat ryan la vita bella yes yes yes ok deni yes have quit differ movi propos 
+ CORRECT WINDOW: andrei  5400 but 5401 given 5404 would 5405 like 5407 movie 5408 from 5410 nineties 5412 thought 5414 saving 5415 private 5416 ryan 
+==> NOT CORRECT
+
+No: 69
+Correct postion=5400
+Correct window size=252
+Found postion=8606
+Question=[andrei, give, good, overview, save, privat, ryan]
+Size of window = 35
+Step of window = 7
+Score = 6.2
+Common words: (andrei 2.0 8620 5056) (give 0.2 8614 5053) (good 1.0 8662 5081) (save 1.0 8640 5068) (privat 1.0 8641 5069) (ryan 1.0 8642 5070) 
+ FOUND WINDOW: do not think lot peopl would have seen begin yes you can nomin one two whatev would nomin ok my candid save privat ryan happi your nomin too would nomin also pulp fiction becaus good 
+ CORRECT WINDOW: andrei  5400 but 5401 given 5404 would 5405 like 5407 movie 5408 from 5410 nineties 5412 thought 5414 saving 5415 private 5416 ryan 
+andrei  5417 oh 5418 thanks 5420 projecting 5422 docent 
+andrei  5423 would 5424 keep 5426 more 5428 less 5430 theme 5433 history 5435 war 5437 action 5438 drama 5439 while 5440 showing 5441 actually 5444 new 5447 would 5448 say 5449 hanistic 5450 view 5453 war 
+andrei  5454 because 5457 not 5458 like 5460 sort 5462 glorification 5465 you 5466 know 5468 good 5469 guys 5474 go 5475 against 5477 nazis 5478 but 
+andrei  5485 plot 5486 actually 5487 if 5488 you 5489 do 5490 not 5491 know 
+andrei  5495 people 5496 looking 5498 just 5499 one 5500 soldier 5502 fact 
+andrei  5508 family 5510 four 5511 brothers 5512 who 
+andrei  5513 actually 5514 three 5516 them 5517 get 5518 killed 5519 during 5521 war 5523 these 5524 days 5526 forty 5529 guess 5530 suer 5531 forty 5532 four 
+andrei  5538 government 5539 decides 5542 need 5544 get 5545 back 5547 fourth 5548 brother 5549 just 5551 save 5552 one 5553 member 5556 family 
+andrei  5560 guy 5562 private 5563 ryan 
+andrei  5566 movie 5568 not 5570 killing 5572 germans 5574 whatever 
+andrei  5577 saving 5579 least 5580 one 5581 guy 5582 from 5584 family 
+andrei  5586 but 5588 course 5591 setting 5593 during 5595 war 5599 realistic 5603 dramatic 5605 fact 
+andrei  5608 not 5610 all 5612 glorification 5614 war 5615 but 5617 just 
+andrei  5620 shows 5622 bit 5625 violence 5629 things 
+andrei  5631 especially 5634 beginning 5638 think 5640 great 5644 violent 5645 but 5649 image 5652 war
+==> NOT CORRECT
+
+No: 70
+Correct postion=5655
+Correct window size=18
+Found postion=5954
+Question=[agn, deni, not, comfort, andrei, explan, gori, open, save, privat, ryan]
+Size of window = 52
+Step of window = 10
+Score = 10.2
+Common words: (agn 2.0 5972 3552) (deni 2.0 5961 3545) (not 1.0 5979 3556) (comfort 0.2 5955 3541) (andrei 2.0 5954 3540) (save 1.0 6019 3580) (privat 1.0 6020 3581) (ryan 1.0 6021 3582) 
+ FOUND WINDOW: spielberg best cimena cinematographi etcetera mani time spielberg receiv best director oscar think just onc do not know not schin schindler list oh mayb did et no et did not won won not until start do thing like schindler list save privat ryan actual start win award them oh no won et 
+ CORRECT WINDOW: denis  5655 yes 
+agnes  5660 violent 
+denis  5662 quite 5663 horrible 5664 actually 
+andrei  5665 yes 5666 but 5668 think 5669 if 5671 if 5672 you 5673 compare 
+==> NOT CORRECT
+
+No: 71
+Correct postion=5884
+Correct window size=22
+Found postion=4763
+Question=[andrei, rais, issu, film, last, three, hour, group, except, mirek, seem, accept]
+Size of window = 57
+Step of window = 11
+Score = 6.800000000000001
+Common words: (andrei 2.0 4764 2828) (issu 0.2 4805 2857) (film 0.2 4763 2827) (last 1.0 4770 2832) (except 0.2 4838 2876) (mirek 2.0 4769 2831) (seem 1.0 4789 2845) (accept 0.2 4784 2842) 
+ FOUND WINDOW: movi uhhuh ok ok my last slide yes yes yes think ok whi not you have seen mirek seem me perhap schindler ok definit schindler schindler list perhap more serious topic sure but depend depend what want do want peopl more like relax our our cinema more interest some particular thing what do you think mean what 
+ CORRECT WINDOW: andrei  5884 bit 5885 long 5886 too 5888 nearly 5889 three 5890 hours 
+andrei  5891 but 5894 do 5895 not 5896 know 5897 apocalypse 5898 now 5900 quite 5901 long 5902 too 5904 think 
+agnes  5905 yes 
+denis  5906 yes 
+==> NOT CORRECT
+
+No: 72
+Correct postion=5961
+Correct window size=13
+Found postion=5889
+Question=[deni, agn, discuss, film, director, steven, spielberg, award, may, have, won]
+Size of window = 55
+Step of window = 11
+Score = 8.600000000000001
+Common words: (deni 2.0 5906 3511) (agn 2.0 5905 3510) (film 0.2 5957 3543) (director 1.0 5951 3538) (steven 1.0 5953 3539) (spielberg 1.0 5954 3540) (award 0.2 5948 3536) (have 0.2 5965 3548) (won 1.0 5944 3533) 
+ FOUND WINDOW: three hour but do not know apocalyps now quit long too think yes yes there two there two version think but but yes project longer one do not rememb yes redux version longer yes yes won five oscar prize best director steven spielberg best cimena cinematographi etcetera mani time spielberg receiv best director oscar think 
+ CORRECT WINDOW: denis  5961 many 5962 times 5964 spielberg 5965 received 5967 best 5969 director 5970 oscar 
+agnes  5972 think 5973 just 5974 once 
+==> PERFECT 
+
+No: 73
+Correct postion=6082
+Correct window size=105
+Found postion=5992
+Question=[interest, point, save, privat, ryan, director, turn, down, colour, satur, enhanc, film, but, viewer, complain, there, problem, tv, compani, turn, back, up, again]
+Size of window = 112
+Step of window = 22
+Score = 15.2
+Common words: (interest 1.0 6117 3634) (point 1.0 6064 3607) (save 1.0 6019 3580) (privat 1.0 6020 3581) (ryan 1.0 6021 3582) (turn 1.0 6142 3643) (colour 1.0 6095 3622) (satur 1.0 6096 3623) (film 0.2 6099 3624) (but 1.0 6131 3640) (complain 1.0 6167 3656) (there 1.0 6172 3657) (problem 1.0 6175 3658) (tv 1.0 6178 3659) (turn 1.0 6159 3650) (back 1.0 6143 3644) 
+ FOUND WINDOW: did et no et did not won won not until start do thing like schindler list save privat ryan actual start win award them oh no won et won cann what palm dor did oh ok yes yes did not know ok yes point bit grey actual if you look my second page trivia found fact actual reduc colour satur movi just make look mayb bit like docentari from time interest read yes yes surpris find but then read turn back colour where reenhanc colour yes turn back yes becaus peopl start complain there problem tv when broadcast movi tv yes their tvs not yes fact nber two think obvious mean technic 
+ CORRECT WINDOW: andrei  6082 trivia 6084 found 6088 fact 6091 actually 6092 reduced 6095 colour 6096 saturation 6099 movie 
+andrei  6100 just 6102 make 6104 look 6105 maybe 6107 bit 6108 like 6110 docentaries 6111 from 6113 time 
+denis  6117 interesting 6119 read 6120 yes 
+andrei  6121 yes 6125 surprised 6127 find 
+denis  6131 but 6132 then 6136 read 
+andrei  6142 turned 6143 back 6145 colours 
+denis  6149 where 
+agnes  6153 reenhanced 6155 colour 6156 yes 
+denis  6159 turned 6160 back 6162 yes 
+mirek  6163 because 6164 people 6165 start 6167 complain 6172 there 6175 problem 6178 tv 6179 when 6182 broadcasting 6184 movie 6187 tv 
+==> PERFECT 
+
+No: 74
+Correct postion=6228
+Correct window size=13
+Found postion=6131
+Question=[andrei, mention, there, four, point, can, introduc, movi, present, argument, show, movi, particular]
+Size of window = 65
+Step of window = 13
+Score = 7.4
+Common words: (andrei 2.0 6142 3643) (there 1.0 6172 3657) (four 1.0 6234 3688) (point 1.0 6224 3682) (movi 1.0 6184 3662) (present 0.2 6241 3693) (show 0.2 6136 3642) (movi 1.0 6257 3704) 
+ FOUND WINDOW: but then read turn back colour where reenhanc colour yes turn back yes becaus peopl start complain there problem tv when broadcast movi tv yes their tvs not yes fact nber two think obvious mean technic peopl like us quit funni interest point interest point yes mean these four point could serv also introduct if you want talk fo fi five ten minut befor movi 
+ CORRECT WINDOW: andrei  6228 yes 6232 mean 6233 these 6234 four 6235 points 6236 could 6237 serve 6238 also 6241 introduction
+==> PERFECT 
+
+No: 75
+Correct postion=6228
+Correct window size=37
+Found postion=6092
+Question=[andrei, present, opinion, suggest, trivia, has, compil, can, use, provid, five, ten, minut, talk, befor, film, shown]
+Size of window = 85
+Step of window = 17
+Score = 7.4
+Common words: (andrei 2.0 6092 3621) (present 0.2 6241 3693) (five 1.0 6251 3700) (ten 1.0 6253 3701) (minut 1.0 6254 3702) (talk 1.0 6246 3697) (befor 1.0 6255 3703) (film 0.2 6099 3624) 
+ FOUND WINDOW: reduc colour satur movi just make look mayb bit like docentari from time interest read yes yes surpris find but then read turn back colour where reenhanc colour yes turn back yes becaus peopl start complain there problem tv when broadcast movi tv yes their tvs not yes fact nber two think obvious mean technic peopl like us quit funni interest point interest point yes mean these four point could serv also introduct if you want talk fo fi five ten minut befor movi do 
+ CORRECT WINDOW: andrei  6228 yes 6232 mean 6233 these 6234 four 6235 points 6236 could 6237 serve 6238 also 6241 introduction 6242 if 6243 you 6244 want 6246 talk 6248 fo 6250 fi 6251 five 6253 ten 6254 minutes 6255 before 6257 movie 6259 do 6260 not 6261 know 6265 room
+==> PERFECT 
+
+No: 76
+Correct postion=6423
+Correct window size=222
+Found postion=5362
+Question=[there, lot, more, discuss, save, privat, ryan, than, ani, other, movi, far]
+Size of window = 45
+Step of window = 9
+Score = 5.4
+Common words: (lot 0.2 5382 3223) (more 1.0 5426 3250) (save 1.0 5414 3241) (privat 1.0 5415 3242) (ryan 1.0 5416 3243) (other 0.2 5385 3225) (movi 1.0 5407 3237) 
+ FOUND WINDOW: but piec histori apocalyps now vietnam if correct ok amadeus much much earlier not not violent which nice thing think but given would like movi from nineti thought save privat ryan oh thank project docent would keep more less theme histori war action drama while 
+ CORRECT WINDOW: denis  6423 private 6424 ryan 6425 tom 6426 hanks 
+agnes  6427 no 6428 no 
+andrei  6429 no 6430 tom 6431 tom 
+denis  6432 no 6434 not 
+mirek  6435 no 
+denis  6437 trying 6439 find 6440 him 
+agnes  6441 yes 6443 trying 6445 find 6446 him 
+andrei  6447 yes 
+andrei  6450 caption 6451 says 6452 captain 6453 john 6454 miller 
+andrei  6458 if 6459 you 6460 look 6463 caption 
+denis  6464 yes 6465 yes 
+andrei  6466 yes 
+denis  6467 ok 
+andrei  
+agnes  6472 private 6473 ryan 6475 matt 6476 damon 6478 think 6479 yes 
+andrei  6480 yes 
+andrei  6483 private 6485 just 6487 simple 6488 soldier 6489 actually 6490 yes 
+agnes  6491 yes 
+mirek  6494 way 6495 did 6497 fied 6498 dinally 6501 fi 6502 died 6503 finally 6505 not 
+andrei  6507 who 6508 private 6509 ryan 
+mirek  6513 private 6514 ryan 6515 yes 
+andrei  6516 no 6517 no 6519 find 6520 him 6521 actually 6524 send 6525 him 6526 back 6529 family 6530 but 6532 captain 6533 dies 6534 actually 6535 tom 6536 han 
+mirek  6540 remember 6542 remember 6544 found 6545 him 6546 but 
+agnes  6547 yes 
+mirek  6548 ah 6549 ok 6550 yes 6551 yes 6552 yes 
+agnes  6555 him 6558 begin 6560 him 6563 beginning 6566 movie 6572 graveyard 6573 right 
+andrei  
+mirek  6575 because 6577 remember 
+andrei  6578 oh 6579 yes 6581 private 6582 ryan 6583 yes 6584 remembering 6587 beginning 
+agnes  6588 yes 6591 family 6592 yes 
+mirek  6593 because 6595 remember 6600 end 6603 movie 6606 trying 6608 defend 6609 some 6610 bridge 6612 something 6614 there 6615 quite 6616 heavy 6617 shooting 6620 finally 6622 actually 6623 john 6624 miller 6625 who 6626 die 
+andrei  6627 yes 6628 exactly 6629 yes 6631 dies 6632 unfortunately 
+mirek  6633 ok 6634 ok 
+andrei  6636 yes 6637 there 6639 sacrifice 
+mirek  6642 not 6644 private 6645 ryan 
+==> NOT CORRECT
+
+No: 77
+Correct postion=6803
+Correct window size=12
+Found postion=9100
+Question=[have, all, seen, save, privat, ryan]
+Size of window = 35
+Step of window = 7
+Score = 6.0
+Common words: (have 1.0 9133 5384) (all 1.0 9143 5390) (seen 1.0 9135 5386) (save 1.0 9107 5367) (privat 1.0 9108 5368) (ryan 1.0 9109 5369) 
+ FOUND WINDOW: left big lebowski usual suspect save privat ryan american beauti ok let vote just simpli one moment would vote american beauti becaus have not seen vote big lebowski all gonna vote someth differ mirek big 
+ CORRECT WINDOW: mirek  6803 have 6804 seen 6807 have 6808 seen 
+andrei  6810 oh 6811 all 6812 ok 6813 all 6815 us 
+==> NOT CORRECT
+
+No: 78
+Correct postion=6825
+Correct window size=6
+Found postion=6785
+Question=[deni, andrei, check, time, note, run, short]
+Size of window = 35
+Step of window = 7
+Score = 6.2
+Common words: (deni 2.0 6801 4035) (andrei 2.0 6785 4025) (check 0.2 6788 4028) (time 1.0 6831 4053) (run 1.0 6827 4051) 
+ FOUND WINDOW: peopl have have seen among you most you actual have have have seen have seen oh all ok all us mayb peopl know quit yes yes run yes time ok yes have some other candid 
+ CORRECT WINDOW: denis  6825 yes 6827 running 
+andrei  6828 yes 
+mirek  6831 time
+==> PERFECT 
+
+No: 79
+Correct postion=6832
+Correct window size=38
+Found postion=677
+Question=[end, present, andrei, gave, further, three, movi, consid]
+Size of window = 40
+Step of window = 8
+Score = 4.4
+Common words: (present 0.2 728 440) (andrei 2.0 709 429) (give 1.0 734 445) (movi 1.0 696 420) (consid 0.2 694 419) 
+ FOUND WINDOW: which which one again guy who control do not rememb have seen movi twice but ha have you guy seen movi no have not seen no have not bald guy not gonna give away you want me give away movi 
+ CORRECT WINDOW: andrei  6832 ok 6834 yes 6837 have 6838 some 6839 other 6840 candidates 
+andrei  6843 first 6844 page 6847 bottom 
+andrei  6850 also 6851 put 6852 pulp 6853 fiction 6856 silence 6859 lambs 6862 also 6864 sort 6866 included 6867 la 6868 vita 6870 bella 
+==> NOT CORRECT
+
+No: 80
+Correct postion=6850
+Correct window size=20
+Found postion=7087
+Question=[andrei, includ, two, other, film, list, which, have, been, previous, discuss, group]
+Size of window = 60
+Step of window = 12
+Score = 7.0
+Common words: (andrei 2.0 7087 4188) (other 1.0 7157 4233) (film 1.0 7158 4234) (list 1.0 7173 4241) (which 1.0 7169 4240) (have 1.0 7091 4190) 
+ FOUND WINDOW: deni yes have quit differ movi propos you do not know call big lebowski from joel coen actual brother you probabl know them do not know mani you have seen movi no have not seen but heard funni no just partial think have seen some other film coen brother yes made fargo which list yes which your tabl last one 
+ CORRECT WINDOW: andrei  6850 also 6851 put 6852 pulp 6853 fiction 6856 silence 6859 lambs 6862 also 6864 sort 6866 included 6867 la 6868 vita 6870 bella 
+==> NOT CORRECT
+
+No: 81
+Correct postion=7061
+Correct window size=20
+Found postion=6825
+Question=[mirek, note, three, film, have, discuss, theme, second, world, war]
+Size of window = 50
+Step of window = 10
+Score = 6.2
+Common words: (mirek 2.0 6831 4053) (film 0.2 6877 4078) (have 1.0 6837 4056) (second 1.0 6912 4092) (world 1.0 6913 4093) (war 1.0 6914 4094) 
+ FOUND WINDOW: yes run yes time ok yes have some other candid first page bottom also put pulp fiction silenc lamb also sort includ la vita bella but know engish movi club guess bit purpos what movi la vita bella but oh again camp second world war but english no ahha famili 
+ CORRECT WINDOW: mirek  7061 actually 7063 third 7064 movie 7067 second 7068 war 7069 schindler 7070 list 7074 saving 7075 private 7076 ryan 7078 la 7079 vita 7081 bella 
+==> NOT CORRECT
+
+No: 82
+Correct postion=7101
+Correct window size=9
+Found postion=8454
+Question=[deni, suggest, big, lebowski, choic]
+Size of window = 25
+Step of window = 5
+Score = 5.0
+Common words: (deni 2.0 8466 4964) (suggest 1.0 8489 4975) (big 1.0 8491 4976) (lebowski 1.0 8492 4977) 
+ FOUND WINDOW: if fit there if fit there you see yes ok great think now have decid movi oh yes yes would suggest big lebowski if not 
+ CORRECT WINDOW: denis  7101 do 7102 not 7103 know 7107 called 7109 big 7110 lebowski
+==> NOT CORRECT
+
+No: 83
+Correct postion=7101
+Correct window size=50
+Found postion=7109
+Question=[onli, deni, has, seen, big, lebowski]
+Size of window = 27
+Step of window = 5
+Score = 6.2
+Common words: (onli 0.2 7140 4223) (deni 2.0 7109 4200) (have 1.0 7131 4216) (seen 1.0 7132 4217) (big 1.0 7109 4200) (lebowski 1.0 7110 4201) 
+ FOUND WINDOW: big lebowski from joel coen actual brother you probabl know them do not know mani you have seen movi no have not seen but heard funni no 
+ CORRECT WINDOW: denis  7101 do 7102 not 7103 know 7107 called 7109 big 7110 lebowski 7111 from 7113 joel 7114 coen 
+denis  7115 actually 7118 brothers 7119 you 7120 probably 7121 know 7122 them 
+denis  7124 do 7125 not 7126 know 7128 many 7130 you 7131 have 7132 seen 7134 movie 
+agnes  7135 no 
+andrei  7136 have 7137 not 7138 seen 7140 but 7143 heard 7146 funny 
+denis  7147 no 
+mirek  7148 just 7149 partially 7151 think
+==> PERFECT 
+
+No: 84
+Correct postion=7237
+Correct window size=9
+Found postion=7226
+Question=[deni, said, big, lebowski, inspir, big, sleep]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (deni 2.0 7226 4270) (say 1.0 7280 4298) (big 1.0 7245 4282) (inspir 1.0 7239 4278) (big 1.0 7273 4294) (sleep 1.0 7246 4283) 
+ FOUND WINDOW: movi becaus actual plot imposs make becaus actual inspir from movi call big sleep movi novel actual where have seen movi from raymond chandler big sleep no but say raymond chandler wrote novel ah ok 
+ CORRECT WINDOW: 7237 actually 7239 inspired 7240 from 7242 movie 7243 called 7245 big 7246 sleep
+==> PERFECT 
+
+No: 85
+Correct postion=7448
+Correct window size=12
+Found postion=102
+Question=[particip, discuss, movi, poster]
+Size of window = 25
+Step of window = 5
+Score = 3.0
+Common words: (discuss 1.0 141 77) (movi 1.0 116 65) (poster 1.0 146 80) 
+ FOUND WINDOW: march question open go select movi from nineti which movi first goal decid movi project second goal discuss ad advertis poster our club becaus notic 
+ CORRECT WINDOW: denis  7448 maybe 7451 maybe 7453 going 7455 open 7457 discussion 7460 posters 
+==> NOT CORRECT
+
+No: 86
+Correct postion=7565
+Correct window size=47
+Found postion=8467
+Question=[deni, suggest, one, movi, group]
+Size of window = 25
+Step of window = 5
+Score = 5.0
+Common words: (deni 2.0 8467 4965) (suggest 1.0 8489 4975) (one 1.0 8504 4987) (movi 1.0 8478 4970) 
+ FOUND WINDOW: great think now have decid movi oh yes yes would suggest big lebowski if not too long mayb each us could nomin one two movi 
+ CORRECT WINDOW: denis  7565 actually 7567 not 7568 going 7570 sp 7572 describe 7573 much 7574 more 7576 big 7577 lebowski 7578 but 7581 quite 7582 hard 7584 describe 7590 journey 7593 guy 
+denis  7594 but 7598 movie 7599 quite 7600 surrealistic 7602 mean 7603 there 7605 some 7606 part 7609 like 7610 coming 7611 from 7612 dreams 
+==> NOT CORRECT
+
+No: 87
+Correct postion=7742
+Correct window size=30
+Found postion=7714
+Question=[deni, reiter, cast, marvel, big, lebowski]
+Size of window = 32
+Step of window = 6
+Score = 4.2
+Common words: (deni 2.0 7720 4545) (cast 1.0 7769 4571) (marvel 1.0 7772 4572) (big 0.2 7739 4556) 
+ FOUND WINDOW: should refer there do not know refer kind like american beauti some way even wors yes see wors peopl kind ethnograph movi would say but modern hero quit fun cast marvel movi 
+ CORRECT WINDOW: denis  7742 see 7743 worse 7744 people 
+denis  7747 kind 7751 ethnographic 7752 movie 7754 would 7755 say 7756 but 7761 modern 7762 hero 7765 quite 7766 fun 
+denis  7769 casting 7772 marvellous 
+==> PERFECT 
+
+No: 88
+Correct postion=7837
+Correct window size=11
+Found postion=8244
+Question=[deni, would, like, know, what, kind, inform, put, poster]
+Size of window = 45
+Step of window = 9
+Score = 10.0
+Common words: (deni 2.0 8245 4834) (would 1.0 8297 4865) (like 1.0 8304 4869) (know 1.0 8294 4864) (what 1.0 8283 4857) (kind 1.0 8263 4844) (inform 1.0 8249 4836) (put 1.0 8246 4835) (poster 1.0 8255 4840) 
+ FOUND WINDOW: there ok put inform you had second poster movi club join kind middl ok keep titl everyth just slight higher up ok see wh what brighter background becaus one do not know would show wall someth like doe not catch your attent think doe kay 
+ CORRECT WINDOW: denis  7837 what 7838 kind 7840 information 7841 do 7843 want 
+denis  7847 first 7848 poster 
+==> NOT CORRECT
+
+No: 89
+Correct postion=7862
+Correct window size=16
+Found postion=8460
+Question=[deni, display, idea, advertis, big, leboski, complet, price, list]
+Size of window = 45
+Step of window = 9
+Score = 5.0
+Common words: (deni 2.0 8466 4964) (idea 1.0 8518 4996) (big 1.0 8491 4976) (list 1.0 8511 4991) 
+ FOUND WINDOW: fit there you see yes ok great think now have decid movi oh yes yes would suggest big lebowski if not too long mayb each us could nomin one two movi make list then vote ok good idea what do you think yes who want 
+ CORRECT WINDOW: denis  7862 do 7863 not 7864 know 7865 if 7866 you 7867 you 7868 cannot 7870 see 7871 but 7873 there 7877 pricing 7878 information 
+==> NOT CORRECT
+
+No: 90
+Correct postion=7862
+Correct window size=41
+Found postion=7762
+Question=[cost, movi, also, discuss, inform, can, go, poster]
+Size of window = 42
+Step of window = 8
+Score = 6.0
+Common words: (movi 1.0 7780 4573) (also 1.0 7819 4594) (discuss 1.0 7821 4595) (inform 1.0 7840 4604) (go 1.0 7786 4576) (poster 1.0 7792 4578) 
+ FOUND WINDOW: hero quit fun cast marvel movi just want go design poster actual quit like becaus yes probabl bit dark poster but otherwis nice yes yes idea also discuss content shall put suari movi plot what kind inform do want first poster there 
+ CORRECT WINDOW: denis  7862 do 7863 not 7864 know 7865 if 7866 you 7867 you 7868 cannot 7870 see 7871 but 7873 there 7877 pricing 7878 information 
+denis  7881 said 7883 one 7884 movie 7886 eight 7887 francs 7889 three 7890 movies 7891 eighteen 7892 francs 7895 can 7896 have 7897 annual 7898 subscrip 7899 subscription 7901 sixty 7902 francs 
+agnes  7903 yes 
+==> NOT CORRECT
+
+No: 91
+Correct postion=7906
+Correct window size=25
+Found postion=7848
+Question=[deni, also, ask, be, member, committe, could, also, advertis, poster]
+Size of window = 42
+Step of window = 8
+Score = 5.2
+Common words: (deni 2.0 7848 4608) (also 1.0 7851 4610) (ask 0.2 7912 4648) (also 1.0 7856 4614) (poster 1.0 7848 4608) 
+ FOUND WINDOW: poster there also poster quit dark also do not know if you you cannot see but there price inform said one movi eight franc three movi eighteen franc can have annual subscrip subscript sixti franc yes want say some inform involv peopl 
+ CORRECT WINDOW: denis  7906 wanted 7908 say 7909 some 7910 information 7912 involve 7913 people 7917 committee 7920 if 7922 want 7924 take 7925 part 7928 committee 7930 select 7931 movies
+==> PERFECT 
+
+No: 92
+Correct postion=8149
+Correct window size=26
+Found postion=8071
+Question=[agn, did, not, like, third, advertis, poster, had, too, mani, colour]
+Size of window = 52
+Step of window = 10
+Score = 9.0
+Common words: (agn 2.0 8093 4740) (do 1.0 8111 4752) (not 1.0 8112 4753) (like 1.0 8135 4765) (poster 1.0 8102 4747) (too 1.0 8160 4778) (mani 1.0 8161 4779) (colour 1.0 8162 4780) 
+ FOUND WINDOW: back end stori explain what kind movi you go see oh ok ok sound bit crazi last poster yes same principl but do not know think ad some some cita quotat known director uhhuh yes like becaus not dark imag bit brighter yes but contrari would say there too mani colour difficult 
+ CORRECT WINDOW: mirek  8149 yes 8150 but 8154 contrary 8156 would 8157 say 8158 there 8160 too 8161 many 8162 colours 8166 difficult 8168 read 
+agnes  8172 actually 8173 do 8174 not 8175 like
+==> PERFECT 
+
+No: 93
+Correct postion=8198
+Correct window size=18
+Found postion=8173
+Question=[finalis, poster, agn, suggest, use, first, templat, combin, aspect, from, second, third, poster]
+Size of window = 65
+Step of window = 13
+Score = 7.4
+Common words: (poster 1.0 8188 4795) (agn 2.0 8173 4784) (first 1.0 8204 4806) (combin 0.2 8194 4800) (aspect 0.2 8178 4787) (from 1.0 8213 4812) (second 1.0 8215 4813) (poster 1.0 8255 4840) 
+ FOUND WINDOW: do not like look like two yes look like two separ poster although think you can mix yes yes would keep format first one add quot content inform from second one yes yes would best take those take those quot get rid section text yes yes put those quot there ok put inform you had second poster movi club join kind middl ok keep titl 
+ CORRECT WINDOW: agnes  8198 would 8199 keep 8201 format 8204 first 8205 one 8206 add 8208 quotes 8211 content 8212 information 8213 from 8215 second 8216 one 
+==> PERFECT 
+
+No: 94
+Correct postion=8493
+Correct window size=22
+Found postion=8461
+Question=[group, nomin, coupl, movi, each, which, then, vote]
+Size of window = 40
+Step of window = 8
+Score = 5.0
+Common words: (nomin 1.0 8503 4986) (movi 1.0 8478 4970) (each 1.0 8499 4983) (then 1.0 8513 4992) (vote 1.0 8515 4993) 
+ FOUND WINDOW: there you see yes ok great think now have decid movi oh yes yes would suggest big lebowski if not too long mayb each us could nomin one two movi make list then vote ok good idea what do you 
+ CORRECT WINDOW: andrei  8493 if 8495 not 8496 too 8497 long 8498 maybe 8499 each 8501 us 8502 could 8503 nominate 8504 one 8506 two 8507 movies 
+andrei  8509 make 8511 list 8513 then 8515 vote 
+==> PERFECT 
+
+No: 95
+Correct postion=8530
+Correct window size=12
+Found postion=8720
+Question=[mirek, nomin, big, lebowski, short, list]
+Size of window = 30
+Step of window = 6
+Score = 7.0
+Common words: (mirek 2.0 8720 5112) (nomin 1.0 8723 5114) (big 1.0 8730 5120) (lebowski 1.0 8731 5121) (short 1.0 8756 5137) (list 1.0 8733 5123) 
+ FOUND WINDOW: lamb may nomin these all these three movi big lebowski schindler list silenc lamb yes if you want have seven candid if you have good short term memori should ok 
+ CORRECT WINDOW: andrei  8530 mirek 8531 what 8532 do 8533 you 8534 nominate 
+mirek  8538 convinced 8541 big 8542 lebowski
+==> NOT CORRECT
+
+No: 96
+Correct postion=8634
+Correct window size=8
+Found postion=8613
+Question=[andrei, nomin, save, privat, ryan]
+Size of window = 22
+Step of window = 4
+Score = 6.0
+Common words: (andrei 2.0 8620 5056) (nomin 1.0 8624 5059) (save 1.0 8640 5068) (privat 1.0 8641 5069) (ryan 1.0 8642 5070) 
+ FOUND WINDOW: would have seen begin yes you can nomin one two whatev would nomin ok my candid save privat ryan happi your nomin 
+ CORRECT WINDOW: andrei  8634 would 8635 nominate 8637 ok 8638 my 8639 candidate 8640 saving 8641 private 8642 ryan 
+==> PERFECT 
+
+No: 97
+Correct postion=8634
+Correct window size=29
+Found postion=8648
+Question=[andrei, nomin, save, privat, ryan, pulp, fiction, short, list]
+Size of window = 40
+Step of window = 8
+Score = 9.0
+Common words: (andrei 2.0 8648 5072) (nomin 1.0 8649 5073) (save 1.0 8690 5098) (privat 1.0 8691 5099) (ryan 1.0 8692 5100) (pulp 1.0 8656 5078) (fiction 1.0 8657 5079) (list 1.0 8703 5104) 
+ FOUND WINDOW: your nomin too would nomin also pulp fiction becaus good movi deni your your alreadi nomin but you want would nomin american beauti yes would ok save privat ryan can ok alreadi list then still hesit between schindler list silenc 
+ CORRECT WINDOW: andrei  8634 would 8635 nominate 8637 ok 8638 my 8639 candidate 8640 saving 8641 private 8642 ryan 
+andrei  8646 happy 8648 your 8649 nominations 8650 too 
+andrei  8653 would 8654 nominate 8655 also 8656 pulp 8657 fiction 8658 because 8662 good 8663 movie
+==> PERFECT 
+
+No: 98
+Correct postion=8675
+Correct window size=4
+Found postion=8671
+Question=[deni, nomin, american, beauti, big, lebowski, short, list]
+Size of window = 40
+Step of window = 8
+Score = 8.0
+Common words: (deni 2.0 8675 5091) (nomin 1.0 8676 5092) (american 1.0 8678 5093) (beauti 1.0 8679 5094) (big 1.0 8730 5120) (lebowski 1.0 8731 5121) (list 1.0 8703 5104) 
+ FOUND WINDOW: but you want would nomin american beauti yes would ok save privat ryan can ok alreadi list then still hesit between schindler list silenc lamb may nomin these all these three movi big lebowski schindler list silenc lamb yes if 
+ CORRECT WINDOW: denis  8675 would 8676 nominate 
+denis  8678 american 8679 beauty 
+==> PERFECT 
+
+No: 99
+Correct postion=8721
+Correct window size=18
+Found postion=8686
+Question=[mirek, nomin, schindler, list, silenc, lamb, short, list]
+Size of window = 42
+Step of window = 8
+Score = 9.0
+Common words: (mirek 2.0 8705 5105) (nomin 1.0 8723 5114) (schindler 1.0 8711 5109) (list 1.0 8703 5104) (silenc 1.0 8717 5111) (lamb 1.0 8720 5112) (short 1.0 8756 5137) (list 1.0 8712 5110) 
+ FOUND WINDOW: would ok save privat ryan can ok alreadi list then still hesit between schindler list silenc lamb may nomin these all these three movi big lebowski schindler list silenc lamb yes if you want have seven candid if you have good short 
+ CORRECT WINDOW: mirek  8721 may 8723 nominate 8725 these 8726 all 8727 these 8728 three 8729 movies 8730 big 8731 lebowski 8732 schindler 8733 list 8736 silence 8739 lambs
+==> PERFECT 
+
+No: 100
+Correct postion=8795
+Correct window size=35
+Found postion=8774
+Question=[committe, decid, vote, let, each, member, elimin, one, movi]
+Size of window = 45
+Step of window = 9
+Score = 6.0
+Common words: (vote 1.0 8794 5164) (let 1.0 8793 5163) (each 1.0 8804 5171) (elimin 1.0 8810 5175) (one 1.0 8800 5168) (movi 1.0 8821 5184) 
+ FOUND WINDOW: lebowski usual suspect save privat ryan pulp fiction american beauti schindler list silenc lamb now let vote should vote just one film should each us say give elimin first elimin first can elimin first one one movi each then then select sorri could you go 
+ CORRECT WINDOW: andrei  8795 should 8797 vote 8798 just 8800 one 8801 film 8803 should 8804 each 8806 us 8807 say 8808 give 
+mirek  8810 eliminate 8811 first 8812 eliminate 8813 first 
+denis  8816 can 8817 eliminate 8818 first 8819 one 8820 one 8821 movie 8822 each 8824 then 8828 then 8830 select 
+==> PERFECT 
+
+No: 101
+Correct postion=8747
+Correct window size=3
+Found postion=192
+Question=[andrei, confirm, there, seven, movi, short-list]
+Size of window = 30
+Step of window = 6
+Score = 5.0
+Common words: (andrei 2.0 192 108) (there 1.0 221 129) (seven 1.0 232 134) (movi 1.0 233 135) 
+ FOUND WINDOW: who who has what actual mayb have got powerpoint present ok uhhuh what do you have mirek ok have powerpoint present there some review think like seven movi uhhuh have 
+ CORRECT WINDOW: andrei  8747 have 8749 seven 8750 candidates 
+==> NOT CORRECT
+
+No: 102
+Correct postion=8816
+Correct window size=14
+Found postion=8769
+Question=[each, person, elimin, one, film, from, shortlist]
+Size of window = 35
+Step of window = 7
+Score = 4.0
+Common words: (each 1.0 8804 5171) (elimin 1.0 8810 5175) (one 1.0 8800 5168) (film 1.0 8801 5169) 
+ FOUND WINDOW: two yes big lebowski usual suspect save privat ryan pulp fiction american beauti schindler list silenc lamb now let vote should vote just one film should each us say give elimin first elimin first can 
+ CORRECT WINDOW: denis  8816 can 8817 eliminate 8818 first 8819 one 8820 one 8821 movie 8822 each 8824 then 8828 then 8830 select 
+==> PERFECT 
+
+No: 103
+Correct postion=8977
+Correct window size=13
+Found postion=8942
+Question=[deni, remov, silenc, lamb, feel, too, violent]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (deni 2.0 8956 5267) (remov 1.0 8980 5282) (silenc 1.0 8981 5283) (lamb 1.0 8984 5284) (too 1.0 8989 5287) (violent 1.0 8990 5288) 
+ FOUND WINDOW: us choos one elimin have six have six have seven yes bit cruel but think good way mani ok ok american beauti deni me would remov silenc lamb becaus think too violent ok just remov 
+ CORRECT WINDOW: denis  8977 me 8979 would 8980 remove 8981 silence 8984 lambs 8985 because 8987 think 8989 too 8990 violent
+==> PERFECT 
+
+No: 104
+Correct postion=8977
+Correct window size=13
+Found postion=8949
+Question=[deni, elimin, silenc, lamb, too, violent]
+Size of window = 30
+Step of window = 6
+Score = 6.0
+Common words: (deni 2.0 8956 5267) (silenc 1.0 8981 5283) (lamb 1.0 8984 5284) (too 1.0 8989 5287) (violent 1.0 8990 5288) 
+ FOUND WINDOW: six have six have seven yes bit cruel but think good way mani ok ok american beauti deni me would remov silenc lamb becaus think too violent ok just remov 
+ CORRECT WINDOW: denis  8977 me 8979 would 8980 remove 8981 silence 8984 lambs 8985 because 8987 think 8989 too 8990 violent
+==> PERFECT 
+
+No: 105
+Correct postion=9000
+Correct window size=7
+Found postion=8977
+Question=[andrei, nomin, schindler, list, elimin, from, list, becaus, too, sad]
+Size of window = 50
+Step of window = 10
+Score = 8.2
+Common words: (andrei 2.0 8991 5289) (nomin 0.2 9049 5326) (schindler 1.0 9002 5295) (list 1.0 9003 5296) (elimin 1.0 9026 5313) (becaus 1.0 8985 5285) (too 1.0 8989 5287) (sad 1.0 9007 5299) 
+ FOUND WINDOW: me would remov silenc lamb becaus think too violent ok just remov way would remov schindler list becaus too sad ok ok not good reason but pulp fiction oh too bad yes would elimin you have reason ok not huge fan quentin tarantino yes did not make good impress would 
+ CORRECT WINDOW: andrei  9000 would 9001 remove 9002 schindler 9003 list 9004 because 9006 too 9007 sad 
+==> PERFECT 
+
+No: 106
+Correct postion=9017
+Correct window size=26
+Found postion=8998
+Question=[agn, elimin, pulp, fiction, she, dislik, quentin, tarantino]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (agn 2.0 9009 5301) (elimin 1.0 9026 5313) (pulp 1.0 9017 5306) (fiction 1.0 9018 5307) (quentin 1.0 9042 5321) (tarantino 1.0 9043 5322) 
+ FOUND WINDOW: way would remov schindler list becaus too sad ok ok not good reason but pulp fiction oh too bad yes would elimin you have reason ok not huge fan quentin tarantino yes did not make 
+ CORRECT WINDOW: agnes  9017 pulp 9018 fiction 
+andrei  9019 oh 9020 too 9021 bad 
+mirek  9022 yes 9025 would 9026 eliminate 
+denis  9028 you 9029 have 9031 reason 9035 ok 
+agnes  9037 not 9039 huge 9040 fan 9042 quentin 9043 tarantino
+==> PERFECT 
+
+No: 107
+Correct postion=9100
+Correct window size=23
+Found postion=5055
+Question=[each, person, vote, one, film, from, final, four]
+Size of window = 40
+Step of window = 8
+Score = 4.0
+Common words: (vote 1.0 5085 3033) (one 1.0 5077 3026) (film 1.0 5094 3040) (from 1.0 5066 3018) 
+ FOUND WINDOW: english movi yes but if you look no there movi from everywher but yes but would say mainstream one have more than whatev sixti thousand vote you can see some more confidenti film have like ten thousand twenti thousand like 
+ CORRECT WINDOW: andrei  9100 left 9103 big 9104 lebowski 9105 usual 9106 suspects 9107 saving 9108 private 9109 ryan 9111 american 9112 beauty 
+andrei  9113 ok 9115 let 9116 vote 9117 just 9118 simply 9120 one 9123 moment 
+==> NOT CORRECT
+
+No: 108
+Correct postion=9126
+Correct window size=9
+Found postion=9089
+Question=[andrei, vote, american, beauti, has, not, seen]
+Size of window = 37
+Step of window = 7
+Score = 8.0
+Common words: (andrei 2.0 9097 5361) (vote 1.0 9116 5374) (american 1.0 9111 5370) (beauti 1.0 9112 5371) (have 1.0 9133 5384) (not 1.0 9134 5385) (seen 1.0 9135 5386) 
+ FOUND WINDOW: privat ryan elimin pulp fiction gone ok left big lebowski usual suspect save privat ryan american beauti ok let vote just simpli one moment would vote american beauti becaus have not seen vote big lebowski all gonna 
+ CORRECT WINDOW: andrei  9126 would 9127 vote 9129 american 9130 beauty 9131 because 9133 have 9134 not 9135 seen 
+==> PERFECT 
+
+No: 109
+Correct postion=9138
+Correct window size=3
+Found postion=8482
+Question=[mirek, vote, big, lebowski]
+Size of window = 22
+Step of window = 4
+Score = 5.0
+Common words: (mirek 2.0 8491 4976) (vote 1.0 8515 4993) (big 1.0 8491 4976) (lebowski 1.0 8492 4977) 
+ FOUND WINDOW: yes yes would suggest big lebowski if not too long mayb each us could nomin one two movi make list then vote 
+ CORRECT WINDOW: mirek  9138 vote 9140 big 9141 lebowski
+==> NOT CORRECT
+
+No: 110
+Correct postion=9174
+Correct window size=4
+Found postion=9165
+Question=[agn, vote, usual, suspect, final, select]
+Size of window = 30
+Step of window = 6
+Score = 5.2
+Common words: (agn 2.0 9165 5406) (vote 1.0 9203 5432) (usual 1.0 9177 5413) (suspect 1.0 9178 5414) (select 0.2 9182 5418) 
+ FOUND WINDOW: but like american beauti too make decis usual suspect yes you can choos ok now have if want ok if want take ok you have decid vote you presid mayb 
+ CORRECT WINDOW: mirek  9174 make 9176 decision 
+agnes  9177 usual 9178 suspects
+==> PERFECT 
+
+No: 111
+Correct postion=9183
+Correct window size=20
+Found postion=9298
+Question=[deni, vote, crucial, decid, which, film, chosen]
+Size of window = 32
+Step of window = 6
+Score = 6.0
+Common words: (deni 2.0 9319 5500) (vote 1.0 9314 5499) (decid 1.0 9325 5504) (film 1.0 9353 5519) (choos 1.0 9351 5518) 
+ FOUND WINDOW: no like like no no no mean yes you vote have other anyway can decid next meet mayb but quit happi have not seen yes begin may guess choos film may yes 
+ CORRECT WINDOW: denis  9183 ok 9184 now 9186 have 9188 if 9190 want 9191 ok 9192 if 9194 want 9196 take 9198 ok 
+agnes  9199 you 9200 have 9202 deciding 9203 vote 
+==> NOT CORRECT
+
+No: 112
+Correct postion=9213
+Correct window size=14
+Found postion=9174
+Question=[deni, justifi, vote, big, lebowski, poster, alreadi, prepar]
+Size of window = 37
+Step of window = 7
+Score = 7.2
+Common words: (deni 2.0 9183 5419) (vote 1.0 9203 5432) (big 1.0 9220 5441) (lebowski 1.0 9221 5442) (poster 1.0 9224 5444) (alreadi 1.0 9226 5445) (prepar 0.2 9174 5411) 
+ FOUND WINDOW: make decis usual suspect yes you can choos ok now have if want ok if want take ok you have decid vote you presid mayb after all yes ok go big lebowski sinc poster alreadi readi alreadi 
+ CORRECT WINDOW: denis  9213 ok 9217 go 9220 big 9221 lebowski 9222 since 9224 posters 9226 already 9227 ready 
+==> PERFECT 
+
+No: 113
+Correct postion=9232
+Correct window size=46
+Found postion=2018
+Question=[all, agre, final, choic, good]
+Size of window = 25
+Step of window = 5
+Score = 2.2
+Common words: (all 1.0 2032 1233) (choic 0.2 2042 1239) (good 1.0 2053 1245) 
+ FOUND WINDOW: can littl bit discuss have did not see all them actual just should probabl select one these becaus think these good movi ok see if 
+ CORRECT WINDOW: andrei  9232 yes 9234 think 9236 quite 9237 fine 
+agnes  9239 fine 
+mirek  
+agnes  9243 make 9245 good 9246 change 9247 from 9249 other 9250 ones 
+andrei  9255 yes 9257 think 9259 least 9261 funny 9265 nice 
+denis  9266 yes 9268 think 
+andrei  9269 ok 
+andrei  
+mirek  9273 gonna 9276 big 9277 lebowski 
+andrei  9278 decision 
+==> NOT CORRECT
+
+No: 114
+Correct postion=9345
+Correct window size=10
+Found postion=9298
+Question=[purpos, next, meet, choos, film, may]
+Size of window = 30
+Step of window = 6
+Score = 5.0
+Common words: (next 1.0 9329 5505) (meet 1.0 9330 5506) (choos 1.0 9351 5518) (film 1.0 9353 5519) (may 1.0 9347 5516) 
+ FOUND WINDOW: no like like no no no mean yes you vote have other anyway can decid next meet mayb but quit happi have not seen yes begin may guess choos film 
+ CORRECT WINDOW: andrei  9345 beginning 9347 may 9349 guess 9351 choose 9353 film 9355 may 
+==> PERFECT 
+
+No: 115
+Correct postion=9392
+Correct window size=30
+Found postion=9298
+Question=[date, next, meet, confirm, may, third]
+Size of window = 30
+Step of window = 6
+Score = 3.2
+Common words: (date 0.2 9341 5513) (next 1.0 9329 5505) (meet 1.0 9330 5506) (may 1.0 9347 5516) 
+ FOUND WINDOW: no like like no no no mean yes you vote have other anyway can decid next meet mayb but quit happi have not seen yes begin may guess choos film 
+ CORRECT WINDOW: denis  9392 ok 9397 decide 9398 after 9400 projection 9403 movie 9405 date 9407 ok 
+andrei  9408 yes 9410 can 9411 do 9413 like 9415 tuesday 9416 before 9418 ascension 9421 may 9422 third 
+==> NOT CORRECT
+
+Score total = 62/116 = 53 %
+

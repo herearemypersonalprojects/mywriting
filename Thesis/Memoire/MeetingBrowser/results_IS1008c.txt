@@ -1,0 +1,734 @@
+No: 0
+Correct postion=17
+Correct window size=71
+Found postion=1
+Question=[sridhar, inform, particip, purpos, meet]
+Size of window = 32
+Step of window = 6
+Score = 3.2
+Common words: (sridhar 2.0 1 0) (purpos 0.2 28 16) (meet 1.0 17 10) 
+ FOUND WINDOW: welcom back after lunch hope you had good lunch togeth meet main agenda ok discuss conceptu design meet ok agenda open product manag secretari me present from christin agn from mister ed 
+ CORRECT WINDOW: sridhar  17 meeting 19 main 20 agenda 21 ok 24 discuss 27 conceptual 28 design 29 meeting 
+sridhar  30 ok 
+sridhar  33 agenda 
+sridhar  37 opening 43 product 44 manager 46 secretary 48 me 52 presentations 53 from 55 christine 58 agnes 60 from 61 mister 62 ed 
+sridhar  64 finally 67 meeting 69 have 71 decide 
+sridhar  76 take 78 decision 81 remote 82 control 83 concept 87 functional 88 design 
+==> PERFECT 
+
+No: 1
+Correct postion=91
+Correct window size=2
+Found postion=48
+Question=[meet, allow, fourti, minut]
+Size of window = 22
+Step of window = 4
+Score = 2.0
+Common words: (meet 1.0 67 33) (minut 1.0 93 45) 
+ FOUND WINDOW: me present from christin agn from mister ed final meet have decid take decis remot control concept function design have forti minut 
+ CORRECT WINDOW: sridhar  91 have 92 forty 93 minutes 
+==> PERFECT 
+
+No: 2
+Correct postion=134
+Correct window size=18
+Found postion=24
+Question=[christin, inform, particip, she, outlin, them, compon, design, start, her, powerpoint, present]
+Size of window = 70
+Step of window = 14
+Score = 6.2
+Common words: (christin 2.0 131 63) (compon 1.0 129 61) (design 1.0 28 16) (start 0.2 152 79) (powerpoint 1.0 139 68) (present 1.0 52 25) 
+ FOUND WINDOW: discuss conceptu design meet ok agenda open product manag secretari me present from christin agn from mister ed final meet have decid take decis remot control concept function design have forti minut think littl bit low but hope can finish up handl function team christin ok discuss compon concept ok if you could open powerpoint present nber two you nber two kay compon design there go can put slide show 
+ CORRECT WINDOW: christine  134 if 135 you 136 could 137 open 139 powerpoint 140 presentation 
+christine  142 nber 143 two 
+sridhar  144 you 145 nber 146 two 
+sridhar  147 kay 
+christine  148 components 149 design 150 there 152 go
+==> PERFECT 
+
+No: 3
+Correct postion=211
+Correct window size=15
+Found postion=2755
+Question=[one, featur, under, consider, speech, recognit]
+Size of window = 30
+Step of window = 6
+Score = 3.2
+Common words: (one 1.0 2781 1678) (featur 0.2 2776 1674) (speech 1.0 2793 1687) (recognit 1.0 2794 1688) 
+ FOUND WINDOW: depend what tel what mode tv dvd someth els right ok becaus have seen most standard one yes especi you might need someth like train speech recognit now you have 
+ CORRECT WINDOW: christine  211 instance 213 had 214 talked 216 using 217 some 218 sort 220 speech 221 recognition 222 you 223 have 225 have 226 microphone 
+==> NOT CORRECT
+
+No: 4
+Correct postion=287
+Correct window size=14
+Found postion=2372
+Question=[product, should, make, sound, allow, locat, event, be, misplac]
+Size of window = 45
+Step of window = 9
+Score = 3.4000000000000004
+Common words: (product 1.0 2403 1444) (should 1.0 2387 1433) (make 0.2 2405 1445) (sound 0.2 2425 1459) (be 1.0 2398 1440) 
+ FOUND WINDOW: copi differ type remot if you can find me where there should onli one here trend watch sure be modifi steal our product have been give simpl questionnair differ area becaus obvious have see what com conser look today caus trend chang quick six month 
+ CORRECT WINDOW: christine  287 way 289 making 290 beeps 292 sounds 294 you 295 can 296 find 298 when 300 gets 301 lost 
+==> NOT CORRECT
+
+No: 5
+Correct postion=849
+Correct window size=37
+Found postion=180
+Question=[christin, talk, microphon, remot]
+Size of window = 25
+Step of window = 5
+Score = 4.0
+Common words: (christin 2.0 180 95) (talk 1.0 214 110) (microphon 1.0 226 119) 
+ FOUND WINDOW: mous look specif compon follow compon case power suppli mean counic televis set instanc had talk use some sort speech recognit you have have microphon 
+ CORRECT WINDOW: christine  849 then 852 think 854 should 855 go 858 solar 859 cells 864 microphone 866 speaker 869 advanced 870 chip 
+christine  875 findings 877 our 878 research 
+christine  880 my 881 recommendations 884 new 885 remote 886 control 
+==> NOT CORRECT
+
+No: 6
+Correct postion=310
+Correct window size=21
+Found postion=223
+Question=[christin, inform, particip, have, look, histor, record, what, work, what, did, not]
+Size of window = 65
+Step of window = 13
+Score = 11.0
+Common words: (christin 2.0 223 117) (have 1.0 223 117) (look 1.0 319 168) (histor 1.0 325 171) (record 1.0 326 172) (what 1.0 327 173) (work 1.0 328 174) (what 1.0 329 175) (do 1.0 230 122) (not 1.0 231 123) 
+ FOUND WINDOW: have have microphon no you do not actual have not have have microphon devic but mayb you do have way has has hear speaker could televis set could devic but somewher you have put microphon way make beep sound you can find when get lost other thing our method go have look histo hi histor record what work what has not then also want evalu 
+ CORRECT WINDOW: christine  310 our 311 method 313 going 318 have 319 looked 323 histo 324 hi 325 historical 326 record 327 what 328 worked 329 what 330 has 331 not 
+==> PERFECT 
+
+No: 7
+Correct postion=333
+Correct window size=40
+Found postion=287
+Question=[christin, evalu, new, materi, assist, manufactur, depart]
+Size of window = 40
+Step of window = 8
+Score = 6.2
+Common words: (christin 2.0 287 152) (evalu 1.0 339 181) (new 1.0 341 183) (materi 1.0 342 184) (manufactur 1.0 346 186) (depart 0.2 313 166) 
+ FOUND WINDOW: way make beep sound you can find when get lost other thing our method go have look histo hi histor record what work what has not then also want evalu some new materi contact manufactur their input becaus cours might 
+ CORRECT WINDOW: christine  333 then 335 also 337 wanted 339 evaluate 340 some 341 new 342 materials 
+christine  345 contacted 346 manufacturing 348 their 349 input 350 because 351 course 354 might 355 come 356 up 358 choose 360 material 362 then 363 manufacturing 364 did 365 not 366 have 368 technologies 370 capabilities 372 offer 373 us 
+==> PERFECT 
+
+No: 8
+Correct postion=441
+Correct window size=10
+Found postion=386
+Question=[rubber, consid, but, quick, dismiss, construct, materi, case]
+Size of window = 32
+Step of window = 6
+Score = 3.6000000000000005
+Common words: (rubber 1.0 446 239) (consid 0.2 444 238) (but 1.0 418 226) (dismiss 0.2 433 233) (construct 0.2 395 213) (case 1.0 390 211) 
+ FOUND WINDOW: research case told make specifica specif assption would curv design cours you know want expand shrinkabl but doe not seem one choic nonopt can can serious explor then think rubber but unfortun 
+ CORRECT WINDOW: christine  441 then 444 thinking 446 rubber 
+christine  447 but 448 unfortunately 450 been 451 eliminated 
+==> PERFECT 
+
+No: 9
+Correct postion=479
+Correct window size=17
+Found postion=430
+Question=[christin, elimin, plastic, too, brittl, over, time]
+Size of window = 35
+Step of window = 7
+Score = 5.2
+Common words: (christin 2.0 430 231) (elimin 1.0 451 243) (plastic 1.0 481 254) (too 0.2 482 255) (brittl 1.0 490 259) 
+ FOUND WINDOW: choic nonopt can can serious explor then think rubber but unfortun been elimin becaus heat factor there might some problem goe board then plastic also has problem melt brittl get brittl after while still had 
+ CORRECT WINDOW: christine  479 then 481 plastic 482 also 483 has 485 problem 487 melting 490 brittle 492 gets 493 brittle 494 after 496 while
+==> PERFECT 
+
+No: 10
+Correct postion=506
+Correct window size=25
+Found postion=487
+Question=[titanium, case, remot, elimin, difficult, manufactur]
+Size of window = 30
+Step of window = 6
+Score = 3.0
+Common words: (case 1.0 528 283) (elimin 1.0 513 274) (manufactur 1.0 519 276) 
+ FOUND WINDOW: melt brittl get brittl after while still had titani wood avail but unfortun titani also been elimin peopl manufactur said you could not make curv case titani although appl did 
+ CORRECT WINDOW: christine  506 but 507 unfortunately 510 titani 511 also 512 been 513 eliminated 
+christine  517 people 519 manufacturing 520 said 522 you 523 could 524 not 525 make 527 curved 528 cases 531 titani
+==> PERFECT 
+
+No: 11
+Correct postion=547
+Correct window size=9
+Found postion=519
+Question=[accord, manufactur, case, has, made, wood]
+Size of window = 30
+Step of window = 6
+Score = 5.0
+Common words: (manufactur 1.0 519 276) (case 1.0 528 283) (have 1.0 549 295) (make 1.0 525 281) (wood 1.0 556 301) 
+ FOUND WINDOW: manufactur said you could not make curv case titani although appl did powerbook not su quit sure but nevertheless have elimin all our option except wood least environment friend our 
+ CORRECT WINDOW: christine  547 nevertheless 549 have 550 eliminated 551 all 553 our 554 options 555 except 556 wood
+==> PERFECT 
+
+No: 12
+Correct postion=587
+Correct window size=81
+Found postion=547
+Question=[christin, prefer, advanc, chip, elimin, other, option]
+Size of window = 35
+Step of window = 7
+Score = 7.0
+Common words: (christin 2.0 547 294) (prefer 1.0 592 318) (chip 1.0 605 325) (elimin 1.0 550 296) (other 1.0 601 323) (option 1.0 554 299) 
+ FOUND WINDOW: nevertheless have elimin all our option except wood least environment friend our find she said environment friend materi current propos get all my person prefer just second then there other matter chip could use simpl 
+ CORRECT WINDOW: christine  587 get 589 all 590 my 591 personal 592 preferences 594 just 596 second 
+christine  598 then 599 there 601 other 602 matter 605 chips 
+christine  609 could 610 use 612 simple 613 design 616 board 617 but 619 these 620 simple 621 chips 622 but 624 only 625 works 628 bu 629 you 630 do 631 not 632 get 634 much 635 intelligence 638 simple 639 one 
+christine  641 then 642 there 645 regular 646 which 
+christine  648 regret 651 have 652 forgotten 653 exactly 654 why 656 eliminating 658 one 
+christine  661 other 662 option 665 advanced 666 chip 668 print 
+==> PERFECT 
+
+No: 13
+Correct postion=702
+Correct window size=27
+Found postion=599
+Question=[christin, inform, particip, manufactur, had, recent, develop, sensor, speaker, could, integr, into, advanc, chip]
+Size of window = 72
+Step of window = 14
+Score = 13.0
+Common words: (christin 2.0 599 322) (manufactur 1.0 702 376) (have 1.0 651 352) (recent 1.0 710 381) (develop 1.0 711 382) (sensor 1.0 715 383) (speaker 1.0 718 384) (could 1.0 609 326) (integr 1.0 723 386) (into 1.0 724 387) (advanc 1.0 665 360) (chip 1.0 605 325) 
+ FOUND WINDOW: there other matter chip could use simpl design board but these simpl chip but onli work bu you do not get much intellig simpl one then there regular which regret have forgotten exact whi elimin one other option advanc chip print like found includ infrar sender which ember beam import compon find right chip manufactur has told us have recent develop sensor speaker would integr into advanc chip print now jping right 
+ CORRECT WINDOW: christine  702 manufacturing 703 has 704 told 705 us 708 have 710 recently 711 developed 715 sensor 718 speaker 720 would 723 integrated 724 into 726 advanced 727 chip 729 print
+==> PERFECT 
+
+No: 14
+Correct postion=735
+Correct window size=23
+Found postion=547
+Question=[prefer, express, use, exot, wood, construct, materi]
+Size of window = 35
+Step of window = 7
+Score = 4.0
+Common words: (prefer 1.0 592 318) (use 1.0 610 327) (wood 1.0 556 301) (materi 1.0 577 311) 
+ FOUND WINDOW: nevertheless have elimin all our option except wood least environment friend our find she said environment friend materi current propos get all my person prefer just second then there other matter chip could use simpl 
+ CORRECT WINDOW: christine  735 now 736 jping 737 right 739 our 740 personal 741 preferences 
+christine  744 would 746 think 748 should 749 you 750 know 751 use 752 some 755 some 757 exotic 758 woods 
+==> NOT CORRECT
+
+No: 15
+Correct postion=759
+Correct window size=8
+Found postion=672
+Question=[christin, make, slight, strang, refer, where, all, you, guy, come, from]
+Size of window = 55
+Step of window = 11
+Score = 6.2
+Common words: (christin 2.0 672 363) (make 0.2 703 377) (you 1.0 749 400) (guy 1.0 765 411) (come 1.0 766 412) (from 1.0 767 413) 
+ FOUND WINDOW: like found includ infrar sender which ember beam import compon find right chip manufactur has told us have recent develop sensor speaker would integr into advanc chip print now jping right our person prefer would think should you know use some some exot wood like you know you guy come from tropic countri you can 
+ CORRECT WINDOW: christine  759 like 760 you 761 know 764 you 765 guys 766 come 767 from 
+==> PERFECT 
+
+No: 16
+Correct postion=783
+Correct window size=32
+Found postion=741
+Question=[christin, suggest, people/custom, might, want, submit, their, own, design, via, internet, custom, order]
+Size of window = 60
+Step of window = 12
+Score = 11.0
+Common words: (christin 2.0 741 396) (might 1.0 787 427) (want 1.0 789 428) (submit 1.0 813 443) (their 1.0 792 430) (own 1.0 793 431) (design 1.0 791 429) (internet 1.0 808 440) (custom 1.0 821 450) (order 1.0 815 445) 
+ FOUND WINDOW: prefer would think should you know use some some exot wood like you know you guy come from tropic countri you can kinda think some tree some nice wood think peopl might want design their own case you see could do sort threedimension design internet then could submit their order kinda like you submit custom car order you know you 
+ CORRECT WINDOW: christine  783 think 785 people 787 might 789 want 791 design 792 their 793 own 794 cases 
+christine  795 you 796 see 798 could 799 do 800 sort 804 threedimensional 805 design 808 internet 
+christine  810 then 812 could 813 submit 814 their 815 orders 
+==> PERFECT 
+
+No: 17
+Correct postion=880
+Correct window size=23
+Found postion=791
+Question=[christin, ask, particip, if, anyon, had, ani, problem, her, recommend]
+Size of window = 67
+Step of window = 13
+Score = 6.0
+Common words: (christin 2.0 791 429) (have 1.0 891 484) (ani 1.0 902 491) (problem 1.0 903 492) (recommend 1.0 881 479) 
+ FOUND WINDOW: design their own case you see could do sort threedimension design internet then could submit their order kinda like you submit custom car order you know you can choos colour size wheel colour leather thing like then think should go solar cell microphon speaker advanc chip find our research my recommend new remot control would have have made wood do you have ani problem can you go 
+ CORRECT WINDOW: christine  880 my 881 recommendations 884 new 885 remote 886 control 888 would 891 have 892 have 895 made 898 wood 
+christine  899 do 900 you 901 have 902 any 903 problems 
+==> PERFECT 
+
+No: 18
+Correct postion=715
+Correct window size=14
+Found postion=646
+Question=[sensor, speaker, part, advanc, chip, tech, specif]
+Size of window = 35
+Step of window = 7
+Score = 4.2
+Common words: (sensor 1.0 715 383) (speaker 1.0 718 384) (part 0.2 694 372) (advanc 1.0 665 360) (chip 1.0 666 361) 
+ FOUND WINDOW: which regret have forgotten exact whi elimin one other option advanc chip print like found includ infrar sender which ember beam import compon find right chip manufactur has told us have recent develop sensor speaker 
+ CORRECT WINDOW: 715 sensor 718 speaker 720 would 723 integrated 724 into 726 advanced 727 chip 729 print 
+==> PERFECT 
+
+No: 19
+Correct postion=946
+Correct window size=62
+Found postion=977
+Question=[christin, ask, find, more, type, processor, next, meet]
+Size of window = 42
+Step of window = 8
+Score = 6.2
+Common words: (christin 2.0 977 536) (ask 0.2 1049 577) (find 1.0 1002 547) (more 1.0 1004 548) (next 1.0 1007 550) (meet 1.0 977 536) 
+ FOUND WINDOW: meet yes mean yes microproc microprocessor base do not know but find more our next meet ok tha would great if you find from technolog background ok would good sound good whi plastic elimin possibl materi becaus get brittl crack want expect 
+ CORRECT WINDOW: christine  946 think 949 multiple 951 chip 952 design 956 maybe 957 printed 961 circuit 962 board 
+christine  965 could 966 find 968 more 972 before 974 next 975 fi 976 next 977 meeting 
+sridhar  978 yes 981 means 
+sridhar  985 yes 990 microproc 991 microprocessor 992 based 
+christine  996 do 997 not 998 know 999 but 1002 find 1004 more 1006 our 1007 next 1008 meeting 
+==> PERFECT 
+
+No: 20
+Correct postion=1032
+Correct window size=13
+Found postion=1022
+Question=[reason, present, whi, plastic, reject, construct, materi]
+Size of window = 37
+Step of window = 7
+Score = 3.4000000000000004
+Common words: (whi 1.0 1032 567) (plastic 1.0 1035 568) (reject 0.2 1036 569) (construct 0.2 1069 591) (materi 1.0 1040 571) 
+ FOUND WINDOW: technolog background ok would good sound good whi plastic elimin possibl materi becaus get brittl crack want expect these these remot control around sever hundr year good ex whic which good express good express after us do 
+ CORRECT WINDOW: agnes  1032 why 1035 plastic 1036 eliminated 1039 possible 1040 material 
+christine  1041 because 1043 gets 1044 brittle 1045 cracks 
+==> PERFECT 
+
+No: 21
+Correct postion=1047
+Correct window size=14
+Found postion=1006
+Question=[product, expect, last, over, sever, hundr, year]
+Size of window = 45
+Step of window = 9
+Score = 4.0
+Common words: (expect 1.0 1049 577) (sever 1.0 1059 583) (hundr 1.0 1060 584) (year 1.0 1061 585) 
+ FOUND WINDOW: our next meet ok tha would great if you find from technolog background ok would good sound good whi plastic elimin possibl materi becaus get brittl crack want expect these these remot control around sever hundr year good ex whic which good express good express 
+ CORRECT WINDOW: christine  1047 want 1049 expect 1050 these 1052 these 1053 remote 1054 controls 1057 around 1059 several 1060 hundred 1061 years 
+==> PERFECT 
+
+No: 22
+Correct postion=1134
+Correct window size=4
+Found postion=1229
+Question=[ed, enthus, idea, personalis, remot, control, readi, sell]
+Size of window = 45
+Step of window = 9
+Score = 6.0
+Common words: (ed 2.0 1229 693) (idea 1.0 1230 694) (personalis 1.0 1280 730) (remot 1.0 1284 734) (control 1.0 1240 703) 
+ FOUND WINDOW: innov idea ok good sorr have hard time keep wi control over my face actual innov differ idea you know you can choos your colour wood your type wood stain mean each person gonna have their own personalis individualis speech recognit remot control wood not 
+ CORRECT WINDOW: ed  1134 actually 1136 ready 1138 sell 
+==> NOT CORRECT
+
+No: 23
+Correct postion=1193
+Correct window size=99
+Found postion=1289
+Question=[ed, market, see, clear, advantag, wood, novel, case, materi]
+Size of window = 57
+Step of window = 11
+Score = 6.0
+Common words: (ed 2.0 1289 737) (market 1.0 1292 738) (see 1.0 1385 791) (wood 1.0 1363 775) (materi 1.0 1371 780) 
+ FOUND WINDOW: not market yes look good design function design what yo you term coent term my own yes yes term term coent first term she work cubicl next me she she alreadi littl bit prepar yes luckili ed not wood think can get qualiti materi then should not influenc design principl too much which you see my present 
+ CORRECT WINDOW: ed  1193 only 1196 only 1197 wood 1198 you 1199 can 1200 use 1203 ones 1206 hard 1207 extremely 1208 hard 1209 wood 
+agnes  1210 yes 1211 exactly 1212 yes 
+ed  1213 but 1214 there 1216 some 1218 pretty 1219 woods 1221 there 
+christine  1224 glad 1225 you 
+ed  1227 actually 1229 innovative 1230 idea 
+christine  1231 ok 1232 good 
+christine  1233 sorr 1234 having 1236 hard 1237 time 1238 keeping 1239 wi 1240 control 1241 over 1242 my 1243 face 
+ed  1246 actually 1249 innovative 1251 different 1252 idea 1255 you 1256 know 1257 you 1258 can 1259 choose 1260 your 1261 colour 1263 wood 1264 your 1265 type 1267 wood 
+agnes  1269 stain 
+ed  1271 mean 1273 each 1274 person 1276 gonna 1277 have 1278 their 1279 own 1280 personalised 1281 individualised 1282 speech 1283 recognition 1284 remote 1285 control 1287 wood 1289 not 1292 market 
+==> PERFECT 
+
+No: 24
+Correct postion=1094
+Correct window size=12
+Found postion=1020
+Question=[agn, express, her, opinion, wood, you, would, run, into, same, type, problem, other, materi]
+Size of window = 67
+Step of window = 13
+Score = 12.0
+Common words: (agn 2.0 1032 567) (express 1.0 1069 591) (wood 1.0 1096 607) (you 1.0 1098 609) (would 1.0 1027 563) (run 1.0 1100 611) (into 1.0 1101 612) (same 1.0 1103 613) (type 1.0 1104 614) (problem 1.0 1106 615) (materi 1.0 1040 571) 
+ FOUND WINDOW: from technolog background ok would good sound good whi plastic elimin possibl materi becaus get brittl crack want expect these these remot control around sever hundr year good ex whic which good express good express after us do not know speak yourself plan around while although think think wood though you would run into same type problem would not you mean chip if you drop not sure 
+ CORRECT WINDOW: agnes  1094 think 1096 wood 1097 though 1098 you 1099 would 1100 run 1101 into 1103 same 1104 types 1106 problems 
+==> PERFECT 
+
+No: 25
+Correct postion=1555
+Correct window size=18
+Found postion=1561
+Question=[agn, demonstr, she, has, taken, idea, had, been, previous, discuss, put, them, into, design, remot, control]
+Size of window = 67
+Step of window = 13
+Score = 10.0
+Common words: (agn 2.0 1561 897) (have 1.0 1608 925) (take 1.0 1640 943) (idea 1.0 1606 924) (have 1.0 1664 962) (put 1.0 1568 901) (into 1.0 1570 902) (remot 1.0 1572 903) (control 1.0 1573 904) 
+ FOUND WINDOW: talk last time tri put into remot control thing you can actual see off switch vole channel control menu access button ergonom shape which complet agre christin idea have sort mold slight more ergonom comfort hold than standard straight remot control actual other thing wood if take your customis idea peopl can actual do sort quasimeasur their hand size if someon has larger hand you have wider 
+ CORRECT WINDOW: agnes  1555 took 1557 ideas 1561 talking 1563 last 1564 time 1566 tried 1568 put 1570 into 1572 remote 1573 control 
+==> PERFECT 
+
+No: 26
+Correct postion=1631
+Correct window size=111
+Found postion=1600
+Question=[agn, christin, agre, customis, could, includ, physic, size, hand, shape]
+Size of window = 52
+Step of window = 10
+Score = 8.2
+Common words: (agn 2.0 1600 920) (christin 2.0 1669 966) (agre 1.0 1603 922) (customis 1.0 1642 945) (size 1.0 1656 955) (hand 1.0 1655 954) (shape 0.2 1612 927) 
+ FOUND WINDOW: which complet agre christin idea have sort mold slight more ergonom comfort hold than standard straight remot control actual other thing wood if take your customis idea peopl can actual do sort quasimeasur their hand size if someon has larger hand you have wider remot control right my hand differ size than 
+ CORRECT WINDOW: agnes  1631 actually 1633 other 1634 thing 1637 wood 1638 if 1640 take 1641 your 1642 customising 1643 idea 1646 people 1647 can 1648 actually 1649 do 1650 sort 1652 quasimeasurements 1654 their 1655 hand 1656 size 1658 if 1659 someone 1660 has 1661 larger 1662 hands 1663 you 1664 have 1666 wider 1667 remote 1668 control 
+christine  1669 right 1670 my 1671 hand 1674 different 1675 size 1676 than 1677 yours 1679 example 
+agnes  1682 actually 1685 good 1686 idea 1688 customi 1689 customisability 
+agnes  1690 one 1691 thing 1693 thought 1694 might 1696 kind 1698 interesting 1701 put 1703 flip 1704 screen 1707 just 1708 like 1709 you 1710 have 1712 flip 1713 phones 
+agnes  1716 you 1717 do 1718 not 1719 have 1721 case 1722 where 1723 someone 1724 sits 1727 remote 1728 control 1730 accidentally 1731 puts 1732 their 1733 hand 1736 especially 1737 if 1738 you 1739 have 1740 little 1741 kids 1742 around
+==> PERFECT 
+
+No: 27
+Correct postion=1854
+Correct window size=35
+Found postion=1704
+Question=[agn, suggest, cover, button, prevent, accident, oper]
+Size of window = 35
+Step of window = 7
+Score = 4.4
+Common words: (agn 2.0 1704 987) (cover 0.2 1704 987) (button 1.0 1747 1017) (accident 1.0 1730 1004) (oper 0.2 1728 1003) 
+ FOUND WINDOW: screen just like you have flip phone you do not have case where someon sit remot control accident put their hand especi if you have littl kid around not press button while you tri watch 
+ CORRECT WINDOW: agnes  1854 you 1855 would 1856 have 1857 something 1858 like 1862 onoff 1863 switch 1864 fairly 1865 big 1866 sort 1870 corner 1873 itself 1875 you 1876 do 1877 not 1878 accidentally 1879 turn 1880 your 1881 tv 1882 off 1883 while 1884 you 1885 trying 1887 manoeuvre 1888 other 1889 buttons 
+==> NOT CORRECT
+
+No: 28
+Correct postion=1766
+Correct window size=37
+Found postion=1791
+Question=[inclus, batteri, life, light, suggest, interfac, design]
+Size of window = 35
+Step of window = 7
+Score = 3.0
+Common words: (batteri 1.0 1799 1048) (interfac 1.0 1837 1073) (design 1.0 1838 1074) 
+ FOUND WINDOW: goe dier dier dier your batteri start die term invis featur audio tactil feedback button press like you said speech recognit term what thing would actual look like despit work interfac design not greatest artist 
+ CORRECT WINDOW: agnes  1766 also 1767 you 1768 had 1769 issues 1772 batteries 1773 running 1777 thought 1778 maybe 1780 could 1781 put 1783 little 1784 battery 1785 lifelight 1789 kind 1791 goes 1792 dier 1794 dier 1796 dier 1798 your 1799 battery 1801 starts 1803 die
+==> PERFECT 
+
+No: 29
+Correct postion=1891
+Correct window size=43
+Found postion=1942
+Question=[remot, use, four, toggl, switch, main, user, input, channel]
+Size of window = 42
+Step of window = 8
+Score = 3.2
+Common words: (remot 1.0 2001 1182) (use 1.0 1986 1171) (switch 0.2 2004 1185) (user 1.0 1981 1167) 
+ FOUND WINDOW: sort standard telephonish nber pad then one side you would have access menu your tv other side way turn off voic control if user doe not want use their voic can just turn off you do not have remot control accident chang 
+ CORRECT WINDOW: agnes  1891 then 1892 you 1893 have 1894 sort 1896 one 1898 those 1899 toggle 1900 displays 1902 oops 1903 channels 1905 vole 1906 sort 1909 surfing 1910 channels 1912 then 1913 vole 1916 vole 1917 would 1920 up 1922 down 1923 cause 1924 vole 1925 goes 1926 up 1928 down 1930 then 1931 channels 1932 left 1934 right 
+==> NOT CORRECT
+
+No: 30
+Correct postion=2034
+Correct window size=35
+Found postion=1953
+Question=[agn, drew, diagram, outlin, her, design, new, remot, control, she, state, ought, keep, simpl, without, too, mani, function]
+Size of window = 82
+Step of window = 16
+Score = 10.0
+Common words: (agn 2.0 1953 1152) (design 1.0 2042 1209) (remot 1.0 2001 1182) (control 1.0 1976 1165) (keep 1.0 2053 1214) (simpl 1.0 2041 1208) (too 1.0 2060 1219) (mani 1.0 2061 1220) (function 1.0 2067 1226) 
+ FOUND WINDOW: you would have access menu your tv other side way turn off voic control if user doe not want use their voic can just turn off you do not have remot control accident chang thing you again you can have littl lcd light somewher flip thing have forgotten anyth do not think no you can see simpl design which one thing want keep keep simpl not have too mani button not have too mani function thrown into think design can pretti much 
+ CORRECT WINDOW: agnes  2034 you 2035 can 2036 see 2041 simple 2042 design 2043 which 2045 one 2048 things 2051 wanted 2053 keep 2055 keep 2057 simple 2058 not 2059 have 2060 too 2061 many 2062 buttons 2063 not 2064 have 2065 too 2066 many 2067 functionalities 2068 thrown 2069 into 
+==> PERFECT 
+
+No: 31
+Correct postion=2034
+Correct window size=35
+Found postion=1831
+Question=[agn, has, come, up, interfac, design, has, simplic, eas, use, main, object]
+Size of window = 60
+Step of window = 12
+Score = 7.2
+Common words: (agn 2.0 1831 1068) (have 1.0 1850 1080) (come 0.2 1876 1096) (up 1.0 1920 1127) (interfac 1.0 1837 1073) (design 1.0 1838 1074) (have 1.0 1856 1085) 
+ FOUND WINDOW: actual look like despit work interfac design not greatest artist world you have forgiv me you would have someth like onoff switch fair big sort corner itself you do not accident turn your tv off while you tri manoeuvr other button then you have sort one those toggl display oop channel vole sort surf channel then vole vole would up 
+ CORRECT WINDOW: agnes  2034 you 2035 can 2036 see 2041 simple 2042 design 2043 which 2045 one 2048 things 2051 wanted 2053 keep 2055 keep 2057 simple 2058 not 2059 have 2060 too 2061 many 2062 buttons 2063 not 2064 have 2065 too 2066 many 2067 functionalities 2068 thrown 2069 into 
+==> NOT CORRECT
+
+No: 32
+Correct postion=2286
+Correct window size=26
+Found postion=1835
+Question=[posit, button, relat, finger, one, consider, interfac, design]
+Size of window = 42
+Step of window = 8
+Score = 4.0
+Common words: (button 1.0 1889 1108) (one 1.0 1896 1113) (interfac 1.0 1837 1073) (design 1.0 1838 1074) 
+ FOUND WINDOW: work interfac design not greatest artist world you have forgiv me you would have someth like onoff switch fair big sort corner itself you do not accident turn your tv off while you tri manoeuvr other button then you have sort one 
+ CORRECT WINDOW: agnes  2286 once 2288 decide 2289 exactly 2290 what 2292 want 2293 then 2295 can 2296 figure 2299 exact 2300 positioning 2301 but 2302 more 2304 less 2306 think 2308 should 2309 go 2310 along 2311 those 2312 lines 
+==> NOT CORRECT
+
+No: 33
+Correct postion=2330
+Correct window size=13
+Found postion=2289
+Question=[ed, comment, had, product, but, cost, go, potenti, problem]
+Size of window = 42
+Step of window = 8
+Score = 8.0
+Common words: (ed 2.0 2322 1388) (have 1.0 2334 1397) (product 1.0 2336 1398) (but 1.0 2301 1376) (cost 1.0 2343 1403) (go 1.0 2309 1381) (problem 1.0 2338 1400) 
+ FOUND WINDOW: exact what want then can figur exact posit but more less think should go along those line what your coent simpl design what conser want ok almost like houston have product here problem obvious gonna cost ok also have simpl present becaus 
+ CORRECT WINDOW: ed  2330 almost 2331 like 2332 houston 2334 have 2336 product 2337 here 
+ed  2338 problem 2340 obviously 2341 gonna 2343 cost
+==> PERFECT 
+
+No: 34
+Correct postion=2405
+Correct window size=22
+Found postion=2471
+Question=[market, has, use, questionnair, investig, consum, prefer]
+Size of window = 37
+Step of window = 7
+Score = 4.2
+Common words: (market 1.0 2486 1496) (have 1.0 2508 1507) (use 1.0 2530 1520) (questionnair 1.0 2499 1503) (consum 0.2 2480 1492) 
+ FOUND WINDOW: find no no no no no no caus had anoth coent there market trend what know from last from questionnair from all survey have done fanci feelgood what have been look someth feel good hand easi use 
+ CORRECT WINDOW: ed  2405 have 2406 been 2407 giving 2408 simple 2409 questionnaires 2411 different 2412 areas 2413 because 2415 obviously 2417 have 2419 see 2420 what 2422 com 2423 consers 2425 looking 2427 today 
+==> NOT CORRECT
+
+No: 35
+Correct postion=2486
+Correct window size=74
+Found postion=827
+Question=[market, research, suggest, remot, has, new, differ]
+Size of window = 35
+Step of window = 7
+Score = 4.0
+Common words: (research 1.0 878 477) (remot 1.0 885 481) (have 1.0 891 484) (new 1.0 884 480) 
+ FOUND WINDOW: you can choos colour size wheel colour leather thing like then think should go solar cell microphon speaker advanc chip find our research my recommend new remot control would have have made wood do you 
+ CORRECT WINDOW: ed  2486 market 2487 trend 
+ed  2490 what 2492 know 2493 from 2495 last 2497 from 2499 questionnaires 2500 from 2503 all 2506 surveys 2508 have 2509 done 
+ed  2510 fancy 2512 feelgood 2514 what 2516 have 2517 been 2518 looking 2520 something 2522 feels 2523 good 2526 hand 2528 easy 2530 use 
+ed  2531 looking 2533 next 2534 generation 2536 innovation 
+ed  2537 because 2538 all 2540 remotes 2542 there 2543 now 2545 all 2547 similar 2549 all 2550 do 2552 same 2553 thing 
+ed  2555 have 2557 have 2558 something 2559 completely 2560 different 
+==> NOT CORRECT
+
+No: 36
+Correct postion=2562
+Correct window size=49
+Found postion=2327
+Question=[market, found, consum, want, easy-to-us, pay, price, excit, stuff]
+Size of window = 42
+Step of window = 8
+Score = 3.4000000000000004
+Common words: (market 1.0 2356 1410) (find 1.0 2381 1429) (consum 0.2 2334 1397) (want 1.0 2327 1392) (price 0.2 2343 1403) 
+ FOUND WINDOW: want ok almost like houston have product here problem obvious gonna cost ok also have simpl present becaus market point you have see what conser want yes yes also have copi differ type remot if you can find me where there should 
+ CORRECT WINDOW: ed  2562 easy 2564 use 2565 has 2566 always 2567 has 2568 become 2569 has 2570 become 2571 another 2572 major 2573 interest 
+ed  2578 whiteboard 2580 can 2581 see 2585 remote 2587 easy 2589 use 
+ed  2592 think 2595 another 2596 thing 2598 interesting 2601 consers 2602 actually 2603 willing 2605 pay 2607 price 2609 exciting 2610 tel 2611 technology 
+==> NOT CORRECT
+
+No: 37
+Correct postion=2731
+Correct window size=23
+Found postion=2713
+Question=[display, remot, could, use, help, instruct]
+Size of window = 35
+Step of window = 7
+Score = 3.0
+Common words: (display 1.0 2718 1635) (use 1.0 2739 1648) (instruct 1.0 2754 1661) 
+ FOUND WINDOW: if you have littl display flipup when you close everyth lock yes mayb display also make easier use becaus sometim when you look button mayb if you see display contextsensit instruct depend what tel what 
+ CORRECT WINDOW: ed  2731 maybe 2733 display 2734 also 2735 makes 2737 easier 2739 use 2740 because 2741 sometimes 2742 when 2743 you 2744 looking 2746 buttons 2747 maybe 2748 if 2749 you 2750 see 2752 display 
+christine  2753 contextsensitive 2754 instructions 
+==> PERFECT 
+
+No: 38
+Correct postion=2864
+Correct window size=33
+Found postion=2861
+Question=[christin, agn, discuss, send, all, custom, foam, former, take, hand, shape, impress, customis, their, remot]
+Size of window = 72
+Step of window = 14
+Score = 11.0
+Common words: (christin 2.0 2861 1736) (agn 2.0 2881 1749) (send 1.0 2867 1741) (foam 1.0 2878 1746) (take 1.0 2892 1755) (hand 1.0 2897 1758) (shape 1.0 2894 1756) (their 1.0 2896 1757) (remot 1.0 2970 1805) 
+ FOUND WINDOW: order devic id you could send them like some sort foam rubber ball oh yes then would squeez would take shape their hand yes mold your specif then you would know like what geometri their hand would hard squeez yes you would know what kind wood get resist resist right but you would also have do sort averag across famili thing like if unless everyon has their own person remot right right 
+ CORRECT WINDOW: christine  2864 id 2865 you 2866 could 2867 send 2868 them 2869 like 2874 some 2875 sort 2878 foam 2879 rubber 2880 ball 
+agnes  2881 oh 2882 yes 
+christine  2884 then 2886 would 2887 squeeze 2891 would 2892 take 2894 shape 2896 their 2897 hand 
+==> PERFECT 
+
+No: 39
+Correct postion=3028
+Correct window size=52
+Found postion=1677
+Question=[facepl, nokia, phone, prove, customis, good, idea, remot]
+Size of window = 32
+Step of window = 6
+Score = 5.0
+Common words: (phone 1.0 1713 993) (customi 1.0 1688 977) (good 1.0 1685 975) (idea 1.0 1686 976) (remot 1.0 1727 1002) 
+ FOUND WINDOW: your exampl actual good idea customi customis one thing thought might kind interest put flip screen just like you have flip phone you do not have case where someon sit remot control 
+ CORRECT WINDOW: agnes  3028 already 3030 customisability 3034 good 3035 sort 3037 new 3038 giick 
+ed  3039 although 3040 what 3048 nokia 3050 came 3054 changeable 3055 colours 3056 right 
+agnes  3057 yes 
+ed  3058 you 3059 take 3061 apart 3063 put 3065 another 3066 face 3067 take 3069 off 3071 put 3073 another 3074 face 3076 then 3078 sold 3079 millions 3080 millions 
+==> NOT CORRECT
+
+No: 40
+Correct postion=3091
+Correct window size=30
+Found postion=3016
+Question=[ed, sum, up, say, find, research, need, come, up, someth, total, new, not, market]
+Size of window = 70
+Step of window = 14
+Score = 12.2
+Common words: (ed 2.0 3016 1834) (up 1.0 3111 1887) (say 1.0 3091 1877) (find 1.0 3097 1878) (research 1.0 3100 1879) (need 0.2 3059 1857) (come 1.0 3110 1886) (someth 1.0 3016 1834) (total 1.0 3017 1835) (new 1.0 3018 1836) (not 1.0 3118 1891) (market 1.0 3021 1837) 
+ FOUND WINDOW: someth total new market total differ from yes alreadi customis good sort new giick although what nokia came changeabl colour right yes you take apart put anoth face take off put anoth face then sold million million yes right took off yes yes say find research easi use someth total new have come up someth total new not market would also have wor consid who gonna get make these custom 
+ CORRECT WINDOW: ed  3091 say 3097 findings 3100 research 3101 easy 3103 use 3104 something 3105 totally 3106 new 
+ed  3108 have 3110 come 3111 up 3113 something 3114 totally 3115 new 3118 not 3121 market 
+==> PERFECT 
+
+No: 41
+Correct postion=3153
+Correct window size=65
+Found postion=3115
+Question=[christin, consid, cheaper, manufactur, "other, countries", befor, backtrack, suggest, remot, could, support, premium, price, promis, pay, decent, wage, worker, produc, it]
+Size of window = 105
+Step of window = 21
+Score = 10.399999999999999
+Common words: (christin 2.0 3123 1893) (consid 1.0 3128 1897) (cheap 1.0 3166 1921) (manufactur 1.0 3144 1906) (could 1.0 3183 1935) (support 0.2 3234 1964) (price 1.0 3255 1979) (pay 1.0 3207 1948) (wage 1.0 3211 1950) (work 1.0 3210 1949) (produc 0.2 3135 1900) 
+ FOUND WINDOW: new not market would also have wor consid who gonna get make these custom case term manufactur process might wanna learn labour law you know differ countri stuff wher can do cheap but you do not wanna exploit labour third world countri yes actual you could turn turn around say you par reason cost high devic becaus you pay work wage person who made devic yes but can get product countri like india cost live low yes yes countri like india china malaysia you can go better featur better price you can sell more good would someth manufactur would have explor more where yes yes 
+ CORRECT WINDOW: christine  3153 you 3154 know 3156 different 3157 countries 3159 stuff 3160 wher 3163 can 3164 do 3166 cheap 
+christine  3167 but 3168 you 3169 do 3170 not 3171 wanna 3172 exploit 3174 labour 3176 third 3177 world 3178 countries 
+sridhar  3179 yes 
+christine  3181 actually 3182 you 3183 could 3184 turn 3187 turn 3188 around 3190 say 3192 you 3194 par 3196 reason 3198 cost 3200 high 3203 device 3205 because 3206 you 3207 paying 3210 working 3211 wage 3214 person 3215 who 3216 made 3218 device 
+==> PERFECT 
+
+No: 42
+Correct postion=3412
+Correct window size=120
+Found postion=1856
+Question=[agn, note, some, reason, not, have, display]
+Size of window = 35
+Step of window = 7
+Score = 5.2
+Common words: (agn 2.0 1856 1085) (reason 0.2 1864 1090) (not 1.0 1877 1097) (have 1.0 1856 1085) (display 1.0 1900 1116) 
+ FOUND WINDOW: have someth like onoff switch fair big sort corner itself you do not accident turn your tv off while you tri manoeuvr other button then you have sort one those toggl display oop channel vole 
+ CORRECT WINDOW: sridhar  3412 your 3413 design 3414 whether 3415 you 3416 want 3419 display 3421 without 3422 display 3424 just 3426 simple 
+agnes  3429 think 3431 depends 3433 mean 3435 think 3438 good 3439 idea 
+agnes  3440 but 3442 need 3445 think 3448 useful 3450 gonna 3452 because 3453 theoretically 3456 tv 3457 you 3458 already 3459 have 3461 big 3462 display 3463 right 3465 front 3467 you 
+sridhar  3468 yes 
+agnes  3470 if 3472 trying 3474 keep 3475 costs 3476 down 3477 then 3478 maybe 3479 sacrificing 3481 display 3484 way 3486 go 
+agnes  3488 mean 3490 depends 3493 much 3494 putting 3496 display 3497 costs 3499 what 3501 would 3503 used 3506 specifically 3507 what 3509 would 3511 used 
+agnes  3513 cause 3514 if 3516 only 3517 used 3519 one 3520 little 3521 thing 3522 then 3523 putting 3526 big 3527 display 3528 case 3531 big 3532 display 
+==> NOT CORRECT
+
+No: 43
+Correct postion=3665
+Correct window size=11
+Found postion=630
+Question=[final, decis, includ, advanc, chip]
+Size of window = 27
+Step of window = 5
+Score = 3.0
+Common words: (includ 1.0 680 365) (advanc 1.0 665 360) (chip 1.0 666 361) 
+ FOUND WINDOW: do not get much intellig simpl one then there regular which regret have forgotten exact whi elimin one other option advanc chip print like found includ infrar 
+ CORRECT WINDOW: christine  3665 advanced 3666 chip 3668 print 3670 what 3671 what 3673 have 3675 have 3676 deci 
+==> NOT CORRECT
+
+No: 44
+Correct postion=3709
+Correct window size=30
+Found postion=3684
+Question=[group, decid, case, made, wood, button, rubber]
+Size of window = 35
+Step of window = 7
+Score = 4.0
+Common words: (case 1.0 3705 2238) (wood 1.0 3724 2251) (button 1.0 3718 2247) (rubber 1.0 3739 2259) 
+ FOUND WINDOW: industri design recoend think have kinda come some agreement regard concept wooden case customis nice beauti mahogani red wooden case what button would would button wood too do not think no think could rubber like 
+ CORRECT WINDOW: ed  3709 nice 3710 beautiful 3711 mahogany 3712 red 3713 wooden 3714 case 
+agnes  3715 what 3718 buttons 3719 would 
+agnes  3720 would 3722 buttons 3724 wood 3725 too 
+christine  3729 do 3730 not 3731 think 3733 no 3735 think 3737 could 3739 rubber 
+==> PERFECT 
+
+No: 45
+Correct postion=3763
+Correct window size=64
+Found postion=3720
+Question=[sridhar, summaris, conclus, simpl, design, until, price, includ, display, known, request, prototyp, construct]
+Size of window = 65
+Step of window = 13
+Score = 7.2
+Common words: (sridhar 2.0 3752 2266) (simpl 1.0 3778 2279) (design 1.0 3779 2280) (until 1.0 3783 2283) (price 0.2 3794 2288) (display 1.0 3804 2292) (prototyp 1.0 3824 2305) 
+ FOUND WINDOW: would button wood too do not think no think could rubber like now you have tactil experi do not think yes yes do not look nice yes what do stick simpl design time be until ed find out much cost extra case go display ok mayb what you can do both you you can come up prototyp ok model ok ok sure done meet yes 
+ CORRECT WINDOW: sridhar  3763 yes 3766 what 3769 do 3774 stick 3778 simple 3779 design 3781 time 3782 being 3783 until 3786 ed 3787 find 3788 outs 3792 much 3794 cost 3797 extra 3799 case 3801 go 3804 display 
+sridhar  3805 ok 
+sridhar  3807 maybe 3808 what 3809 you 3810 can 3811 do 3814 both 3816 you 3817 you 3818 can 3819 come 3820 up 3824 prototype 3825 ok 3827 model 
+
+==> PERFECT 
+
+No: 46
+Correct postion=3880
+Correct window size=36
+Found postion=3595
+Question=[sridhar, expect, ed, find, price, display]
+Size of window = 30
+Step of window = 6
+Score = 6.2
+Common words: (sridhar 2.0 3645 2207) (ed 2.0 3602 2182) (find 1.0 3616 2193) (price 0.2 3625 2197) (display 1.0 3598 2180) 
+ FOUND WINDOW: add littl display like no no no spec do you wanna take action item go find caus have find cost ok sorri no no problem here push after made yes 
+ CORRECT WINDOW: sridhar  3880 then 3881 meantime 3882 you 3883 can 3884 come 3885 up 3888 price 3890 much 3892 cost 3894 extra 3898 display 
+christine  3901 marketing 3902 strategy 
+sridhar  3906 marketing 3907 strategy 3910 important 3911 ok 
+ed  3913 marketing 3914 strategy 3915 thank 3916 you
+==> NOT CORRECT
+
+No: 47
+Correct postion=3844
+Correct window size=34
+Found postion=3713
+Question=[sridhar, inform, particip, onc, had, come, up, prototyp, design, would, submit, manag]
+Size of window = 62
+Step of window = 12
+Score = 8.2
+Common words: (sridhar 2.0 3752 2266) (have 1.0 3746 2263) (come 1.0 3819 2303) (up 1.0 3820 2304) (prototyp 1.0 3824 2305) (design 1.0 3779 2280) (would 1.0 3719 2248) (manag 0.2 3729 2253) 
+ FOUND WINDOW: wooden case what button would would button wood too do not think no think could rubber like now you have tactil experi do not think yes yes do not look nice yes what do stick simpl design time be until ed find out much cost extra case go display ok mayb what you can do both you you can come up prototyp 
+ CORRECT WINDOW: sridhar  3844 ok 3845 if 3849 come 3850 up 3853 prototype 3854 design 
+sridhar  3855 ok 3856 then 3858 can 3859 show 3860 you 3863 looks 3864 like 3866 then 3868 can 3870 submit 3875 submit 3878 management
+==> NOT CORRECT
+
+No: 48
+Correct postion=3880
+Correct window size=36
+Found postion=3892
+Question=[ed, job, befor, next, meet, find, price, display, work, market, strategi]
+Size of window = 55
+Step of window = 11
+Score = 7.4
+Common words: (ed 2.0 3913 2352) (next 1.0 3958 2386) (meet 1.0 3959 2387) (price 0.2 3892 2343) (display 1.0 3898 2345) (work 0.2 3937 2370) (market 1.0 3901 2346) (strategi 1.0 3902 2347) 
+ FOUND WINDOW: cost extra display market strategi market strategi import ok market strategi thank you yes much you can fire mu much much you can sell extra cours you make money too not onli payout you make money too your coission ok ani question no next meet pleas come up prototyp ok then then can proceed from 
+ CORRECT WINDOW: sridhar  3880 then 3881 meantime 3882 you 3883 can 3884 come 3885 up 3888 price 3890 much 3892 cost 3894 extra 3898 display 
+christine  3901 marketing 3902 strategy 
+sridhar  3906 marketing 3907 strategy 3910 important 3911 ok 
+ed  3913 marketing 3914 strategy 3915 thank 3916 you 
+==> PERFECT 
+
+No: 49
+Correct postion=3981
+Correct window size=20
+Found postion=3949
+Question=[sridhar, thank, particip, their, effort, attend, meet]
+Size of window = 35
+Step of window = 7
+Score = 5.2
+Common words: (sridhar 2.0 3949 2380) (thank 1.0 3981 2401) (effort 1.0 3986 2404) (attend 0.2 3994 2408) (meet 1.0 3959 2387) 
+ FOUND WINDOW: your coission ok ani question no next meet pleas come up prototyp ok then then can proceed from there ok ok thank all your effort come meet again see you soon then ok ok thank 
+ CORRECT WINDOW: sridhar  3981 thanks 3983 all 3984 your 3986 efforts 3988 coming 3991 meeting 3992 again 
+sridhar  3994 see 3995 you 3996 soon 3997 then 
+agnes  3998 ok 
+sridhar  3999 ok 
+sridhar  4000 thank 4001 you 
+==> PERFECT 
+
+Score total = 33/50 = 66 %
+

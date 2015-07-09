@@ -1,0 +1,1080 @@
+
+  BET Validated observations for meeting IS1008c, by group size and
+  adjusted importance
+
+
+    Group Size: *6*
+
+#463 Group: woodReq Status: A Median adjusted importance: 0
+
+Time: 0:04:53, Scope: Around
+
+	Importance:
+
+True statement: 	According to the manufacturers, the casing has to be
+made out of wood.
+False statement: 	According to the manufacturers, the casing has to be
+made out of rubber.
+
+
+originalTrue: /according to the manufacturers, the casing has to be made
+out of wood!/
+originalFalse: /according to the manufacturers, the casing has to be
+made out of rubber/Add Note
+------------------------------------------------------------------------
+#345 Group: labourEthics Status: A Median adjusted importance: 0
+
+Time: 0:20:11, Scope: Around
+
+	Importance:
+
+True statement: 	Christine is considering cheaper manufacture in "other
+countries" before backtracking and suggesting the remote could support a
+premium price by promising to pay a decent wage to the workers producing
+it.
+False statement: 	Ed is considering cheaper manufacture in "other
+countries" before backtracking and suggesting the remote could support a
+premium price by promising to pay a decent wage to the workers producing
+it.
+
+Add Note
+------------------------------------------------------------------------
+
+There are *2* observations of group size 6.
+
+
+    Group Size: *5*
+
+#367 Group: lifeTime Status: A Median adjusted importance: 1
+
+Time: 0:08:00, Scope: Here
+
+	Importance:
+
+True statement: 	The product is expected to last over several hundred
+years.
+False statement: 	The product is expected to last more than 5 but less
+than 15 years.
+
+Add Note
+------------------------------------------------------------------------
+#446 Group: customizable Status: A Median adjusted importance: 0
+
+Time: 0:06:25, Scope: Here
+
+	Importance:
+
+True statement: 	Christine suggested that people/customers might want to
+submit their own design via the internet as custom orders.
+False statement: 	Christine suggested that people/customers would not be
+interested in custom design and prefer off-the-shelf products.
+
+
+originalTrue: /Christine suggested that people/customers might want to
+submit their own design via the internet - custom orders/
+originalFalse: /Christine stipulated that people/customers were not at
+all interested in custom design products that they wanted off- the-
+shelf products/
+Author 	Comment 	Add Note
+APB-GR:  	Christine suggested that people/customers might want to submit
+their own design via the internet as custom orders / Christine suggested
+that people/customers were not at all interested in custom design
+products and that they wanted off-the-shelf products 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#448 Group: woodConcerns Status: A Median adjusted importance: 0
+
+Time: 0:10:22, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes expressed her opinion that with wood you would
+run into the same types of problems as with other materials.
+False statement: 	Agnes stated that with wood you wouldn't run into the
+same types of problems as with other materials.
+
+
+originalTrue: /Agnes expressed her opinion that with wood you would run
+into some of the same types of problems as with other materials - she
+pointed out that wood chips and stated that the quality of the wood
+would have to be really good/
+originalFalse: /Agnes stated that with wood you wouldn't run into
+problems as with other materials - and said any old wood would do/
+Author 	Comment 	Add Note
+APB:  	I tend to reject this for reason D. It's quite easy to spot the
+false stmt (even from its formulation) 	Edit Note 	Delete Note
+APB-CO:  	Agnes expressed her opinion that with wood you would run into
+the same types of problems as with other materials / Agnes stated that
+with wood you wouldn't run into the same types of problems as with other
+materials 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#486 Group: display Status: A Median adjusted importance: 0
+
+Time: 0:21:56, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes notes some reasons to not have a display
+False statement: 	Agnes tries to persuade the group they should have a
+display
+
+
+originalTrue: /agnes notes some reasons to not have a display/
+originalFalse: /agnes tries to persuade the group they should have a
+display/
+Author 	Comment 	Add Note
+APB-SP:  	Agnes 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+
+There are *4* observations of group size 5.
+
+
+    Group Size: *4*
+
+#452 Group: costs Status: A Median adjusted importance: 0
+
+Time: 0:14:48, Scope: Here
+
+	Importance:
+
+True statement: 	Ed commented that they had a product but that cost was
+going to be a potential problem
+False statement: 	Ed commented that they had a product and that cost was
+not going to be a problem
+
+
+originalTrue: /Ed commented that we have a product here but that a
+potential problem was going to be cost/
+originalFalse: /Ed commented that we have a product here and that cost
+was no problem and not a consideration/
+Author 	Comment 	Add Note
+APB:  	D - The false one looks easy to guess. Also, "we have a product
+here" should appear as a quotation, or 'we' should be changed into
+'they'. 	Edit Note 	Delete Note
+APB-CO:  	Ed commented that they had a product but that cost was going
+to be a potential problem / Ed commented that they had a product and
+that cost was not going to be a problem 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#483 Group: marketingFindings Status: A Median adjusted importance: 0
+
+Time: 0:16:49, Scope: Around
+
+	Importance:
+
+True statement: 	Market research suggests the remote has to be new and
+different.
+False statement: 	Market research suggests the remote has to be
+comfortable and familiar.
+
+
+originalTrue: /the new remote has to be something new and different/
+originalFalse: /the new remote has to be like other remotes that people
+are familiar with/Add Note
+------------------------------------------------------------------------
+#424 Group: nokia Status: A Median adjusted importance: 0
+
+Time: 0:19:34, Scope: Around
+
+	Importance:
+
+True statement: 	Faceplates for Nokia phones proved that customisation
+was a good idea for the remotes
+False statement: 	Changeable faceplates were a good feature for the remotes
+
+Add Note
+------------------------------------------------------------------------
+#476 Group: woodenButtons Status: A Median adjusted importance: 0
+
+Time: 0:23:33, Scope: Here
+
+	Importance:
+
+True statement: 	The group decides the case will be made of wood and the
+buttons of rubber
+False statement: 	The group decides the case and the buttons will both
+be made of wood
+
+
+originalTrue: /the group decides the case will be made of wood and the
+buttons of rubber/
+originalFalse: /the group decides the case and the buttons will both be
+made of wood/
+Author 	Comment 	Add Note
+APB-SP:  	The group (2 obs) 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#494 Group: chipOnPrint Status: A Median adjusted importance: -1
+
+Time: 0:07:32, Scope: Around
+
+	Importance:
+
+True statement: 	Christine is asked to find out more about the type of
+processor for the next meeting
+False statement: 	Ed is asked to find out more about the best type of
+processor for the next meeting
+
+
+originalTrue: /Christine is asked to find our more about the type of
+processor for the next meeting/
+originalFalse: /Sridhar asks Ed to research the best type of processor
+for the next meeting/
+Author 	Comment 	Add Note
+APB-CO:  	False stmt: Ed is asked to find out more about the best type
+of processor for the next meeting 	Edit Note 	Delete Note
+APB-SP:  	to find OUT more 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+
+There are *5* observations of group size 4.
+
+
+    Group Size: *3*
+
+#433 Group: agenda Status: A Median adjusted importance: 1
+
+Time: 0:00:52, Scope: Here
+
+	Importance:
+
+True statement: 	Sridhar informs participants of the purpose of the meeting
+False statement: 	Sridhar did not bother to tell the participant the
+purpose of the meeting
+
+Add Note
+------------------------------------------------------------------------
+#391 Group: time Status: A Median adjusted importance: 1
+
+Time: 0:01:30, Scope: Here
+
+	Importance:
+
+True statement: 	Meeting was allowed 40 minutes
+False statement: 	Meeting had as much time as needed
+
+
+originalTrue: /Meeting allowed 40 minutes/
+Author 	Comment 	Add Note
+APB-GR:  	Meeting was allowed 40 minutes 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#400 Group: advancedChip Status: A Median adjusted importance: 0
+
+Time: 0:05:32, Scope: Here
+
+	Importance:
+
+True statement: 	Christine preferred the advanced chip and eliminated
+the other options
+False statement: 	Christine hesitated between a regular chip and the
+advanced chip.
+
+
+originalTrue: /Christine very enthusiastic about advanced chip - others
+eliminated on very superficial considerations/
+originalFalse: /Christine wavered between a regular chip and the
+advanced chip./
+Author 	Comment 	Add Note
+Agnes:  	These two statements aren't mutually exclusive enough. 	Edit
+Note 	Delete Note
+APB-CO:  	Christine preferred the advanced chip and eliminated the other
+options / Christine hesitated between the advanced chip and the
+regular one 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#339 Group: ergonomics Status: A Median adjusted importance: 0
+
+Time: 0:11:29, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes and Christine agree that customising could
+include physical size and hand shape
+False statement: 	Agnes and Ed agree that customising could not include
+physical size and hand shape
+
+
+originalTrue: /Agnes and Chrstine agree that customising could include
+physical size and hand shape/
+Author 	Comment 	Add Note
+APB-SP:  	Christine 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#422 Group: flipscreen Status: A Median adjusted importance: 0
+
+Time: 0:17:51, Scope: Around
+
+	Importance:
+
+True statement: 	A display on the remote could be used for help and
+instructions
+False statement: 	A display on the remote could be used to display
+status of satellite antenna.
+
+
+originalFalse: /A display on the remote could be used to view another TV
+channel./
+Author 	Comment 	Add Note
+Agnes:  	I'm tempted to reject this for reason D: it's too guessable
+that the false is false 	Edit Note 	Delete Note
+APB-CO:  	what about this: "could be used to display status of satellite
+antenna" 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#353 Group: speech Status: A Median adjusted importance: 0
+
+Time: 0:02:47, Scope: Around
+
+	Importance:
+
+True statement: 	One of the features under consideration is speech
+recognition.
+False statement: 	One of the features under consideration is fingerprint
+identification.
+
+Add Note
+------------------------------------------------------------------------
+#343 Group: moulds Status: A Median adjusted importance: 0
+
+Time: 0:18:48, Scope: Around
+
+	Importance:
+
+True statement: 	Christine and Agnes discuss sending all customers a
+foam former to take hand shape impressions for customising their remote
+False statement: 	Christine and Agnes discuss sending all customers wood
+samples to let them choose the finish of their remote
+
+Add Note
+------------------------------------------------------------------------
+#427 Group: chipPrintConcl Status: A Median adjusted importance: 0
+
+Time: 0:23:20, Scope: Around
+
+	Importance:
+
+True statement: 	Final decision included advanced chip
+False statement: 	Final decision included proven standard chip
+
+
+originalTrue: /Final decision included on print advanced chip and wooden
+case/
+originalFalse: /Final decision included on proven standard chip and
+wooden case/
+Author 	Comment 	Add Note
+APB:  	I don't understand "on proven" 	Edit Note 	Delete Note
+Agnes:  	Reject for reason C 	Edit Note 	Delete Note
+APB-BR:  	Final decision included advanced chip / Final decision
+included standard chip 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#450 Group: drawing Status: A Median adjusted importance: 0
+
+Time: 0:13:05, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes drew a diagram outlining her design for the new
+remote control, and she stated they ought to keep simple without too
+many functionalities
+False statement: 	Agnes drew a diagram outlining her design for the new
+remote control, and she demonstrated that it should have lots of
+functionalities
+
+
+originalTrue: /Agnes drew a diagram outlining her design which she
+stated they out to keep it simple without too many fuctionalities thrown
+in/
+originalFalse: /Agnes drew a diagram outlining her design for the new
+remote control which she demonstrated should have lots of fuctionalities
+thrown in/
+Author 	Comment 	Add Note
+APB:  	out -> ought , fuctionalities -> functionalities (x2) 	Edit
+Note 	Delete Note
+APB-GR:  	True: Agnes drew a diagram outlining her design for the new
+remote control, and she stated they ought to keep simple without too
+many functionalities 	Edit Note 	Delete Note
+APB-GR:  	False: Agnes drew a diagram outlining her design for the new
+remote control, and she demonstrated that it should have lots of
+functionalities 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#409 Group: woodInnovative Status: A Median adjusted importance: -1
+
+Time: 0:08:43, Scope: Around
+
+	Importance:
+
+True statement: 	Ed in marketing sees clear advantage of wood as a novel
+case material
+False statement: 	Ed in marketing thought bright plastic would give a
+better case even though wood was a novel material
+
+
+originalFalse: /Ed in marketing though bright plastic would give a
+better case even though wood was a novel material/
+Author 	Comment 	Add Note
+APB-SP:  	though -> thought 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+
+There are *10* observations of group size 3.
+
+
+    Group Size: *2*
+
+#358 Group: rubber Status: A Median adjusted importance: 1
+
+Time: 0:04:10, Scope: Around
+
+	Importance:
+
+True statement: 	Rubber is considered, but quickly dismissed as a
+construction material for the case
+False statement: 	Rubber is selected as a construction material for the
+case.
+
+Add Note
+------------------------------------------------------------------------
+#349 Group: summary Status: A Median adjusted importance: 1
+
+Time: 0:23:50, Scope: Around
+
+	Importance:
+
+True statement: 	Sridhar summarises the conclusions - simple design
+until a price to include a display is known - and requests a prototype
+be constructed
+False statement: 	Ed summarises the conclusions - simple design until a
+price to include a display is known - and requests a prototype be
+constructed
+
+
+originalTrue: /Sridhar summaries the conclusions - simple design until a
+price to include a display is known - and requests a prototype be
+constructed/
+originalFalse: /Ed summaries the conclusions - simple design until a
+price to include a display is known - and requests a prototype be
+constructed/
+Author 	Comment 	Add Note
+APB:  	Might be easy to guess if Sridhar's role is understood. 	Edit
+Note 	Delete Note
+APB-SP:  	summaries -> summarises 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#398 Group: titanium Status: A Median adjusted importance: 0
+
+Time: 0:04:40, Scope: Here
+
+	Importance:
+
+True statement: 	A titanium case for the remote was eliminated as it is
+difficult to manufacture
+False statement: 	A titanium case for the remote was selected as it is
+simple to manufacture
+
+
+originalTrue: /A titanium case for the remote was eleminated as
+impopssible to manufacture./
+originalFalse: /A titanium case for the remote would match Apple
+powerbook appearence/
+Author 	Comment 	Add Note
+APB:  	eliminated, appearance, impossible (spelling) 	Edit Note 	Delete Note
+Agnes:  	True/false not compatible enough. 	Edit Note 	Delete Note
+APB-SP, APB-CO:  	A titanium case for the remote was eliminated as it is
+difficult to manufacture / A titanium case for the remote was selected
+as it is simple to manufacture 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#415 Group: toggle Status: A Median adjusted importance: 0
+
+Time: 0:12:58, Scope: Around
+
+	Importance:
+
+True statement: 	Remote used 4-way toggle switch as the main user input
+for channels.
+False statement: 	There was a 4-way toggle switch for surround sound and
+buttons for channels
+
+Add Note
+------------------------------------------------------------------------
+#482 Group: simpleDesign Status: A Median adjusted importance: 0
+
+Time: 0:14:10, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes has come up with an interface design that has
+simplicity and ease of use as it's main object
+False statement: 	Agnes has come up with a case design that has
+simplicity and ease of use as it's main object
+
+Author 	Comment 	Add Note
+APB:  	This is ambiguous, T and F could both be true since the interface
+design includes the case design. Plus: it's -> its 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#397 Group: plastic Status: A Median adjusted importance: 0
+
+Time: 0:04:27, Scope: Here
+
+	Importance:
+
+True statement: 	Christine eliminated plastic as too brittle over time.
+False statement: 	Christine eliminated plastic as it would flex and
+damage the chips
+
+
+originalFalse: /Christine thought that plastic would flex and damage the
+chips/
+Author 	Comment 	Add Note
+AL-CO:  	Christine eliminated plastic as it would flex and damage the
+chips 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#363 Group: exoticWood Status: A Median adjusted importance: 0
+
+Time: 0:06:07, Scope: Around
+
+	Importance:
+
+True statement: 	Preference is expressed for the use of exotic wood as
+construction material.
+False statement: 	The use of exotic wood is criticised due to the impact
+on the environment.
+
+
+originalFalse: /The use of exotic wood is critisized due to the impact
+on the environment./
+Author 	Comment 	Add Note
+APB-SP:  	critisized -> criticised 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#374 Group: buttonPositions Status: A Median adjusted importance: 0
+
+Time: 0:14:43, Scope: Here
+
+	Importance:
+
+True statement: 	The positioning of the buttons in relation to fingers
+was one of the considerations in the interface design.
+False statement: 	The positioning of the buttons in relation to fingers
+was not one of the considerations in the interface design.
+
+
+originalTrue: /One of the considerations in the interface design is the
+positioning of buttons in relation to fingers./
+originalFalse: /One of the considerations in the interface design is the
+positioning of the audio/video button in relation to fingers./
+Author 	Comment 	Add Note
+Agnes:  	Not mutually exclusive enough...audio/video button is a subst
+of 'button' 	Edit Note 	Delete Note
+APB-CO:  	The positioning of the buttons in relation to fingers WAS /
+WAS NOT one of the considerations in the interface design. 	Edit Note
+Delete Note
+
+------------------------------------------------------------------------
+#480 Group: marketingStrategy Status: A Median adjusted importance: 0
+
+Time: 0:25:00, Scope: Around
+
+	Importance:
+
+True statement: 	ed's job before next meeting is to find the price of
+displays and work on a marketing strategy
+False statement: 	christine's job before next meeting is to find the
+price of displays and work on a marketing strategy
+
+Author 	Comment 	Add Note
+APB:  	D - False stmt easy to guess if people know Ed is the marketing
+person 	Edit Note 	Delete Note
+PDW:  	but people need browser to know this 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#481 Group: meetingRoundup Status: A Median adjusted importance: 0
+
+Time: 0:25:13, Scope: Around
+
+	Importance:
+
+True statement: 	sridhar rounds up the meeting and decides what the
+other three need to do before the next meeting
+False statement: 	ed rounds up the meeting and decides what the other
+three need to do before the next meeting
+
+Author 	Comment 	Add Note
+APB:  	D - False stmt easy to guess is we know that Ed is not the
+manager 	Edit Note 	Delete Note
+PDW:  	but people need browser to know this 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#436 Group: powerpoint Status: A Median adjusted importance: 0
+
+Time: 0:02:13, Scope: Here
+
+	Importance:
+
+True statement: 	Christine informs the participants that she will be
+outlining to them the components design and starts her PowerPoint
+presentation
+False statement: 	Christine informs the participants that she has not
+yet come up with components design and therefore has not prepared a
+presentation
+
+
+originalTrue: /Christine informs the participants that she will be
+outlining to them the components design and switches the powerpoint
+presentation to a slide show/
+originalFalse: /Christine informs the participants that she has not yet
+come up with components design and switches and has not prepared a
+presentation/
+Author 	Comment 	Add Note
+APB-GR, APB-CO:  	True: Christine informs the participants that she will
+be outlining to them the components design and starts her Powerpoint
+presentation 	Edit Note 	Delete Note
+PB,GR, APB-CO:  	Christine informs the participants that she has not yet
+come up with components design and therefore has not prepared a
+Powerpoint presentation 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#394 Group: microphone Status: A Median adjusted importance: 0
+
+Time: 0:03:08, Scope: Around
+
+	Importance:
+
+True statement: 	Christine talks about a microphone in remote
+False statement: 	Christine thought that speech recogition was not useful
+
+
+originalTrue: /Christine talks at length about microphone in remote/
+Author 	Comment 	Add Note
+APB:  	B? - True stmt may not be true (depends on one's estimate of "at
+length" - for me she just mentions the microphone). 	Edit Note 	Delete Note
+PDW:  	Since we now allow edits, removing "at length" so we can keep
+it 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#421 Group: payMore Status: A Median adjusted importance: 0
+
+Time: 0:17:05, Scope: Around
+
+	Importance:
+
+True statement: 	Marketing found that consumers want easy-to-use and
+will pay price for exciting stuff.
+False statement: 	Marketing foune that consumers focussed on value for
+money in TV remotes.
+
+Add Note
+------------------------------------------------------------------------
+#354 Group: beep Status: A Median adjusted importance: -1
+
+Time: 0:03:07, Scope: Here
+
+	Importance:
+
+True statement: 	The product should make sounds, to allow it to be
+located in the event of being misplaced.
+False statement: 	The product should flash brightly, to allow it to be
+located in the event of being misplaced.
+
+
+originalTrue: /The ability of the product to make sounds, to allow it to
+be located in the event of being misplaced, is important./
+originalFalse: /The ability of the product to flash brightly, to allow
+it to be located in the event of being misplaced, is important./Add Note
+------------------------------------------------------------------------
+
+There are *14* observations of group size 2.
+
+
+    Group Size: *1*
+
+#404 Group: sensorSpecifications Status: A Median adjusted importance: 2
+
+Time: 0:06:41, Scope: Here
+
+	Importance:
+
+True statement: 	Sensors and a speaker were part of the advanced chip's
+tech specifications
+False statement: 	Solar cells were part of the advanced chip's tech
+specifications
+
+Add Note
+------------------------------------------------------------------------
+#431 Group: clothes Status: A Median adjusted importance: 1
+
+Time: 0:00:00, Scope: Throughout
+
+	Importance:
+
+True statement: 	Christine, Agnes, Ed are casual dress, Sridhar in suit
+and tie
+False statement: 	Christine wore a skirt while Agnes and Ed are in
+casual dress. Sridhar was in suit and tie
+
+Author 	Comment 	Add Note
+APB:  	B !! - how do we tell that Christine was not wearing a skirt?!
+Edit Note 	Delete Note
+PDW:  	Can see when she walks in (one of the few obs where video
+required) 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#485 Group: woodAgree Status: A Median adjusted importance: 1
+
+Time: 0:05:24, Scope: Throughout
+
+	Importance:
+
+True statement: 	the group agreed that wood would be used as the casing
+material
+False statement: 	the group agreed that plasticised rubber would be used
+as the casing material
+
+Author 	Comment 	Add Note
+APB:  	This is almost the same as #361 	Edit Note 	Delete Note
+PDW:  	yes, though group decision could be considered different from
+manufacturing constraint 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#447 Group: problemsRecom Status: A Median adjusted importance: 1
+
+Time: 0:06:25, Scope: Here
+
+	Importance:
+
+True statement: 	Christine asked the participants if anyone had any
+problems with her recommendations
+False statement: 	Christine stated that she did not care if anyone had
+any problems with her recommendations, they wer going with them anyway
+
+Author 	Comment 	Add Note
+APB:  	D - false stmt is guessable 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#366 Group: noPlastic Status: A Median adjusted importance: 1
+
+Time: 0:07:43, Scope: Here
+
+	Importance:
+
+True statement: 	Reasons are presented for why plastic was rejected as a
+construction material.
+False statement: 	Reasons are presented for why plastic should be
+included as a construction material.
+
+
+originalFalse: /Reasons are presented for why plastic should be included
+as a construction material for the trim./
+Author 	Comment 	Add Note
+AL-CO:  	delete 'for the trim' in false statement 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#338 Group: EdReadySell Status: A Median adjusted importance: 1
+
+Time: 0:08:37, Scope: Around
+
+	Importance:
+
+True statement: 	Ed is enthused by the idea of personalised remote
+controls and is "ready" to sell it
+False statement: 	Ed is dubious of the idea of personalised remote
+controls and is "uncertain" whether he could sell it
+
+Add Note
+------------------------------------------------------------------------
+#340 Group: cover Status: A Median adjusted importance: 1
+
+Time: 0:11:57, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes suggests a cover for the buttons to prevent
+accidental operation
+False statement: 	Ed suggests a cover for the buttons to prevent
+accidental operation
+
+
+originalTrue: /Agnes' suggestion for a cover for the buttons to prevent
+accidental operation is well received by Christine, who acknowledges it
+with a nod and noise that suggests she's experienced that problem in the
+past/
+originalFalse: /Ed's suggestion for a cover for the buttons to prevent
+accidental operation is well received by Agnes, who acknowledges it with
+a nod and noise that suggests she's experienced that problem in the past/
+Author 	Comment 	Add Note
+APB:  	Almost the entire statements are distractors. The significant
+part is "who suggested a cover with buttons". 	Edit Note 	Delete Note
+APB-BR:  	AGNES / ED suggests a cover for the buttons to prevent
+accidental operation 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#511 Group: displayPriceEd Status: A Median adjusted importance: 1
+
+Time: 0:24:04, Scope: Here
+
+	Importance:
+
+True statement: 	Sridhar expects Ed to find prices on displays
+False statement: 	Sridhar expects Christine to find prices of displays
+
+
+originalFalse: /Sridhar asks Christine to check on the potential prices
+of displays/
+Author 	Comment 	Add Note
+AL-CO:  	false: Sridhar expects Christine to find prices on displays
+Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#513 Group: nextDate Status: A Median adjusted importance: 1
+
+Time: 0:25:10, Scope: Here
+
+	Importance:
+
+True statement: 	Nobody mentions a date for the next meeting
+False statement: 	The date of the next meeting is discussed and agreed
+
+
+originalTrue: /Nobody agrees a further date for the next meeting/
+Author 	Comment 	Add Note
+APB-GR:  	True: Nobody mentions a date for the next meeting 	Edit Note
+Delete Note
+
+------------------------------------------------------------------------
+#440 Group: materials Status: A Median adjusted importance: 0
+
+Time: 0:03:25, Scope: Here
+
+	Importance:
+
+True statement: 	Christine evaluated new materials with the assistance
+of the manufacturing department
+False statement: 	Christine stated that new materials had not yet been
+evaluated
+
+
+originalTrue: /Christine evaluated new materials with the assistance of
+manufacturing departments input to ensure they had the relevant
+technologies and capabilities/
+Author 	Comment 	Add Note
+APB-BR, APB-CO, APB-GR:  	True: Christine evaluated new materials with
+the assistance of the manufacturing department 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#439 Group: historicalRecords Status: A Median adjusted importance: 0
+
+Time: 0:03:25, Scope: Here
+
+	Importance:
+
+True statement: 	Christine informs participants that they have looked at
+historical records - what worked and what didn't
+False statement: 	Christine informs the participants that there were no
+historical records regarding what worked and what didn't available
+
+Add Note
+------------------------------------------------------------------------
+#445 Group: sensorSpeaker Status: A Median adjusted importance: 0
+
+Time: 0:05:57, Scope: Here
+
+	Importance:
+
+True statement: 	Christine informed participants that manufacturing had
+recently developed a sensor and speaker that could be integrated into
+the advanced chip
+False statement: 	Christine informed participants that manufacturing had
+not yet developed a sensor and speaker that could be integrated into the
+advanced chip
+
+Add Note
+------------------------------------------------------------------------
+#372 Group: batteryDatacable Status: A Median adjusted importance: 0
+
+Time: 0:12:03, Scope: Here
+
+	Importance:
+
+True statement: 	The inclusion of battery life light is suggested in the
+interface design.
+False statement: 	The inclusion of a data link cable is suggested in the
+interface design.
+
+Add Note
+------------------------------------------------------------------------
+#419 Group: questionares Status: A Median adjusted importance: 0
+
+Time: 0:16:06, Scope: Around
+
+	Importance:
+
+True statement: 	Marketing has used questionnaires to investigate
+consumer preferences
+False statement: 	Marketing has used focus groups to investigate
+consumer preferences
+
+Add Note
+------------------------------------------------------------------------
+#449 Group: AgnesIntoAcct Status: A Median adjusted importance: -1
+
+Time: 0:11:11, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes demonstrated that she has taken the ideas that
+had been previously discussed and put them into the design of the remote
+control
+False statement: 	Agnes stated that all of the ideas for the design of
+the remote control were completely new and her own
+
+Add Note
+------------------------------------------------------------------------
+#341 Group: plannedFeatures Status: A Median adjusted importance: -1
+
+Time: 0:13:25, Scope: Around
+
+	Importance:
+
+True statement: 	As Agnes explains the planned features, Christine
+appears inerested while the other participants appear to be simply being
+polite and sitting through the presentation
+False statement: 	As Christine explains the planned features, Ed appears
+inerested while the other participants appear to be simply being polite
+and sitting through the presentation
+
+Author 	Comment 	Add Note
+Gerwin:  	Depends on video 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#487 Group: presentationEd Status: A Median adjusted importance: -1
+
+Time: 0:15:28, Scope: Around
+
+	Importance:
+
+True statement: 	Ed doesn't give sridhar a chance to get the
+presentation up on screen before he starts his talk
+False statement: 	Ed waits for sridhar to get the presentation up on
+screen before he starts his talk
+
+
+originalTrue: /ed doesn't give sridhar a chance to get the presentation
+up on screen before he starts his talk/
+originalFalse: /ed waits for sridhar to get the presentation up on
+screen before he starts his talk/
+Author 	Comment 	Add Note
+APB-SP:  	Put capitals on names 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#456 Group: marketingSummary Status: A Median adjusted importance: -1
+
+Time: 0:19:42, Scope: Here
+
+	Importance:
+
+True statement: 	Ed summed up by saying that with the findings and the
+research that they needed to come up with something totally new that was
+not on the market.
+False statement: 	Ed summed up by saying that with the findings and the
+research that they had deduced that the consumer wants the same old
+product and design
+
+Add Note
+------------------------------------------------------------------------
+#459 Group: submitManagement Status: A Median adjusted importance: -1
+
+Time: 0:24:30, Scope: Around
+
+	Importance:
+
+True statement: 	Sridhar informed the participant that once they had
+come up with a prototype design he would submit it to management
+False statement: 	Sridhar informed the participant that once they had
+come up with a prototype design he would go ahead and manufacture it
+
+Add Note
+------------------------------------------------------------------------
+#331 Group: notesInfrared Status: A Median adjusted importance: -2
+
+Time: 0:05:46, Scope: Around
+
+	Importance:
+
+True statement: 	Mention of Infra-red sender prompts Agnes to start
+making significant notes for first time - before this point no-one has
+noted more than one or two words
+False statement: 	Mention of Infra-red sender prompts Sridhar to start
+making significant notes for first time - before this point no-one has
+noted more than one or two words
+
+Author 	Comment 	Add Note
+Gerwin:  	Completely depends on video 	Edit Note 	Delete Note
+APB:  	Or on the timed notes taken using electronic paper. 	Edit Note
+Delete Note
+
+------------------------------------------------------------------------
+#499 Group: dominatingSpeaker Status: A Median adjusted importance: -2
+
+Time: 0:17:08, Scope: Throughout
+
+	Importance:
+
+True statement: 	Sridhar did not contribute very much to the meeting
+False statement: 	Sridhar dominated the meeting
+
+
+originalTrue: /Sridhar does not make very much contribution to the meeting/
+Author 	Comment 	Add Note
+AL-GR:  	Sridhar does not contribute very much to the meeting 	Edit
+Note 	Delete Note
+
+------------------------------------------------------------------------
+#460 Group: thanks Status: A Median adjusted importance: -2
+
+Time: 0:25:10, Scope: Here
+
+	Importance:
+
+True statement: 	Sridhar thanked the participants for their efforts and
+attending the meeting.
+False statement: 	Sridhar concluded the meeting without a word of
+recognition or appreciation.
+
+
+originalFalse: /Sridhar concluded the meeting without a word of
+recognition, appreciation or thanks etc/
+Author 	Comment 	Add Note
+APB-GR:  	False: Sridhar concluded the meeting without a word of
+recognition or appreciation. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#465 Group: strangeReference Status: A Median adjusted importance: -3
+
+Time: 0:06:10, Scope: Here
+
+	Importance:
+
+True statement: 	Christine makes a slightly strange reference to where
+"all you guys" come from
+False statement: 	Srihdar makes a slightly strange reference to where
+"all you guys" come from
+
+
+originalTrue: /christine makes a slightly strange reference to where
+"all you guys" come from/
+originalFalse: /srihdar makes a slightly strange reference to where "all
+you guys" come from/
+Author 	Comment 	Add Note
+AL-SP:  	capital letters on the names 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+
+There are *23* observations of group size 1.
+

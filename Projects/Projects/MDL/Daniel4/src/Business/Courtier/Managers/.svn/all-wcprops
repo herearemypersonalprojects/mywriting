@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mdl3/!svn/ver/141/Daniel4/src/Business/Courtier/Managers
+END
+EventsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/EventsManager.java
+END
+ComptesTitresManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/ComptesTitresManager.java
+END
+InformationBoursiereManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mdl3/!svn/ver/141/Daniel4/src/Business/Courtier/Managers/InformationBoursiereManager.java
+END
+PoliticsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mdl3/!svn/ver/132/Daniel4/src/Business/Courtier/Managers/PoliticsManager.java
+END
+ComptesLiquiditesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/ComptesLiquiditesManager.java
+END
+JournalManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mdl3/!svn/ver/132/Daniel4/src/Business/Courtier/Managers/JournalManager.java
+END
+TitresManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/TitresManager.java
+END
+CourtierManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mdl3/!svn/ver/132/Daniel4/src/Business/Courtier/Managers/CourtierManager.java
+END
+LiquiditesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/LiquiditesManager.java
+END
+OrdersManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mdl3/!svn/ver/123/Daniel4/src/Business/Courtier/Managers/OrdersManager.java
+END
+UsersManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mdl3/!svn/ver/132/Daniel4/src/Business/Courtier/Managers/UsersManager.java
+END
+ParticulierManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mdl3/!svn/ver/132/Daniel4/src/Business/Courtier/Managers/ParticulierManager.java
+END

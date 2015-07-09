@@ -1,0 +1,1136 @@
+1
+Here
+Denis was interested in whether participants have received an agenda for the meeting
+Agnes was interested in whether participants have received an agenda for the meeting
+8
+21
+denis  8 do 9 not 10 know 11 if 12 you 13 all 14 received 18 agenda 21 meeting 
+---------------------------
+2
+Around
+Mirek had not received the agenda for the meeting
+Andrei had not received the agenda for the meeting
+25
+28 
+mirek  25 no 27 have 28 not
+---------------------------
+3
+Here
+They have already seen Lawrence of Arabia, Apocolypse Now and Amadeus
+They have already considered Lawrence of Arabia but decided it was too violent
+79
+97
+denis  79 you 80 probably 81 remember 83 movie 84 already 85 projected 88 lawrence 90 arabia 92 apocalypse 93 now 95 february 97 amadeus 
+---------------------------
+4
+Around
+They are going to choose a movie from the 90's
+Andrei does not want to choose a movie from the 90's
+112
+119
+denis  112 going 114 select 116 movie 117 from 119 nineties 
+---------------------------
+5
+Around
+Denis informed the team that the first objective was to choose a film and the second was to discuss an advertising poster
+Denis informed the team that the first objective was to choose a film and the second was to discuss a date for the film to be shown
+126
+146
+denis  126 first 127 goal 128 decide 131 movie 134 projected 
+denis  136 second 137 goal 141 discuss 144 ad 145 advertising 146 poster 
+---------------------------
+6
+Here
+Denis asks whether the participants have prepared documents for their proposed movie selections.
+Denis asks whether the participants have prepared film clips for their proposed movie selections.
+176
+186
+denis  176 guess 177 you 178 all 179 prepared 180 some 181 docents 184 selection 186 movie 
+---------------------------
+7
+Around
+Andrei interested in knowing what participants have to present
+Andrei interested in knowing whether particpants found it difficult to come up with a movie list
+193
+195
+andrei 193 who 194 has 195 what
+---------------------------
+8
+Around
+Andrei and Denis agree on where to start
+Andrei and Denis disagree on what to do first
+271
+281
+andrei  271 should 273 start 276 two 277 presentations 278 maybe 
+denis  279 presentation 280 yes 
+andrei  281 yes
+---------------------------
+9
+Around
+Agnes and Mirek had PowerPoint presentations and Denis and Andrei used paper notes
+Denis and Mirek had PowerPoint presentations and Agnes and Andrei used paper notes
+199
+262
+agnes  199 have 200 got 202 powerpoint 203 presentation 
+denis  204 ok 
+andrei  205 uhhuh 
+andrei  206 what 207 do 208 you 209 have 210 mirek 
+mirek  211 ok 213 have 215 powerpoint 216 presentation 
+mirek  
+mirek  221 there 223 some 224 reviews 230 think 231 like 232 seven 233 movies 
+andrei  234 uhhuh 
+andrei  237 have 241 just 244 piece 246 paper 248 some 249 suggestions 
+andrei  250 what 252 you 253 denis 
+denis  254 yes 256 have 257 also 260 piece 262 paper
+---------------------------
+10
+Here
+Agnes is selected for the first presentation of movie selection.
+Denis is selected for the first presentation of movie selection.
+284
+290
+denis  284 agnes 286 can 287 start 289 you 
+agnes  290 sure
+---------------------------
+11
+Here
+Agnes begins by giving the group her presentations.
+Agnes begins by giving the group her posters.
+284
+307
+denis  284 agnes 286 can 287 start 289 you 
+agnes  290 sure 
+agnes  292 not 294 long 296 any 297 case 
+denis  298 ok 299 here 
+agnes  302 yes 
+denis  304 pass 306 one 
+agnes  307 yes 
+---------------------------
+12
+Here
+Agnes states that her choice was influenced by the theme of mystery
+Agnes states that her choice was influenced by the theme of war
+352
+382
+agnes  352 month 355 thinking 357 selecting 358 something 360 more 363 present 364 time 365 still 366 dramatic 367 but 368 slightly 369 less 370 serious 
+agnes  372 what 374 would 375 propose 377 something 380 thriller 382 mystery 
+---------------------------
+13
+Here
+Agnes has chosen more recent movies than shown previously
+Agnes has chosen films made in the 80's
+352
+364
+agnes  352 month 355 thinking 357 selecting 358 something 360 more 363 present 364 time 
+---------------------------
+14
+Here
+Agnes proposes The Usual Suspects and The Sixth Sense as her movie selections.
+Agnes proposes American Beauty and Pulp Fiction as her movie selections.
+522
+527
+agnes  522 usual 523 suspects 526 sixth 527 sense 
+---------------------------
+15
+Around
+Agnes gives a resume of two movies, Usual Suspects and The Sixth Sense
+Agnes gives a resume of two movies, Usual Suspects and Schindler's List
+522
+552
+agnes  522 usual 523 suspects 526 sixth 527 sense 
+agnes  529 do 530 not 531 know 532 if 533 you 534 have 535 seen 536 any 538 them 
+agnes  541 usual 542 suspects 544 directed 546 bryan 547 singer 549 written 551 christopher 552 mcquarrie
+---------------------------
+16
+Here
+Agnes asks who has seen the movie (The Usual Suspects).
+Mirek asks who has seen the movie (The Usual Suspects).
+703
+708
+agnes  703 have 704 you 705 guys 706 seen 708 movie 
+---------------------------
+17
+Here
+Denis and Agnes have seen the Usual Suspects but Mirek and Andrei have not
+Denis and Mirek have seen the Usual Suspects but Agnes and Andrei have not
+703
+722
+agnes  703 have 704 you 705 guys 706 seen 708 movie 
+andrei  709 no 711 have 712 not 713 seen 
+mirek  715 no 717 have 718 not 
+denis  721 bald 722 guy
+---------------------------
+18
+Here
+Denis admits seeing the Usual Suspects twice but not remembering the plot
+Andrei admits seeing the Usual Suspects twice but not remembering the plot
+689
+697
+denis  689 do 690 not 691 remember 693 have 694 seen 696 movie 697 twice
+---------------------------
+19
+Here
+Usual suspects and the sixth sense are suggested as possibilities, each have been summaried by Agnes
+Usual suspects and the sixth sense are suggested as possibilities, each have been summaried by Mirek
+522
+527
+agnes  522 usual 523 suspects 526 sixth 527 sense 
+---------------------------
+20
+Here
+Agnes has chosen more commercial films
+Agnes has chosen films suitable for children
+833
+852
+denis  833 yes 836 bit 837 more 838 commercial 840 one 842 first 843 one 
+agnes  844 yes 
+agnes  845 yes 847 sixth 848 sense 851 commercial 852 but
+---------------------------
+21
+Here
+The Sixth Sense is identified as more commerical than The Usual Suspects
+The Usual Suspects is identified as more commerical than The Sixth Sense
+833
+852
+denis  833 yes 836 bit 837 more 838 commercial 840 one 842 first 843 one 
+agnes  844 yes 
+agnes  845 yes 847 sixth 848 sense 851 commercial 852 but
+---------------------------
+22
+Around
+Andrei asks for clarification of the 2nd image displayed on the presentation slide.
+Andrei asks for clarification of the text displayed on the presentation slide.
+856
+866
+andrei  856 what 857 what 862 second 863 image 866 slide
+---------------------------
+23
+Here
+Andrei is discussing how the powerpoint presentation is constructed and not focusing on the information it portrays
+Mirekis discussing how the powerpoint presentation is constructed and not focusing on the information it portrays
+891
+899
+andrei  891 has 895 has 897 strange 898 format 899 horizontal 
+---------------------------
+24
+Here
+Agnes reported that Sixth Sense acheived a score of 8.7/10 on the internet database
+Agnes reported that Sixth Sense acheived a score of 8.7/20 on the internet database
+1035
+1047
+agnes  1035 got 1037 eight 1038 point 1039 seven 1042 ten 1045 internet 1046 movie 1047 database
+---------------------------
+25
+Here
+Agnes points out that The Usual Suspects got 8.7 in the Internet Movie Database, it was 16th in the top 250 movies and 4th in the movies of the 90s as well as being nominated for the Academy Awards
+Andrei points out that The Usual Suspects got 8.7 in the Internet Movie Database, it was 16th in the top 250 movies and 4th in the movies of the 90s as well as winning Academy Awards
+1035
+1075
+agnes  1035 got 1037 eight 1038 point 1039 seven 1042 ten 1045 internet 1046 movie 1047 database 
+agnes  1050 sixteenth 1053 top 1055 two 1056 hundred 1058 fifty 1059 movies 1061 fourth 1064 top 1065 movies 1068 nineties 
+agnes  1070 won 1072 couple 1074 academy 1075 awards
+---------------------------
+26
+Here
+Denis disputes Agnes' information regarding the placing of the film in the Top Films Of The 90's
+Mirek disputes Agnes' information regarding the placing of the film in the Top Films Of The 90's
+1095
+1117
+denis  1095 have 1097 top 1098 ten 1099 from 1101 nineties 
+denis  1102 no 1104 top 1105 fifty 
+denis  1108 fourth 
+agnes  1109 yes 1110 fourth 1113 top 1114 movies 1117 nineties
+---------------------------
+27
+Here
+Denis was confused about the rating of the movie and it was explained that the rating was 4th in the 90s
+Denis was confused about the rating of the movie and it was explained that the rating was 10th in the 90s
+1109
+1123
+agnes  1109 yes 1110 fourth 1113 top 1114 movies 1117 nineties 
+denis  1118 oh 1119 sorry 1120 sorry 1121 yes 1122 yes 1123 yes
+---------------------------
+28
+Here
+Usual Suspects won a lot of awards.
+The Sixth Sense won a lot of awards.
+1155
+1158
+agnes  1155 won 1156 lots 1158 awards
+---------------------------
+29
+Around
+Agnes was reading her ratings from a list of the top 250 movies of all time which the other members were unaware of
+Agnes was reading her ratings from a list of the top 1000 movies of all time which the other members were unaware of
+1124
+1136
+agnes  1124 sixteenth 1127 top 1128 two 1129 hundred 1131 fifty 1133 think 1135 all 1136 time
+---------------------------
+30
+Here
+They were unclear about the meaning of the ratings and how they are dervied
+They clearly understood the meaning of the ratings and how they are dervied
+1300
+1320
+andrei  1300 because 1301 there 1304 your 1305 table 1306 you 1307 have 1309 things 1311 have 1313 few 1314 votes 1315 but 1316 still 1318 ranked 1319 quite 1320 high
+---------------------------
+31
+Here
+PG rating explained
+R rating explained
+1581
+1586
+1581 has 1583 easier 1584 rating 1586 pg
+---------------------------
+32
+Around
+Denis points out that both films are similar in the fact that they don't give away the answer right until the end
+Mirek points out that both films are similar in the fact that they don't give away the answer right until the end
+1716
+1735
+denis  1716 both 1717 movies 1719 quite 1720 similar 1722 some 1723 way 1724 because 1726 last 1727 sentence 1730 totally 1731 contradictory 1734 whole 1735 movie
+---------------------------
+33
+Around
+Agnes gave the ratings for the Sixth Sense as 19th in the list of the 90s and 101/250 all time movies with a score of 8.1/10
+Agnes gave the ratings for the Usual Suspect as 19th in the list of the 90s and 101/250 all time movies with a score of 8.1/10
+1593
+1624
+agnes  1593 got 1595 eight 1596 point 1597 one 1600 ten 1603 hundred 1605 first 1608 top 1609 two 1610 hundred 1612 fifty 1615 nineteenth 1617 your 1618 list 1620 think 1621 if 1623 not 1624 mistaken
+---------------------------
+34
+Here
+Andrei asks whether the awards listed on Agnes' slides are the best awards received by the films, which Agnes confirms.
+Mirek asks whether the awards listed on Agnes' slides are the best awards received by the films, which Agnes confirms.
+1833
+1839
+andrei  1833 these 1836 best 1837 awards 1839 had
+---------------------------
+35
+Here
+Mirek asks to display his slides, beginning his presentation.
+Denis asks to display his slides, beginning his presentation.
+1916
+1924
+mirek  1916 ok 1917 now 1918 you 1919 can 1920 go 1923 my 1924 slides
+---------------------------
+36
+Here
+Mirek introduces his 6 or 7 movies
+Mirek introduces his 3 movies
+1926
+1949
+mirek  1926 but 1927 actually 1928 what 1930 pre 1931 what 1933 have 1934 prepared 1936 just 1938 kind 1941 review 1943 fo 1945 se 1946 six 1948 seven 1949 movies
+---------------------------
+37
+Here
+Mirek suggests 7 movies to the group
+Mirek suggests 5 movies to the group
+221
+233
+mirek  221 there 223 some 224 reviews 230 think 231 like 232 seven 233 movies
+---------------------------
+38
+Here
+Mirek states that he has not seen all of the seven films in his selection.
+Mirek states that he has seen all of the seven films in his selection.
+2026
+2035
+mirek  2026 have 2029 did 2030 not 2031 see 2032 all 2034 them 2035 actually
+---------------------------
+39
+Here
+Noone has seen the Shawshank redemption
+Only two have seen the Shawshank redemption
+2202
+2224
+mirek  2202 yes 2203 who 2204 has 2205 seen 2207 movie 
+agnes  2208 no 2210 have 2211 not 
+mirek  2212 because 2213 then 2214 perhaps 2215 someone 2216 can 2217 give 2218 some 2219 some 2220 coent 
+andrei  2221 no 2223 have 2224 not
+---------------------------
+40
+Here
+Mirek asks who has seen Schindlers List.
+Mirek asks who has seen Pulp Fiction.
+2383
+2389
+mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+---------------------------
+41
+Here
+Denis,Agnes and Mirek have all seen Schindler's List, Andrei hasn't
+Andrei has seem Schindler's list but thinks it is too violent to show
+2383
+2417
+mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+agnes  2391 me 
+denis  2392 yes 2394 have 2395 seen 2397 also 
+mirek  2399 saw 2403 think 2409 one 2412 nice 
+andrei  2413 yes 2415 have 2416 not 2417 seen
+---------------------------
+42
+Around
+Mirek announces his second choice, Schindler's List, Only Andrei confesses to never seeing it.
+Mirek announces his second choice, Schindler's List, both Andrei and Agnes confesses to never seeing it.
+2383
+2417
+mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+agnes  2391 me 
+denis  2392 yes 2394 have 2395 seen 2397 also 
+mirek  2399 saw 2403 think 2409 one 2412 nice 
+andrei  2413 yes 2415 have 2416 not 2417 seen
+---------------------------
+43
+Around
+Mireks choice of Schindlers List provoked involvement from the other members and there was an obvious increased enthusiasm
+Mireks choice of The Big Lebowski provoked involvement from the other members and there was an obvious increased enthusiasm
+2537
+2591
+andrei  2537 also 2539 think 2542 good 2543 idea 2546 least 2547 from 2548 my 2549 point 2551 view 2553 coherent 2556 previous 2557 films 
+andrei  2558 like 2559 history 2560 im 2561 major 2562 events 
+denis  2563 yes 2564 yes 2566 right 2567 yes 
+mirek  2569 true 
+andrei  2571 do 2572 not 2573 know 2574 if 2576 want 2578 keep 2580 coherence 2582 change 2583 radically 2584 but 2585 maybe 
+agnes  2588 fairly 2589 emotional 2590 movie 2591 though
+---------------------------
+44
+Here
+They agree that Shindlers List is not representative of the 1990's
+They agree that Shindlers List is representative of the 1990's
+2611
+2618
+denis  2611 but 2612 then 2614 not 2615 representative 2618 nineties 
+---------------------------
+45
+Here
+The group agrees that Schindlers List is similar to previous films they have present at their club and could be presented
+The group agrees that the usual suspects is similar to previous films they have present at their club and could be presented
+2537
+2569
+andrei  2537 also 2539 think 2542 good 2543 idea 2546 least 2547 from 2548 my 2549 point 2551 view 2553 coherent 2556 previous 2557 films 
+andrei  2558 like 2559 history 2560 im 2561 major 2562 events 
+denis  2563 yes 2564 yes 2566 right 2567 yes 
+mirek  2569 true
+---------------------------
+46
+Here
+Mirek recommends that they think about Schindlers list
+Agnes recommends that they drop Schindlers list
+2458
+2487
+mirek  2458 thinking 2459 whether 2460 there 2462 some 2463 good 2464 occasion 2466 something 2467 what 2468 has 2469 happened 2470 recently 
+mirek  2471 there 2473 something 2474 like 2476 celebration 2479 fifty 2480 years 2481 after 2483 war 2485 something 2486 recently 2487 no
+---------------------------
+47
+Here
+Mireks choice of Usual Suspects was also one of Agnes Choices
+Mireks choice of Pulp Fiction was also one of Agnes Choices
+2846
+2856
+denis  2846 fourth 2848 agnes 2852 my 2853 list 2854 but 2856 ok 
+---------------------------
+48
+Here
+Denis first notices a discrepancy with the rating of the usual suspects on Mirek's presentation compared with Agnes
+Andrei first notices a discrepancy with the rating of the usual suspects on Mirek's presentation compared with Agnes
+2846
+2856
+denis  2846 fourth 2848 agnes 2852 my 2853 list 2854 but 2856 ok
+---------------------------
+49
+Here
+Denis's and Mirek's tables are different
+Denis's and Mirek's tables are identicle
+2903
+2930
+andrei  2903 no 2905 have 2907 same 2908 usual 2909 suspects 2911 pulp 2912 fiction 2913 both 2916 eight 2917 point 2918 seven 
+andrei  2919 but 2921 denis 2922 table 2925 one 2928 eight 2929 point 2930 six
+---------------------------
+50
+Around
+Agens interested in keeping track of who has seen what film
+Agnes asks Andrei to keep track of who has seen what film
+3053
+3064
+agnes  3053 just 3054 trying 3056 keep 3057 track 3060 many 3062 us 3063 have 3064 seen
+---------------------------
+51
+Here
+Agnes briefly interjects to ask who has seen Schindlers List - Denis, Mirek and herself have
+Agnes briefly interjects to ask who has seen Schindlers List - only Mirek and herself have
+3053
+3075
+agnes  3053 just 3054 trying 3056 keep 3057 track 3060 many 3062 us 3063 have 3064 seen 
+mirek  3066 schindler 3067 list 
+denis  3068 yes 
+agnes  3069 you 3070 have 
+mirek  3072 saw 3075 saw
+---------------------------
+52
+Here
+Andrei has not seen many of the movies at all - approximately 10 in the complete list
+Andrei has not seen many of the movies at all - approximately 8 in the complete list
+3088
+3102
+andrei  3088 have 3089 seen 3091 few 3092 movies 3093 from 3095 list 3097 ten 3101 first 3102 fifty
+---------------------------
+53
+Here
+Mirek says that he feels Pulp Fiction would not be an appropriate film to screen at the movie club.
+Mirek says that he feels Pulp Fiction is a particularly appropriate film to screen at the movie club.
+3149
+3218
+mirek  3149 wh 3150 who 3152 not 3153 interested 3156 movie 3159 did 3160 not 3161 see 3166 would 3167 not 3169 like 3171 see 3176 our 3177 movie 3178 club 
+mirek  3181 think 3183 should 3186 should 3187 just 3188 leave 3189 skip 3193 leave 
+mirek  3198 would 3199 not 3200 think 3205 candidate 3206 even 3207 if 3210 good 3211 movie 3212 but 3214 do 3215 not 3216 know 3218 think
+---------------------------
+54
+Here
+Mirek choose films based on their ranking not personal preference
+Mirek choose films based on how many awards they won
+1965
+1985
+mirek  1965 yes 1966 basically 1967 seven 1968 movies 1975 top 1976 movies 1978 based 1984 ra 1985 ranking
+---------------------------
+55
+Here
+Denis beliveves Pulp Fiction is representative of the 90's
+Denis beliveves Schindler's List is more representative of the 90's than Pulp Fiction
+3223
+3229
+denis  3223 quite 3224 representative 3227 nineties 3229 think 
+---------------------------
+56
+Here
+All four have seen Pulp Fiction
+Only two out of the four have seen Pulp Fiction
+3371
+3373
+agnes  3371 have 3372 all 3373 seen
+---------------------------
+57
+Around
+Mirek and Denis decided that Pulp Fiction could be seen numerous times while still finding new observations
+Mirek and Denis decided that American Beauty could be seen numerous times while still finding new observations
+3118
+3310
+mirek  3118 ok 3119 pulp 3120 fiction 
+mirek  3123 think 3125 again 3126 quite 3128 hi 3129 high 3130 ranked 
+mirek  3132 but 3133 from 3134 my 3135 perspective 3136 everyone 3137 already 3138 saw 
+mirek  3140 who 3142 interested 3145 movie 3147 saw 
+mirek  3149 wh 3150 who 3152 not 3153 interested 3156 movie 3159 did 3160 not 3161 see 3166 would 3167 not 3169 like 3171 see 3176 our 3177 movie 3178 club 
+mirek  3181 think 3183 should 3186 should 3187 just 3188 leave 3189 skip 3193 leave 
+mirek  3198 would 3199 not 3200 think 3205 candidate 3206 even 3207 if 3210 good 3211 movie 3212 but 3214 do 3215 not 3216 know 3218 think 
+denis  3220 why 3221 not 
+denis  3223 quite 3224 representative 3227 nineties 3229 think 
+denis  3232 structure 3235 movie 3237 interesting 
+denis  3240 think 3243 first 3244 scene 3246 actually 3248 same 3249 scene 3252 last 3253 scene 3254 no 
+denis  3255 there 3258 kind 3260 loop 3263 movie 
+agnes  3265 ca 3266 not 3267 remember 
+mirek  3268 yes 3269 yes 3270 there 3272 ple 3275 think 3276 there 3279 plenty 3281 loops 3282 actually 3283 plenty 
+denis  3285 yes 
+mirek  3287 fully 3288 agree 3290 you 3291 can 3292 see 3294 movie 3295 three 3296 times 3297 perhaps 3298 three 3299 times 3303 fourth 3304 time 3305 see 3306 you 3307 still 3308 discover 3309 something 3310 new 
+---------------------------
+58
+Here
+No one had seen Goodfellas
+Everyone  had seen Goodfellas
+3545
+3554
+mirek  3545 goodfellas 3547 did 3548 not 3549 see 
+agnes  3551 no 
+andrei  3552 no 
+denis  3553 no 
+mirek  3554 no
+---------------------------
+59
+Around
+Mirek makes a joke about the next film, The Silence of the Lambs, the rest of the team join in his laughter
+Mirek makes a joke about the next film, The Silence of the Lambs, the rest of the team sit in slience
+3819
+3887
+mirek  3819 silence 3822 lambs 
+denis  3824 ok 
+mirek  3825 should 3827 tell 3828 something 3829 more 
+mirek  3830 godfather 3832 all 3833 thrillers 3835 what 3837 what 3839 says 
+mirek  3842 what 3843 some 3845 user 3846 says 
+mirek  3849 ok 3852 little 3853 bit 3854 horror 3857 think 3859 quite 
+agnes  3865 little 3866 bit 
+mirek  3868 definitely 3869 not 3871 kids 3873 but 3875 if 3877 kids 3879 not 3880 visitors 3882 our 3883 cinema 3884 why 3885 not 
+agnes  3886 ok 
+agnes  3887 yes
+---------------------------
+60
+Around
+Quite a lot of discussion took place regarding American Beauty, and comments were quite positive.
+There was a lot of negative feeling about American Beauty.
+4438
+4496
+mirek  4438 american 4439 beauty 
+mirek  4442 can 4443 perhaps 4444 read 4446 little 4447 bit 4449 user 4450 coent 4451 if 4452 you 4453 want 4456 yes 
+mirek  4457 you 4458 can 4459 read 4461 plot 4462 outline 4469 projector 
+mirek  4470 but 4472 basically 4473 deep 4474 wonderful 4476 penetrating 4477 movie 4478 extraordinary 4480 irony 4486 psychological 4487 drama 4489 american 4490 life 
+denis  4491 yes 4493 definitely 4495 american 4496 life
+---------------------------
+61
+Here
+Agnes makes an observation that American Beauty is a lot less dark than the other movies
+Agnes makes an observation that American Beauty is much darker than the other movies
+4580
+4591
+agnes  4580 much 4581 less 4582 dark 4583 than 4585 other 4586 movies 4588 have 4591 list
+---------------------------
+62
+Around
+Andrei tells the group he has not seen American Beauty, but would like to.
+Andrei tells the group he has seen American Beauty.
+4557
+4566
+andrei  4557 have 4558 not 4559 seen 4561 but 4563 would 4564 like 4566 see 
+---------------------------
+63
+Here
+Agnes and Denis commented that American Beauty was not a violent film although the characters were psychopathic
+Agnes and Denis commented that American Beauty was a violent film although the characters were psychopathic
+4597
+4615
+andrei  4597 not 4599 violent 
+agnes  4602 not 4605 dark 4606 but 4607 no 
+denis  4608 ah 4609 no 4612 not 4613 violent 4615 all 
+---------------------------
+64
+Here
+Mirek again engages the group and raises the issue of Schindlers list again. His body language shows him closed and leaning away from Agnes.
+Andrei again engages the group and raises the issue of Schindlers list again. His body language shows him closed and leaning away from Mirek.
+4789
+4807
+mirek  4789 seems 4791 me 4793 perhaps 4795 schindler 4796 ok 4797 definitely 4798 schindler 4799 schindler 4800 list 4802 perhaps 4803 more 4804 serious 4805 topic 4807 sure
+---------------------------
+65
+Around
+Andrei is suggesting that mainstream films have more than 60,000 votes
+Andrei is suggesting that mainstream films have more than 80,000 votes
+5070
+5085
+andrei  5070 but 5072 would 5073 say 5074 mainstream 5077 ones 5079 have 5080 more 5081 than 5082 whatever 5083 sixty 5084 thousand 5085 votes 
+---------------------------
+66
+Here
+Andrei uses the voting figures to define what is a mainstream film
+Andrei believes that mainstream films are worse than non- mainstream films
+5143
+5153
+andrei  5143 yes 5144 anyway 5145 if 5146 you 5147 want 5149 definition 5151 mainstream 5153 whatever
+---------------------------
+67
+Here
+Andrei mentioned one movie with 2 alternatives
+Andrei only suggests Saving Private Ryan
+5265
+5276
+andrei  5265 actually 5268 tried 5270 propose 5271 just 5272 one 5273 movie 5275 some 5276 alternates 
+---------------------------
+68
+Around
+Denis wants to know what Andrei recommends
+Denies wants to know what film Andrew wishes to eliminate
+5218
+5227
+denis  5218 ok 5219 can 5221 discuss 5223 your 5224 docent 5225 maybe 
+andrei  5226 yes 5227 let  
+---------------------------
+69
+Here
+Saving Private Ryan is proposed by Andrei
+Saving Private Ryan is proposed by Mirek
+5400
+5416
+andrei  5400 but 5401 given 5404 would 5405 like 5407 movie 5408 from 5410 nineties 5412 thought 5414 saving 5415 private 5416 ryan 
+---------------------------
+70
+Around
+Andrei gives a very good overview of 'Saving Private Ryan'
+Mirek gives a very good overview of 'Saving Private Ryan'
+5400
+5652
+andrei  5400 but 5401 given 5404 would 5405 like 5407 movie 5408 from 5410 nineties 5412 thought 5414 saving 5415 private 5416 ryan 
+andrei  5417 oh 5418 thanks 5420 projecting 5422 docent 
+andrei  5423 would 5424 keep 5426 more 5428 less 5430 theme 5433 history 5435 war 5437 action 5438 drama 5439 while 5440 showing 5441 actually 5444 new 5447 would 5448 say 5449 hanistic 5450 view 5453 war 
+andrei  5454 because 5457 not 5458 like 5460 sort 5462 glorification 5465 you 5466 know 5468 good 5469 guys 5474 go 5475 against 5477 nazis 5478 but 
+andrei  5485 plot 5486 actually 5487 if 5488 you 5489 do 5490 not 5491 know 
+andrei  5495 people 5496 looking 5498 just 5499 one 5500 soldier 5502 fact 
+andrei  5508 family 5510 four 5511 brothers 5512 who 
+andrei  5513 actually 5514 three 5516 them 5517 get 5518 killed 5519 during 5521 war 5523 these 5524 days 5526 forty 5529 guess 5530 suer 5531 forty 5532 four 
+andrei  5538 government 5539 decides 5542 need 5544 get 5545 back 5547 fourth 5548 brother 5549 just 5551 save 5552 one 5553 member 5556 family 
+andrei  5560 guy 5562 private 5563 ryan 
+andrei  5566 movie 5568 not 5570 killing 5572 germans 5574 whatever 
+andrei  5577 saving 5579 least 5580 one 5581 guy 5582 from 5584 family 
+andrei  5586 but 5588 course 5591 setting 5593 during 5595 war 5599 realistic 5603 dramatic 5605 fact 
+andrei  5608 not 5610 all 5612 glorification 5614 war 5615 but 5617 just 
+andrei  5620 shows 5622 bit 5625 violence 5629 things 
+andrei  5631 especially 5634 beginning 5638 think 5640 great 5644 violent 5645 but 5649 image 5652 war
+---------------------------
+71
+Around
+Agnes and Denis are not comfortable with Andrei's explanation of the gory opening to Saving Private Ryan
+Agnes and Denis are comfortable with Andrei's explanation of the gory opening to Saving Private Ryan
+5655
+5673
+denis  5655 yes 
+agnes  5660 violent 
+denis  5662 quite 5663 horrible 5664 actually 
+andrei  5665 yes 5666 but 5668 think 5669 if 5671 if 5672 you 5673 compare 
+---------------------------
+72
+Here
+Andrei raises the issue of the film lasting 3 hours and the group (except Mirek) seem to accept it
+Andrei raises the issue of the film lasting 2hours and the group (except Mirek) seem to accept it
+5884
+5906
+andrei  5884 bit 5885 long 5886 too 5888 nearly 5889 three 5890 hours 
+andrei  5891 but 5894 do 5895 not 5896 know 5897 apocalypse 5898 now 5900 quite 5901 long 5902 too 5904 think 
+agnes  5905 yes 
+denis  5906 yes 
+---------------------------
+73
+Around
+Denis and Agnes discuss the film director Steven Spielberg and awards he may have won.
+Mirek and Andrei discuss the film director Steven Spielberg and awards he may have won.
+5961
+5974
+denis  5961 many 5962 times 5964 spielberg 5965 received 5967 best 5969 director 5970 oscar 
+agnes  5972 think 5973 just 5974 once 
+---------------------------
+74
+Around
+Interesting point of Saving Private Ryan was that the director turned down the colour saturation to enhance the film but viewers complained there was a problem so the TV companies turned it back up again
+Interesting point of Schindler's List was that the director turned down the colour saturation to enhance the film but viewers complained there was a problem so the TV companies turned it back up again
+6082
+6187
+andrei  6082 trivia 6084 found 6088 fact 6091 actually 6092 reduced 6095 colour 6096 saturation 6099 movie 
+andrei  6100 just 6102 make 6104 look 6105 maybe 6107 bit 6108 like 6110 docentaries 6111 from 6113 time 
+denis  6117 interesting 6119 read 6120 yes 
+andrei  6121 yes 6125 surprised 6127 find 
+denis  6131 but 6132 then 6136 read 
+andrei  6142 turned 6143 back 6145 colours 
+denis  6149 where 
+agnes  6153 reenhanced 6155 colour 6156 yes 
+denis  6159 turned 6160 back 6162 yes 
+mirek  6163 because 6164 people 6165 start 6167 complain 6172 there 6175 problem 6178 tv 6179 when 6182 broadcasting 6184 movie 6187 tv 
+---------------------------
+75
+Here
+Andrei mentions that there are four points that they can introduce the movie with - presenting an argument for showing this movie particularly
+Andrei mentions that there are three points that they can introduce the movie with - presenting an argument for showing this movie particularly
+6228
+6241
+andrei  6228 yes 6232 mean 6233 these 6234 four 6235 points 6236 could 6237 serve 6238 also 6241 introduction
+---------------------------
+76
+Here
+Andrei presents his opinion well and suggests that the trivia he has compiled can be used to provide a 5-10 minute talk before the film is shown
+Andrei presents his opinion well and suggests that the trivia he has compiled can be used to provide a 3-5 minute talk before the film is shown
+6228
+6265
+andrei  6228 yes 6232 mean 6233 these 6234 four 6235 points 6236 could 6237 serve 6238 also 6241 introduction 6242 if 6243 you 6244 want 6246 talk 6248 fo 6250 fi 6251 five 6253 ten 6254 minutes 6255 before 6257 movie 6259 do 6260 not 6261 know 6265 room
+---------------------------
+77
+Here
+There is a lot more discussion about Saving Private Ryan than any other movie so far.
+There is very little discussion about Saving Private Ryan.
+6423
+6645
+denis  6423 private 6424 ryan 6425 tom 6426 hanks 
+agnes  6427 no 6428 no 
+andrei  6429 no 6430 tom 6431 tom 
+denis  6432 no 6434 not 
+mirek  6435 no 
+denis  6437 trying 6439 find 6440 him 
+agnes  6441 yes 6443 trying 6445 find 6446 him 
+andrei  6447 yes 
+andrei  6450 caption 6451 says 6452 captain 6453 john 6454 miller 
+andrei  6458 if 6459 you 6460 look 6463 caption 
+denis  6464 yes 6465 yes 
+andrei  6466 yes 
+denis  6467 ok 
+andrei  
+agnes  6472 private 6473 ryan 6475 matt 6476 damon 6478 think 6479 yes 
+andrei  6480 yes 
+andrei  6483 private 6485 just 6487 simple 6488 soldier 6489 actually 6490 yes 
+agnes  6491 yes 
+mirek  6494 way 6495 did 6497 fied 6498 dinally 6501 fi 6502 died 6503 finally 6505 not 
+andrei  6507 who 6508 private 6509 ryan 
+mirek  6513 private 6514 ryan 6515 yes 
+andrei  6516 no 6517 no 6519 find 6520 him 6521 actually 6524 send 6525 him 6526 back 6529 family 6530 but 6532 captain 6533 dies 6534 actually 6535 tom 6536 han 
+mirek  6540 remember 6542 remember 6544 found 6545 him 6546 but 
+agnes  6547 yes 
+mirek  6548 ah 6549 ok 6550 yes 6551 yes 6552 yes 
+agnes  6555 him 6558 begin 6560 him 6563 beginning 6566 movie 6572 graveyard 6573 right 
+andrei  
+mirek  6575 because 6577 remember 
+andrei  6578 oh 6579 yes 6581 private 6582 ryan 6583 yes 6584 remembering 6587 beginning 
+agnes  6588 yes 6591 family 6592 yes 
+mirek  6593 because 6595 remember 6600 end 6603 movie 6606 trying 6608 defend 6609 some 6610 bridge 6612 something 6614 there 6615 quite 6616 heavy 6617 shooting 6620 finally 6622 actually 6623 john 6624 miller 6625 who 6626 die 
+andrei  6627 yes 6628 exactly 6629 yes 6631 dies 6632 unfortunately 
+mirek  6633 ok 6634 ok 
+andrei  6636 yes 6637 there 6639 sacrifice 
+mirek  6642 not 6644 private 6645 ryan 
+---------------------------
+78
+Here
+They have all seen Saving Private Ryan
+Only Agnes has not seen Saving Private Ryan
+6803
+6815
+mirek  6803 have 6804 seen 6807 have 6808 seen 
+andrei  6810 oh 6811 all 6812 ok 6813 all 6815 us 
+---------------------------
+79
+Here
+Denis and Andrei check the time and note that they are running short
+Denis and Mirek check the time and note that they are running short
+6825
+6831
+denis  6825 yes 6827 running 
+andrei  6828 yes 
+mirek  6831 time
+---------------------------
+80
+Around
+At the end of his presentation, Andrei gave a further three movies to consider.
+At the end of his presentation, Andrei gave a further four movies to consider.
+6832
+6870
+andrei  6832 ok 6834 yes 6837 have 6838 some 6839 other 6840 candidates 
+andrei  6843 first 6844 page 6847 bottom 
+andrei  6850 also 6851 put 6852 pulp 6853 fiction 6856 silence 6859 lambs 6862 also 6864 sort 6866 included 6867 la 6868 vita 6870 bella 
+---------------------------
+81
+Here
+Andrei included two other films in his list which have been previously discussed by the group
+Andrei included three other films in his list which have been previously discussed by the group
+6850
+6870
+andrei  6850 also 6851 put 6852 pulp 6853 fiction 6856 silence 6859 lambs 6862 also 6864 sort 6866 included 6867 la 6868 vita 6870 bella 
+---------------------------
+82
+Here
+Mirek notes that three films they have discussed are on a theme of the second world war
+Mirek notes that four films they have discussed are on a theme of the second world war
+7061
+7081
+mirek  7061 actually 7063 third 7064 movie 7067 second 7068 war 7069 schindler 7070 list 7074 saving 7075 private 7076 ryan 7078 la 7079 vita 7081 bella 
+---------------------------
+83
+Here
+Denis suggested The Big Lebowski as his choice
+Denis suggested The Usual Suspects as his choice
+7101
+7110
+denis  7101 do 7102 not 7103 know 7107 called 7109 big 7110 lebowski
+---------------------------
+84
+Here
+Only Denis has seen The Big Lebowski
+They have all seen The Big Lebowski
+7101
+7151
+denis  7101 do 7102 not 7103 know 7107 called 7109 big 7110 lebowski 7111 from 7113 joel 7114 coen 
+denis  7115 actually 7118 brothers 7119 you 7120 probably 7121 know 7122 them 
+denis  7124 do 7125 not 7126 know 7128 many 7130 you 7131 have 7132 seen 7134 movie 
+agnes  7135 no 
+andrei  7136 have 7137 not 7138 seen 7140 but 7143 heard 7146 funny 
+denis  7147 no 
+mirek  7148 just 7149 partially 7151 think
+---------------------------
+85
+Here
+Denis said that The Big Lebowski was inspired by The Big Sleep
+Denis said that The Big Lebowski was inspired by Rear Window
+7237
+7246
+7237 actually 7239 inspired 7240 from 7242 movie 7243 called 7245 big 7246 sleep
+---------------------------
+86
+Around
+Participants discuss movie posters
+Participants discuss cost of producing the movie posters
+7448
+7460
+denis  7448 maybe 7451 maybe 7453 going 7455 open 7457 discussion 7460 posters 
+---------------------------
+87
+Here
+Denis suggests one movie to the group
+Denis suggests 2 movies to the group
+7565
+7612
+denis  7565 actually 7567 not 7568 going 7570 sp 7572 describe 7573 much 7574 more 7576 big 7577 lebowski 7578 but 7581 quite 7582 hard 7584 describe 7590 journey 7593 guy 
+denis  7594 but 7598 movie 7599 quite 7600 surrealistic 7602 mean 7603 there 7605 some 7606 part 7609 like 7610 coming 7611 from 7612 dreams 
+---------------------------
+88
+Around
+Denis reiterates that the casting is marvellous for The Big Lebowski
+Denis is not sure who the casting is for The Big Lebowski
+7742
+7772
+denis  7742 see 7743 worse 7744 people 
+denis  7747 kind 7751 ethnographic 7752 movie 7754 would 7755 say 7756 but 7761 modern 7762 hero 7765 quite 7766 fun 
+denis  7769 casting 7772 marvellous 
+---------------------------
+89
+Around
+Denis would like to know what kind of information to put on the poster.
+Mirek would like to know what kind of information to put on the poster.
+7837
+7848
+denis  7837 what 7838 kind 7840 information 7841 do 7843 want 
+denis  7847 first 7848 poster 
+---------------------------
+90
+Around
+Denis displayed his ideas for advertising the Big Leboski complete with price lists
+Denis displayed his ideas for advertising the American Beauty complete with price lists
+7862
+7878
+denis  7862 do 7863 not 7864 know 7865 if 7866 you 7867 you 7868 cannot 7870 see 7871 but 7873 there 7877 pricing 7878 information 
+---------------------------
+91
+Around
+The cost of the movies is also discussed so this information can go on the poster.
+The length of time the movie lasts is discussed at the end for the information to go on the poster.
+7862
+7903
+denis  7862 do 7863 not 7864 know 7865 if 7866 you 7867 you 7868 cannot 7870 see 7871 but 7873 there 7877 pricing 7878 information 
+denis  7881 said 7883 one 7884 movie 7886 eight 7887 francs 7889 three 7890 movies 7891 eighteen 7892 francs 7895 can 7896 have 7897 annual 7898 subscrip 7899 subscription 7901 sixty 7902 francs 
+agnes  7903 yes 
+---------------------------
+92
+Around
+Denis also asks that being a member of the Committee could also be advertised on the poster.
+Denis also asks for small adverts to be placed on the poster.
+7906
+7931
+denis  7906 wanted 7908 say 7909 some 7910 information 7912 involve 7913 people 7917 committee 7920 if 7922 want 7924 take 7925 part 7928 committee 7930 select 7931 movies
+---------------------------
+93
+Here
+Agnes did not like the third advertising poster, it had too many colours
+Agnes did not like the third advertising poster, it had no colour
+8149
+8175
+mirek  8149 yes 8150 but 8154 contrary 8156 would 8157 say 8158 there 8160 too 8161 many 8162 colours 8166 difficult 8168 read 
+agnes  8172 actually 8173 do 8174 not 8175 like
+---------------------------
+94
+Around
+How to finalise the poster - Agnes suggests using the first as a template and combining aspects from the second and third posters
+How to finalise the poster - Mirek suggests using the first as a template and combining aspects from the second and third posters
+8198
+8216
+agnes  8198 would 8199 keep 8201 format 8204 first 8205 one 8206 add 8208 quotes 8211 content 8212 information 8213 from 8215 second 8216 one 
+---------------------------
+95
+Here
+The group are nominating a couple of movies each which will then be voted on
+The group are nominating three movies each which will then be voted on
+8493
+8515
+andrei  8493 if 8495 not 8496 too 8497 long 8498 maybe 8499 each 8501 us 8502 could 8503 nominate 8504 one 8506 two 8507 movies 
+andrei  8509 make 8511 list 8513 then 8515 vote 
+---------------------------
+96
+Here
+Mirek nominated The Big Lebowski for the short list
+Mirek nominated Usual Suspects for the short list
+8530
+8542
+andrei  8530 mirek 8531 what 8532 do 8533 you 8534 nominate 
+mirek  8538 convinced 8541 big 8542 lebowski
+---------------------------
+97
+Here
+Andrei nominates Saving Private Ryan
+Andrei nominates Usual Suspects
+8634
+8642
+andrei  8634 would 8635 nominate 8637 ok 8638 my 8639 candidate 8640 saving 8641 private 8642 ryan 
+---------------------------
+98
+Here
+Andrei nominates Saving Private Ryan and Pulp Fiction for the short list.
+Andrei nominates Goodfellas and Schindler's List for the short list.
+8634
+8663
+andrei  8634 would 8635 nominate 8637 ok 8638 my 8639 candidate 8640 saving 8641 private 8642 ryan 
+andrei  8646 happy 8648 your 8649 nominations 8650 too 
+andrei  8653 would 8654 nominate 8655 also 8656 pulp 8657 fiction 8658 because 8662 good 8663 movie
+---------------------------
+99
+Here
+Denis nominates American Beauty and Big Lebowski for the short list
+Denis nominates Pulp Fiction and Big Lebowski for the short list
+8675
+8679
+denis  8675 would 8676 nominate 
+denis  8678 american 8679 beauty 
+---------------------------
+100
+Here
+Mirek nominates Schindler's List and The Silence of the Lambs for the short list
+Mirek nominates Schindler's List and Saving Private Ryan for the short list
+8721
+8739
+mirek  8721 may 8723 nominate 8725 these 8726 all 8727 these 8728 three 8729 movies 8730 big 8731 lebowski 8732 schindler 8733 list 8736 silence 8739 lambs
+---------------------------
+101
+Here
+The committee decided to vote by letting each member eliminate one movie.
+The committee decided to vote by letting each member eliminate two movies.
+8795
+8830
+andrei  8795 should 8797 vote 8798 just 8800 one 8801 film 8803 should 8804 each 8806 us 8807 say 8808 give 
+mirek  8810 eliminate 8811 first 8812 eliminate 8813 first 
+denis  8816 can 8817 eliminate 8818 first 8819 one 8820 one 8821 movie 8822 each 8824 then 8828 then 8830 select 
+---------------------------
+102
+Here
+Andrei confirms there are 7 movies on the short-list
+Andrei confirms there are 8 movies on the short-list
+8747
+8750
+andrei  8747 have 8749 seven 8750 candidates 
+---------------------------
+103
+Here
+Each person eliminates one film from the shortlist
+Each person eliminates two films from the shortlist
+8816
+8830
+denis  8816 can 8817 eliminate 8818 first 8819 one 8820 one 8821 movie 8822 each 8824 then 8828 then 8830 select 
+---------------------------
+104
+Here
+Denis removes Silence of the Lambs as he feels it is too violent
+Denis removes Silence of the Lambs as he has seen it before
+8977
+8990
+denis  8977 me 8979 would 8980 remove 8981 silence 8984 lambs 8985 because 8987 think 8989 too 8990 violent
+---------------------------
+105
+Around
+Denis eliminated Silence of the Lambs as it was too violent
+Denis eliminated Silence of the Lambs as it was too long
+8977
+8990
+denis  8977 me 8979 would 8980 remove 8981 silence 8984 lambs 8985 because 8987 think 8989 too 8990 violent
+---------------------------
+106
+Here
+Andrei nominates Schindler's List to be eliminated from the list because it is too sad.
+Andrei nominates Schindler's List to be eliminated from the list because it is too long.
+9000
+9007
+andrei  9000 would 9001 remove 9002 schindler 9003 list 9004 because 9006 too 9007 sad 
+---------------------------
+107
+Here
+Agnes eliminates Pulp Fiction as she dislikes Quentin Tarantino
+Agnes eliminates Pulp Fiction as it is too violent
+9017
+9043
+agnes  9017 pulp 9018 fiction 
+andrei  9019 oh 9020 too 9021 bad 
+mirek  9022 yes 9025 would 9026 eliminate 
+denis  9028 you 9029 have 9031 reason 9035 ok 
+agnes  9037 not 9039 huge 9040 fan 9042 quentin 9043 tarantino
+---------------------------
+108
+Here
+Each person votes for one film from the final four
+Each person eliminates one film from the final four
+9100
+9123
+andrei  9100 left 9103 big 9104 lebowski 9105 usual 9106 suspects 9107 saving 9108 private 9109 ryan 9111 american 9112 beauty 
+andrei  9113 ok 9115 let 9116 vote 9117 just 9118 simply 9120 one 9123 moment 
+---------------------------
+109
+Here
+Andrei votes for American Beauty as he has not seen it
+Agnes votes for American Beauty as she has not seen it
+9126
+9135
+andrei  9126 would 9127 vote 9129 american 9130 beauty 9131 because 9133 have 9134 not 9135 seen 
+---------------------------
+110
+Here
+Mirek votes for Big Lebowski
+Mirek votes for Saving Private Ryan
+9138
+9141
+mirek  9138 vote 9140 big 9141 lebowski
+---------------------------
+111
+Here
+Agnes votes for The Usual Suspects in the final selection
+Agnes votes for American Beauty in the final selection
+9174
+9178
+mirek  9174 make 9176 decision 
+agnes  9177 usual 9178 suspects
+---------------------------
+112
+Here
+Denis's vote is crucial in deciding which film is chosen
+Andrei's vote determines which film is chosen
+9183
+9203
+denis  9183 ok 9184 now 9186 have 9188 if 9190 want 9191 ok 9192 if 9194 want 9196 take 9198 ok 
+agnes  9199 you 9200 have 9202 deciding 9203 vote 
+---------------------------
+113
+Here
+Denis justifies his vote for Big Lebowski as the posters are already prepared
+Denis justifies his vote for Big Lebowski as he found it very funny
+9213
+9227
+denis  9213 ok 9217 go 9220 big 9221 lebowski 9222 since 9224 posters 9226 already 9227 ready 
+---------------------------
+114
+Here
+They all agree on that the final choice is good
+Andrei disagree's on the final choice is good
+9232
+9278
+andrei  9232 yes 9234 think 9236 quite 9237 fine 
+agnes  9239 fine 
+mirek  
+agnes  9243 make 9245 good 9246 change 9247 from 9249 other 9250 ones 
+andrei  9255 yes 9257 think 9259 least 9261 funny 9265 nice 
+denis  9266 yes 9268 think 
+andrei  9269 ok 
+andrei  
+mirek  9273 gonna 9276 big 9277 lebowski 
+andrei  9278 decision 
+---------------------------
+115
+Here
+Purpose of next meeting is to choose film for May
+Purpose of next meeting is to choose film for June
+9345
+9355
+andrei  9345 beginning 9347 may 9349 guess 9351 choose 9353 film 9355 may 
+---------------------------
+116
+Here
+Date of next meeting confirmed as May 3rd
+Date of next meeting confirmed as May 5th
+9392
+9422
+denis  9392 ok 9397 decide 9398 after 9400 projection 9403 movie 9405 date 9407 ok 
+andrei  9408 yes 9410 can 9411 do 9413 like 9415 tuesday 9416 before 9418 ascension 9421 may 9422 third 
+---------------------------

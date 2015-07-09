@@ -2,96 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7501c0-f186-4cfd-bce1-5e054693c7ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/Among.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Deep_Read_A_Reading_Comprehension_System.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/EnglishDecimalFormat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Extracting_question_answer_pairs_in_multi_party_meetings.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/FrenchDecimalFormat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Fuzzy_Match_for_Question_Answering_Passage_Retrieval.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Fuzzy_dependency_relation.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_answers.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c_answers.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Introduction_to_WordNet_An_Online_Lexical_Database.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Lexical_Semantics - Introduction.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Natural_language_question_answering_the_view_from_here.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/QA Passage Retrieval.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/QTag.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Quantitative_Evaluation_Passage_Retrieval_Algorithms_Question_Answering.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Question_Answering_Passage_Retrieval_Using_Dependency_Relations.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Rule_based_Question_Answering_System_for_Reading_Comprehension_Tests.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/Score.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/SnowballProgram.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/SnowballStemmer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Task-based_evaluation_meeting_browsers_from task_elicitation_user_behavior_analysis.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/docs/Wordnet_A_Lexical_Database_for_English.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/algorithm.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/commonWord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/englishStemmer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/field.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/file.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/lucene.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/pair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/passage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/questions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/sql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/stop_words.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/tools.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/transcript.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/wordnet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/Answers.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IB4010.Transcript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.Transcript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IB4010.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_name.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_time.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IB4010_transcript.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IS1008c.Transcript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.Transcript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/IS1008c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/IS1008c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile.am" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/adj.exc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/adv.exc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/cntlist.rev" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/cntlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.adj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.adv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.noun" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/data.verb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/frames.vrb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/frequence_IB4010.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/frequence_IS1008c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.adj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.adv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.noun" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.sense" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/index.verb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/lexnames" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/log.grind.3.0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mywriting.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/noun.exc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/sentidx.vrb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/sents.vrb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/bin/stop-words.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/verb.Framestext" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thesis/Internship/Meeting Browser_IM2_Visit/dict/verb.exc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mywriting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -410,7 +321,7 @@
       <created>1436454651794</created>
       <option name="number" value="Default" />
       <updated>1436454651794</updated>
-      <workItem from="1436454652891" duration="1206000" />
+      <workItem from="1436454652891" duration="1562000" />
     </task>
     <task id="LOCAL-00001" summary="project &quot;Applying computer vision to traffic surveillance in Vietnam&quot;">
       <created>1436455097718</created>
@@ -422,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1206000" />
+    <option name="totallyTimeSpent" value="1562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-8" width="1938" height="1072" extended-state="0" />

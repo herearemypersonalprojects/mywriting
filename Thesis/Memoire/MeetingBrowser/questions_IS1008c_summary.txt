@@ -1,0 +1,564 @@
+1
+Here
+Sridhar informs participants of the purpose of the meeting
+Sridhar did not bother to tell the participant the purpose of the meeting
+20
+93
+sridhar20 meeting 21 domain 24 not 25 okay 
+sridhar
+sridhar28 discuss 
+sridhar31 Conceptual 32 design 33 meeting 
+sridhar34 Okay 
+sridhar37 agenda 
+sridhar40 Double 41 opening 
+sridhar
+sridhar47 project 48 manager 50 secretary 57 presentations 58 from 60 christian 
+sridhar
+sridhar63 Agnes 
+sridhar65 then 67 see 
+sridhar70 finally 73 meeting 
+sridhar75 decide 
+sridhar78 have 80 take 82 decision 85 remote 86 control 
+sridhar87 Concepts 
+sridhar90 oh 92 functional 93 design 
+---------------------------
+2
+Here
+Meeting was allowed 40 minutes
+Meeting had as much time as needed
+96
+98
+sridhar96 all 97 forty 98 minutes 
+---------------------------
+3
+Here
+Christine informs the participants that she will be outlining to them the components design and starts her PowerPoint presentation
+Christine informs the participants that she has not yet come up with components design and therefore has not prepared a presentation
+140
+155
+christine140 if 142 could 143 open 145 powerpoint 146 presentation 
+christine148 number 149 two 
+sridhar150 Mm 
+sridhar153 "kay" 
+christine154 Components 155 design
+---------------------------
+4
+Around
+One of the features under consideration is speech recognition.
+One of the features under consideration is fingerprint identification.
+208
+222
+christine208 then 209 since 211 talked 213 using 214 some 215 sort 217 speech 218 recognition 219 have 221 have 222 mike 
+---------------------------
+5
+Here
+The product should make sounds, to allow it to be located in the event of being misplaced.
+The product should flash brightly, to allow it to be located in the event of being misplaced.
+280
+293
+christine280 way 282 making 283 beeps 285 sounds 287 can 288 find 292 gets 293 lost 
+---------------------------
+6
+Around
+Christine talks about a microphone in remote
+Christine thought that speech recogition was not useful
+869
+898
+christine869 microphone 871 speaker 874 advanced 875 chip 
+christine880 findings 883 research 886 recommendations 
+christine
+christine890 new 891 remote 892 control 894 mm 895 would 898 have  
+---------------------------
+7
+Here
+Christine informs participants that they have looked at historical records - what worked and what didn't
+Christine informs the participants that there were no historical records regarding what worked and what didn't available
+299
+326
+christine297 other 299 thing 302 sort 304 method 
+christine311 have 312 looked 317 store 320 torque 322 record 324 work 325 has 326 not
+---------------------------
+8
+Here
+Christine evaluated new materials with the assistance of the manufacturing department
+Christine stated that new materials had not yet been evaluated
+335
+373
+christine335 evaluate 336 some 337 new 338 materials 341 contacted 342 manufacturing 345 input 346 because 
+christine347 Course 348 stream 
+christine349 Might 350 come 353 choose 355 material 357 then 358 manufacturing 360 not 361 have 363 technologies 364 capabilities 366 offer 373 approach
+---------------------------
+9
+Around
+Rubber is considered, but quickly dismissed as a construction material for the case
+Rubber is selected as a construction material for the case.
+442
+476
+christine442 then 445 thinking 
+christine448 rubber 
+christine451 Unfortunately 453 gonna 454 because 457 sheets 
+christine459 factor 
+christine463 might 465 some 
+christine466 Problems 
+christine473 goes 476 board
+---------------------------
+10
+Here
+Christine eliminated plastic as too brittle over time.
+Christine eliminated plastic as it would flex and damage the chips
+480
+494
+christine480 then 481 plastic 482 also 483 has 485 problems 486 melt 487 saying 490 brittle 493 brittle 494 laughter
+---------------------------
+11
+Here
+A titanium case for the remote was eliminated as it is difficult to manufacture
+A titanium case for the remote was selected as it is simple to manufacture
+509
+531
+christine509 unfortunately 
+christine512 titanium 513 also 514 gonna 515 laminated 518 people 520 manufacturing 521 said 524 could 525 make 526 curved 527 case 529 set 531 titanium
+---------------------------
+12
+Around
+According to the manufacturers, the casing has to be made out of wood.
+According to the manufacturers, the casing has to be made out of rubber.
+537
+554
+christine537 Power 540 not 541 quite 542 sure 
+christine545 nevertheless 549 eliminated 550 all 553 options 554 except 
+---------------------------
+13
+Here
+Christine preferred the advanced chip and eliminated the other options
+Christine hesitated between a regular chip and the advanced chip.
+582
+666
+christine582 get 583 oh 585 personal 586 preferences 588 just 590 sec 592 there 594 other 595 matter 598 chips 
+christine603 could 604 use 606 simple 607 design 610 board 614 simple 615 chips 618 only 619 works 622 buttons 625 not 626 get 628 much 
+christine630 intelligence 633 simple 
+christine
+christine637 then 638 there 641 regular 
+christine644 regret 647 have 648 forgotten 649 exactly 
+christine654 emanating 
+christine659 other 660 option 663 advanced 664 chip 666 print 
+---------------------------
+15
+Here
+Christine informed participants that manufacturing had recently developed a sensor and speaker that could be integrated into the advanced chip
+Christine informed participants that manufacturing had not yet developed a sensor and speaker that could be integrated into the advanced chip
+699
+729
+christine699 manufacturing 701 tall 705 if 
+christine709 recently 710 developed 714 sensor 717 speaker 720 would 723 integrated 724 into 726 advanced 727 chip 729 print 
+---------------------------
+16
+Around
+Preference is expressed for the use of exotic wood as construction material.
+The use of exotic wood is criticised due to the impact on the environment.
+735
+758
+christine735 Yeah 736 jen 737 thing 738 right 741 personal 742 preferences 
+christine
+christine
+christine746 think 748 should 750 know 752 some 755 some 756 real 757 exotic 758 words 
+---------------------------
+17
+Here
+Christine makes a slightly strange reference to where all you guys come from
+Srihdar makes a slightly strange reference to where all you guys come from
+766
+768
+christine766 guys 767 come 768 from 
+---------------------------
+18
+Here
+Christine suggested that people/customers might want to submit their own design via the internet as custom orders.
+Christine suggested that people/customers would not be interested in custom design and prefer off-the-shelf products.
+786
+820
+christine786 People 787 might 789 want 791 design 793 own 794 cases 796 see 798 could 800 through 
+christine803 dimensional 804 design 807 internet 809 then 811 could 812 submit 814 orders 815 can 816 like 818 submit 820 custom 
+---------------------------
+19
+Here
+Christine asked the participants if anyone had any problems with her recommendations
+Christine stated that she did not care if anyone had any problems with her recommendations, they wer going with them anyway
+880
+907
+christine880 findings 883 research 886 recommendations 
+christine
+christine890 new 891 remote 892 control 894 mm 895 would 898 have 
+christine900 Have 902 made 905 wood 
+christine906 Any 907 problems 
+---------------------------
+20
+Here
+Sensors and a speaker were part of the advanced chip's tech specifications
+Solar cells were part of the advanced chip's tech specifications
+714
+729
+christine714 sensor 717 speaker 720 would 723 integrated 724 into 726 advanced 727 chip 729 print 
+---------------------------
+21
+Around
+Christine is asked to find out more about the type of processor for the next meeting
+Ed is asked to find out more about the best type of processor for the next meeting
+959
+1025
+christine959 multiple 
+christine961 chip 962 design 
+ed964 Mm 
+christine968 may 970 printed 974 circuit 975 board 
+christine
+christine979 could 980 find 982 more 
+sridhar988 means 
+christine995 next 997 next 998 meeting 
+sridhar999 Yeah 1004 michael 1007 control 1008 set 1009 based 
+christine1015 not 1016 know 1020 find 1022 more 1024 next 1025 meeting
+---------------------------
+22
+Here
+Reasons are presented for why plastic was rejected as a construction material.
+Reasons are presented for why plastic should be included as a construction material.
+1050
+1062
+agnes1050 plastic 1051 eliminated 1054 possible 
+christine1056 Because 
+christine1059 gets 1061 little 
+christine1062 Cracks
+---------------------------
+23
+Here
+The product is expected to last over several hundred years.
+The product is expected to last more than 5 but less than 15 years.
+1066
+1081
+christine1066 want 1068 expect 
+christine1073 remote 1074 controls 1077 around 1079 several 1080 hundred 1081 years  
+---------------------------
+24
+Around
+Ed is enthused by the idea of personalised remote controls and is ready to sell it
+Ed is dubious of the idea of personalised remote controls and is uncertain whether he could sell it
+1143
+1153
+ed1143 find 1146 sell 
+christine1148 Yeah 1149 oh 
+ed1151 Ready 1153 sell 
+---------------------------
+25
+Around
+Ed in marketing sees clear advantage of wood as a novel case material
+Ed in marketing  thought bright plastic would give a better case even though wood was a novel material
+1174
+1281
+ed1174 No 1176 not 1177 no 1178 no 1179 no 1181 only 1183 delay 1184 would 1186 can 1187 use 1190 ones 1193 hard 1195 hard 1196 work 1198 there 1199 some 1201 pretty 1202 close 1204 there 
+christine1207 can 
+christine1210 little 1211 sweater 1213 take 1214 care 
+agnes1216 Yeah 1217 exactly 1218 yeah 
+christine1219 Oh 1221 glad 
+ed1223 actually 1225 innovative 1226 idea 
+christine1227 O. 1228 k. 1229 i. 1230 c. 1231 r. 1233 r. 1234 time 1235 people 1236 remote 1237 control 
+ed1242 Let 1243 have 
+ed1246 different 1247 idea 
+ed1251 can 1252 choose 1254 colour 1255 would 1257 type 
+agnes1261 stain 
+ed1263 mean 1264 each 1265 person 1267 have 1269 personalised 1270 individualised 1271 Speech 1272 recognition 1273 remote 1274 control 
+ed1278 Not 1281 market 
+---------------------------
+26
+Here
+Agnes expressed her opinion that with wood you would run into the same types of problems as with other materials.
+Agnes stated that with wood you wouldn't run into the same types of problems as with other materials.
+1106
+1118 
+agnes1106 think 1109 way 1112 ran 1115 same 1116 types 1118 problems 
+---------------------------
+27
+Here
+Agnes demonstrated that she has taken the ideas that had been previously discussed and put them into the design of the remote control
+Agnes stated that all of the ideas for the design of the remote control were completely new and her own
+1527
+1551
+agnes1527 basically 1528 shows 1530 sort 1532 like 1535 ideas 1538 talking 1540 last 1541 time 
+agnes
+agnes1544 try 1546 put 1548 into 1550 remote 1551 control
+---------------------------
+28
+Around
+Agnes and Christine agree that customising could include physical size and hand shape
+Agnes and Ed agree that customising could not include physical size and hand shape
+1575
+1734
+agnes1575 Ergonomic 1576 shape 1579 completely 1580 agree 1582 scenes 1583 idea 1585 have 1587 sort 1589 moulded 1592 slightly 1593 more 1594 ergonomic 1596 comfortable 1598 hold 1601 standard 1603 straight 1604 remote 1605 controls 1606 Actually 1608 thing 1611 word 1612 if 1614 take 1616 customising 1617 idea 
+agnes1620 actually 1622 sort 1624 quasi 1625 measurements 1628 hand 1629 size 1631 someone 1633 large 1635 hands 1637 have 1639 wider 1640 remote 1641 control 
+christine1642 Right 1644 hand 1646 different 1647 size 1648 then 1650 worse 1652 example 
+agnes1655 takes 1658 good 1659 idea 1661 estimate 1662 customise 1663 ability 
+agnes1666 thing 1668 thought 1669 might 1671 kind 1673 interesting 1676 put 1678 flipscreen 1680 just 1681 like 1683 have 1685 flip 1686 phones 
+agnes1691 not 1692 have 1694 case 1696 someone 1697 sits 1700 remote 1701 controller 1702 accidentally 1703 press 1705 hand 1707 especially 1708 get 1709 little 1710 kids 1711 around 1713 not 1714 pressing 1716 buttons 1719 trying 1721 watch 1723 t. 1724 v. 1725 show 1727 accidentally 1728 change 1730 channel 1732 turn 1734 off
+---------------------------
+29
+Around
+Agnes suggests a cover for the buttons to prevent accidental operation
+Ed suggests a cover for the buttons to prevent accidental operation
+1691
+1734
+agnes1691 not 1692 have 1694 case 1696 someone 1697 sits 1700 remote 1701 controller 1702 accidentally 1703 press 1705 hand 1707 especially 1708 get 1709 little 1710 kids 1711 around 1713 not 1714 pressing 1716 buttons 1719 trying 1721 watch 1723 t. 1724 v. 1725 show 1727 accidentally 1728 change 1730 channel 1732 turn 1734 off 
+---------------------------
+30
+Here
+The inclusion of battery life light is suggested in the interface design.
+The inclusion of a data link cable is suggested in the interface design.
+1740
+1771
+agnes1740 have 1741 issues 1743 batteries 1745 aiming 1747 said 1749 maybe 1751 could 1752 put 1754 little 1755 battery 1756 life 1757 like 
+agnes1760 kinda 1761 goes 1762 demand 1763 demand 1767 battery 1769 starts 1771 die 
+---------------------------
+31
+Around
+Remote used  4-way toggle switch as the main user input for channels.
+There was a 4-way toggle switch for surround sound and buttons for channels
+1856
+1899
+agnes1856 then 1858 have 1859 sort 1864 topple 1865 display 
+agnes1868 oops 
+agnes1869 Channels 
+agnes1871 volume 1872 sort 1875 surfing 1876 channels 1878 then 1879 volume 1882 volume 1883 would 1888 down 1889 volume 1890 goes 1893 down 1895 then 1896 channels 1897 left 1899 right 
+---------------------------
+32
+Here
+Agnes drew a diagram outlining her design for the new remote control, and she stated they ought to keep simple without too many functionalities
+Agnes drew a diagram outlining her design for the new remote control, and she demonstrated that it should have lots of functionalities
+2004
+2034
+agnes2004 can 2005 see 2010 simple 2011 design 2017 things 2020 wanted 2022 keep 
+agnes2023 simple 2024 not 2025 have 2026 too 2027 many 2028 buttons 2030 have 2033 functionalities 2034 trying 
+---------------------------
+34
+Around
+Agnes has come up with an interface design that has simplicity and ease of use as it's main object
+Agnes has come up with a case design that has simplicity and ease of use as it's main object
+2004
+2034
+agnes2004 can 2005 see 2010 simple 2011 design 2017 things 2020 wanted 2022 keep 
+agnes2023 simple 2024 not 2025 have 2026 too 2027 many 2028 buttons 2030 have 2033 functionalities 2034 trying 
+---------------------------
+35
+Here
+The positioning of the buttons in relation to fingers was one of the considerations in the interface design.
+The positioning of the buttons in relation to fingers was not one of the considerations in the interface design.
+2248
+2274
+agnes2248 once 2250 decide 2251 exactly 2254 want 2255 then 2257 can 2258 figure 2261 exact 2262 positioning 
+agnes2264 more 2266 less 2268 think 2270 should 2271 go 2272 along 2274 lines 
+---------------------------
+36
+Here
+Ed commented that they had a product but that cost was going to be a potential problem
+Ed commented that they had a product and that cost was not going to be a problem
+2289
+2302
+ed2289 Some 2291 like 2292 fifteen 2294 have 2296 product 
+agnes
+ed2300 Problems 2301 obviously 2302 gonna
+---------------------------
+38
+Around
+Marketing has used questionnaires to investigate consumer preferences
+Marketing has used focus groups to investigate consumer preferences
+2361
+2388
+ed2361 municipal 2362 questionnaires 2364 every 2365 year 2367 because 2371 cinetis 2373 would 2374 come 2375 most 2376 consumers 2378 looking 2380 today 2384 trends 2385 changing 2388 quickly 
+---------------------------
+39
+Around
+Market research suggests the remote has to be new and different.
+Market research suggests the remote has to be comfortable and familiar.
+2434
+2504
+ed2434 market 2435 trend 
+ed2440 know 2441 from 2443 last 2446 from 2448 questionnaires 2450 although 2451 although 2452 Surveys 2454 have 2456 fancy 2458 feel 2459 good 2463 looking 2465 something 2467 feels 2468 good 2471 hand 2473 easy 2475 use 
+ed2477 different 2478 next 2479 generation 2481 innovation 2482 because 2483 all 2485 remote 2487 there 2488 now 2490 all 2492 similar 2497 same 2498 thing 
+ed2500 have 2502 something 2503 completely 2504 different 
+---------------------------
+40
+Around
+Marketing found that consumers want easy-to-use and will pay price for exciting stuff.
+Marketing foune that consumers focussed on value for money in TV remotes.
+2505
+2554
+ed2505 "kay" 2506 easy 2508 use 2512 become 2513 has 2514 become 2515 another 2516 major 2517 interest 
+ed2522 whiteboard 2524 can 2525 see 2528 remote 2530 easy 
+ed2534 think 2537 another 2538 thing 2540 interesting 2543 consumers 2544 actually 2545 willing 2547 pay 2549 price 2551 exciting 2553 have 2554 technology 
+---------------------------
+41
+Around
+A display on the remote could be used for help and instructions
+A display on the remote could be used to display status of satellite antenna.
+2673
+2698
+ed2673 Maybe 2675 display 2676 also 2677 makes 2679 easier 2681 use 2682 because 2683 sometimes 2686 looking 2688 buttons 2689 maybe 2690 if 2692 see 2694 display 
+christine2695 Context 2696 instead 2698 instructions  
+---------------------------
+42
+Around
+Christine and Agnes discuss sending all customers a foam former to take hand shape impressions for customising their remote
+Christine and Agnes discuss sending all customers wood samples to let them choose the finish of their remote
+2804
+2861
+christine2804 could 2805 send 2807 like 
+christine
+christine2812 some 
+christine2813 foam 2814 rubber 
+christine
+christine2816 Ball 2818 then 2820 would 2821 squeeze 2824 would 2825 take 2827 shape
+agnes2829 Arrow 2830 yeah 
+agnes2831 Yeah 2835 moulded 2841 specific 
+christine2849 then 2851 would 
+christine
+christine2855 geometry 2858 hands 2859 would 2861 e. 
+---------------------------
+43
+Around
+Faceplates for  Nokia phones proved that customisation was a good idea for the remotes
+Changeable faceplates were a good  feature for the remotes
+2961
+3013
+agnes2961 Already 2963 customisable 
+agnes2968 good 2969 sort 
+ed2980 nokia 2981 taking 2982 all 
+agnes2985 New 2986 gimmick 
+ed2987 Changeable 2988 colours 2989 Right 2991 take 2993 part 2995 another 2996 face 2997 take 2999 off 3000 button 3001 interface 
+agnes3002 Yeah 
+christine3003 hmm 
+christine3004 Right 
+ed3006 then 3008 sold 3009 millions 
+agnes
+ed3013 Millions 
+---------------------------
+44
+Here
+Ed summed up by saying that with the findings and the research that they needed to come up with something totally new that was not on the market.
+Ed summed up by saying that with the findings and the research that they had deduced that the consumer wants the same old product and design
+3091
+3121
+ed3091 findings 3024 researched 3025 easy 
+ed3027 whole 3029 know 
+ed3031 have 3033 come 3036 something 3037 totally 3038 new 3039 there 3040 not 3121 market  
+---------------------------
+45
+Around
+Christine is considering cheaper manufacture in "other countries" before backtracking and suggesting the remote could support a premium price by promising to pay a decent wage to the workers producing it.
+Ed is considering cheaper manufacture in "other countries" before backtracking and suggesting the remote could support a premium price by promising to pay a decent wage to the workers producing it.
+3078
+3140
+christine3078 know 3080 Different 3081 countries 3084 forth 3087 can 3090 cheap 3094 not 3095 wanna 3096 explore 
+christine3100 labour 
+christine3103 third 3104 world 3105 countries 
+christine3106 Actually 3108 right 3110 turn 3111 around 3113 say 3119 reason 3121 cost 3123 high 3126 devices 3127 because 
+christine3129 paying 3132 working 3133 wage 3136 person 3138 made 
+christine3140 device
+---------------------------
+46
+Around
+Agnes notes some reasons to not have a display
+Agnes tries to persuade the group they should have a display
+3353
+3473
+sridhar3353 oh 3355 wanna 3357 display 3359 bit 3362 display 3364 just 3366 simple 
+agnes3369 think 3371 depends 3373 mean 3375 think 3378 good 3379 idea 3382 need 3385 think 3388 useful 3390 gonna 3392 because 3393 theoretically 3396 t. 3397 v. 3399 already 3400 have 
+agnes3402 big 3403 display 3404 right 3406 front 3409 know 
+christine3410 Hmm 
+agnes
+agnes3412 If 3414 trying 3416 keep 3417 costs 3418 down 
+agnes3419 Then 3420 maybe 3421 sacrifice 3424 display 
+christine3425 Uh-huh 
+agnes3428 way 3430 go 3434 depends 3437 much 3438 putting 3440 display 3441 costs 3445 would 3447 used 3450 specifically 3451 would 3453 would 3455 used 
+christine3457 Hmm 
+christine3458 hmm 
+agnes3459 "cause" 3460 if 3462 only 3463 use 3466 little 3467 thing 3468 then 3469 putting 3472 big 3473 display 
+---------------------------
+47
+Around
+Final decision included advanced chip
+Final decision included proven standard chip
+3600
+3610
+christine3600 advanced 3601 chip-on-print 
+christine3607 have 
+christine3609 have 3610 decided 
+---------------------------
+48
+Here
+The group decides the case will be made of wood and the buttons of rubber
+The group decides the case and the buttons will both be made of wood
+3645
+3679
+ed3645 Nice 3646 beautiful 3647 mahogany 3648 redwoods 3649 cases 
+agnes3653 Buttons 3654 would 
+agnes3657 buttons 3659 would 3660 say 3661 over 
+christine
+christine3665 not 3666 think 
+sridhar3670 not 3671 think 
+christine3673 No 3675 think 3677 could 3679 rubber 
+---------------------------
+49
+Around
+Sridhar summarises the conclusions - simple design until a price to include a display is known - and requests a prototype be constructed
+Ed summarises the conclusions - simple design until a price to include a display is known - and requests a prototype be constructed
+3709
+3757
+sridhar3709 stick 3713 simple 3714 design 3716 coming 3717 into 3719 egg 3720 find 3723 know 3725 much 3727 cost 3729 extra 3730 think 3731 if 3733 go 3736 display 
+sridhar3737 Okay 
+sridhar3739 maybe 3742 can 3748 few 3750 can 3751 come 
+sridhar3756 product 3757 right
+
+---------------------------
+50
+Here
+Sridhar expects Ed to find prices on displays
+Sridhar expects Christine to find prices of displays
+3774
+3849
+sridhar3774 hope 3779 okay 3780 if 3784 come 3788 prototype 3789 design 
+sridhar3790 Okay 3791 then 3793 can 3794 show 3798 looks 3799 like 3801 then 3803 can 3805 submitted 
+sridhar3809 some 3810 into 3812 management 
+sridhar3813 Okay 
+sridhar3814 Then 3815 mean 3819 can 3820 come 3824 price 3827 much 3829 cost 3831 extra 3835 display 
+christine3837 marketing 3838 strategy 
+sridhar3842 might 3844 sturdy 3847 important 3848 okay 
+ed3849 Okay 
+---------------------------
+51
+Around
+Sridhar informed the participant that once they had come up with a prototype design he would submit it to management
+Sridhar informed the participant that once they had come up with a prototype design he would go ahead and manufacture it
+3774
+3812
+sridhar3774 hope 3779 okay 3780 if 3784 come 3788 prototype 3789 design 
+sridhar3790 Okay 3791 then 3793 can 3794 show 3798 looks 3799 like 3801 then 3803 can 3805 submitted 
+sridhar3809 some 3810 into 3812 management
+---------------------------
+52
+Around
+ed's job before next meeting is to find the price of displays and work on a marketing strategy
+christine's job before next meeting is to find the price of displays and work on a marketing strategy
+3814
+3848
+sridhar3814 Then 3815 mean 3819 can 3820 come 3824 price 3827 much 3829 cost 3831 extra 3835 display 
+christine3837 marketing 3838 strategy 
+sridhar3842 might 3844 sturdy 3847 important 3848 okay
+---------------------------
+53
+Here
+Sridhar thanked the participants for their efforts and attending the meeting.
+Sridhar concluded the meeting without a word of recognition or appreciation.
+3908
+3926
+sridhar3908 thanks 3910 all 3913 efforts 
+sridhar3915 coming 3918 meeting 3919 again 
+sridhar3922 c.s 
+sridhar3925 Okay 
+sridhar3926 thank
+---------------------------

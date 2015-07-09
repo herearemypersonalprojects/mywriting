@@ -1,0 +1,47 @@
+/*
+ * http://code.google.com/p/meetingbrowser/
+ * 
+ * Algorithm for extracting the text fragments containing candidate answers
+ * 1) Find list of non-content words on Internet
+ * 		+ Stopwords are words which, because of their frequent use in the database, are not searchable.
+ * 		+ Algorithm to find stopwords: 
+ * 				Collect a large set of documents
+ * 				The word appear in most of all documents will be stopword
+ * 
+ * 		- WordNet Stop List 
+ * 		- English stop words in the van Rijsbergen book http://www.dcs.gla.ac.uk/idom/ir_resources/linguistic_utils/stop_words
+ * 		- English stop words at the website of Cornell ftp://ftp.cs.cornell.edu/pub/smart/english.stop
+ * 		- Onix Text Retrieval Toolkit - Stop Word List 1 http://www.lextek.com/manuals/onix/stopwords1.html
+ * 		- Ovid Technologies, Inc - Stopwords List http://www.library.ubc.ca/ovidweb/webhelp/ref/stops.htm
+ * 		- Lexical Resources http://www-a2k.is.tokushima-u.ac.jp/member/kita/NLP/lex.html
+ *   		
+ * 2) Convert number into words in both question and transcript
+ * 3) Substitute abbreviation words by complete words (haven't = have not,..)  
+ * 4) Extract keywords from question (make weight for each keyword)
+ * 5) Extract keywords from transcript
+ * 6) Build question pattern by combining the synonym words and stemmed words from WordNet 
+ * 		(Lenin AND (became OR become) AND ...)
+ * 7) Define the size of window, introduire list of snippets into Lucene
+ * 8) Search by Lucene, if it does not return any document, the question
+ * pattern is relaxed by cutting one keyword which is the less weight
+ * 9) Evaluate list of snippets following ordre given by Lucene in order to give the best snippet
+ * 		- The distance between keywords is mesured with the number of non-content words between them
+ * 		- The most important is the first three snippets in the list given by Lucene
+ * 10) Combine some small techniques in order to improve the algorithm
+ * 			- Search by name
+ * 			- Search by type of question: DATE, MEASURE, PERSON, LOCATION, ...	  
+ * 11) Analyse the best snippet in order to assess the question
+ * 		- How adequate a candidate snippet is with respect to a given question
+ * Remarques:
+ * 1) Even try to use stop-words
+ * 2) Build myself a list of stop-words or a list of pre-specified keywords can be defined (ACLD_MLMI-2008.pdf)
+ * 3) Question -> Question Analyzer -> Query -> Passage Retriever -> Passages -> Answer Extractor -> Answer
+ * 4) Test for both using of stemming and non-stemming version of algorithm\
+ * 5) Lucene uses Snowball for stemming 
+ * 6) Lucene has an WordNet module for anonyms
+ * 7) Lucene query: (jakarta OR apache) AND website 
+ */
+ 
+1)  Transcript -> | word | stem | position | speaker | synonyms |
+
+2) List of non-stop words

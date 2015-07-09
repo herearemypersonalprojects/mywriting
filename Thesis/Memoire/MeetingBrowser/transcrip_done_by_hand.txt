@@ -1,0 +1,1219 @@
+andrei  0 hi 
+denis  1 hi 
+mirek  2 hello 
+agnes  3 hello 
+andrei  4 hi 5 everyone 
+denis  8 do 9 not 10 know 11 if 12 you 13 all 14 received 18 agenda 21 meeting 
+denis  22 do 23 you 24 no 
+mirek  25 no 27 have 28 not 
+denis  29 here 
+mirek  32 thank 33 you 
+andrei  35 have 36 not 
+denis  39 goal 41 today 
+denis  44 have 45 two 46 goals 
+denis  48 first 51 decide 53 movie 57 next 58 projection 60 our 61 movie 62 club 
+denis  64 you 65 know 71 last 72 friday 75 month 77 april 
+denis  79 you 80 probably 81 remember 83 movie 84 already 85 projected 88 lawrence 90 arabia 92 apocalypse 93 now 95 february 97 amadeus 98 from 99 milos 100 forman 102 march 
+denis  105 question 108 open 
+denis  112 going 114 select 116 movie 117 from 119 nineties 121 which 122 movie 
+denis  126 first 127 goal 128 decide 131 movie 134 projected 
+denis  136 second 137 goal 141 discuss 144 ad 145 advertising 146 poster 148 our 150 club 
+denis  151 because 153 noticed 156 last 157 time 158 not 159 enough 160 people 161 came 164 projection 
+denis  
+denis  168 wh 169 who 170 wants 172 start 
+denis  176 guess 177 you 178 all 179 prepared 180 some 181 docents 184 selection 186 movie 
+agnes  187 yes 
+andrei  188 yes 
+denis  189 ok 
+agnes  190 yes 
+andrei  192 who 193 who 194 has 195 what 196 actually 197 maybe 
+agnes  199 have 200 got 202 powerpoint 203 presentation 
+denis  204 ok 
+andrei  205 uhhuh 
+andrei  206 what 207 do 208 you 209 have 210 mirek 
+mirek  211 ok 213 have 215 powerpoint 216 presentation 
+mirek  
+mirek  221 there 223 some 224 reviews 230 think 231 like 232 seven 233 movies 
+andrei  234 uhhuh 
+andrei  237 have 241 just 244 piece 246 paper 248 some 249 suggestions 
+andrei  250 what 252 you 253 denis 
+denis  254 yes 256 have 257 also 260 piece 262 paper 265 my 266 favourite 267 movie 
+andrei  268 uhhuh 
+denis  269 ok 
+andrei  271 should 273 start 276 two 277 presentations 278 maybe 
+denis  279 presentation 280 yes 
+andrei  281 yes 
+denis  282 ok 
+denis  
+denis  284 agnes 286 can 287 start 289 you 
+agnes  290 sure 
+agnes  292 not 294 long 296 any 297 case 
+denis  298 ok 299 here 
+agnes  302 yes 
+denis  304 pass 306 one 
+agnes  307 yes 
+agnes  308 ok 
+agnes  310 what 313 thinking 315 basically 317 previous 318 movies 321 had 322 which 323 you 324 have 325 already 326 mentioned 329 agenda 331 lawrence 333 arabia 334 apocalypse 335 now 337 amadeus 339 fairly 340 historical 341 serious 342 dramatic 344 also 345 actioney 346 movies 347 except 349 maybe 350 amadeus 
+agnes  352 month 355 thinking 357 selecting 358 something 360 more 363 present 364 time 365 still 366 dramatic 367 but 368 slightly 369 less 370 serious 
+agnes  372 what 374 would 375 propose 377 something 380 thriller 382 mystery 
+agnes  385 know 388 lot 390 people 391 find 392 mystery 394 not 396 mysterious 399 movies 400 these 401 days 403 kind 405 can 406 predict 407 what 408 gonna 409 happen 410 but 413 nineties 414 there 416 some 417 movies 419 did 420 have 421 surprise 422 endings 425 people 426 came 428 saying 429 ok 430 did 431 not 432 see 434 coming 
+agnes  437 thought 439 could 440 maybe 441 show 442 one 444 those 
+agnes  446 even 447 if 448 people 449 have 450 already 451 seen 453 movie 455 lot 458 times 459 you 460 go 461 back 463 watch 465 movie 466 again 468 you 469 pick 470 up 472 things 474 you 475 did 476 not 478 notice 480 first 481 time 482 around 484 you 485 see 486 where 488 clues 491 what 492 led 493 up 496 end 
+agnes  499 more 500 along 502 lines 504 what 507 thinking 
+agnes  510 two 512 particular 515 would 516 propose 
+agnes  518 next 519 slide 520 please 
+agnes  522 usual 523 suspects 526 sixth 527 sense 
+agnes  529 do 530 not 531 know 532 if 533 you 534 have 535 seen 536 any 538 them 
+agnes  541 usual 542 suspects 544 directed 546 bryan 547 singer 549 written 551 christopher 552 mcquarrie 
+agnes  554 has 556 fairly 557 large 558 cast 561 not 562 gonna 563 read 564 all 566 them 567 but 569 main 570 characters 572 kevin 573 spacey 575 gabriel 576 byrne 
+agnes  579 basically 581 five 582 criminals 583 who 584 get 585 set 586 up 
+agnes  588 arrested 590 released 591 from 592 prison 595 get 596 together 598 plan 600 crime 602 basically 604 story 606 told 607 through 609 views 611 one 614 suspects 
+agnes  616 tag 617 line 619 kind 621 neat 622 five 623 criminals 624 one 625 lineup 626 no 627 coincidence 629 you 630 get 631 told 633 story 637 these 639 characters 641 being 642 controlled 644 one 645 sort 647 ubervillain 651 end 652 you 653 find 654 who 656 ubervillain 
+agnes  660 kind 662 like 665 quote 666 from 667 rolling 668 stone 669 magazine 671 usual 672 suspects 675 freshest 676 funniest 
+denis  677 which 678 which 679 one 682 again 
+denis  684 guy 685 who 687 controlling 
+denis  689 do 690 not 691 remember 693 have 694 seen 696 movie 697 twice 698 but 
+agnes  702 ha 
+agnes  703 have 704 you 705 guys 706 seen 708 movie 
+andrei  709 no 711 have 712 not 713 seen 
+mirek  715 no 717 have 718 not 
+denis  721 bald 722 guy 
+agnes  726 not 727 gonna 728 give 729 away 
+agnes  730 you 731 want 732 me 734 give 735 away 737 movie 
+denis  738 no 739 no 
+agnes  742 spoil 
+denis  744 ok 
+agnes  747 tell 748 you 749 later 
+agnes  750 but 753 quote 754 from 755 rolling 756 stone 758 fairly 759 accurate 761 think 763 one 766 freshest 767 funniest 769 scariest 770 crime 771 thrillers 773 come 774 along 775 since 776 pulp 777 fiction 
+agnes  780 other 781 movie 784 sixth 785 sense 788 famous 789 line 791 see 792 dead 793 people 794 which 796 little 797 boy 798 says 
+agnes  801 written 803 directed 806 night 808 shyamalan 810 stars 811 bruce 812 willis 813 haley 814 joel 815 osment 817 toni 818 collette 820 again 821 has 823 neat 824 twist 826 you 827 find 829 right 832 end 
+denis  833 yes 836 bit 837 more 838 commercial 840 one 842 first 843 one 
+agnes  844 yes 
+agnes  845 yes 847 sixth 848 sense 851 commercial 852 but 
+agnes  853 anyways 
+andrei  856 what 857 what 862 second 863 image 866 slide 
+andrei  871 poster 
+agnes  875 poster 878 sixth 879 sense 880 but 881 unfortunately 883 could 884 not 885 find 887 clear 888 big 889 enough 890 one 
+andrei  891 has 895 has 897 strange 898 format 899 horizontal 
+agnes  901 yes 
+agnes  902 yes 906 think 908 only 909 part 912 full 913 yes 915 goes 918 all 921 se 922 all 925 senses 
+andrei  926 oh 929 one 930 two 931 three 932 four 933 five 934 six 
+agnes  935 if 936 you 937 go 940 next 941 slide 942 there 943 slightly 944 more 945 detailed 946 things 949 movies 
+agnes  952 usual 953 suspects 956 hundred 958 five 959 minutes 960 long 964 decent 965 length 967 time 
+agnes  969 has 972 rating 975 do 976 not 977 remember 978 what 979 type 981 audience 983 had 986 last 988 shows 989 but 991 may 992 not 993 necessarily 995 suitable 997 kids 
+denis  1000 what 
+agnes  1005 sort 1007 if 1008 you 1009 eighteen 1011 under 1012 you 1013 have 1015 have 1017 adult 1019 you 
+denis  1020 ok 
+andrei  1023 means 1024 restricted 1025 uhhuh 
+agnes  1027 mostly 1029 violence 1030 yes 1032 restricted 
+denis  1033 restricted 
+agnes  1035 got 1037 eight 1038 point 1039 seven 1042 ten 1045 internet 1046 movie 1047 database 
+agnes  1050 sixteenth 1053 top 1055 two 1056 hundred 1058 fifty 1059 movies 1061 fourth 1064 top 1065 movies 1068 nineties 
+agnes  1070 won 1072 couple 1074 academy 1075 awards 1076 notably 1078 best 1079 writing 1084 script 1086 best 1087 actor 1089 kevin 1090 spacey 
+denis  1091 but 1092 wait 
+denis  1095 have 1097 top 1098 ten 1099 from 1101 nineties 
+denis  1102 no 1104 top 1105 fifty 
+denis  1108 fourth 
+agnes  1109 yes 1110 fourth 1113 top 1114 movies 1117 nineties 
+denis  1118 oh 1119 sorry 1120 sorry 1121 yes 1122 yes 1123 yes 
+agnes  1124 sixteenth 1127 top 1128 two 1129 hundred 1131 fifty 1133 think 1135 all 1136 time 
+andrei  1137 yes 1138 because 1139 your 1140 table 1142 only 1144 nineties 1145 yes 
+denis  1146 from 1147 yes 1148 yes 1149 yes 
+agnes  1150 yes 
+mirek  1151 nineties 1152 yes 
+agnes  1155 won 1156 lots 1158 awards 1160 won 1161 best 1162 film 1163 from 1165 british 1166 british 1167 film 1168 association 1170 british 1171 equivalent 1174 academy 1175 awards 
+agnes  1178 nominated 1180 best 1181 foreign 1182 film 1185 cesar 
+mirek  1187 plenty 1189 awards 1192 could 1193 say 
+denis  1194 but 1195 but 1196 sixteenth 1198 top 1199 two 1200 hundred 1201 fifty 1203 what 1204 two 1206 all 1207 all 1208 days 
+agnes  1209 plenty 1211 awards 1212 yes 
+andrei  
+agnes  1215 think 1217 all 1218 time 1219 yes 
+mirek  1221 all 1223 movies 1224 yes 1225 yes 
+denis  1226 all 1227 times 
+agnes  1228 yes 
+agnes  
+mirek  1231 still 1232 good 1233 actually 
+denis  1234 ok 
+agnes  1235 yes 
+denis  1236 but 1237 those 1238 rating 1240 more 1241 like 1245 nber 1247 votes 1248 no 
+andrei  
+agnes  1251 yes 1253 ratings 1255 viewers 
+denis  1257 votes 
+mirek  1262 users 
+andrei  1263 no 
+andrei  1264 no 1265 actually 1266 if 1267 you 1268 look 1270 your 1271 tables 
+andrei  1273 think 1276 sort 1280 average 1281 between 1282 nber 1284 votes 1289 yes 1292 rating 1296 marks 
+denis  1297 yes 
+denis  1299 rating 
+andrei  1300 because 1301 there 1304 your 1305 table 1306 you 1307 have 1309 things 1311 have 1313 few 1314 votes 1315 but 1316 still 1318 ranked 1319 quite 1320 high 
+denis  1321 yes 
+agnes  1322 yes 1323 like 1324 memories 
+andrei  1326 instance 1327 nber 1328 twenty 1329 four 1330 which 1331 has 1332 only 1333 four 1334 thousand 1335 votes 
+denis  1336 yes 1337 yes 
+mirek  
+agnes  1339 yes 1341 forty 1342 four 1345 which 1346 has 1347 seven 1348 hundred 1350 forty 1351 something 1352 votes 
+andrei  1353 but 1354 yes 
+mirek  1357 definitely 1358 just 1360 average 1363 rating 
+denis  1365 yes 
+mirek  1366 ok 1369 nber 1372 votes 1374 there 1375 just 1378 information 1381 you 1382 know 1385 reliable 1386 yes 
+andrei  1387 yes 
+andrei  1388 maybe 1390 just 1392 search 1394 compensated 1396 bit 1399 nber 1401 people 
+mirek  1402 yes 
+andrei  1405 do 1406 not 1407 know 1408 actually 
+andrei  1409 because 1410 if 1411 you 1412 have 1413 just 1414 ten 1415 votes 1417 yes 1418 probably 1420 not 1423 database 
+mirek  1424 ok 
+mirek  1425 ok 1426 then 1427 you 1428 yes 
+mirek  1429 then 1430 yes 1431 yes 1432 yes 1433 yes 1434 sure 
+agnes  1435 yes 
+andrei  1437 but 1438 yes 1439 anyway 1441 has 1442 excellent 1443 votes 
+denis  1444 ok 1445 yes 
+agnes  1446 yes 
+andrei  1447 have 1448 not 1449 seen 1451 but 
+agnes  1452 yes 
+agnes  1455 good 1456 movie 1459 highly 1460 recoend 
+agnes  1464 would 1465 not 1466 mind 1467 seeing 1469 again 1470 because 1472 do 1473 know 1475 ending 1478 have 1479 not 1480 been 1481 able 1483 watch 1485 again 1487 see 1488 where 1490 hints 1494 scattered 1495 across 1497 movie 1498 cause 1499 apparently 1500 there 1502 hints 1505 who 
+mirek  
+denis  1509 ah 1510 now 1512 remember 
+andrei  1513 oh 
+agnes  1514 yes 1515 ok 
+mirek  1516 yes 
+denis  1517 yes 
+denis  1518 actually 1519 there 1521 one 1522 guy 1523 who 1528 police 1529 station 1532 ask 1533 him 1535 tell 1537 story 1538 yes 1539 yes 
+agnes  1540 yes 
+agnes  1544 one 1545 telling 1547 story 1548 yes 
+agnes  1549 there 1550 him 1554 guy 1557 burn 1558 unit 
+andrei  1559 yes 
+mirek  1561 what 1564 second 1565 movie 
+agnes  1567 second 1568 movie 1571 sixth 1572 sense 
+mirek  1573 yes 1574 sixth 1575 sen 
+agnes  1576 again 1578 fairly 1579 short 
+agnes  1581 has 1583 easier 1584 rating 1586 pg 1587 thirteen 1589 much 1590 less 1591 violent 
+agnes  1593 got 1595 eight 1596 point 1597 one 1600 ten 1603 hundred 1605 first 1608 top 1609 two 1610 hundred 1612 fifty 1615 nineteenth 1617 your 1618 list 1620 think 1621 if 1623 not 1624 mistaken 
+agnes  1625 yes 1627 nineteenth 
+agnes  1628 got 1630 fair 1631 nber 1633 votes 1634 too 1635 ninety 1636 six 1637 thousand 
+agnes  1638 again 1641 nominated 1644 lot 1646 different 1647 academy 1648 awards 1650 did 1651 not 1652 win 1653 any 1654 but 1656 got 1658 lot 1660 buzz 1663 lot 1665 people 1666 liked 
+agnes  1669 those 1671 my 1672 two 1673 selections 1676 you 1677 can 1678 see 1680 plot 1683 boy 1684 who 1685 counicates 1687 spirits 1689 do 1690 not 1691 know 1692 when 1694 dead 1695 seeks 1697 help 1700 disheartened 1701 child 1702 psychologist 1704 figure 1706 why 1708 seeing 1709 what 1711 seeing 1713 what 1715 means 
+denis  1716 both 1717 movies 1719 quite 1720 similar 1722 some 1723 way 1724 because 1726 last 1727 sentence 1730 totally 1731 contradictory 1734 whole 1735 movie 
+agnes  1738 yes 
+agnes  1739 yes 
+andrei  1741 last 1742 sentence 1743 from 1745 movie 1747 oh 
+denis  1748 yes 1750 last 1751 sentence 1752 from 1754 movie 
+agnes  1755 yes 
+andrei  
+agnes  1758 only 1759 right 1760 right 1763 end 1764 where 1765 you 1766 find 1769 what 1770 going 1774 makes 1775 you 1776 rethink 1777 everything 1779 happened 1780 beforehand 
+denis  1781 yes 
+agnes  1783 those 1784 would 1786 my 1787 two 1788 suggestions 1792 ar 1795 slightly 1796 more 1797 coercial 1800 leas 1802 sixth 1803 sense 1805 than 1807 other 1808 ones 1810 have 1811 seen 1812 but 
+andrei  1814 these 1815 guys 1817 actually 1818 nominated 
+andrei  1822 bottom 1823 part 1825 your 1826 slide 1827 actually 
+agnes  1828 yes 
+andrei  1830 says 1831 yes 
+andrei  1833 these 1836 best 1837 awards 1839 had 
+agnes  1840 yes 1845 nominated 1848 lot 1850 different 1851 awards 1853 did 1854 not 1855 win 
+andrei  1856 ok 
+andrei  1857 too 1858 bad 
+agnes  1859 but 1861 guess 1863 comp 1865 ca 1866 not 1867 remember 1868 what 1870 competition 1873 year 1874 but 
+andrei  1876 there 1878 just 1879 one 1880 winner 
+andrei  1882 uhhuh 
+agnes  1886 nominated 1889 lot 1891 them 
+agnes  1893 yes 
+denis  1894 ok 
+agnes  1897 think 1900 unless 1901 you 1902 have 1903 any 1904 questions 
+andrei  1905 ok 
+denis  1906 you 1907 have 1909 last 1910 slide 1912 no 
+agnes  1913 yes 
+mirek  1916 ok 1917 now 1918 you 1919 can 1920 go 1923 my 1924 slides 
+denis  1925 ok 
+mirek  1926 but 1927 actually 1928 what 1930 pre 1931 what 1933 have 1934 prepared 1936 just 1938 kind 1941 review 1943 fo 1945 se 1946 six 1948 seven 1949 movies 
+mirek  1950 if 1951 you 1952 ca 1953 can 1954 go 1957 second 1958 slide 
+agnes  1959 you 1960 sent 1961 your 1962 slides 1963 around 1964 right 
+mirek  1965 yes 1966 basically 1967 seven 1968 movies 1975 top 1976 movies 1978 based 1984 ra 1985 ranking 1989 awards 1990 awards 
+agnes  1991 yes 
+mirek  1992 you 1993 see 1996 names 1999 movies 2006 wall 
+mirek  2009 can 2010 perhaps 2011 go 2012 through 2013 all 2015 them 2018 can 2019 little 2020 bit 2021 discuss 
+mirek  2026 have 2029 did 2030 not 2031 see 2032 all 2034 them 2035 actually 
+mirek  2038 just 
+mirek  2040 should 2041 probably 2042 select 2043 one 2045 these 2046 because 2048 think 2050 these 2053 good 2054 movies 2057 ok 2060 see 
+mirek  2062 if 2063 you 2064 can 2065 go 2066 through 2068 ok 
+denis  2069 ok 
+mirek  2074 first 2075 movie 2082 more 2083 like 2085 drama 
+mirek  2093 high 2094 ranked 
+mirek  2096 actually 2097 you 2098 have 2101 nicer 2102 list 2103 because 2106 can 2107 even 2108 see 2110 nber 2113 votes 
+denis  2114 yes 2115 one 2116 hundred 2120 one 2121 hundred 2122 forty 2123 thousand 
+mirek  2125 what 2128 nber 2131 people 
+andrei  2132 yes 2134 think 2135 your 2136 table 2139 clear 2140 denis 
+mirek  2141 finally 2143 found 2144 actually 2145 your 2146 table 2147 much 2148 better 2149 than 2150 my 2151 than 2152 my 2153 presentation 2154 because 2155 perhaps 2156 here 2158 can 2160 can 2162 see 2164 mean 
+denis  2165 no 2167 do 2168 not 2169 have 2171 plot 2176 movie 
+mirek  2179 what 2182 ranking 
+mirek  2184 ha 2185 did 2186 not 2187 have 2189 plot 2190 yes 
+denis  2191 ok 2192 but 2193 maybe 2195 can 2196 wh 2197 who 2198 has 2199 seen 2201 movie 
+mirek  2202 yes 2203 who 2204 has 2205 seen 2207 movie 
+agnes  2208 no 2210 have 2211 not 
+mirek  2212 because 2213 then 2214 perhaps 2215 someone 2216 can 2217 give 2218 some 2219 some 2220 coent 
+andrei  2221 no 2223 have 2224 not 
+agnes  2226 have 2227 heard 2229 lot 2231 good 2232 things 2236 have 2237 heard 2241 powerful 2242 movie 2243 but 2245 have 2246 not 2247 seen 
+denis  
+andrei  2251 yes 
+denis  2253 think 2257 have 2258 seen 2260 actually 2261 but 
+andrei  2263 what 2266 name 2268 french 2269 cause 
+denis  2271 have 2272 no 2273 idea 
+andrei  2274 uhhuh 2276 yes 
+denis  2281 jail 2282 right 2284 taking 2285 yes 
+agnes  2286 yes 2288 set 2291 jail 
+denis  2293 do 2294 not 2295 remember 2298 movie 
+andrei  2299 yes 
+andrei  2301 actually 2302 your 2303 third 2304 slide 2305 has 2307 plot 
+mirek  2310 yes 2313 one 
+andrei  2314 yes 
+mirek  2317 one 2324 wall 
+denis  2325 yes 
+agnes  2326 yes 
+mirek  2328 projected 2329 yes 
+andrei  2330 oh 2331 yes 2332 exactly 2333 yes 
+denis  2334 ok 2335 ok 
+andrei  2337 yes 2339 guy 2341 jailed 2342 ok 
+andrei  2343 uhhuh 
+denis  2345 ok 
+mirek  2349 ge 2350 ok 2352 no 2353 one 2355 us 2356 saw 2358 movie 2362 case 2363 perhaps 2366 little 2367 bit 2368 danger 2370 select 2372 movie 
+andrei  2377 ok 
+denis  2378 yes 2380 let 
+andrei  2381 yes 
+mirek  2383 play 2386 schindler 2387 list 
+mirek  2388 who 2389 saw 
+agnes  2391 me 
+denis  2392 yes 2394 have 2395 seen 2397 also 
+mirek  2399 saw 2403 think 2409 one 2412 nice 
+andrei  2413 yes 2415 have 2416 not 2417 seen 2419 heard 2422 but 
+mirek  2425 you 2426 know 2427 all 2429 all 2431 you 2432 knows 2435 story 
+andrei  2437 yes 
+andrei  2438 yes 
+mirek  2441 quite 2442 hi 2444 quite 2445 high 2446 ranked 
+mirek  2449 think 2452 not 2454 bad 2455 movie 
+mirek  2458 thinking 2459 whether 2460 there 2462 some 2463 good 2464 occasion 2466 something 2467 what 2468 has 2469 happened 2470 recently 
+mirek  2471 there 2473 something 2474 like 2476 celebration 2479 fifty 2480 years 2481 after 2483 war 2485 something 2486 recently 2487 no 
+andrei  2489 think 2490 there 2493 celebration 2496 sixty 2497 years 2498 from 2500 liberation 2503 camps 2504 actually 
+denis  2505 sixty 2507 sixty 2508 years 
+mirek  2509 no 
+mirek  2511 sixty 2512 yes 2515 ca 2516 not 2518 fifty 2519 sure 
+andrei  2520 because 2523 liberated 2524 beginning 2525 forty 2526 five 
+mirek  2529 yes 
+andrei  2531 yes 2533 not 2534 bad 
+andrei  2537 also 2539 think 2542 good 2543 idea 2546 least 2547 from 2548 my 2549 point 2551 view 2553 coherent 2556 previous 2557 films 
+andrei  2558 like 2559 history 2560 im 2561 major 2562 events 
+denis  2563 yes 2564 yes 2566 right 2567 yes 
+mirek  2569 true 
+andrei  2571 do 2572 not 2573 know 2574 if 2576 want 2578 keep 2580 coherence 2582 change 2583 radically 2584 but 2585 maybe 
+agnes  2588 fairly 2589 emotional 2590 movie 2591 though 
+andrei  2592 yes 2594 yes 2596 think 2599 drawback 
+agnes  2602 one 2603 thing 2605 keep 2607 mind 
+denis  2611 but 2612 then 2614 not 2615 representative 2618 nineties 
+denis  2620 more 2622 movie 2625 story 2629 horror 2633 endured 2636 jewish 2637 during 2639 second 2640 world 2641 war 
+agnes  2642 yes 2643 but 2644 amadeus 2646 not 2648 representative 2651 eighties 2652 either 
+denis  2653 yes 2654 right 
+andrei  2658 seventeen 2659 eighties 
+agnes  2660 yes 2662 according 2664 your 2665 thing 2667 nineteen 2668 eighty 2669 four 
+mirek  2671 yes 2672 yes 2673 yes 2674 yes 
+andrei  2675 yes 
+andrei  2676 maybe 2678 representative 2681 style 2684 eighties 2686 do 2687 not 2688 know 
+andrei  2691 amadeus 2692 but 
+denis  2694 yes 2695 yes 
+andrei  2698 do 2699 not 2700 know 2701 but 
+mirek  2702 but 2703 even 2704 here 2706 would 2707 not 2710 say 2716 style 2718 representative 2721 nineties 2722 right 
+agnes  2724 no 
+andrei  2725 yes 2726 hard 2728 tell 
+mirek  2729 ok 2730 but 2732 anyway 2734 think 2739 good 2740 movie 2742 like 2744 when 2746 saw 2750 ok 
+agnes  2754 good 2755 movie 2756 yes 
+denis  2757 ok 2759 steven 2760 steven 2761 spielberg 
+mirek  2765 one 2768 candidates 2770 defini 2771 yes 
+mirek  2772 steven 2773 spielberg 2776 quite 2778 good 2781 director 
+agnes  2782 yes 
+mirek  2786 would 2787 say 2790 could 2791 think 
+denis  2794 ok 
+mirek  2797 would 2798 keep 2802 candidate 2804 least 
+agnes  2805 yes 
+mirek  2808 second 2809 one 
+denis  2810 ok 2812 usual 2813 suspect 2814 do 2816 want 2818 say 2819 something 2820 again 
+mirek  2824 no 
+mirek  2826 think 2828 can 2829 just 2830 skip 2832 slide 
+denis  2834 come 2836 coming 2837 third 
+denis  2839 your 2840 list 
+agnes  2841 yes 
+mirek  2843 yes 
+mirek  
+denis  2846 fourth 2848 agnes 2852 my 2853 list 2854 but 2856 ok 
+denis  2857 ah 2858 you 2860 you 2861 selected 2862 some 2863 movies 2864 no 
+denis  2865 you 2866 did 2867 not 2868 take 2870 six 2871 first 
+mirek  2873 strange 2874 what 2877 rating 
+andrei  2878 yes 2880 funny 2881 actually 
+mirek  2882 perhaps 2884 has 2885 changed 
+andrei  2886 because 2888 your 2890 your 2891 slides 2892 actually 2894 ratings 2896 eight 2897 point 2898 seven 2900 both 
+mirek  2902 higher 
+andrei  2903 no 2905 have 2907 same 2908 usual 2909 suspects 2911 pulp 2912 fiction 2913 both 2916 eight 2917 point 2918 seven 
+andrei  2919 but 2921 denis 2922 table 2925 one 2928 eight 2929 point 2930 six 
+agnes  2931 but 2933 gets 2934 updated 2935 daily 
+mirek  2937 gets 2938 updated 
+andrei  2939 who 2940 knows 2941 maybe 2942 people 2943 voted 2946 yes 
+mirek  2947 yes 2948 yes 2951 did 2954 did 2957 wednesday 
+agnes  2958 yes 
+andrei  2959 could 2960 have 2961 changed 2964 meanwhile 
+denis  2966 me 2968 tuesday 2969 probably 
+andrei  2970 though 2972 one 2973 hundred 2975 thousand 2976 votes 2978 should 2979 not 2980 change 2981 too 2982 much 
+mirek  2983 yes 
+andrei  2985 mean 2986 given 2988 nber 2990 votes 2992 wonder 
+andrei  2993 but 2994 anyway 2998 may 2999 change 3001 think 3002 yes 
+mirek  3005 probably 3006 has 3007 changed 
+andrei  3009 ok 
+mirek  3011 becomes 3012 more 3013 popular 3014 no 3015 po 3017 yes 3018 yes 3019 yes 
+denis  3020 ok 
+andrei  
+andrei  3023 encouraging 
+denis  3024 do 3026 have 3027 something 3029 add 3032 movie 
+agnes  3034 no 
+andrei  3035 no 
+denis  3036 ok 
+agnes  3037 wait 3039 many 3041 us 3042 saw 3043 schindler 3044 list 
+agnes  3045 three 3047 us 
+agnes  3048 did 3049 you 3050 see 
+agnes  3053 just 3054 trying 3056 keep 3057 track 3060 many 3062 us 3063 have 3064 seen 
+mirek  3066 schindler 3067 list 
+denis  3068 yes 
+agnes  3069 you 3070 have 
+mirek  3072 saw 3075 saw 
+agnes  3077 you 3078 have 
+denis  3079 yes 
+agnes  3080 you 3081 have 3082 not 
+andrei  3083 have 3084 not 
+andrei  3088 have 3089 seen 3091 few 3092 movies 3093 from 3095 list 3097 ten 3101 first 3102 fifty 
+mirek  
+denis  3105 why 3106 you 3110 movie 3111 club 3113 see 3114 more 3115 movies 
+andrei  3116 ok 3117 yes 
+mirek  3118 ok 3119 pulp 3120 fiction 
+mirek  3123 think 3125 again 3126 quite 3128 hi 3129 high 3130 ranked 
+mirek  3132 but 3133 from 3134 my 3135 perspective 3136 everyone 3137 already 3138 saw 
+mirek  3140 who 3142 interested 3145 movie 3147 saw 
+mirek  3149 wh 3150 who 3152 not 3153 interested 3156 movie 3159 did 3160 not 3161 see 3166 would 3167 not 3169 like 3171 see 3176 our 3177 movie 3178 club 
+mirek  3181 think 3183 should 3186 should 3187 just 3188 leave 3189 skip 3193 leave 
+mirek  3198 would 3199 not 3200 think 3205 candidate 3206 even 3207 if 3210 good 3211 movie 3212 but 3214 do 3215 not 3216 know 3218 think 
+denis  3220 why 3221 not 
+denis  3223 quite 3224 representative 3227 nineties 3229 think 
+denis  3232 structure 3235 movie 3237 interesting 
+denis  3240 think 3243 first 3244 scene 3246 actually 3248 same 3249 scene 3252 last 3253 scene 3254 no 
+denis  3255 there 3258 kind 3260 loop 3263 movie 
+agnes  3265 ca 3266 not 3267 remember 
+mirek  3268 yes 3269 yes 3270 there 3272 ple 3275 think 3276 there 3279 plenty 3281 loops 3282 actually 3283 plenty 
+denis  3285 yes 
+mirek  3287 fully 3288 agree 3290 you 3291 can 3292 see 3294 movie 3295 three 3296 times 3297 perhaps 3298 three 3299 times 3303 fourth 3304 time 3305 see 3306 you 3307 still 3308 discover 3309 something 3310 new 
+denis  3311 yes 3312 yes 
+denis  3314 agree 3315 also 3316 yes 
+mirek  3317 but 3321 other 3322 hand 3324 have 3326 impression 3331 you 3332 know 3333 every 3334 everyone 3335 saw 3339 quite 3341 known 3344 woul 3346 wou 
+denis  3348 you 3349 have 3350 you 3351 have 3352 seen 
+andrei  3354 yes 3356 have 3357 seen 3360 one 
+denis  3361 ok 
+mirek  3362 yes 
+andrei  3365 like 3368 much 
+agnes  3371 have 3372 all 3373 seen 
+denis  3377 soundtrack 3381 gorgeous 3382 also 3383 no 
+andrei  3385 have 3386 actually 3387 seen 
+agnes  3390 what 
+denis  3392 soundtrack 
+agnes  3394 have 3395 not 3397 do 3398 not 3399 remember 3401 soundtrack 
+denis  3402 no 
+mirek  3403 me 3404 neither 
+andrei  3407 plenty 3410 known 3411 songs 3413 you 3414 know 3416 twist 3417 thing 
+denis  3419 yes 3420 yes 
+mirek  3422 what 3423 do 3424 you 3425 think 
+mirek  3428 would 3429 not 3430 think 3435 candidate 3436 because 3438 seems 3440 me 
+andrei  3442 oh 3444 would 3445 keep 3449 candidate 3450 but 
+andrei  3452 do 3453 not 3454 know 3456 think 3459 moment 
+andrei  3462 guess 3463 most 3465 these 3467 candidates 3471 try 
+denis  3476 vote 3479 end 3481 you 3482 want 
+andrei  3484 yes 3486 should 3487 probably 3488 vote 3489 after 3490 everyone 
+agnes  3491 yes 3493 mean 3494 if 3495 there 3496 something 3498 none 3500 us 3501 like 3503 can 3504 just 3505 eliminate 3507 but 3509 might 3512 leave 3513 everything 3514 till 3516 end 
+mirek  3517 vote 3520 best 3521 yes 3522 yes 
+andrei  3523 yes 
+denis  3524 ok 
+andrei  3525 yes 
+mirek  3526 when 3527 going 3528 through 3532 could 3533 just 3534 eliminate 
+mirek  3535 ok 3539 not 3540 gonna 3541 eliminate 3543 one 
+mirek  3545 goodfellas 3547 did 3548 not 3549 see 
+agnes  3551 no 
+andrei  3552 no 
+denis  3553 no 
+mirek  3554 no 
+mirek  3555 but 3556 you 3557 can 3558 read 3560 coent 3561 from 3563 users 3569 last 3571 bullet 3572 point 3575 says 3577 simply 3579 masterpiece 3584 scorsese 3585 last 3587 great 3588 movie 3590 date 
+denis  3591 ah 3593 scorsese 
+agnes  3594 yes 
+denis  3597 yes 3598 again 3600 movie 3604 mafia 3605 no 
+mirek  3606 mafia 3607 yes 
+agnes  3608 yes 3611 gangster 3612 movie 
+denis  3615 robert 3616 de 3617 niro 
+denis  3619 who 3623 two 3624 other 3625 guys 
+agnes  3626 ray 3627 liotta 
+denis  3630 cannot 
+mirek  3632 ca 3633 not 3634 recognise 3635 them 3636 from 3638 picture 
+mirek  3640 picture 3642 not 3644 good 3645 quality 
+agnes  3646 joe 3647 pesci 3649 think 3650 maybe 
+denis  3651 ah 3652 joe 3653 pesci 3654 yes 
+denis  3660 right 3661 you 3662 mean 
+agnes  3664 think 
+agnes  3665 yes 3668 right 
+denis  3669 yes 
+agnes  3672 guy 3675 left 3677 ray 3678 liotta 
+andrei  3680 you 3681 you 3682 recognise 3683 them 3685 you 3686 can 3687 read 3690 text 3693 images 
+agnes  3695 recognise 3696 them 
+andrei  3697 oh 3698 ok 
+agnes  3701 movie 3702 buff 3704 know 3705 way 3706 too 3707 much 3709 movies 3711 actors 3713 everything 
+andrei  3714 huh 
+denis  3719 exact 3720 same 3721 actors 3722 who 3723 played 3725 another 3726 mafia 3727 movie 3730 cannot 3731 rememb 3732 les 3733 affranchis 3737 name 3739 french 
+denis  3740 no 
+agnes  3741 what 
+denis  3747 mafia 
+agnes  3751 descriptive 
+denis  3753 why 3755 tha 3757 why 3759 did 3760 not 3761 go 3763 see 3765 one 
+denis  3767 quite 3770 seems 3772 me 3774 all 3777 same 3778 subject 3781 same 3783 do 3784 not 3785 know 
+mirek  3789 movie 3790 from 3791 nineties 
+andrei  3792 yes 
+mirek  3794 one 3796 you 3797 saw 3799 you 3800 mentioned 
+denis  3801 probably 3802 yes 
+mirek  3803 yes 
+denis  3804 ok 3806 nobody 3807 seen 
+andrei  3810 ok 
+andrei  3811 no 3812 yes 3814 probably 3815 not 
+mirek  3817 no 
+agnes  3818 no 
+mirek  3819 silence 3822 lambs 
+denis  3824 ok 
+mirek  3825 should 3827 tell 3828 something 3829 more 
+mirek  3830 godfather 3832 all 3833 thrillers 3835 what 3837 what 3839 says 
+mirek  3842 what 3843 some 3845 user 3846 says 
+mirek  3849 ok 3852 little 3853 bit 3854 horror 3857 think 3859 quite 
+agnes  3865 little 3866 bit 
+mirek  3868 definitely 3869 not 3871 kids 3873 but 3875 if 3877 kids 3879 not 3880 visitors 3882 our 3883 cinema 3884 why 3885 not 
+agnes  3886 ok 
+agnes  3887 yes 
+mirek  
+mirek  3889 one 3890 have 3892 rethink 3893 when 3894 when 3895 when 3896 you 3898 watching 3900 movie 3901 you 3902 have 3904 think 3908 scaring 
+mirek  3910 why 3911 not 
+denis  3916 psychopathic 3917 killer 
+denis  
+denis  3919 what 3922 again 3924 plot 3926 mea 
+mirek  3930 fbi 3931 agent 3933 assigned 3936 help 3938 find 3941 missing 3942 woman 3945 save 3946 her 3949 her 3950 from 3952 psychopathic 3953 killer 3956 help 3958 another 3959 killer 
+agnes  3962 other 3963 killer 3965 hannibal 3966 lecter 3967 who 
+andrei  
+mirek  3969 yes 
+andrei  3970 who 3973 prison 3974 actually 
+denis  3978 jail 3981 still 3982 killing 
+agnes  3983 yes 3986 jail 3989 real 3990 no 
+mirek  3994 prison 3995 yes 
+andrei  3996 yes 
+andrei  3997 no 3998 no 
+andrei  4000 tries 4002 decrypt 4006 other 4007 killers 4008 behaviour 
+denis  4009 ah 4010 ok 4011 yes 4012 yes 
+agnes  4014 tries 4016 help 4018 fbi 4019 agent 4020 but 4022 plays 4023 head 4024 games 4027 fbi 4028 agent 4031 same 4032 time 
+mirek  4036 psychotic 4037 man 
+andrei  4038 yes 4040 not 4042 nasty 4043 ones 
+agnes  
+andrei  4047 does 4050 do 4051 not 4052 know 
+agnes  4054 her 
+agnes  4056 manages 4058 freak 4059 her 
+andrei  4061 yes 
+andrei  4062 yes 4064 basically 4066 point 4067 yes 
+agnes  
+agnes  4069 hannibal 4070 lecter 
+andrei  4077 picture 4078 you 4079 can 4080 see 4082 jodie 4083 foster 4086 ha 4087 ha 
+denis  4088 yes 
+andrei  4092 moth 
+agnes  4094 moth 
+denis  4095 who 4096 playing 4098 ps 4099 psychopath 4100 again 
+denis  4102 do 4103 not 
+agnes  4104 which 4106 one 4107 who 4109 jail 4112 one 4113 who 
+denis  4114 yes 
+andrei  4115 anthony 4116 hopkins 
+agnes  4117 anthony 4118 hopkins 
+mirek  4119 anthony 
+denis  4120 ok 4121 yes 
+andrei  4123 other 4124 one 4126 do 4127 not 4128 remember 
+andrei  4130 do 4131 not 4132 see 4133 any 4135 see 4136 him 4138 often 
+agnes  4140 do 4141 not 4142 either 
+mirek  4143 no 
+mirek  4144 but 4146 plays 4149 good 
+andrei  4150 but 
+mirek  4152 anthony 4153 hop 4154 hopkins 4157 plays 4160 good 4162 good 4163 yes 
+agnes  4164 yes 4166 scary 4169 movie 
+andrei  4170 yes 
+mirek  
+andrei  4172 but 4174 plot 4176 quite 4177 horrible 
+andrei  4179 mean 4181 not 4183 plot 4184 but 4186 what 4189 active 4190 killer 4191 wants 4193 do 4195 quite 4196 horrible 
+mirek  
+agnes  4199 yes 4201 vaguely 4202 remember 4203 what 4206 but 
+denis  4207 ok 
+andrei  4208 ok 
+agnes  4210 many 4212 us 4213 have 4214 seen 
+agnes  4217 guessing 4218 you 4219 have 4220 not 4221 seen 
+denis  4225 no 4227 have 4228 seen 4230 actually 4231 twice 4233 think 
+agnes  4234 ok 
+andrei  4235 yes 4237 have 4238 seen 
+andrei  4241 think 4243 have 4244 seen 4247 second 4248 time 4250 tv 4251 but 4252 maybe 4253 not 4254 entirely 
+agnes  4256 have 4258 all 4259 seen 
+mirek  4262 have 4264 have 4265 see 4267 have 4268 seen 4270 but 4272 ca 4273 not 4275 remember 4276 exactly 4278 all 4280 details 
+agnes  4281 ok 4284 have 4285 all 4286 seen 
+agnes  4289 ca 4290 not 4291 either 4292 cause 4294 saw 4296 right 4297 when 4299 came 
+denis  4304 probably 4305 begin 
+mirek  
+mirek  4309 long 4310 time 4311 ago 4313 from 4314 ninety 4315 one 
+agnes  4317 came 4319 when 4320 ninety 4321 one 4322 yes 
+denis  4323 ninety 4324 one 
+mirek  4325 ninety 4326 one 4327 yes 
+mirek  4331 saw 4333 when 4336 like 4337 twelve 4339 thirteen 
+agnes  
+agnes  4341 yes 4342 me 4343 too 
+mirek  4345 perhaps 4347 would 
+agnes  4352 age 4355 like 
+andrei  4357 much 4358 too 4359 young 
+denis  4360 yes 
+denis  4361 ok 4362 american 4363 beauty 4367 coming 4368 next 4369 seven 4371 quite 4372 quite 4373 nice 4374 actually 
+mirek  4375 yes 4376 could 4377 you 4378 go 4381 next 4382 slide 
+agnes  4383 yes 4387 good 4388 yes 
+denis  4389 ah 4391 actually 4392 there 
+agnes  4393 yes 
+mirek  4394 yes 4396 here 4399 actually 4400 my 4401 last 4402 slide 
+denis  4404 why 4405 you 4406 choose 4407 you 4408 choose 4409 seven 4410 movie 
+mirek  4412 do 4413 not 4414 know 4415 because 4417 nicely 4422 thinking 4423 perhaps 4426 not 4427 able 4429 go 4430 through 4431 more 4433 them 
+denis  4434 ok 
+andrei  4435 indeed 
+mirek  
+mirek  4438 american 4439 beauty 
+mirek  4442 can 4443 perhaps 4444 read 4446 little 4447 bit 4449 user 4450 coent 4451 if 4452 you 4453 want 4456 yes 
+mirek  4457 you 4458 can 4459 read 4461 plot 4462 outline 4469 projector 
+mirek  4470 but 4472 basically 4473 deep 4474 wonderful 4476 penetrating 4477 movie 4478 extraordinary 4480 irony 4486 psychological 4487 drama 4489 american 4490 life 
+denis  4491 yes 4493 definitely 4495 american 4496 life 
+agnes  4497 yes 
+agnes  4498 suburban 4499 life 
+denis  4502 kind 4504 crude 4506 critique 4507 but 4511 other 4512 way 4514 quite 4515 poetic 4518 yes 
+agnes  4519 there 4521 lot 4524 true 4525 things 
+mirek  4528 poetic 
+denis  4529 yes 4530 you 4531 know 4535 way 4537 filming 
+agnes  4539 yes 
+denis  4541 do 4542 not 4543 know 4545 found 4547 pretty 
+mirek  4548 ok 4550 way 4552 filming 4553 perhaps 4554 but 
+andrei  4557 have 4558 not 4559 seen 4561 but 4563 would 4564 like 4566 see 
+denis  4569 no 4573 quite 4575 interesting 
+agnes  4576 yes 
+denis  4578 yes 
+agnes  4580 much 4581 less 4582 dark 4583 than 4585 other 4586 movies 4588 have 4591 list 
+denis  4594 depends 
+andrei  4597 not 4599 violent 
+agnes  4602 not 4605 dark 4606 but 4607 no 
+denis  4608 ah 4609 no 4612 not 4613 violent 4615 all 
+andrei  4616 ah 4617 ok 4618 great 
+agnes  4619 no 
+denis  4620 but 4621 more 4623 more 4625 cr 4627 cr 4629 critique 4632 quite 4633 crude 4634 because 4635 all 4637 people 4640 movie 4644 psychopath 4646 their 4647 own 4648 way 
+agnes  4649 but 4650 not 4651 like 4652 violent 4653 cutting 4654 people 4656 pieces 4657 psychopaths 4659 just 4660 everyone 4661 has 4662 their 4663 own 4664 issues 
+denis  4666 but 4669 normal 4670 people 4671 then 
+andrei  4672 ok 4673 yes 
+andrei  4674 uhhuh 
+denis  4675 yes 
+andrei  4677 what 4682 picture 4686 girl 
+andrei  4688 do 4689 you 4690 see 4691 naked 4692 people 4695 movie 
+denis  4697 actually 4698 there 4704 what 4706 fifty 4707 years 4708 old 4709 man 4711 quit 4713 job 4715 fall 4717 love 4720 best 4721 friend 4724 daughter 
+agnes  4725 no 
+andrei  4729 sex 4731 something 4732 like 
+agnes  
+agnes  4736 hi 4738 daughter 4740 like 4741 teenage 4742 daughter 
+andrei  4743 ah 4744 ok 
+agnes  4748 best 4749 friend 4752 fantasises 4754 her 
+mirek  4756 yes 
+andrei  4757 supposedly 4758 ok 
+denis  4759 yes 4762 good 4763 movie 
+andrei  4764 uhhuh 
+andrei  4765 ok 
+denis  4766 ok 
+mirek  4769 my 4770 last 4771 slide 4774 yes 4775 yes 4776 yes 4779 think 4780 ok 4781 why 4782 not 
+denis  4783 you 4784 have 4785 seen 4787 mirek 
+mirek  4789 seems 4791 me 4793 perhaps 4795 schindler 4796 ok 4797 definitely 4798 schindler 4799 schindler 4800 list 4802 perhaps 4803 more 4804 serious 4805 topic 4807 sure 
+mirek  4808 but 4811 depends 4813 depends 4814 what 4816 want 
+mirek  4817 do 4819 want 4821 people 4823 more 4824 like 4826 relaxed 4828 our 4830 our 4831 cinema 4834 more 4835 interested 4837 some 4838 particular 4839 things 
+mirek  4840 what 4841 do 4842 you 4843 think 4845 mean 4846 what 4847 should 4851 should 
+mirek  4853 what 4854 should 4857 influence 4861 influencing 4863 people 4866 cinema 
+denis  4868 think 4871 want 4872 them 4875 see 4876 movies 4879 wo 4880 not 4881 see 4882 oth 4883 otherwise 4884 but 4886 not 4887 sure 4888 then 4890 quite 4891 popular 4893 movie 4895 selected 
+mirek  4897 what 4898 do 4900 want 
+andrei  4901 yes 4903 think 4906 mixture 4908 bringing 4909 new 4910 things 4912 them 4913 but 4914 also 4915 making 4916 them 4917 enjoy 4919 show 4923 come 4925 our 4926 movie 4927 club 
+andrei  4929 yes 4931 think 4933 should 4934 not 4935 maybe 4936 do 4938 mainstream 4939 movies 4940 but 
+andrei  4942 ok 4944 list 4945 here 4947 quite 
+agnes  4949 see 4951 do 4952 not 4953 know 4954 what 4956 mainstream 4958 europe 
+andrei  4959 yes 
+agnes  4960 like 4961 all 4963 these 4964 movies 4967 mainstream 4969 me 
+andrei  4970 yes 4972 think 4973 also 4974 if 4975 you 4976 look 4979 nber 4981 votes 4982 here 
+agnes  4983 but 
+denis  4984 if 4989 top 4990 fifty 4993 quite 4994 mainstream 4995 but 
+andrei  
+andrei  4998 yes 
+andrei  5000 regarding 5001 denis 5002 table 5004 would 5005 say 5006 given 5009 site 5011 do 5012 not 5013 know 5014 if 5016 mainly 5017 american 5018 but 5021 would 5022 say 
+agnes  5025 has 5026 other 5027 movies 5028 but 5030 think 5032 predominantly 
+denis  5035 think 5036 there 
+andrei  5039 yes 5041 think 5042 yes 5044 english 5045 speaking 5046 anyway 5049 though 
+denis  5051 there 5053 chinese 5054 movies 5055 english 5056 movies 
+andrei  5057 yes 5058 but 5059 if 5060 you 5061 look 
+agnes  5063 no 5064 there 5065 movies 5066 from 5067 everywhere 5068 but 
+andrei  5069 yes 
+andrei  5070 but 5072 would 5073 say 5074 mainstream 5077 ones 5079 have 5080 more 5081 than 5082 whatever 5083 sixty 5084 thousand 5085 votes 
+andrei  5087 you 5088 can 5089 see 5090 some 5091 more 5093 confidential 5094 films 5096 have 5097 like 5098 ten 5099 thousand 5100 twenty 5101 thousand 5102 like 5103 princess 5104 mononoke 5105 twenty 5106 thousand 5109 whatever 5112 kieslowski 5114 eleven 5115 thousand 5117 trois 5118 coleurs 5119 rouge 
+denis  5122 quite 5124 lot 5126 kieslowski 5127 actually 
+denis  5130 surprised 5132 see 
+andrei  5133 yes 5135 not 5136 bad 5138 all 5139 yes 
+denis  5140 yes 5141 yes 
+andrei  5143 yes 5144 anyway 5145 if 5146 you 5147 want 5149 definition 5151 mainstream 5153 whatever 
+agnes  5154 yes 
+denis  5156 festen 5157 also 5161 quite 5162 high 
+denis  5166 do 5167 not 5168 know 5169 if 5170 you 5171 have 5172 seen 5174 one 
+andrei  5175 yes 
+agnes  5176 no 5178 have 5179 never 5180 even 5181 heard 
+denis  5186 celebration 5188 think 
+denis  5192 movie 5193 from 5195 swedish 5196 guy 
+andrei  5199 danish 5201 think 5204 dogma 5205 movement 
+denis  5206 danish 
+denis  5207 dogma 5208 movies 5209 yes 
+andrei  5210 yes 
+denis  5211 lars 5212 von 5213 trier 
+andrei  5214 yes 
+agnes  5215 oh 5216 ok 
+denis  5217 yes 
+denis  5218 ok 5219 can 5221 discuss 5223 your 5224 docent 5225 maybe 
+andrei  5226 yes 5227 let 
+andrei  5229 yes 
+andrei  
+mirek  5233 maybe 5234 can 5236 ask 5237 you 5242 list 5244 movies 
+andrei  5245 actually 5247 have 5248 made 5250 have 5251 made 5252 photocopies 
+denis  5253 yes 
+andrei  5255 have 5256 them 5257 denis 5260 all 5262 you 
+denis  5263 ok 
+denis  5264 ok 
+andrei  5265 actually 5268 tried 5270 propose 5271 just 5272 one 5273 movie 5275 some 5276 alternates 
+agnes  5277 thank 5278 you 
+mirek  5280 one 
+andrei  5283 you 5284 want 5285 one 
+mirek  5286 denis 5287 denis 5288 could 5289 you 5290 give 5291 me 5294 list 5299 top 5300 fifty 5301 yes 
+denis  5302 yes 5303 sure 
+mirek  5304 but 5305 you 5306 have 5307 your 5308 own 5309 copy 5310 then 
+denis  5311 yes 
+mirek  5312 ok 5313 good 5314 thank 5315 you 
+andrei  5317 my 5318 proposal 5319 which 5321 only 5323 proposal 5324 would 5328 keep 5330 focus 5333 more 5335 less 5336 history 5338 action 
+andrei  5340 lawrence 5342 arabia 5344 ok 5347 guy 5348 during 5350 first 5351 world 5352 war 
+andrei  5355 happens 5356 ok 5357 outside 5358 europe 5361 states 5362 but 5366 piece 5368 history 
+andrei  5370 apocalypse 5371 now 5374 vietnam 5375 if 5377 correct 
+andrei  5379 ok 5380 amadeus 5382 much 5384 much 5385 earlier 5388 not 
+andrei  5391 not 5392 violent 5393 which 5396 nice 5397 thing 5399 think 
+andrei  5400 but 5401 given 5404 would 5405 like 5407 movie 5408 from 5410 nineties 5412 thought 5414 saving 5415 private 5416 ryan 
+andrei  5417 oh 5418 thanks 5420 projecting 5422 docent 
+andrei  5423 would 5424 keep 5426 more 5428 less 5430 theme 5433 history 5435 war 5437 action 5438 drama 5439 while 5440 showing 5441 actually 5444 new 5447 would 5448 say 5449 hanistic 5450 view 5453 war 
+andrei  5454 because 5457 not 5458 like 5460 sort 5462 glorification 5465 you 5466 know 5468 good 5469 guys 5474 go 5475 against 5477 nazis 5478 but 
+andrei  5485 plot 5486 actually 5487 if 5488 you 5489 do 5490 not 5491 know 
+andrei  5495 people 5496 looking 5498 just 5499 one 5500 soldier 5502 fact 
+andrei  5508 family 5510 four 5511 brothers 5512 who 
+andrei  5513 actually 5514 three 5516 them 5517 get 5518 killed 5519 during 5521 war 5523 these 5524 days 5526 forty 5529 guess 5530 suer 5531 forty 5532 four 
+andrei  5538 government 5539 decides 5542 need 5544 get 5545 back 5547 fourth 5548 brother 5549 just 5551 save 5552 one 5553 member 5556 family 
+andrei  5560 guy 5562 private 5563 ryan 
+andrei  5566 movie 5568 not 5570 killing 5572 germans 5574 whatever 
+andrei  5577 saving 5579 least 5580 one 5581 guy 5582 from 5584 family 
+andrei  5586 but 5588 course 5591 setting 5593 during 5595 war 5599 realistic 5603 dramatic 5605 fact 
+andrei  5608 not 5610 all 5612 glorification 5614 war 5615 but 5617 just 
+andrei  5620 shows 5622 bit 5625 violence 5629 things 
+andrei  5631 especially 5634 beginning 5638 think 5640 great 5644 violent 5645 but 5649 image 5652 war 
+denis  5655 yes 
+agnes  5660 violent 
+denis  5662 quite 5663 horrible 5664 actually 
+andrei  5665 yes 5666 but 5668 think 5669 if 5671 if 5672 you 5673 compare 
+denis  5676 yes 
+denis  5677 mirek 5678 you 5679 did 5680 not 5681 see 
+mirek  5688 saw 5694 trying 5696 remember 5698 beginning 5701 normandy 5702 landing 
+agnes  5704 landing 5705 yes 
+andrei  5707 yes 5710 landing 5712 actually 5713 every 5714 more 5716 less 5717 everyone 5718 gets 5719 killed 
+mirek  5721 ok 5722 yes 5723 yes 5724 yes 5725 yes 5726 yes 5730 horrible 
+denis  5731 yes 
+agnes  5732 yes 
+agnes  5735 not 5737 movie 5739 kids 5740 like 
+denis  5741 but 5745 piece 5747 art 5748 because 5750 used 5751 something 5752 like 5753 one 5754 hundred 5755 camera 5757 film 
+mirek  5760 yes 
+andrei  5761 oh 5764 did 5765 not 5766 know 
+andrei  5767 but 5768 yes 5769 actually 5773 filmed 5777 realistic 
+agnes  5778 yes 
+denis  5779 yes 
+andrei  5782 do 5783 not 5784 know 5785 if 5786 you 5787 compare 5790 do 5791 not 5792 know 5794 lawrence 5796 arabia 5798 think 5800 have 5801 some 5802 battles 5804 camels 5806 know 5809 nice 5810 someone 5811 falls 5812 somewhere 5813 there 5816 you 5817 know 5819 like 5820 battles 5822 look 5823 nice 
+denis  5824 yes 5826 quite 5828 yes 
+andrei  5829 but 5831 one 5832 does 5833 not 5834 look 5835 nice 
+mirek  5836 no 5837 not 5839 all 
+andrei  5842 think 5846 also 5847 maybe 5848 representative 5851 nineties 
+andrei  5852 you 5853 know 5854 people 5855 starting 5857 get 5859 more 5861 realistic 5862 view 5867 war 
+andrei  5868 but 5870 true 5874 bit 5875 violent 5878 what 5880 put 5881 here 
+andrei  5884 bit 5885 long 5886 too 5888 nearly 5889 three 5890 hours 
+andrei  5891 but 5894 do 5895 not 5896 know 5897 apocalypse 5898 now 5900 quite 5901 long 5902 too 5904 think 
+agnes  5905 yes 
+denis  5906 yes 
+denis  5909 there 5911 two 5912 there 5914 two 5915 versions 5917 think 5919 but 5921 but 5923 yes 5925 projected 5927 longer 5928 one 
+andrei  5931 do 5932 not 5933 remember 
+agnes  5934 yes 5936 redux 5937 version 5939 longer 
+agnes  5940 yes 
+andrei  5941 yes 
+andrei  5944 won 5946 five 5947 oscar 5948 prizes 5950 best 5951 director 5953 steven 5954 spielberg 
+andrei  5955 best 5956 cimena 5957 cinematography 5958 etcetera 
+denis  5961 many 5962 times 5964 spielberg 5965 received 5967 best 5969 director 5970 oscar 
+agnes  5972 think 5973 just 5974 once 
+andrei  5978 do 5979 not 5980 know 
+denis  5981 not 5984 schin 5985 schindler 5986 list 
+agnes  5989 oh 5990 maybe 5992 did 
+denis  5994 et 
+agnes  5995 no 5997 et 5999 did 6000 not 
+denis  6002 won 6005 won 
+agnes  6009 not 6010 until 6012 started 6013 doing 6014 things 6015 like 6016 schindler 6017 list 6019 saving 6020 private 6021 ryan 6024 actually 6025 started 6026 winning 6027 awards 6029 them 
+andrei  6030 oh 
+denis  6031 no 6033 won 6036 et 6038 won 6040 cannes 6042 what 6045 palme 6046 dor 
+agnes  6047 did 
+agnes  6049 oh 6050 ok 6051 yes 
+denis  6052 yes 
+agnes  6054 did 6055 not 6056 know 
+andrei  6058 ok 
+andrei  6060 yes 6064 point 6068 bit 6069 grey 
+andrei  6071 actually 6072 if 6073 you 6074 look 6076 my 6077 second 6078 page 
+andrei  6082 trivia 6084 found 6088 fact 6091 actually 6092 reduced 6095 colour 6096 saturation 6099 movie 
+andrei  6100 just 6102 make 6104 look 6105 maybe 6107 bit 6108 like 6110 docentaries 6111 from 6113 time 
+denis  6117 interesting 6119 read 6120 yes 
+andrei  6121 yes 6125 surprised 6127 find 
+denis  6131 but 6132 then 6136 read 
+andrei  6142 turned 6143 back 6145 colours 
+denis  6149 where 
+agnes  6153 reenhanced 6155 colour 6156 yes 
+denis  6159 turned 6160 back 6162 yes 
+mirek  6163 because 6164 people 6165 start 6167 complain 6172 there 6175 problem 6178 tv 6179 when 6182 broadcasting 6184 movie 6187 tv 
+andrei  6189 yes 
+agnes  6193 their 6194 tvs 6196 not 
+andrei  6197 yes 
+andrei  6201 fact 6202 nber 6203 two 6205 think 6206 obviously 6209 mean 6210 technical 6211 people 6212 like 6213 us 6219 quite 6220 funny 
+mirek  6223 interesting 6224 point 6225 interesting 6226 point 
+andrei  6228 yes 6232 mean 6233 these 6234 four 6235 points 6236 could 6237 serve 6238 also 6241 introduction 6242 if 6243 you 6244 want 6246 talk 6248 fo 6250 fi 6251 five 6253 ten 6254 minutes 6255 before 6257 movie 6259 do 6260 not 6261 know 6265 room 
+andrei  6268 yes 6270 tha 6272 would 6274 my 6275 candidate 6276 but 6279 much 6280 open 
+denis  6283 then 6284 then 6285 there 6289 there 6292 hero 6294 mean 6299 nonhero 6302 all 6304 other 6305 stu 6306 stories 6310 previous 6311 movies 6312 there 6317 hero 6318 lawrence 6320 arabia 6322 amadeus 
+denis  6323 apocalypse 6324 now 6326 also 6327 nonhero 6329 think 6330 but 6332 but 6333 here 6335 do 6336 not 6337 remember 6339 actually 6341 tom 6342 hanks 6344 hero 
+agnes  6347 yes 
+andrei  6348 yes 6352 yes 6355 picture 6356 actually 6357 yes 6359 tom 6360 hanks 
+andrei  6362 fact 6363 you 6364 you 6365 do 6366 not 6367 see 6369 private 6370 ryan 6371 until 6373 end 6374 more 6376 less 6378 you 6379 see 6380 because 6383 looking 6385 him 
+agnes  6386 yes 6388 two 6389 thirds 6392 way 6393 through 6395 movie 6396 cause 6397 most 6400 movie 6402 them 6403 find 6404 trying 6406 find 6407 him 6410 front 6411 right 
+mirek  6412 yes 6413 but 6416 end 6417 you 6418 can 6419 ref 6420 yes 
+andrei  6421 yes 
+denis  6423 private 6424 ryan 6425 tom 6426 hanks 
+agnes  6427 no 6428 no 
+andrei  6429 no 6430 tom 6431 tom 
+denis  6432 no 6434 not 
+mirek  6435 no 
+denis  6437 trying 6439 find 6440 him 
+agnes  6441 yes 6443 trying 6445 find 6446 him 
+andrei  6447 yes 
+andrei  6450 caption 6451 says 6452 captain 6453 john 6454 miller 
+andrei  6458 if 6459 you 6460 look 6463 caption 
+denis  6464 yes 6465 yes 
+andrei  6466 yes 
+denis  6467 ok 
+andrei  
+agnes  6472 private 6473 ryan 6475 matt 6476 damon 6478 think 6479 yes 
+andrei  6480 yes 
+andrei  6483 private 6485 just 6487 simple 6488 soldier 6489 actually 6490 yes 
+agnes  6491 yes 
+mirek  6494 way 6495 did 6497 fied 6498 dinally 6501 fi 6502 died 6503 finally 6505 not 
+andrei  6507 who 6508 private 6509 ryan 
+mirek  6513 private 6514 ryan 6515 yes 
+andrei  6516 no 6517 no 6519 find 6520 him 6521 actually 6524 send 6525 him 6526 back 6529 family 6530 but 6532 captain 6533 dies 6534 actually 6535 tom 6536 han 
+mirek  6540 remember 6542 remember 6544 found 6545 him 6546 but 
+agnes  6547 yes 
+mirek  6548 ah 6549 ok 6550 yes 6551 yes 6552 yes 
+agnes  6555 him 6558 begin 6560 him 6563 beginning 6566 movie 6572 graveyard 6573 right 
+andrei  
+mirek  6575 because 6577 remember 
+andrei  6578 oh 6579 yes 6581 private 6582 ryan 6583 yes 6584 remembering 6587 beginning 
+agnes  6588 yes 6591 family 6592 yes 
+mirek  6593 because 6595 remember 6600 end 6603 movie 6606 trying 6608 defend 6609 some 6610 bridge 6612 something 6614 there 6615 quite 6616 heavy 6617 shooting 6620 finally 6622 actually 6623 john 6624 miller 6625 who 6626 die 
+andrei  6627 yes 6628 exactly 6629 yes 6631 dies 6632 unfortunately 
+mirek  6633 ok 6634 ok 
+andrei  6636 yes 6637 there 6639 sacrifice 
+mirek  6642 not 6644 private 6645 ryan 
+denis  6648 end 6650 tell 6651 you 6653 truth 6655 did 6656 not 6657 like 6659 much 6661 movie 6662 because 6665 quite 6666 moralistic 6667 because 6668 there 6671 guy 6672 who 6674 who 6675 did 6676 not 6677 kill 6678 german 6679 because 6682 quite 6683 nonviolent 
+denis  6685 because 6687 did 6688 not 6689 kill 6691 german 6693 german 6694 killed 6696 do 6697 not 6698 know 6700 maybe 
+andrei  6701 oh 
+mirek  6702 perhaps 6710 tom 6711 hanks 6712 yes 
+denis  6713 yes 
+mirek  6714 oh 6715 yes 6716 yes 
+denis  6720 like 6721 if 6723 had 6724 killed 
+andrei  6726 yes 6728 german 
+mirek  6729 if 6731 would 6732 kill 6733 him 6735 would 6736 not 6737 die 6739 tom 6740 hanks 6741 would 6742 not 6743 die 
+andrei  6744 uhhuh 6745 yes 
+denis  6746 because 6749 yes 
+andrei  6752 mean 6753 yes 6755 has 6757 moral 6758 dimension 6759 all 6760 over 6762 movie 6763 you 6764 know 6765 saving 6767 individual 6770 guys 
+denis  6771 yes 
+andrei  6773 yes 6776 do 6777 not 6778 know 6780 do 6781 not 6782 know 6784 many 6785 people 6786 have 6787 have 6788 seen 
+andrei  6791 among 6792 you 6794 most 6796 you 6797 actually 
+agnes  6799 have 
+denis  6801 have 
+mirek  6803 have 6804 seen 6807 have 6808 seen 
+andrei  6810 oh 6811 all 6812 ok 6813 all 6815 us 
+andrei  6817 maybe 6819 people 6820 know 6822 quite 
+denis  6824 yes 
+denis  6825 yes 6827 running 
+andrei  6828 yes 
+mirek  6831 time 
+andrei  6832 ok 6834 yes 6837 have 6838 some 6839 other 6840 candidates 
+andrei  6843 first 6844 page 6847 bottom 
+andrei  6850 also 6851 put 6852 pulp 6853 fiction 6856 silence 6859 lambs 6862 also 6864 sort 6866 included 6867 la 6868 vita 6870 bella 
+andrei  6871 but 6873 know 6876 engish 6877 movie 6878 club 6881 guess 6885 bit 6888 purpose 
+mirek  6889 what 6892 movie 6895 la 6896 vita 6898 bella 
+andrei  6899 but 
+andrei  6901 oh 6906 again 6909 camps 6912 second 6913 world 6914 war 
+denis  6915 but 6919 english 6920 no 
+mirek  6921 ahha 
+andrei  6927 family 6929 italians 6930 which 6933 arrives 6934 into 6937 death 6938 camp 
+agnes  6940 do 6941 not 6942 think 6944 no 6948 italian 
+mirek  6949 uhhuh 
+andrei  6952 fact 6954 treated 6957 more 6959 less 6960 horous 6961 mode 
+andrei  6964 father 6965 tries 6967 hide 6968 from 6970 from 6972 boy 6978 death 6979 camp 
+mirek  6980 uhhuh 6981 uhhuh 
+andrei  6986 strange 6988 not 6990 hour 6991 but 6992 relation 6993 between 
+mirek  6999 end 7000 up 7001 what 7004 what 7007 ending 7010 movie 
+andrei  7013 boy 7014 gets 7015 saved 7016 but 7018 father 7019 dies 
+andrei  7020 yes 7023 do 7024 not 7025 know 
+andrei  7028 created 7029 some 7030 controversies 7032 think 7033 because 7034 people 7035 said 7036 you 7037 should 7038 not 7039 do 7040 any 7041 form 7043 hour 7044 related 7047 camps 
+andrei  7048 but 7052 moving 7055 think 7057 anyway 7058 italian 
+mirek  7061 actually 7063 third 7064 movie 7067 second 7068 war 7069 schindler 7070 list 7074 saving 7075 private 7076 ryan 7078 la 7079 vita 7081 bella 
+agnes  7082 yes 
+andrei  7083 yes 7084 yes 
+andrei  7085 ok 7087 denis 
+denis  7088 yes 7091 have 7094 quite 7095 different 7096 movie 7098 propose 7099 you 
+denis  7101 do 7102 not 7103 know 7107 called 7109 big 7110 lebowski 7111 from 7113 joel 7114 coen 
+denis  7115 actually 7118 brothers 7119 you 7120 probably 7121 know 7122 them 
+denis  7124 do 7125 not 7126 know 7128 many 7130 you 7131 have 7132 seen 7134 movie 
+agnes  7135 no 
+andrei  7136 have 7137 not 7138 seen 7140 but 7143 heard 7146 funny 
+denis  7147 no 
+mirek  7148 just 7149 partially 7151 think 
+andrei  7154 have 7155 seen 7156 some 7157 other 7158 films 7162 coen 7163 brothers 
+denis  7164 yes 7166 made 7168 fargo 7169 which 7173 list 
+andrei  7174 yes 7175 which 7178 your 7179 table 
+denis  
+andrei  7183 last 7184 one 7187 one 7189 catherine 7190 zetajones 
+denis  7193 cr 7195 cruel 7196 intentions 7198 something 7199 like 7202 think 
+andrei  7204 crue 7205 crue 
+andrei  7206 yes 7207 something 7209 cruelty 7212 funny 
+denis  7213 ok 7216 do 7217 not 7218 know 7221 going 7223 sell 7224 you 7226 movie 7227 because 7228 actually 7230 plot 7232 impossible 7234 make 7235 because 7237 actually 7239 inspired 7240 from 7242 movie 7243 called 7245 big 7246 sleep 
+andrei  7249 movie 7252 novel 
+denis  7255 actually 7258 where 7260 have 7261 seen 
+denis  7268 movie 7269 from 7270 raymond 7271 chandler 7273 big 7274 sleep 
+denis  
+andrei  7277 no 7278 but 7280 say 7282 raymond 7283 chandler 7284 wrote 7286 novel 
+denis  7287 ah 7288 ok 
+andrei  7289 you 7290 see 7294 last 7295 but 7296 one 7297 paragraph 7299 your 7300 second 7301 page 
+denis  7302 yes 7303 yes 7304 yes 
+denis  7311 novel 7312 ok 
+denis  7313 but 7315 then 7317 story 7318 goes 7320 while 7322 film 7325 production 7327 director 7328 howard 7329 hawks 
+andrei  7331 think 
+denis  7333 ok 7334 ok 7335 you 7336 right 7340 book 
+denis  7341 ok 7349 guy 7350 wh 7351 called 7355 dude 7357 do 7358 not 7359 know 7360 you 7361 pronounce 
+denis  7366 actually 7368 smoking 7369 pot 7371 doing 7372 nothing 7373 just 7375 living 7377 la 
+denis  7382 typical 7383 typical 7384 fellow 7385 from 7387 from 7389 suburb 
+denis  7392 has 7393 some 7394 friends 7396 typical 7397 friends 
+denis  7398 one 7399 one 7403 old 7404 guy 7405 from 7406 coming 7407 back 7408 from 7409 vietnam 7410 obsessed 7412 vietnam 
+denis  7413 another 7414 guy 7415 who 7417 never 7418 speaking 
+denis  7421 all 7422 play 7423 together 7425 bowling 
+denis  
+denis  7428 casting 7431 interesting 7432 there 
+denis  7434 ok 7435 actually 7437 wanted 7439 propose 7440 you 7441 some 7442 posters 7443 related 7446 movie 
+denis  7448 maybe 7451 maybe 7453 going 7455 open 7457 discussion 7460 posters 
+denis  7464 actually 7465 here 7466 you 7470 first 7471 poster 7472 you 7473 can 7474 see 7476 actors 7477 from 7479 movie 
+denis  7481 do 7482 not 7483 know 7484 if 7485 you 7486 know 7487 some 7489 them 
+denis  7491 jeff 7492 bridges 7495 top 7497 goodman 7500 second 7501 one 7505 big 7506 guy 7507 then 7508 turturro 7513 last 7514 one 7516 buscemi 7519 do 7520 not 7521 remember 7523 name 7526 girl 
+agnes  7528 julianne 7529 moore 7531 not 7533 yes 
+denis  7534 yes 7535 julianne 7536 moore 
+andrei  7538 you 7539 wrote 7541 paragraph 7544 poster 
+denis  7548 took 7550 from 7552 do 7553 not 7554 know 7555 where 
+andrei  7558 ok 
+andrei  7559 could 7561 edited 7563 bit 
+denis  7564 actu 
+denis  7565 actually 7567 not 7568 going 7570 sp 7572 describe 7573 much 7574 more 7576 big 7577 lebowski 7578 but 7581 quite 7582 hard 7584 describe 7590 journey 7593 guy 
+denis  7594 but 7598 movie 7599 quite 7600 surrealistic 7602 mean 7603 there 7605 some 7606 part 7609 like 7610 coming 7611 from 7612 dreams 
+mirek  7615 why 7617 movie 7619 called 7621 big 7622 lebowski 7623 why 7625 big 
+mirek  7627 lebowski 7631 family 7632 name 7633 right 
+mirek  7634 but 7635 why 7637 called 7639 big 
+denis  7640 yes 7643 family 7644 name 7647 actually 7648 jeffrey 7649 lebowski 
+denis  7654 there 7658 story 7660 another 7661 lebowski 7663 yes 
+andrei  7664 yes 7665 yes 7666 there 7668 two 7669 lebowskis 7672 film 
+mirek  7673 ok 
+mirek  7675 why 7677 big 7678 lebowski 
+denis  
+mirek  7685 second 7686 one 
+denis  7691 do 7692 not 7693 remember 7694 maybe 7696 just 7699 because 7702 big 7703 sleep 7704 there 
+mirek  7707 uhhuh 
+mirek  7708 ah 7709 ok 7710 ok 7711 uhhuh 
+andrei  7712 yes 7713 there 7714 should 7717 reference 7718 there 
+denis  7720 do 7721 not 7722 know 7724 reference 
+denis  7728 kind 7731 like 7732 american 7733 beauty 7735 some 7736 way 7738 even 7739 worse 
+andrei  7740 yes 
+denis  7742 see 7743 worse 7744 people 
+denis  7747 kind 7751 ethnographic 7752 movie 7754 would 7755 say 7756 but 7761 modern 7762 hero 7765 quite 7766 fun 
+denis  7769 casting 7772 marvellous 
+denis  7780 movie 
+denis  7783 just 7784 wanted 7786 go 7789 design 7792 poster 7793 actually 
+agnes  7795 quite 7796 like 
+denis  7798 because 
+andrei  7799 yes 7801 probably 7803 bit 7804 dark 7807 poster 7808 but 7809 otherwise 7812 nice 
+denis  7813 yes 
+denis  7814 yes 
+denis  7816 idea 7819 also 7821 discuss 7823 content 
+denis  7824 shall 7826 put 7828 suary 7831 movie 7834 plot 
+denis  7837 what 7838 kind 7840 information 7841 do 7843 want 
+denis  7847 first 7848 poster 
+denis  7849 there 7851 also 7853 poster 7854 quite 7855 dark 7856 also 
+denis  7862 do 7863 not 7864 know 7865 if 7866 you 7867 you 7868 cannot 7870 see 7871 but 7873 there 7877 pricing 7878 information 
+denis  7881 said 7883 one 7884 movie 7886 eight 7887 francs 7889 three 7890 movies 7891 eighteen 7892 francs 7895 can 7896 have 7897 annual 7898 subscrip 7899 subscription 7901 sixty 7902 francs 
+agnes  7903 yes 
+denis  7906 wanted 7908 say 7909 some 7910 information 7912 involve 7913 people 7917 committee 7920 if 7922 want 7924 take 7925 part 7928 committee 7930 select 7931 movies 
+agnes  7932 yes 
+denis  7935 what 7936 else 
+denis  7938 some 
+mirek  7940 think 7943 not 7944 bad 7945 because 7947 say 7948 something 7949 little 7950 bit 7952 our 7954 movie 7955 club 
+mirek  7958 yes 7960 big 7961 lebowski 7963 clear 7967 movie 
+mirek  7971 guess 7973 people 7974 can 7975 remember 7980 movie 7982 least 7983 even 7984 if 7986 have 7987 not 7988 see 
+agnes  7990 looks 7991 like 7993 cd 7994 cover 
+mirek  7995 cd 7996 cover 
+denis  7997 yes 7998 actually 8000 idea 8004 yes 8005 there 8009 bottom 8012 scene 8013 from 8014 one 8016 these 8017 dream 8020 big 8021 lebowski 
+agnes  8022 yes 
+andrei  8023 oh 8024 ok 8027 dream 
+denis  8032 first 8033 part 8035 actually 8037 you 8038 see 8040 cowboy 8044 hero 8046 jeffrey 8047 lebowski 8049 dude 
+denis  8052 cowboy 8054 actually 8057 beginning 8060 movie 8064 cowboy 8065 introduces 8067 story 8070 coming 8071 back 8074 end 8077 story 8081 explaining 8082 what 8083 kind 8085 movie 8087 you 8089 going 8092 see 
+agnes  8093 oh 8094 ok 
+andrei  8095 ok 8096 sounds 8098 bit 8099 crazy 
+denis  8101 last 8102 posters 
+andrei  8103 yes 
+denis  8105 same 8106 principle 8107 but 8111 do 8112 not 8113 know 8118 thinking 8120 adding 8121 some 8122 some 8123 cita 8124 quotations 8128 known 8129 directors 
+andrei  8130 uhhuh 
+andrei  8131 yes 
+denis  
+andrei  8135 like 8137 because 8139 not 8141 dark 8144 images 8147 bit 8148 brighter 
+mirek  8149 yes 8150 but 8154 contrary 8156 would 8157 say 8158 there 8160 too 8161 many 8162 colours 8166 difficult 8168 read 
+agnes  8172 actually 8173 do 8174 not 8175 like 
+agnes  8178 looks 8179 like 8180 two 8181 yes 
+agnes  8184 looks 8185 like 8186 two 8187 separate 8188 posters 
+agnes  8189 although 8191 think 8192 you 8193 can 8194 mix 
+andrei  8195 yes 8196 yes 
+agnes  8198 would 8199 keep 8201 format 8204 first 8205 one 8206 add 8208 quotes 8211 content 8212 information 8213 from 8215 second 8216 one 
+andrei  8217 yes 
+mirek  8218 yes 8220 would 8223 best 
+agnes  8225 take 8226 those 8227 take 8228 those 8229 quotes 
+agnes  8230 get 8231 rid 8234 section 8236 text 
+mirek  
+andrei  8238 yes 
+denis  8239 yes 
+agnes  8240 put 8241 those 8242 quotes 8244 there 
+denis  8245 ok 
+agnes  8246 put 8249 information 8250 you 8251 had 8254 second 8255 poster 8258 movie 8259 club 8262 join 8263 kind 8267 middle 
+denis  8268 ok 
+agnes  8270 keep 8272 title 8274 everything 8275 just 8276 slightly 8277 higher 8278 up 
+denis  8279 ok 8281 see 
+andrei  8282 wh 8283 what 8286 brighter 8287 background 8288 because 8290 one 8292 do 8293 not 8294 know 8297 would 8298 show 8301 wall 8303 something 8304 like 
+andrei  8307 does 8308 not 8310 catch 8311 your 8312 attention 
+agnes  8314 think 8316 does 
+andrei  8317 kay 
+denis  8319 yes 
+agnes  8321 think 8323 contrast 8324 between 8328 strip 8330 film 8334 strip 8336 pictures 8338 everything 8339 else 
+andrei  8341 yes 
+andrei  8342 yes 8343 ok 
+denis  8344 ok 8346 see 
+denis  8347 what 8349 wanted 8351 more 8353 less 8355 know 8357 content 8360 movie 8362 what 8364 you 8365 want 8367 have 8370 poster 
+mirek  
+agnes  8372 yes 
+andrei  8373 yes 8374 no 8376 content 8379 good 8382 second 8383 one 
+denis  8385 because 8387 di 
+denis  8389 ok 8392 one 
+agnes  8393 yes 8395 take 8396 all 8399 content 
+andrei  8400 yes 8401 all 8403 information 8406 good 
+mirek  8407 yes 8408 all 8410 information 8412 put 8413 into 8415 first 8416 one 
+agnes  8417 throw 8419 up 8420 into 8422 first 8423 one 
+agnes  8425 then 8426 maybe 8427 add 8429 quotes 8431 you 8432 had 8433 from 8435 from 8437 famous 8438 directors 8439 sort 8443 bottom 8445 something 
+denis  8446 ok 
+andrei  8447 oh 8449 just 8450 one 8452 them 
+mirek  8453 if 8454 if 8456 fit 8457 there 8458 if 8460 fit 8461 there 8462 you 8464 see 
+agnes  8465 yes 
+denis  8466 ok 8467 great 
+denis  8470 think 8471 now 8473 have 8475 decide 8478 movie 
+mirek  
+denis  
+andrei  8481 oh 8482 yes 
+denis  8484 yes 
+denis  
+andrei  8488 would 8489 suggest 
+mirek  8491 big 8492 lebowski 
+andrei  8493 if 8495 not 8496 too 8497 long 8498 maybe 8499 each 8501 us 8502 could 8503 nominate 8504 one 8506 two 8507 movies 
+andrei  8509 make 8511 list 8513 then 8515 vote 
+mirek  8516 ok 8517 good 8518 idea 
+andrei  8519 what 8520 do 8521 you 8522 think 
+denis  8523 yes 
+andrei  8527 who 8528 wants 
+andrei  8530 mirek 8531 what 8532 do 8533 you 8534 nominate 
+mirek  8538 convinced 8541 big 8542 lebowski 
+andrei  8543 you 
+mirek  8546 yes 8547 yes 8550 would 8551 like 8554 yes 8556 least 8558 have 8565 nominees 8566 exactly 
+andrei  8568 ok 
+andrei  8571 nominees 
+andrei  8572 ok 
+andrei  8573 another 8574 nominee 
+agnes  8575 usual 8576 suspects 
+mirek  8579 trying 8581 remember 8582 all 8584 them 
+andrei  8585 ok 8586 agnes 8587 usual 8588 suspects 
+agnes  8589 mainly 8590 because 8591 only 8592 two 8594 us 8595 have 8596 seen 8600 not 8602 mainstream 8603 movie 
+agnes  8606 do 8607 not 8608 think 8610 lot 8612 people 8613 would 8614 have 8615 seen 8618 begin 
+andrei  8620 yes 
+andrei  8622 you 8623 can 8624 nominate 8625 one 8627 two 8632 whatever 
+andrei  8634 would 8635 nominate 8637 ok 8638 my 8639 candidate 8640 saving 8641 private 8642 ryan 
+andrei  8646 happy 8648 your 8649 nominations 8650 too 
+andrei  8653 would 8654 nominate 8655 also 8656 pulp 8657 fiction 8658 because 8662 good 8663 movie 
+andrei  8664 denis 8666 your 8667 yours 8669 already 8670 nominated 8671 but 8672 you 8673 want 
+denis  8675 would 8676 nominate 
+denis  8678 american 8679 beauty 
+andrei  8682 yes 
+denis  
+denis  8686 would 8688 ok 8690 saving 8691 private 8692 ryan 8696 can 
+andrei  8697 ok 8700 already 8703 list 
+mirek  8705 then 8707 still 8708 hesitating 8709 between 8711 schindler 8712 list 8717 silence 8720 lambs 
+mirek  8721 may 8723 nominate 8725 these 8726 all 8727 these 8728 three 8729 movies 8730 big 8731 lebowski 8732 schindler 8733 list 8736 silence 8739 lambs 
+andrei  8740 yes 8741 if 8742 you 8743 want 
+andrei  
+andrei  8747 have 8749 seven 8750 candidates 
+andrei  8751 if 8752 you 8753 have 8755 good 8756 short 8757 term 8758 memory 8760 should 8762 ok 
+agnes  8764 you 8765 reduced 8768 what 8769 two 
+andrei  8770 yes 
+andrei  8773 big 8774 lebowski 8775 usual 8776 suspects 8777 saving 8778 private 8779 ryan 8780 pulp 8781 fiction 8782 american 8783 beauty 8784 schindler 8785 list 8787 silence 8790 lambs 
+andrei  8792 now 8793 let 8794 vote 
+andrei  8795 should 8797 vote 8798 just 8800 one 8801 film 8803 should 8804 each 8806 us 8807 say 8808 give 
+mirek  8810 eliminate 8811 first 8812 eliminate 8813 first 
+denis  8816 can 8817 eliminate 8818 first 8819 one 8820 one 8821 movie 8822 each 8824 then 8828 then 8830 select 
+mirek  8832 sorry 8833 could 8834 you 8835 go 8840 once 8841 again 8842 through 8845 list 8848 movies 8849 because 8851 do 8852 not 
+andrei  8854 ok 
+andrei  8856 big 8857 lebowski 
+mirek  8861 possible 8863 put 8864 them 8872 whiteboard 
+andrei  8873 alright 
+andrei  8875 you 8876 can 8877 write 8879 your 8880 paper 8881 maybe 
+mirek  8882 ok 8883 ok 8886 schindler 8887 list 8889 usual 8890 suspects 8892 silence 8895 lambs 8897 big 8898 lebowski 
+mirek  8899 ok 
+agnes  8900 american 8901 beauty 
+andrei  8904 saving 8905 private 8906 ryan 
+denis  8907 ok 
+mirek  8908 saving 8909 private 8910 ryan 
+agnes  8911 wait 8913 missing 8914 one 
+andrei  
+agnes  8916 what 8919 missing 8920 pulp 8921 fiction 
+mirek  8922 one 8923 two 
+andrei  8924 yes 8925 pulp 8926 fiction 8927 yes 
+agnes  8930 one 8932 them 
+mirek  8933 pulp 8934 fiction 8935 ok 
+agnes  8936 ok 
+denis  8937 ok 
+andrei  8938 ok 8940 each 8942 us 8943 chooses 8944 one 8946 eliminate 
+mirek  8948 have 8949 six 8951 have 8952 six 
+agnes  8954 have 8955 seven 
+denis  8956 yes 
+denis  8959 bit 8960 cruel 8961 but 8965 think 8967 good 8968 way 
+mirek  8970 many 
+mirek  8971 ok 
+andrei  8973 ok 
+mirek  8974 american 8975 beauty 
+andrei  8976 denis 
+denis  8977 me 8979 would 8980 remove 8981 silence 8984 lambs 8985 because 8987 think 8989 too 8990 violent 
+andrei  8991 ok 
+andrei  8994 just 8995 remove 8998 way 
+andrei  9000 would 9001 remove 9002 schindler 9003 list 9004 because 9006 too 9007 sad 
+mirek  9008 ok 
+agnes  9009 ok 
+andrei  9012 not 9014 good 9015 reason 9016 but 
+agnes  9017 pulp 9018 fiction 
+andrei  9019 oh 9020 too 9021 bad 
+mirek  9022 yes 9025 would 9026 eliminate 
+denis  9028 you 9029 have 9031 reason 9035 ok 
+agnes  9037 not 9039 huge 9040 fan 9042 quentin 9043 tarantino 
+mirek  9044 yes 
+agnes  9047 did 9048 not 9049 make 9051 good 9052 impression 
+mirek  9055 would 9056 eliminate 9057 pulp 9058 fiction 9059 actually 9062 if 
+denis  9064 maybe 9065 you 9066 can 9067 eliminate 9068 another 9069 one 9070 you 9071 can 9072 no 
+mirek  9073 another 9074 one 
+andrei  9075 no 9076 no 
+andrei  9079 mean 9080 leave 9081 someth 
+mirek  9082 because 9084 because 9086 would 9088 saving 9089 private 9090 ryan 
+agnes  9092 eliminate 9093 pulp 9094 fiction 
+agnes  9096 gone 
+andrei  9097 ok 
+andrei  9100 left 9103 big 9104 lebowski 9105 usual 9106 suspects 9107 saving 9108 private 9109 ryan 9111 american 9112 beauty 
+andrei  9113 ok 9115 let 9116 vote 9117 just 9118 simply 9120 one 9123 moment 
+andrei  9126 would 9127 vote 9129 american 9130 beauty 9131 because 9133 have 9134 not 9135 seen 
+mirek  9138 vote 9140 big 9141 lebowski 
+agnes  9143 all 9144 gonna 9145 vote 9147 something 9148 different 
+andrei  9150 mirek 9151 big 9152 lebowski 
+andrei  9153 agnes 
+andrei  9154 denis 
+denis  9155 agnes 9156 you 
+agnes  9160 still 9161 like 9163 usual 9164 suspects 9165 but 9167 like 9168 american 9169 beauty 9170 too 
+agnes  
+andrei  
+denis  
+mirek  9174 make 9176 decision 
+agnes  9177 usual 9178 suspects 
+andrei  9179 yes 9180 you 9181 can 9182 choose 
+denis  9183 ok 9184 now 9186 have 9188 if 9190 want 9191 ok 9192 if 9194 want 9196 take 9198 ok 
+agnes  9199 you 9200 have 9202 deciding 9203 vote 
+andrei  9205 you 9207 president 9208 maybe 9209 after 9210 all 
+agnes  9212 yes 
+denis  9213 ok 9217 go 9220 big 9221 lebowski 9222 since 9224 posters 9226 already 9227 ready 
+mirek  9228 already 9229 ready 9230 yes 
+andrei  9231 ok 
+andrei  9232 yes 9234 think 9236 quite 9237 fine 
+agnes  9239 fine 
+mirek  
+agnes  9243 make 9245 good 9246 change 9247 from 9249 other 9250 ones 
+andrei  9255 yes 9257 think 9259 least 9261 funny 9265 nice 
+denis  9266 yes 9268 think 
+andrei  9269 ok 
+andrei  
+mirek  9273 gonna 9276 big 9277 lebowski 
+andrei  9278 decision 
+denis  9279 ok 
+mirek  9280 ok 
+andrei  9282 your 9283 fault 9284 mirek 
+agnes  9285 if 9286 you 9287 do 9288 not 9289 like 9292 your 9293 problem 
+mirek  9294 no 9295 no 9296 no 9297 no 9298 no 9301 like 9304 like 
+andrei  9306 no 9307 no 9308 no 9310 mean 9311 yes 9313 you 9314 voted 
+denis  9319 have 9320 other 9321 anyway 9323 can 9325 decide 9329 next 9330 meeting 9331 maybe 
+andrei  9332 but 9334 quite 9335 happy 9339 have 9340 not 9341 seen 
+agnes  9343 yes 
+andrei  9345 beginning 9347 may 9349 guess 9351 choose 9353 film 9355 may 
+agnes  9356 yes 
+denis  9357 ok 
+andrei  
+mirek  9360 ok 9361 beginning 9363 may 
+mirek  9364 but 9365 there 9367 there 9369 plenty 9371 holidays 9374 beginning 9376 may 9377 no 
+andrei  9378 yes 9380 fifth 9382 ascension 
+andrei  9383 what 9385 going 9386 up 9389 sky 
+mirek  9390 ascension 
+agnes  9391 ascension 
+denis  9392 ok 9397 decide 9398 after 9400 projection 9403 movie 9405 date 9407 ok 
+andrei  9408 yes 9410 can 9411 do 9413 like 9415 tuesday 9416 before 9418 ascension 9421 may 9422 third 
+denis  9423 ok 9424 ok 
+agnes  9425 kay 
+mirek  9426 ok 9427 ok 9428 no 9429 problem 
+andrei  9431 yes 
+mirek  9432 good 
+andrei  9434 thanks 9437 posters 9438 actually 9439 denis 9443 nice 
+denis  9444 you 9445 welcome 
+denis  9446 ok 9447 thank 9448 you 
+agnes  9449 ok 
+andrei  9450 ok 
+denis  9453 see 9454 you 9457 projection 
+andrei  9458 see 9459 you 9461 what 9462 april 9463 twenty 9464 sixth 9466 what 9468 twenty 9469 ninth 
+agnes  9470 ninth 9471 ninth 
+denis  9472 no 9473 twenty 9474 ninth 
+mirek  9475 twenty 9476 nine 
+agnes  9477 yes 9478 twenty 9479 ninth 
+andrei  9480 ok 
+denis  9481 ok 
+mirek  9483 looking 9484 forward 
+mirek  9486 want 9488 see 

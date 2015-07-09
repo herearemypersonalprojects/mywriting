@@ -1,0 +1,40 @@
+8
+
+dir
+1104
+https://svn.webkot.be/svn/mdl3/Daniel4/src/Business/Courtier
+https://svn.webkot.be/svn/mdl3
+
+
+
+2007-12-10T22:17:20.974239Z
+167
+dfeduniak
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a307fbdd-ef3a-0410-9538-fe762898fff4
+
+DB
+dir
+
+Mains
+dir
+
+Data
+dir
+
+Managers
+dir
+

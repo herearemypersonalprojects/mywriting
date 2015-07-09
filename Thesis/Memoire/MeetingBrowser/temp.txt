@@ -1,0 +1,240 @@
+PoS
+5:2: 30.0/40=0.75 : 0.65bat dau 5:2 => Score total = 7.0/10=0.7 : 0
+6:2: 29.0/40=0.725 : 0.6bat dau 6:2 => Score total = 7.0/10=0.7 : 0
+7:6: 30.0/40=0.75 : 0.625bat dau7:6 => Score total = 6.0/10=0.6 : 0
+5:2: 33.0/40=0.825 : 0.6bat dau5:2 => Score total = 4.0/10=0.4 : 0
+5:3: 29.0/40=0.725 : 0.675bat dau5:3 => Score total = 8.0/10=0.8 : 0
+=> average of highest scores: 6.4
+
+5:3: 30.0/40=0.75 : 0.675bat dau5:3 => Score total = 7.0/10=0.7 : 0
+5:3: 28.0/40=0.7 : 0.6bat dau5:3 => Score total = 9.0/10=0.9 : 0
+8:8: 31.0/40=0.775 : 0.625bat dau8:8 => Score total = 5.0/10=0.5 : 0
+5:3: 33.0/40=0.825 : 0.675bat dau5:3 => Score total = 4.0/10=0.4 : 0
+5:3: 29.0/40=0.725 : 0.7bat dau5:3 => Score total = 8.0/10=0.8 : 0
+=> average 6.6
+
+Simple
+8:5: 29.0/40=0.725 : 0.725bat dau8:5 => Score total = 8.0/10=0.8 : 0
+6:1: 30.0/40=0.75 : 0.55bat dau6:1 => Score total = 7.0/10=0.7 : 0
+3:2: 31.0/40=0.775 : 0.575bat dau3:2 => Score total = 5.0/10=0.5 : 0
+5:2: 32.0/40=0.8 : 0.55bat dau5:2 => Score total = 4.0/10=0.4 : 0
+8:6: 31.0/40=0.775 : 0.6bat dau8:6 => Score total = 6.0/10=0.6 : 0
+=> average 6.0
+
+1:1 => passage 33/50.0 = 0.66 => True-false = 32/50.0 = 0.64
+1:1 => passage 56/116.0 = 0.4827586206896552 => True-false = 65/116.0 = 0.5603448275862069
+
+PoS
+8:1: 46.0/92=0.5 : 0.5869565217391305bat dau8:1 => Score total = 12.0/23=0.5217391304347826 : 0
+8:1: 49.0/92=0.5326087 : 0.5bat dau8:1 => Score total = 9.0/23=0.391304347826087 : 0
+7:5: 49.0/92=0.5326087 : 0.5217391304347826bat dau7:5 => Score total = 7.0/23=0.30434782608695654 : 0
+7:2: 48.0/92=0.5217391 : 0.5108695652173914bat dau7:2 => Score total = 7.0/23=0.30434782608695654 : 0
+9:1: 43.0/92=0.4673913 : 0.5217391304347826bat dau9:1 => Score total = 15.0/23=0.6521739130434783 : 0
+=> average 0.43474
+
+8:2: 46.0/92=0.5 : 0.5760869565217391bat dau8:2 => Score total = 11.0/23=0.4782608695652174 : 0
+8:1: 48.0/92=0.5217391 : 0.4891304347826087bat dau8:1 => Score total = 8.0/23=0.34782608695652173 : 0
+8:2: 47.0/92=0.51086956 : 0.532608695652174bat dau8:2 => Score total = 10.0/23=0.43478260869565216 : 0
+8:2: 47.0/92=0.51086956 : 0.532608695652174bat dau8:2 => Score total = 10.0/23=0.43478260869565216 : 0
+9:1: 41.0/92=0.4456522 : 0.5108695652173914bat dau9:1 => Score total = 14.0/23=0.6086956521739131 : 0
+=> average 0.4608
+
+Simple
+8:4: 48.0/92=0.5217391 : 0.5760869565217391bat dau8:4 => Score total = 12.0/23=0.5217391304347826 : 0
+8:1: 48.0/92=0.5217391 : 0.5217391304347826bat dau8:1 => Score total = 10.0/23=0.43478260869565216 : 0
+5:1: 51.0/92=0.5543478 : 0.5543478260869565bat dau5:1 => Score total = 8.0/23=0.34782608695652173 : 0
+3:2: 50.0/92=0.54347825 : 0.5869565217391305bat dau3:2 => Score total = 8.0/23=0.34782608695652173 : 0
+8:4: 45.0/92=0.48913044 : 0.532608695652174bat dau8:4 => Score total = 15.0/23=0.6521739130434783 : 0
+=> average: 0.46082
+
+Examples:
+
+q1 = agnes notes some reasons not have display 
+pass1=tv already have big display right front 
+q2 = agnes tries persuade group should have display 
+pass2=tv already have big display right front
+
+
+
+q1 = andrei denis agree start 
+pass1=uhhuh ok should start distance = 0
+
+q2 = andrei denis disagree first 
+pass2=first fifty movie club distance = 0
+
+
+q1 = agnes begins giving group presentations 
+pass1=powerpoint presentation ok uhhuh have distance = 0
+
+q2 = agnes begins giving group posters 
+pass2=poster poster sixth sense unfortunately distance = 0
+
+
+q1 = agnes states choice influenced theme mystery 
+pass1=would propose something thriller mystery know distance = 0
+
+q2 = agnes states choice influenced theme war 
+pass2=war yes amadeus not representative eighties distance = 0
+
+
+q1 = agnes asks has seen movie (the usual suspects) 
+pass1=seen movie yes has seen movie no have distance = 10
+
+q2 = mirek asks has seen movie (the usual suspects) 
+pass2=seen movie yes has seen movie no have distance = 10
+
+
+q1 = denis agnes have seen usual suspects mirek andrei have not 
+pass1=no have not seen no have not bald guy not distance = 19
+
+q2 = denis mirek have seen usual suspects agnes andrei have not 
+pass2=no have not seen no have not bald guy not distance = 19
+
+
+q1 = sixth sense identified more commerical than usual suspects 
+pass1=usual suspects sixth sense not know if have distance = 18
+
+q2 = usual suspects identified more commerical than sixth sense 
+pass2=usual suspects sixth sense not know if have distance = 18
+
+
+q1 = usual suspects won lot awards 
+pass1=lots awards won best film distance = 8
+
+q2 = sixth sense won lot awards 
+pass2=lots awards won best film distance = 8
+
+
+q1 = denis points both films similar fact not give away answer right until end 
+pass1=not bald guy not gonna give away want give away movie no no distance = 22
+
+q2 = mirek points both films similar fact not give away answer right until end 
+pass2=no have not bald guy not gonna give away want give away movie distance = 22
+
+
+q1 = agnes gave ratings sixth sense nineteenth list ninety hundred two hundred fifty all time movies score eight ten 
+pass1=less violent got eight point ten hundred first top two hundred fifty nineteenth list think if not mistaken distance = 264
+
+q2 = agnes gave ratings usual suspect nineteenth list ninety hundred two hundred fifty all time movies score eight ten 
+pass2=less violent got eight point ten hundred first top two hundred fifty nineteenth list think if not mistaken distance = 264
+
+
+q1 = mirek asks display slides beginning presentation 
+pass1=powerpoint presentation there some reviews think distance = 0
+
+q2 = denis asks display slides beginning presentation 
+pass2=ok should start two presentations maybe distance = 0
+
+
+q1 = mirek recommends think schindlers list 
+pass1=play schindler list saw yes distance = 1
+
+q2 = agnes recommends drop schindlers list 
+pass2=saw schindler list three see distance = 1
+
+
+q1 = denis mirek tables different 
+pass1=hi hello hello hi distance = 0
+
+q2 = denis mirek tables identicle 
+pass2=hi hello hello hi distance = 0
+
+
+q1 = mirek makes joke next film silence lambs rest team join laughter 
+pass1=no no silence lambs ok should tell something more godfather all distance = 3
+
+q2 = mirek makes joke next film silence lambs rest team sit slience 
+pass2=no no silence lambs ok should tell something more godfather all distance = 3
+
+
+q1 = mirek again engages group raises issue schindlers list again body language shows closed leaning away from agnes 
+pass1=wait many saw schindler list three see just trying keep track many have seen schindler list yes distance = 1
+
+q2 = andrei again engages group raises issue schindlers list again body language shows closed leaning away from mirek 
+pass2=yes play schindler list saw yes have seen also saw think nice yes have not seen heard distance = 1
+
+
+q1 = saving private ryan proposed andrei 
+pass1=saving private ryan happy nominations distance = 4
+
+q2 = saving private ryan proposed mirek 
+pass2=schindler list saving private ryan distance = 4
+
+
+q1 = andrei gives good overview saving private ryan 
+pass1=from nineties thought saving private ryan oh distance = 4
+
+q2 = mirek gives good overview saving private ryan 
+pass2=saving private ryan la vita bella yes distance = 4
+
+
+q1 = andrei mentions there four points can introduce movie presenting argument showing movie particularly 
+pass1=have mirek ok have powerpoint presentation there some reviews think like seven movies distance = 34
+
+q2 = andrei mentions there three points can introduce movie presenting argument showing movie particularly 
+pass2=have mirek ok have powerpoint presentation there some reviews think like seven movies distance = 34
+
+
+q1 = denis andrei check time note running short 
+pass1=running yes time ok yes have some distance = 4
+
+q2 = denis mirek check time note running short 
+pass2=running yes time ok yes have some distance = 4
+
+
+q1 = end presentation andrei gave further three movies consider 
+pass1=end ending movie boy gets saved father dies distance = 11
+
+q2 = end presentation andrei gave further four movies consider 
+pass2=end ending movie boy gets saved father dies distance = 11
+
+
+q1 = andrei included two other films list have previously discussed group 
+pass1=other films coen brothers yes made fargo list yes table distance = 32
+
+q2 = andrei included three other films list have previously discussed group 
+pass2=other films coen brothers yes made fargo list yes table distance = 32
+
+
+q1 = mirek notes three films have discussed theme second world war 
+pass1=movie la vita bella oh again camps second world war distance = 1
+
+q2 = mirek notes four films have discussed theme second world war 
+pass2=movie la vita bella oh again camps second world war distance = 1
+
+
+q1 = denis reiterates casting marvellous big lebowski 
+pass1=know called big lebowski from joel distance = 1
+
+q2 = denis not sure casting big lebowski 
+pass2=know called big lebowski from joel distance = 1
+
+
+q1 = group nominating couple movies each then voted 
+pass1=movie each then then select sorry could distance = 6
+
+q2 = group nominating three movies each then voted 
+pass2=movie each then then select sorry could distance = 6
+
+
+q1 = mirek nominated big lebowski short list 
+pass1=movies big lebowski schindler list silence distance = 6
+
+q2 = mirek nominated usual suspects short list 
+pass2=ok schindler list usual suspects silence distance = 6
+
+
+q1 = andrei votes american beauty has not seen 
+pass1=have not seen vote big lebowski all distance = 16
+
+q2 = agnes votes american beauty has not seen 
+pass2=have not seen vote big lebowski all distance = 16
+
+
+q1 = agnes votes usual suspects final selection 
+pass1=please usual suspects sixth sense not distance = 1
+
+q2 = agnes votes american beauty final selection 
+pass2=american beauty saving private ryan ok distance = 1
+1:1 => Score total = 65/116 = 0.5603448
+1:1:65/116=0.5603448

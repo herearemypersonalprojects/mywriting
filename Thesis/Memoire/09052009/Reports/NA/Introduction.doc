@@ -1,0 +1,68 @@
+\newpage
+\chapter{Introduction}
+
+\section{Context}
+Meetings become more and more essential in the work to exchange information and to make decisions. It is necessary to save meeting information such as videos, audios, transcripts, slides in the multimedia archives of meeting recordings so that human users can easily find relevant information from past meetings using a tool, namely meeting browser \cite{popescubelis:tbe}.  A meeting browser is defined as follows: \textit{"A meeting browser is a system that enables a user to navigate around an archive of meetings, efficiently viewing and accessing the full multimodal content, based on automatic annotation, structuring and indexing of those information stream"} \cite{mccowan2005amc}. 
+
+One approach to meeting browsing is to design general-purpose meeting browsers that help human users to locate the information that is searched for \cite{lalanne2005imm}, for instance, meeting browser named Archivus at the University of Geneva and at the EPFL \cite{lisowska2004asa}, Ferret in Idiap Research Institute \cite{wellner2004brm}, Transcript-based Query and Browsing Interface (TQB) at the University of Geneva \cite{popescubelis:tam}, etc. However, another possibility is to design browsers that locate information automatically, for instance for verification (fact checking) purposes.
+
+\section{Goal}
+
+The goal of this project is to design such an automatic browser following a question-answering approach, and assess its performance on a set of pairs of true-false statement, which have been initially used to evaluate human-directed browsers.
+
+In other words, the goal is to design and to implement a system that determines the true and the false statement in each pair based on searching facts on meeting transcripts, to evaluate its performance over a set of about two hundreds such pairs (over two recorded meetings), and to compare it with human subjects using existing meeting browsers. A comparative analysis of the system and the human scores on specific questions should indicate whether or not system and humans have the same difficulties answering such questions. This work will thus show whether this system should be developed as a full automatic browser that gives an exact answer for user's question or only help users locate relevant information in meeting recordings as an assistant tool.
+
+The experimental pairs of true-false statements used for this system were created using a defined methodology about a fact related to the meeting for the Browser Evaluation Test method, namely the BET question \cite{BET}. The BET method is presented in detail as follows:
+
+\subsection*{The BET method}
+One method proposed originally by Flynn, M. and Wellner, P. \cite{flynn2003sgb} is the Browser Evaluation Test (BET) that evaluates a meeting browser based on user performance rather than subjective judgment. According to the BET, the task of browsing a meeting recording is an attempt to find a maximum number of \textit{observations of interest} in a minimum amount of time \cite{BET}, in which \textit{observations of interest} is defined as interesting to the meeting participants or to people who missed the meeting. Thus,  evaluation of a meeting browser is to collect a set of \textit{observations of interest} and then ask human subjects to verify these observations as binary-choice test questions in a fixed amount of time by using  a meeting browser to access the meeting. A \textit{good} meeting browser will help human subjects find a number of correct answers as many as possible and in a duration as short as possible. Thus, information of the answers by human subjects such as answer precision known as \textit{effectiveness} and answer speed known as \textit{efficiency} are used to evaluate the performance of this meeting browser. In detail, an \textit{observation of interest} is formed as a complementary pair of statements, one true and one false about a fact related to a meeting recording and human subjects are asked to determine which statement is true in the pair. The answer precision is calculated by dividing number of correct answers over total answers. In terms of the answer speed, it is computed as the average time to answer a question rather than the average speed. Analyzing these information and comparing them among meeting browsers will give a score for the performance of a meeting browser.
+
+This is a time-consuming method that need investing in collecting and preparing the observations. However, this observation collection is independent to browsers so that the observations can be extended to be used for the evaluation of other meeting browsers in the future. \cite{BET4TQB}.
+
+Stages of the BET method is presented in the Figure \ref{fig1: BET stages}.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale = 0.15]{BET_stages.jpg}
+\caption{Stages in the design and execution of a BET evaluation \cite{popescubelis:tbe}}\label{fig1: BET stages}
+\end{figure}
+
+\subsection*{The BET Questions}
+These such pairs of statements to be used for the BET method, called the BET questions, are produced by a set of neutral observers, who independently watch selected meeting from corpus. These observers are native English speakers from the University of Sheffield. They are students, researchers and lecturers. The observers have unlimited time and available full recordings from such media sources as videos, audios, in parallel with paper printouts of the slides that participants worked on for the meeting. At the first time, an observer collects a list of observations as true statements about facts or events that may interest meeting participants or people who missed the meeting. The statements should not be easy to guess without using the meeting information.  Then, for each true statement, a false counterpart statement is created so that a pair of complementary statements is generated. The observations should be simple and concisely stated.
+
+
+An interface for observation collection is presented in the Figure \ref{fig2: create observations}. As seen in the Figure, there are three buttons "Nearby", "Around" and "Throughout" that indicate the position of answer information in the transcript. One observation is marked as \textit{Nearby} or \textit{Here} if it is pertinent to that particular moment; marked as \textit{Around} if it covers at least a minute of the meeting around the point the observer have selected; and marked as \textit{Throughout} if it broadly covers the whole meeting. However, in this system, the questions whose type is \textit{Throughout} are avoided because it is difficult to determine relevant passage which contains information of answer for these questions using an automatic system. After that, the collected observations are examined by experts to reject coincided or inappropriate ones. 
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale = 0.5]{BET_interface.jpg}
+\caption{Interface for observers}\label{fig2: create observations}
+\end{figure}
+
+
+
+
+% Definir clairement le sujet, l'objet du travail
+% la question dans son context => same difficults for humans and automatic machine to answer BET questions?
+% methode de travail, outil de la recherche, sources utilisees
+
+\section{Approach}
+The proposed system has an architecture that is quite common for question answering systems \cite{light2002aec} with a number of specificities due to the nature of the data and of the task. The system proceeds in three stages. 
+
+The first stage is the pre-processing of the pair of BET questions and of the meeting transcript for the purpose of transforming them into a uniform data.
+
+Then the second stage aims at identifying separately the passage of the transcript that is most likely to contain the answer for each question in a pair using lexical similarity algorithm. For this, all passages in the transcript are compared with each other using passage score, which is a sum of scores of matched words between the passage and a question. Regarding the matched word score, it is computed based on a complex score of lexical similarity, in which it is not only based on matched words but also on speaker of these words. This technique pays more attention to the features of a conversational document as meeting transcripts. 
+ 
+At last, the third stage compares two BET statements in the pair based on the paragraph found for each question, and hypothesizes which one is true and which is false. 
+
+
+\section{Evaluation methods}
+The performance of this system is evaluated by answering nearly two hundreds of BET questions over two meeting transcripts named IB4010 and IS1008c (see Chapter 3 for more details) from the AMI Meeting Corpus \cite{AMI_corpus}. Furthermore, the performance of the algorithm is also evaluated on ASR transcripts which were generated by an Automatic Speech Recognition \cite{ASR_transcrips} as well as meeting summaries based on ASR transcripts. 
+Then the last evaluation is performed by comparing BET scores by human subjects, which are from the BET method for Transcript-based Query and Brower Interface (BET4TQB)\cite{popescubelis2007otm}, with scores obtainned by the system over the same BET questions and the transcripts. This task is to answer the question whether the human subjects and the system have the same difficulties to answer such questions.   
+
+Based on these results, the system is estimated to give a conclusion that the system should be developed as a full automated system or an assistant tool that helps humans answer questions concerning meeting information over meeting transcripts.
+
+% Presenter brievement le cheminement du travail (commenter les points saillants de la table des matieres)
+\section{Structure}
+% The Introduction should better explain what BET exactly is!
+This report contains 7 chapters, in which the first chapter is an introduction while the rest of the report provide information in detail. Accordingly, Chapter 2 previews some available approaches concerning question-answering that are widely applied in many applications. Then, Chapter 3 presents a brief description of two meeting transcripts and the BET questions used to test this system as well as some analysis of data. Chapter 4 consists of three sections that describe three main stages of our approach as mentioned above. In the first section, the pre-processing stage is done in order to normalize the text of transcript and of the BET questions by removing punctuation marks, stop-words, converting abbreviated words into full forms and converting numeric forms into text forms as well as adding some lexical extensions such as synonyms, lemma and stem. The second section corresponds the passage retrieval stage, in which a speaker-directed lexical similarity algorithm including n-grams is presented to locate a passage, which is the most likely to contain information of answer. The way of distinguishing the true statement from another is decided by stage of true-false answer at the last section of this chapter. After that, Chapter 5 mentions an evaluation method using reference answers in order to assess answers returned by the algorithm. Chapter 6 presents our experiments on both manual and automatic (ASR) meeting transcripts. Moreover, at the end of Chapter 6, we conduct a comparison and an evaluation: (i) BET human results are compared with those of the system in order to show limitations of an automatic answering as well as difficulties for both human and machine; (ii) the system and its questions is also used to measure quality of Automatic Speech Recognition (ASR) summaries. Finally, the last chapter gives conclusions.

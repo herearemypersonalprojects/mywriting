@@ -1,0 +1,1249 @@
+1247
+521
+1 have have sridhar HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2 not not sridhar XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3 come come sridhar VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+4 back back sridhar RP 3 3 232 239 dorsum rear spine backbon rachi bind cover backrest endors indors support second gage stake game punt backward backward rearward rearward hind hinder 
+7 lunch lunch sridhar NN 2 4 7 luncheon tiffin dejeun 
+9 hope hope sridhar VB 4 5 42 888 1171 promis Hope trust desir 
+12 good good sridhar JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+13 lunch lunch sridhar NN 2 4 7 luncheon tiffin dejeun 
+20 meeting meet sridhar NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+21 domain domain sridhar NN 1 9 sphere area orbit field arena demesn land world 
+24 not not sridhar XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+25 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+28 discuss discuss sridhar VB 2 12 466 discus saucer discours 
+31 Conceptual Conceptu sridhar JJ 1 13 conceptu 
+32 design design sridhar NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+33 meeting meet sridhar NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+34 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+37 agenda agenda sridhar NN 1 17 docket schedul agendum 
+40 Double Doubl sridhar JJ 1 18 doubl two-bagg two-bas imag look-alik doubl duplic redupl repeat replic bival doubli twice dual twofold two-fold trebl threefold three-fold dupl doubl fork 
+41 opening open sridhar NN 2 19 54 gap possibl orific porta hatchway scuttl initi unfold spread afford give 
+47 project project sridhar NN 1 20 undertak task labor protrud jut plan contriv design propos visual visualis envis fanci see figur pictur imag cast throw extern externalis 
+48 manager manag sridhar NN 2 21 1188 director coach handler 
+50 secretary secretari sridhar NN 1 22 repositori escritoir secretair 
+57 presentations present sridhar NNS 4 23 56 400 457 demonstr display introduct intro 
+58 from from sridhar IN 4 24 195 691 1235 
+60 christian christian sridhar JJ 2 25 49 Christian 
+63 Agnes Agnes sridhar NP 1 26 
+65 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+67 see see sridhar VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+70 finally final sridhar RB 1 29 eventu ultim last last 
+73 meeting meet sridhar NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+75 decide decid sridhar VB 4 31 654 1030 1117 determin settl resolv adjud 
+87 Concepts Concept sridhar NNS 1 32 concept concept construct 
+90 oh oh sridhar UH 2 33 312 Ohio OH 
+92 functional function sridhar JJ 3 34 47 621 usabl useabl oper oper run oper work 
+93 design design sridhar NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+96 all all sridhar PDT 5 36 155 426 903 1239 wholli entir complet total altogeth whole 
+97 forty forti sridhar CD 1 37 40 XL xl twoscor 
+98 minutes minut sridhar NNS 2 38 1217 proceed transact min moment mo second bit instant arcminut hour 
+100 think think sridhar VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+105 bit bit sridhar NN 5 40 305 383 646 978 spot chip flake fleck scrap moment mo minut second piec morsel bite snatch act routin number turn sting burn prick 
+107 no no sridhar DT 6 41 243 326 327 328 748 nobelium No 
+111 hope hope sridhar VB 4 5 42 888 1171 promis Hope trust desir 
+113 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+114 finish finish sridhar NN 1 44 coat final fini last conclus close polish refin cultur cultiv destin goal end complet end stop termin ceas 
+120 hand hand sridhar NN 4 45 497 612 844 manus mitt paw handwrit script deal pass reach give 
+121 go go sridhar VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+125 functionality function sridhar NN 3 34 47 621 
+126 into into sridhar IN 4 48 480 990 1187 
+128 christian christian sridhar JJ 2 25 49 Christian 
+129 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+137 Okay Okay christin RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+140 if if christin CS 9 52 266 303 316 427 622 863 1034 1173 
+142 could could christin MD 7 53 215 250 819 823 884 1145 
+143 open open christin JJ 2 19 54 clear outdoor out-of-door surfac unfold spread afford give unfasten recept overt expos assail undefend undefend loos undecid undetermin unresolv capabl subject candid heart-to-heart 
+145 powerpoint powerpoint christin NN 1 55 
+146 presentation present christin NN 4 23 56 400 457 demonstr display introduct intro 
+148 number number christin NN 2 57 643 figur act routin turn bit numer issu total come amount list count enumer numer asleep benumb numb dead 
+149 two two christin CD 1 58 2 II deuc ii 
+150 Mm Mm sridhar NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+153 "kay" "kay" sridhar NN 1 60 
+156 Okay Okay christin RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+163 next next sridhar OD 5 62 254 255 261 1227 follow adjac futur succeed 
+164 alright alright sridhar JJ 1 63 fine OK okay O.K. 
+165 Right Right christin JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+171 yes yes christin UH 6 65 69 369 370 969 970 
+172 please pleas christin RB 1 66 delight 
+173 Thank Thank christin VB 1 67 thank 
+175 Oh Oh christin UH 5 68 351 630 879 1210 Ohio OH 
+176 yes yes christin UH 6 65 69 369 370 969 970 
+200 means mean christin VBZ 8 70 253 301 633 793 1074 1102 1191 agenc way substanc intend entail impli signifi think 
+202 communications communic christin NNS 1 71 
+205 television televis christin NN 1 72 telecast TV video tv telli 
+206 set set christin NN 1 73 circl band lot bent harden solidifi solidif cure Set Seth readi put place pose posit lay determin specifi defin fix limit mark prepar readi local localis arrang plant jell congeal typeset countersink sic rig adjust correct fructifi dress do coif coiff coiffur fit prime fix rigid locat place situat laid determin dictat harden 
+239 Maybe Mayb christin RB 1 74 possibl perchanc perhap mayb mayhap peradventur 
+241 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+245 way way christin NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+247 has has christin HVZ 4 77 98 133 866 HA have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+249 pass pass christin VB 1 78 walk notch passport strait strait head bye crack fling go whirl offer toss flip qualifi pas surpass legisl elaps laps hand reach give run lead extend overtak overhaul happen hap occur clear spend guid draw communic evanesc fade fleet exceed transcend overstep top sink fall return devolv author authoris die deceas perish exit expir conk choke croak excret egest elimin 
+254 speaker speaker christin NN 2 79 219 talker utter verbal verbalis loudspeak Speaker 
+280 way way christin NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+282 making make christin VBG 3 81 1216 1221 devis fashion qualif do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+283 beeps beep christin VBZ 1 82 bleep honk blare claxon toot 
+285 sounds sound christin NNS 1 83 audio phone strait go voic vocal vocalis fathom 
+287 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+288 find find christin VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+292 gets get christin VBZ 5 86 280 428 962 1110 acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+293 lost lost christin VBN 1 87 doom lose misplac mislay reced miss suffer confus disori miss bemus preoccupi baffl befuddl bewild confound maze mixed-up helpless 
+297 other other christin JJ 5 88 437 547 567 995 earli former 
+299 thing thing christin NN 7 89 179 483 517 577 761 861 matter affair 
+302 sort sort christin NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+304 method method christin NN 1 91 
+311 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+312 looked look christin VBD 6 93 519 724 782 783 1181 appear seem search front face attend see expect await wait count bet depend calcul reckon 
+317 store store christin NN 1 94 shop stock fund memori storag storehous depot entrepot 
+320 torque torqu christin JJ 1 95 torsion 
+322 record record christin NN 1 96 disk disc platter book enter tape read regist show commemor memori memorialis immort immortalis 
+324 work work christin NN 7 97 320 337 377 522 925 954 employ studi workplac oeuvr act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn 
+325 has has christin HVZ 4 77 98 133 866 HA have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+326 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+328 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+330 also also christin RB 6 101 132 504 686 855 923 besid too likewis 
+332 Mm Mm ed NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+347 Course Cours christin RB22 1 103 cours class line trend path track form grade row run flow feed natur 
+348 stream stream christin NN 1 104 watercours flow current pour swarm teem pullul pelt 
+381 research research christin NN 2 105 223 inquiri enquiri search explor 
+386 case case christin NN 4 106 213 1132 1138 instanc exampl event lawsuit suit caus causa subject charact eccentr type font fount typefac face sheath shell pillowcas slip showcas vitrin encas incas 
+422 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+423 seem seem christin VB 1 108 look appear 
+429 year year christin NN 2 109 717 twelvemonth yr class 
+430 choice choic christin NN 1 110 pick select option altern prime prize qualiti select 
+431 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+432 option option christin NN 2 112 156 altern choic select pick 
+434 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+436 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+438 serious serious christin JJ 1 115 unplay sober danger grave grievous sever life-threaten good 
+440 explorer explor christin NN 2 116 938 adventur Explorer IE 
+442 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+445 thinking think christin VBG 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 thought cerebr intellect mentat believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean intellig reason 
+448 rubber rubber christin JJ 4 119 434 828 1146 caoutchouc condom safeti safe prophylact arctic galosh golosh gumsho rubberis no-good 
+451 Unfortunately Unfortun christin RB 1 120 unfortun unluckili regrett ala 
+453 gonna gonna christin NP 3 121 460 683 
+454 because becaus christin CS 3 122 718 952 
+457 sheets sheet christin NNS 1 123 plane tabloid rag tack mainsheet shroud sail canva canvass 
+459 factor factor christin NN 2 124 1007 compon constitu element ingredi divisor agent broker gene cistron 
+463 might might christin MD 4 125 209 319 1201 mighti power 
+465 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+466 Problems Problem christin NNS 2 127 681 problem job troubl 
+473 goes goe christin VBZ 2 128 506 go spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+476 board board christin NN 4 129 249 463 1032 plank tabl panel card plug-in add-in gameboard room 
+480 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+481 plastic plastic christin NN 3 131 276 435 fictil moldabl pliant format shape 
+482 also also christin RB 6 101 132 504 686 855 923 besid too likewis 
+483 has has christin HVZ 4 77 98 133 866 HA have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+485 problems problem christin NNS 4 134 229 300 1101 job troubl 
+486 melt melt christin VB 1 135 thaw thaw run dissolv unfreez unthaw dethaw mellow meld fade disappear evapor 
+487 saying say christin VBG 5 136 632 803 887 947 express locut state tell alleg aver suppos read order enjoin pronounc articul enounc enunci 
+490 brittle brittl christin JJ 2 137 138 toffe toffi brickl brick unann 
+493 brittle brittl christin JJ 2 137 138 toffe toffi brickl brick unann 
+494 laughter laughter christin NN 1 139 laugh 
+495 while while christin CS 1 140 piec spell patch 
+498 still still christin RB 1 141 hush distilleri calm quiet tranquil tranquil tranquillis quieten lull silenc allay reliev eas noneffervesc howev nevertheless withal yet nonetheless notwithstand even stock-stil inact motionless static silent soundless placid tranquil smooth unruffl 
+499 had had christin HVD 2 142 631 have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+500 thai thai christin NN 1 143 Thai Tai Siames 
+501 titanium titanium christin NN 1 144 Ti 
+505 available avail christin JJ 1 145 uncommit usabl useabl 
+506 Mm Mm ed NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+509 unfortunately unfortun christin RB 1 147 unluckili regrett ala 
+533 Apple Apple christin NN 1 148 appl 
+537 Power Power christin NN 1 149 power power abil offic forc expon index might mighti superpow baron king magnat mogul tycoon 
+540 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+541 quite quit christin RB 1 151 rather 
+542 sure sure christin JJ 4 152 235 613 709 certain certain trust indisput 
+545 nevertheless nevertheless christin RB 1 153 howev withal still yet nonetheless notwithstand 
+549 eliminated elimin christin VBN 2 154 277 extinguish obviat annihil erad decim reject excret egest pass 
+550 all all christin PDT 5 36 155 426 903 1239 wholli entir complet total altogeth whole 
+553 options option christin NNS 2 112 156 altern choic select pick 
+554 except except christin CS 1 157 demur exclud omit 
+557 Financially Financi agn RB 1 158 financi 
+558 friendly friend agn JJ 3 159 163 425 favor well-dispos 
+562 flying fli christin VBG 1 160 flight wing aviat pilot fell vanish flee vapor fast-fli quick fast 
+567 said said christin VBD 1 161 state say tell alleg aver suppos read order enjoin pronounc articul enounc enunci aforesaid aforement 
+569 environmentally environment christin RB 1 162 
+570 friendly friend christin JJ 3 159 163 425 favor well-dispos 
+572 mature matur christin JJ 1 164 grow ripen senesc age suppur ripe fledg 
+576 correctly correct christin RB 1 165 right aright 
+578 proposing propos christin VBG 1 166 suggest advis project aim purpos purport nomin offer 
+630 intelligence intellig christin NN 1 167 news tide word 
+633 simple simpl christin JJ 2 168 688 simpleton unsubdivid elementari uncompl unproblemat bare mere childlik wide-ey round-ey dewy-ey dim-wit simple-mind 
+637 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+638 there there christin EX 6 170 293 338 342 920 1236 thither 
+641 regular regular christin JJ 1 171 habitu fixtur unconstip verit even steadi 
+644 regret regret christin VB 1 172 sorrow rue rueful repent 
+647 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+648 forgotten forgotten christin VBN 2 174 590 forget buri block leav disregard 
+649 exactly exact christin RB 4 175 349 655 660 precis just incis 
+654 emanating eman christin VBG 1 176 exhal 
+735 Yeah Yeah christin UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+736 jen jen christin NN 1 178 
+737 thing thing christin NN 7 89 179 483 517 577 761 861 matter affair 
+738 right right christin JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+741 personal person christin JJ 3 181 868 956 
+742 preferences prefer christin NNS 1 182 penchant predilect tast orient druther 
+746 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+748 should should christin MD 3 184 393 665 
+750 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+752 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+755 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+756 real real christin JJ 2 188 381 exist substanti materi veri realli rattl tangibl actual genuin liter verid 
+757 exotic exot christin JJ 1 189 alien 
+758 words word christin NNS 2 190 206 lyric languag quarrel wrangl row run-in dustup speech news intellig tide discuss give-and-tak parol Son Word Logo password watchword countersign Bibl Book Scriptur formul phrase articul 
+759 Like Like christin IN 1 191 like ilk wish care similar same alik compar correspond 
+762 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+766 guys guy christin NNS 1 193 cat hombr bozo Guy ridicul roast blackguard rib 
+767 come come christin VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+768 from from christin IN 4 24 195 691 1235 
+769 tropical tropic christin JJ 1 196 
+770 country countri christin NN 3 197 932 942 state nation land commonwealth area 
+773 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+774 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+775 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+777 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+778 trees tree christin NNS 1 202 Tree corner shoetre 
+779 than than christin CS 2 203 1167 
+780 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+781 nice nice christin JJ 4 205 380 999 1154 Nice decent skill dainti overnic prissi squeamish courteous gracious 
+782 words word christin NNS 2 190 206 lyric languag quarrel wrangl row run-in dustup speech news intellig tide discuss give-and-tak parol Son Word Logo password watchword countersign Bibl Book Scriptur formul phrase articul 
+784 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+786 People Peopl christin NN 1 208 peopl citizenri multitud mass mass 
+787 might might christin MD 4 125 209 319 1201 mighti power 
+789 want want christin VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+791 design design christin NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+793 own own christin DT 3 212 366 867 have possess ain 
+794 cases case christin NNS 4 106 213 1132 1138 instanc exampl event lawsuit suit caus causa subject charact eccentr type font fount typefac face sheath shell pillowcas slip showcas vitrin encas incas 
+796 see see christin VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+798 could could christin MD 7 53 215 250 819 823 884 1145 
+800 through through christin IN 1 216 done 
+867 know know ed VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+869 microphone microphon christin NN 1 218 mike 
+871 speaker speaker christin NN 2 79 219 talker utter verbal verbalis loudspeak Speaker 
+874 advanced advanc christin JJ 2 220 1113 progress boost supercharg promot further encourag gain win upgrad rais elev forward-look innov modern sophist ripe 
+875 chip chip christin NN 2 221 1064 bit flake fleck scrap crisp check microchip splinter nick knap 
+880 findings find christin NNS 10 85 222 251 259 267 309 706 746 1094 1096 determin 
+883 research research christin NN 2 105 223 inquiri enquiri search explor 
+886 recommendations recommend christin NNS 2 224 1122 testimoni passport 
+900 Have Have christin HV 2 225 422 have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+902 made made christin VBN 3 226 957 1105 make do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+905 wood wood christin NN 1 227 forest Wood woodwind 
+906 Any Ani christin DT 1 228 ani whatev whatsoev 
+907 problems problem christin NNS 4 134 229 300 1101 job troubl 
+910 Can Can sridhar MD 1 230 can tin can buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+912 go go sridhar VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+913 back back sridhar RP 3 3 232 239 dorsum rear spine backbon rachi bind cover backrest endors indors support second gage stake game punt backward backward rearward rearward hind hinder 
+916 slide slide sridhar NN 2 233 469 swoop glide coast chute slideway skid slip slue slew slither 
+918 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+919 sure sure christin JJ 4 152 235 613 709 certain certain trust indisput 
+924 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+925 see see christin VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+927 go go christin VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+928 back back christin RP 3 3 232 239 dorsum rear spine backbon rachi bind cover backrest endors indors support second gage stake game punt backward backward rearward rearward hind hinder 
+930 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+934 costs cost sridhar NNS 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+953 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+956 no no christin DT 6 41 243 326 327 328 748 nobelium No 
+959 multiple multipl christin JJ 1 244 
+964 Mm Mm ed NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+968 may may christin MD 2 246 774 May whitethorn 
+970 printed print christin JJ 1 247 publish impress 
+974 circuit circuit christin NN 1 248 tour circumfer lap circl 
+975 board board christin NN 4 129 249 463 1032 plank tabl panel card plug-in add-in gameboard room 
+979 could could christin MD 7 53 215 250 819 823 884 1145 
+980 find find christin VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+982 more more christin RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+988 means mean sridhar VBZ 8 70 253 301 633 793 1074 1102 1191 agenc way substanc intend entail impli signifi think 
+995 next next christin OD 5 62 254 255 261 1227 follow adjac futur succeed 
+997 next next christin OD 5 62 254 255 261 1227 follow adjac futur succeed 
+998 meeting meet christin NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+1015 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1016 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+1020 find find christin VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+1022 more more christin RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+1024 next next christin OD 5 62 254 255 261 1227 follow adjac futur succeed 
+1025 meeting meet christin NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+1026 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+1029 would would sridhar MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1031 great great sridhar JJ 1 265 outstand bang-up bulli cork crack dandi groovi keen neat nifti peachi slap-up swell smash capit majuscul big enceint expect gravid larg heavi 
+1033 if if sridhar CS 9 52 266 303 316 427 622 863 1034 1173 
+1035 find find sridhar VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+1037 know know sridhar VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+1038 technology technolog sridhar NN 3 269 770 787 engin 
+1039 background background sridhar NN 1 270 ground set scope desktop backdrop backcloth downplay 
+1040 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+1043 would would sridhar MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1045 cord cord sridhar NN 1 273 corduroy 
+1046 Sounds Sound christin NNS 1 274 sound audio phone strait go voic vocal vocalis fathom 
+1047 good good christin JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+1050 plastic plastic agn NN 3 131 276 435 fictil moldabl pliant format shape 
+1051 eliminated elimin agn VBN 2 154 277 extinguish obviat annihil erad decim reject excret egest pass 
+1054 possible possibl agn JJ 1 278 potenti 
+1056 Because Becaus christin CS 2 279 371 
+1059 gets get christin VBZ 5 86 280 428 962 1110 acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+1061 little littl christin JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+1062 Cracks Crack christin NNS 1 282 crack cleft crevic fissur scissur gap cranni chap crack snap shot wisecrack salli quip tornado fling go pass whirl offer fractur check break collaps 
+1063 Uh-huh Uh-huh agn UH 9 283 412 575 684 811 959 993 1055 1133 
+1066 want want christin VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+1068 expect expect christin VB 2 285 885 anticip ask requir look await wait bear carri gestat 
+1086 Right Right ed JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+1089 fresh fresh ed JJ 1 287 sweet newli new brace brisk refresh refresh tonic novel invigor refresh reinvigor unfer clean unus impertin impud overbold smart sauci sassi wise 
+1092 after after ed IN 2 288 1104 aft subsequ later afterward afterward 
+1093 s. s. ed NP 1 289 
+1094 i. i. ed NP 2 290 1106 
+1095 Ah Ah christin UH 1 291 
+1097 speak speak christin VB 1 292 talk utter mouth verbal verbalis address 
+1101 there there christin EX 6 170 293 338 342 920 1236 thither 
+1104 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+1106 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+1109 way way agn NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+1112 ran ran agn VBD 1 297 run scat scarper lam bunk escap go pass lead extend oper flow feed cours function work rang campaign play tend lean inclin prevail persist endur execut carri guid draw bleed consort pli hunt race move melt ladder unravel 
+1115 same same agn DT 1 298 Lapp Lappland Sami Saami Same Saam like 
+1116 types type agn NNS 2 299 702 charact eccentr case typewrit typecast 
+1118 problems problem agn NNS 4 134 229 300 1101 job troubl 
+1122 mean mean agn VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+1124 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1127 if if agn CS 9 52 266 303 316 427 622 863 1034 1173 
+1129 drop drop agn NN 1 304 bead pearl drib driblet dip fall cliff drop-off sink unload discharg fell spend expend flatten dangl swing dismiss dribbl drip shed cast throw neglect pretermit omit miss overlook overleap devolv deterior degener 
+1130 bit bit agn NN 5 40 305 383 646 978 spot chip flake fleck scrap moment mo minut second piec morsel bite snatch act routin number turn sting burn prick 
+1133 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1136 See See sridhar VB 1 307 see understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+1139 comment comment sridhar NN 5 308 364 373 670 752 remark input commentari gossip scuttlebutt notic gloss annot 
+1143 find find ed VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+1146 sell sell ed VB 3 310 314 1026 deal trade betray 
+1148 Yeah Yeah christin UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1149 oh oh christin UH 2 33 312 Ohio OH 
+1151 Ready Readi ed JJ 1 313 readi cook fix make prepar set quick 
+1153 sell sell ed VB 3 310 314 1026 deal trade betray 
+1155 If If agn CS 6 315 464 704 777 780 1046 
+1158 if if agn CS 9 52 266 303 316 427 622 863 1034 1173 
+1162 good good agn JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+1163 quality qualiti agn NN 2 318 390 calib calibr charact lineament timbr timber tone choic prime prize select 
+1167 might might agn MD 4 125 209 319 1201 mighti power 
+1168 work work agn NN 7 97 320 337 377 522 925 954 employ studi workplac oeuvr act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn 
+1171 can can agn MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1172 just just agn RB 2 322 1062 equit fair mere simpli onli but precis exact bare hard scarc scarc good upright 
+1173 use use agn NN 5 323 333 418 431 648 usag util utilis employ exercis function purpos role consumpt usanc habit manipul enjoy util utilis appli employ habitu expend practic 
+1174 No No ed DT 7 324 744 747 749 889 1089 1143 no nobelium 
+1176 not not ed XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1177 no no ed DT 6 41 243 326 327 328 748 nobelium No 
+1178 no no ed DT 6 41 243 326 327 328 748 nobelium No 
+1179 no no ed DT 6 41 243 326 327 328 748 nobelium No 
+1181 only onli ed RB 1 329 mere simpli just but entir exclus sole alon lone lonesom sole solitari 
+1183 delay delay ed NN 1 330 hold postpon wait holdup detain stay check retard 
+1184 would would ed MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1186 can can ed MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1187 use use ed NN 5 323 333 418 431 648 usag util utilis employ exercis function purpos role consumpt usanc habit manipul enjoy util utilis appli employ habitu expend practic 
+1190 ones one ed NNS 2 334 809 1 I ace singl uniti 
+1193 hard hard ed JJ 2 335 336 difficult unvoic voiceless surd concentr firm sever heavili intemper knockout sever arduous backbreak gruel gruell heavi labori operos punish toilsom intemper strong tough 
+1195 hard hard ed JJ 2 335 336 difficult unvoic voiceless surd concentr firm sever heavili intemper knockout sever arduous backbreak gruel gruell heavi labori operos punish toilsom intemper strong tough 
+1196 work work ed NN 7 97 320 337 377 522 925 954 employ studi workplac oeuvr act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn 
+1198 there there ed EX 6 170 293 338 342 920 1236 thither 
+1199 some some ed DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+1201 pretty pretti ed JJ 3 340 597 628 reason moder jolli somewhat fair middl passabl 
+1202 close close ed JJ 1 341 final fini finish last conclus end end shut fold conclud near nigh tight faith confin airless stuffi unair snug close-fit cheesepar penny-pinch skinni closelip closemouth secret tightlip 
+1204 there there ed EX 6 170 293 338 342 920 1236 thither 
+1207 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1210 little littl christin JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+1211 sweater sweater christin NN 1 345 jumper perspir 
+1213 take take christin VB 3 346 834 902 return issu proceed yield payoff occupi lead direct conduct guid assum acquir adopt read bring convey choos select accept have fill consid deal necessit ask postul need requir involv demand film shoot remov withdraw consum ingest submit strike admit learn studi claim exact make aim train carri pack leas rent hire charter engag subscrib contain hold drive contract get 
+1214 care care christin NN 1 347 attent aid tend caution precaut forethought concern fear charg tutelag guardianship mainten upkeep wish like manag deal handl worri 
+1216 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1217 exactly exact agn RB 4 175 349 655 660 precis just incis 
+1218 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1219 Oh Oh christin UH 5 68 351 630 879 1210 Ohio OH 
+1221 glad glad christin JJ 1 352 gladiolus gladiola happi beam 
+1223 actually actual ed RB 6 353 459 485 518 764 880 realli 
+1225 innovative innov ed JJ 1 354 advanc forward-look modern groundbreak 
+1226 idea idea ed NN 4 355 359 474 732 thought mind estim estim approxim theme 
+1242 Let Let ed VB 1 356 Lashkar-e-Taiba Lashkar-e-Toiba Lashkar-e-Tayyiba LET let allow permit counten get have leas rent 
+1243 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1246 different differ ed JJ 5 358 498 758 897 1015 unlik dissimilar 
+1247 idea idea ed NN 4 355 359 474 732 thought mind estim estim approxim theme 
+1261 stain stain agn VB 1 360 discolor discolour dirt filth grime soil greas grung mark stigma brand blot smear smirch spot tarnish macul sulli defil 
+1278 Not Not ed XNOT 1 361 not non 
+1281 market market ed NN 7 362 692 753 894 922 1108 1199 marketplac groceri mart commerci commercialis 
+1303 terms term agn NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+1305 comments comment agn NNS 5 308 364 373 670 752 remark input commentari gossip scuttlebutt notic gloss annot 
+1310 terms term agn NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+1313 own own agn DT 3 212 366 867 have possess ain 
+1314 mm mm agn NN 3 367 448 1084 millimet millimetr 
+1315 Yes Yes sridhar UH 3 368 1148 1152 yes 
+1316 yes yes sridhar UH 6 65 69 369 370 969 970 
+1317 yes yes sridhar UH 6 65 69 369 370 969 970 
+1318 Because Becaus ed CS 2 279 371 
+1323 terms term sridhar NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+1325 comments comment sridhar NNS 5 308 364 373 670 752 remark input commentari gossip scuttlebutt notic gloss annot 
+1326 cost cost sridhar NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+1327 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1328 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1330 works work christin NN 7 97 320 337 377 522 925 954 plant deed employ studi workplac oeuvr act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn 
+1332 keep keep christin VB 2 378 1048 support livelihood live susten donjon dungeon hold maintain continu proceed prevent observ retain sustain celebr restrain preserv save 
+1334 context context christin NN 1 379 circumst set 
+1336 nice nice christin JJ 4 205 380 999 1154 Nice decent skill dainti overnic prissi squeamish courteous gracious 
+1343 real real christin JJ 2 188 381 exist substanti materi veri realli rattl tangibl actual genuin liter verid 
+1344 little littl christin JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+1345 bit bit christin NN 5 40 305 383 646 978 spot chip flake fleck scrap moment mo minut second piec morsel bite snatch act routin number turn sting burn prick 
+1346 prepared prepar christin VBN 1 384 fix readi set cook make organ organis devis machin groom train develop educ dispos fain inclin 
+1348 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1352 way way christin NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+1353 yeah yeah christin UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1356 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1360 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+1363 quality qualiti agn NN 2 318 390 calib calibr charact lineament timbr timber tone choic prime prize select 
+1364 materials materi agn NNS 2 391 438 stuff fabric cloth textil 
+1366 then then agn RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+1368 should should agn MD 3 184 393 665 
+1369 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1370 influence influenc agn NN 1 395 work determin shape mold regul charm tempt 
+1372 design design agn NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+1373 principles principl agn NNS 1 397 rule precept rational 
+1375 match match agn NN 1 398 lucif mate catch peer equal compeer coupl mate fit correspond check jibe gibe talli agre pair twin touch rival meet pit oppos equal equalis equat 
+1379 see see agn VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+1382 presentation present agn NN 4 23 56 400 457 demonstr display introduct intro 
+1384 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+1386 would would agn MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1387 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1389 check check agn VB 1 404 chequ assay chit tab arrest halt hitch stay stop stoppag confirm verif substanti checkout tick hindranc hinder deterr impedi balk baulk handicap chip bridl curb see insur ensur control ascertain assur hold contain moder mark retard delay match fit correspond jibe gibe talli agre disciplin train condit checker chequer determin watch learn chink crack break 
+1393 user user agn NN 1 405 exploit 
+1394 whether whether agn CS 1 406 
+1396 quickly quick agn RB 2 407 728 rapid speedili chop-chop apac prompt cursorili 
+1398 novelty novelti agn NN 1 408 fresh knickknack bangl baubl gaud gewgaw fallal trinket 
+1399 wears wear agn VBZ 1 409 cloth vestur wearabl habili bear endur break bust tire weari jade outwear fag fatigu don assum 
+1400 off off agn RP 5 410 488 534 544 571 murder slay hit dispatch remov cancel away forth sour turn 
+1402 having have agn HVG 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1403 Uh-huh Uh-huh christin UH 9 283 412 575 684 811 959 993 1055 1133 
+1406 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1407 wanna wanna christin NP 4 414 465 874 937 
+1408 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1410 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1411 splinters splinter christin NNS 1 417 matchwood sliver seced 
+1416 using use christin VBG 5 323 333 418 431 648 exploit victim victimis util utilis appli employ habitu expend practic 
+1417 yeah yeah christin UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1418 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1420 example exampl agn RB22 2 421 502 illustr instanc repres model exemplar lesson case exercis 
+1422 Have Have agn HV 2 225 422 have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1424 see see agn VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+1426 Kid Kid agn NN 1 424 child kid youngster minor shaver nipper tiddler tike tyke fri nestl kidskin Kyd chaff jolli josh banter 
+1427 friendly friend agn JJ 3 159 163 425 favor well-dispos 
+1433 all all agn PDT 5 36 155 426 903 1239 wholli entir complet total altogeth whole 
+1438 if if christin CS 9 52 266 303 316 427 622 863 1034 1173 
+1442 get get christin VB 5 86 280 428 962 1110 acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+1443 ahold ahold christin NN 1 429 
+1447 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1448 use use christin NN 5 323 333 418 431 648 usag util utilis employ exercis function purpos role consumpt usanc habit manipul enjoy util utilis appli employ habitu expend practic 
+1451 teething teeth christin NN 1 432 dentit odontiasi 
+1454 any ani ed DT 5 433 493 982 991 1225 whatev whatsoev 
+1457 rubber rubber ed JJ 4 119 434 828 1146 caoutchouc condom safeti safe prophylact arctic galosh golosh gumsho rubberis no-good 
+1458 plastic plastic ed NN 3 131 276 435 fictil moldabl pliant format shape 
+1460 Yeah Yeah christin UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+1465 other other christin JJ 5 88 437 547 567 995 earli former 
+1466 materials materi christin NNS 2 391 438 stuff fabric cloth textil 
+1469 yeah yeah christin UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1470 Sure Sure ed JJ 4 440 708 710 1170 certain sure sure certain trust indisput 
+1471 Joe Joe ed NP 1 441 
+1472 more more ed RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+1473 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+1474 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+1476 let let sridhar VB 1 445 Lashkar-e-Taiba Lashkar-e-Toiba Lashkar-e-Tayyiba LET allow permit counten get have leas rent 
+1477 more more sridhar RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+1480 acne acn sridhar NN 1 447 
+1482 mm mm sridhar NN 3 367 448 1084 millimet millimetr 
+1484 know know sridhar VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+1486 parts part sridhar NNS 1 450 portion compon constitu piec region function offic role charact persona share percentag section divis voic contribut separ split break depart start divid disunit 
+1487 bin bin sridhar NN 1 451 BIN 
+1490 Three Three agn CD 1 452 three 3 III trio threesom tierc leash troika triad trine triniti ternari ternion triplet tercet terzetto trey deuce-ac iii 
+1492 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1495 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+1497 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1502 short short agn JJ 1 456 shortstop short-chang short-circuit littl unretent forget abrupt sudden dead unawar curt inadequ poor light scant shortsight unforesight myopic brusqu brusk curt 
+1503 presentation present agn NN 4 23 56 400 457 demonstr display introduct intro 
+1504 "cause" "cause" agn NN 2 458 804 
+1506 actually actual agn RB 6 353 459 485 518 764 880 realli 
+1507 gonna gonna agn NP 3 121 460 683 
+1508 draw draw agn VB 1 461 attract attractor attract standoff tie lot hook hook haul haulag pull forc reap trace line describ delin make depict puff drag withdraw cast get quarter absorb suck imbib attract string thread guid run pass disembowel eviscer 
+1511 layout layout agn NN 2 462 619 
+1514 board board agn NN 4 129 249 463 1032 plank tabl panel card plug-in add-in gameboard room 
+1516 If If agn CS 6 315 464 704 777 780 1046 
+1518 wanna wanna agn NP 4 414 465 874 937 
+1519 discuss discuss agn VB 2 12 466 discus saucer discours 
+1520 stick stick agn VB 1 467 joystick pin peg joint reefer spliff lodg wedg deposit stay adher bond bind cling cleav coher sting perplex vex get puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound 
+1523 second second agn OD 1 468 sec s moment mo minut bit instant arcsecond endors indors irregular back endors indors 2nd 2d 
+1524 slide slide agn NN 2 233 469 swoop glide coast chute slideway skid slip slue slew slither 
+1527 basically basic agn RB 1 470 fundament essenti 
+1528 shows show agn VBZ 2 471 1180 display appear demo exhibit present demonstr prove establish shew testifi evid pictur depict render express evinc indic point design read regist record usher 
+1530 sort sort agn NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+1532 like like agn IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+1535 ideas idea agn NNS 4 355 359 474 732 thought mind estim estim approxim theme 
+1538 talking talk agn VBG 2 475 1038 speak utter mouth verbal verbalis spill tattl blab peach babbl sing lectur 
+1540 last last agn OD 2 476 1100 final fini finish conclus close death end endur surviv live go final conclud final termin net utmost last-plac lowest 
+1541 time time agn NN 1 477 clip meter metr sentenc clock 
+1544 try tri agn VB 3 478 545 1047 attempt effort endeavor endeavour seek essay assay test prove examin judg adjud sampl tast hear strain stress render 
+1546 put put agn VB 1 479 set place pose posit lay frame redact cast couch assign invest commit arrang order 
+1548 into into agn IN 4 48 480 990 1187 
+1550 remote remot agn JJ 3 481 703 869 distant outsid remov outback 
+1551 control control agn NN 3 482 492 573 domin ascend ascend ascend ascend restraint command masteri hold contain check curb moder oper manipul verifi see insur ensur ascertain assur master 
+1553 things thing agn NNS 7 89 179 483 517 577 761 861 matter affair 
+1556 can can agn MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1557 actually actual agn RB 6 353 459 485 518 764 880 realli 
+1558 see see agn VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+1562 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1565 off off agn RP 5 410 488 534 544 571 murder slay hit dispatch remov cancel away forth sour turn 
+1566 switch switch agn VB 2 489 535 substitut permut transposit replac shift exchang trade swap swop chang throw flip interchang tack altern flip-flop 
+1567 Volume Volum agn NN 1 490 volum bulk mass book loud intens 
+1569 channel channel agn NN 1 491 groov line duct canal impart conduct transmit convey carri canal canalis transfer transport channelis 
+1570 control control agn NN 3 482 492 573 domin ascend ascend ascend ascend restraint command masteri hold contain check curb moder oper manipul verifi see insur ensur ascertain assur master 
+1572 any ani agn DT 5 433 493 982 991 1225 whatev whatsoev 
+1573 access access agn NN 2 494 563 entre admiss admitt approach 
+1574 button button agn NN 2 495 548 push clitori clit releas 
+1642 Right Right christin JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+1644 hand hand christin NN 4 45 497 612 844 manus mitt paw handwrit script deal pass reach give 
+1646 different differ christin JJ 5 358 498 758 897 1015 unlik dissimilar 
+1647 size size christin NN 1 499 
+1648 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+1650 worse wors christin JJR 1 501 worsen bad regret sorri big tough spoil spoilt uncollect riski high-risk specul unfit unsound forg defect 
+1652 example exampl christin RB22 2 421 502 illustr instanc repres model exemplar lesson case exercis 
+1735 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+1737 also also agn RB 6 101 132 504 686 855 923 besid too likewis 
+1760 kinda kinda agn RB 2 505 1125 rather 
+1761 goes goe agn VBZ 2 128 506 go spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+1762 demand demand agn NN 2 507 508 requir need necessit ask postul requir take involv exact 
+1763 demand demand agn NN 2 507 508 requir need necessit ask postul requir take involv exact 
+1767 battery batteri agn NN 1 509 barrag bombard shell 
+1769 starts start agn VBZ 1 510 begin commenc first outset get-go kickoff showtim offset startl jump scratch begin get commenc depart part origin initi go protrud pop bulg 
+1771 die die agn VB 1 511 dice deceas perish go exit expir pass conk choke croak fail break pall 
+1774 terms term agn NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+1776 invisible invis agn JJ 1 513 unseeabl inconspicu 
+1785 Hmm Hmm christin UH 4 514 1001 1045 1056 
+1786 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+1795 terms term agn NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+1797 thing thing agn NN 7 89 179 483 517 577 761 861 matter affair 
+1799 actually actual agn RB 6 353 459 485 518 764 880 realli 
+1800 look look agn VB 6 93 519 724 782 783 1181 express aspect face spirit tone feel feel flavor flavour smell appear seem search front attend see expect await wait count bet depend calcul reckon 
+1801 like like agn IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+1802 Despite Despit agn IN 1 521 contempt disdain scorn despit 
+1803 working work agn VBG 7 97 320 337 377 522 925 954 act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn run oper function 
+1805 interface interfac agn NN 1 523 port 
+1806 designer design agn NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 decor architect intrigu couturi 
+1807 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1809 greatest greatest agn JJS 1 526 sterl superl great outstand bang-up bulli cork crack dandi groovi keen neat nifti peachi slap-up swell smash capit majuscul big enceint expect gravid larg heavi 
+1810 artists artist agn NNS 1 527 
+1813 world world agn NN 3 528 602 941 univers exist creation cosmos macrocosm domain realiti Earth earth globe populac public human humankind human mankind man global planetari worldwid world-wid 
+1816 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1818 forgive forgiv agn VB 1 530 
+1821 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1822 something someth agn PN 8 532 606 624 756 801 893 917 1008 
+1823 like like agn IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+1826 off off agn RP 5 410 488 534 544 571 murder slay hit dispatch remov cancel away forth sour turn 
+1827 switch switch agn VB 2 489 535 substitut permut transposit replac shift exchang trade swap swop chang throw flip interchang tack altern flip-flop 
+1829 big big agn JJ 3 536 1040 1058 larg boast vaunt bad promin heavi boast braggart brag braggi cock-a-hoop crow self-aggrand self-aggrandis swell vainglori adult full-grown grown grownup magnanim bigheart bounteous bounti freehand handsom give liber openhand enceint expect gravid great 
+1830 Sort Sort agn NN 1 537 kind sort form varieti sort screen siev classifi class assort separ 
+1834 corner corner agn NN 1 538 nook recess recess nich box quoin tree 
+1841 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1842 accidentally accident agn RB 1 540 circumstanti unexpect incident unintent 
+1843 turn turn agn VB 3 541 570 945 bend crook twist play go spell tour bout round act routin number bit becom revers grow releas plow plough sprain wrench wrick rick flex deform sour ferment work 
+1845 t. t. agn NP 3 542 565 796 
+1846 v. v. agn IN 4 543 566 797 799 
+1847 off off agn RP 5 410 488 534 544 571 murder slay hit dispatch remov cancel away forth sour turn 
+1850 trying tri agn VBG 3 478 545 1047 seek attempt essay assay test prove examin judg adjud sampl tast hear strain stress render nerve-rack nerve-wrack stress 
+1852 manoeuvre manoeuvr agn NN 1 546 tactic tactic maneuv play manoeuv steer direct point head guid channel channelis oper 
+1853 other other agn JJ 5 88 437 547 567 995 earli former 
+1854 buttons button agn NNS 2 495 548 push clitori clit releas 
+1868 oops oop agn NN 1 549 
+1869 Channels Channel agn NNS 1 550 channel channel groov line duct canal impart conduct transmit convey carri canal canalis transfer transport channel channelis 
+1901 then then agn RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+1904 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1906 sort sort agn NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+1908 standard standard agn JJ 2 554 808 criterion measur touchston banner receiv stock 
+1909 Telephone Telephon agn NN 1 555 telephon phone telephoni call ring 
+1910 ish ish agn NN 1 556 
+1911 Number Number agn NN 1 557 number figur act routin turn bit numer issu total come amount list count enumer numer asleep benumb numb dead 
+1912 pad pad agn NN 1 558 tablet inkpad launchpad dig dig domicili lodg embroid lard embellish aggrand aggrandis dramat dramatis slog footslog plod trudg tramp bolster 
+1914 then then agn RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+1917 side side agn NN 2 560 568 face posit slope inclin English 
+1919 would would agn MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+1920 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1922 access access agn NN 2 494 563 entre admiss admitt approach 
+1925 manual manual agn JJ 1 564 
+1928 t. t. agn NP 3 542 565 796 
+1929 v. v. agn IN 4 543 566 797 799 
+1933 other other agn JJ 5 88 437 547 567 995 earli former 
+1934 side side agn NN 2 560 568 face posit slope inclin English 
+1936 way way agn NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+1938 turn turn agn VB 3 541 570 945 bend crook twist play go spell tour bout round act routin number bit becom revers grow releas plow plough sprain wrench wrick rick flex deform sour ferment work 
+1939 off off agn RP 5 410 488 534 544 571 murder slay hit dispatch remov cancel away forth sour turn 
+1941 voice voic agn NN 1 572 vocal vocalis vocal phonat vox articul spokesperson interpret repres part sound vocal vocalis 
+1942 control control agn NN 3 482 492 573 domin ascend ascend ascend ascend restraint command masteri hold contain check curb moder oper manipul verifi see insur ensur ascertain assur master 
+1970 Mm Mm christin NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+1971 Uh-huh Uh-huh christin UH 9 283 412 575 684 811 959 993 1055 1133 
+1972 Changing Chang agn VBG 1 576 chang alter modifi vari switch shift exchang commut convert interchang transfer deepen chang ever-chang 
+1973 things thing agn NNS 7 89 179 483 517 577 761 861 matter affair 
+1975 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+1978 again again agn RB 2 579 1243 
+1980 can can agn MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+1981 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+1983 little littl agn JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+1984 l. l. agn NP 1 583 
+1985 c. c. agn NP 1 584 
+1986 d. d. agn NP 4 585 798 800 972 
+1987 light light agn NN 2 586 1029 luminos bright lumin lumin illumin sparkl twinkl spark Light lighter ignit ignitor illum illumin illumin alight perch ignit fall unhors dismount light-color unacc weak clean clear uncloud lightsom trip faint swoon light-head lighthead abstemi scant short idl lite low-cal calorie-fre wake easi loos promiscu sluttish wanton 
+1988 somewhere somewher agn RB 1 587 someplac 
+1990 flat flat agn NN 1 588 flatcar flatb apart direct straight level plane categor categor uncondit prostrat compress bland flavorless flavourless insipid savorless savourless vapid monoton monoton monoton two-dimension 2-dimension mat matt matt mat 
+1991 Thing Thing agn NN 1 589 thing matter affair 
+1994 forgotten forgotten agn VBN 2 174 590 forget buri block leav disregard 
+1995 anything anyth agn PN 1 591 
+1998 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+1999 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+2038 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+2040 design design agn NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+2041 can can agn MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+2042 pretty pretti agn JJ 3 340 597 628 reason moder jolli somewhat fair middl passabl 
+2043 much much agn DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+2044 carry carri agn VB 1 599 transport pack take impart conduct transmit convey channel express hold bear contain extend behav acquit deport comport stock stockpil run dribbl persuad sway post gestat expect 
+2045 everything everyth agn PN 2 600 634 
+2046 although although agn CS 1 601 
+2049 world world agn NN 3 528 602 941 univers exist creation cosmos macrocosm domain realiti Earth earth globe populac public human humankind human mankind man global planetari worldwid world-wid 
+2051 flipscreen flipscreen agn IN 1 603 
+2052 Might Might agn MD 1 604 might mighti power 
+2053 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2056 something someth agn PN 8 532 606 624 756 801 893 917 1008 
+2057 slightly slight agn RB 1 607 somewhat slender slim 
+2059 hinge hing christin NN 1 608 
+2060 Difference Differ agn NN 3 609 701 931 differ deviat diverg departur disput conflict remaind 
+2062 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2064 copper copper christin NN 1 611 Cu bull cop fuzz pig 
+2065 hand hand christin NN 4 45 497 612 844 manus mitt paw handwrit script deal pass reach give 
+2066 sure sure christin JJ 4 152 235 613 709 certain certain trust indisput 
+2068 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2069 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2093 Mm Mm christin NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+2094 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+2112 general general agn JJ 2 618 620 cosmopolitan ecumen oecumen univers worldwid world-wid 
+2113 layout layout agn NN 2 462 619 
+2116 general general agn JJ 2 618 620 cosmopolitan ecumen oecumen univers worldwid world-wid 
+2117 functionalities function agn NNS 3 34 47 621 
+2118 if if agn CS 9 52 266 303 316 427 622 863 1034 1173 
+2120 come come agn VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+2123 something someth agn PN 8 532 606 624 756 801 893 917 1008 
+2124 else els agn RB 3 625 635 802 
+2156 Mm Mm christin NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+2157 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+2164 pretty pretti agn JJ 3 340 597 628 reason moder jolli somewhat fair middl passabl 
+2165 much much agn DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+2166 Oh Oh agn UH 5 68 351 630 879 1210 Ohio OH 
+2168 had had agn HVD 2 142 631 have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2170 say say agn VB 5 136 632 803 887 947 state tell alleg aver suppos read order enjoin pronounc articul enounc enunci 
+2172 mean mean agn VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+2173 everything everyth agn PN 2 600 634 
+2174 else els agn RB 3 625 635 802 
+2176 terms term agn NNS 6 363 365 372 512 516 636 foot price damag condit terminus 
+2178 design design agn NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+2179 issues issu agn NNS 1 638 number topic subject matter issuanc return take take proceed yield payoff consequ effect outcom result event upshot offspr progeni emerg egress exit outlet public publish releas suppli emerg cut 
+2182 century centuri agn NN 1 639 hundr 100 C 
+2183 know know agn VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2185 keypad keypad agn NN 1 641 
+2235 Mm Mm christin NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+2237 number number agn NN 2 57 643 figur act routin turn bit numer issu total come amount list count enumer numer asleep benumb numb dead 
+2238 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2239 little littl agn JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+2240 bit bit agn NN 5 40 305 383 646 978 spot chip flake fleck scrap moment mo minut second piec morsel bite snatch act routin number turn sting burn prick 
+2241 lower lower agn JJR 1 647 lour depress frown glower low low-pitch low-ton abject low-down miser scummi scurvi humbl lowli modest small deplet broken crush humbl humili gloomi grim blue depress dispirit down downcast downheart low-spirit 
+2243 use use agn NN 5 323 333 418 431 648 usag util utilis employ exercis function purpos role consumpt usanc habit manipul enjoy util utilis appli employ habitu expend practic 
+2244 less less agn RBR 2 649 663 
+2245 frequently frequent agn RB 1 650 often oftentim oft ofttim 
+2246 Mm Mm christin NN 9 59 102 146 245 574 616 626 642 651 millimet millimetr mm 
+2247 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+2249 once onc agn RB 1 653 former erstwhil erst 
+2251 decide decid agn VB 4 31 654 1030 1117 determin settl resolv adjud 
+2252 exactly exact agn RB 4 175 349 655 660 precis just incis 
+2255 want want agn VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+2256 then then agn RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+2258 can can agn MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+2259 figure figur agn NN 1 659 fig soma build physiqu anatomi shape bod chassi frame form flesh digit name number trope imag design pattern calcul estim reckon forecast enter visual visualis envis project fanci see pictur cipher cypher comput 
+2262 exact exact agn JJ 4 175 349 655 660 demand claim take accur precis 
+2263 positioning posit agn NN 1 661 placement locat locat emplac put set place pose lay align 
+2265 more more agn RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+2267 less less agn RBR 2 649 663 
+2269 think think agn VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+2271 should should agn MD 3 184 393 665 
+2272 go go agn VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+2273 along along agn IN 1 667 on 
+2275 lines line agn NNS 1 668 argument argument cabl cours wrinkl furrow creas crinkl seam pipelin lineag descent bloodlin blood pedigre ancestri origin parentag stemma stock occup busi job channel tune melodi air strain note billet demarc contrast trace draw describ delin 
+2279 yeah yeah sridhar UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+2281 comments comment sridhar NNS 5 308 364 373 670 752 remark input commentari gossip scuttlebutt notic gloss annot 
+2284 Simple Simpl ed JJ 1 671 simpl simpleton unsubdivid elementari uncompl unproblemat bare mere childlik wide-ey round-ey dewy-ey dim-wit simple-mind 
+2285 design design ed NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+2287 consumers consum ed NNS 4 673 696 723 763 
+2288 want want ed VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+2289 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+2290 Some Some ed DT 1 676 some approxim about rough around 
+2292 like like ed IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+2293 fifteen fifteen ed CD 1 678 15 XV xv 
+2295 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2297 product product ed NN 6 680 713 773 963 1000 1163 merchandis ware intersect 
+2301 Problems Problem ed NNS 2 127 681 problem job troubl 
+2302 obviously obvious ed RB 1 682 evid manifest patent appar plain plain 
+2303 gonna gonna ed NP 3 121 460 683 
+2305 Uh-huh Uh-huh agn UH 9 283 412 575 684 811 959 993 1055 1133 
+2306 Okay Okay ed RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+2308 also also ed RB 6 101 132 504 686 855 923 besid too likewis 
+2309 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2312 simple simpl ed JJ 2 168 688 simpleton unsubdivid elementari uncompl unproblemat bare mere childlik wide-ey round-ey dewy-ey dim-wit simple-mind 
+2313 Presentation Present ed NN 1 689 present present demonstr display introduct intro 
+2314 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2316 from from ed IN 4 24 195 691 1235 
+2318 marketing market ed NN 7 362 692 753 894 922 1108 1199 sell merchandis commerci commercialis 
+2319 point point ed NN 1 693 detail item degre level stage tip peak dot spot period stop head pointed gunpoint indic design show orient charg steer maneuv manoeuv manoeuvr direct guid channel channelis bespeak betoken signal luff target aim place sharpen taper repoint 
+2321 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2323 see see ed VB 7 28 214 237 399 423 486 695 understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+2326 consumers consum ed NNS 4 673 696 723 763 
+2327 want want ed VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+2328 Also Also ed RB 1 698 besid too also likewis 
+2329 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2331 Copied Copi ed VBN 1 700 copi imit simul replic re-creat 
+2333 Different Differ ed JJ 3 609 701 931 differ unlik dissimilar 
+2334 type type ed NN 2 299 702 charact eccentr case typewrit typecast 
+2336 remote remot ed JJ 3 481 703 869 distant outsid remov outback 
+2337 If If ed CS 6 315 464 704 777 780 1046 
+2339 can can ed MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+2340 find find ed VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+2345 Should Should ed MD 1 707 
+2351 Sure Sure ed JJ 4 440 708 710 1170 certain sure sure certain trust indisput 
+2352 sure sure ed JJ 4 152 235 613 709 certain certain trust indisput 
+2353 Sure Sure christin JJ 4 440 708 710 1170 certain sure sure certain trust indisput 
+2355 modified modifi ed VBN 2 711 1220 qualifi chang alter limit 
+2357 stealing steal ed VBG 1 712 larceni theft thieveri thiev stealth slip 
+2359 product product ed NN 6 680 713 773 963 1000 1163 merchandis ware intersect 
+2362 municipal municip ed JJ 1 714 
+2363 questionnaires questionnair ed NNS 1 715 
+2365 every everi ed DT 1 716 
+2366 year year ed NN 2 109 717 twelvemonth yr class 
+2368 because becaus ed CS 3 122 718 952 
+2372 cinetis cineti ed NN 1 719 
+2374 would would ed MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2375 come come ed VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+2376 most most ed RBS 3 722 807 1067 about almost near near nigh virtual well-nigh 
+2377 consumers consum ed NNS 4 673 696 723 763 
+2379 looking look ed VBG 6 93 519 724 782 783 1181 appear seem search front face attend see expect await wait count bet depend calcul reckon sound 
+2381 today today ed RB 1 725 nowaday now 
+2385 trends trend ed NNS 2 726 754 tendenc cours drift movement vogu style swerv sheer curv veer slue slew cut 
+2386 changing chang ed VBG 1 727 alter modifi vari switch shift exchang commut convert interchang transfer deepen ever-chang 
+2389 quickly quick ed RB 2 407 728 rapid speedili chop-chop apac prompt cursorili 
+2391 six six ed CD 1 729 6 VI sixer sise sextet sestet sextuplet hexad six-spot vi half-dozen 
+2392 months month ed NNS 1 730 
+2393 maybe mayb ed RB 4 731 818 1052 1158 possibl perchanc perhap mayhap peradventur 
+2395 ideas idea ed NNS 4 355 359 474 732 thought mind estim estim approxim theme 
+2396 already alreadi ed RB 1 733 
+2397 got got ed VBD 1 734 get acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+2400 window window ed NN 1 735 windowpan 
+2404 question question ed NN 2 736 1226 inquiri enquiri queri interrog head interrog doubt dubious doubt motion oppugn interrog interview wonder 
+2406 fast fast ed RB 1 737 tight debauch degener degrad dissip dissolut libertin proflig riotous fli quick firm immobil loyal trueheart 
+2408 can can ed MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+2409 act act ed NN 1 739 enact deed routin number turn bit move behav do play repres work dissembl pretend roleplay playact 
+2410 Yeah Yeah ed UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2415 wrist wrist ed NN 2 741 742 carpus 
+2416 wrist wrist ed NN 2 741 742 carpus 
+2419 know know ed VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2420 No No christin DT 7 324 744 747 749 889 1089 1143 no nobelium 
+2421 Go Go christin VB 1 745 go spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+2423 findings find christin NNS 10 85 222 251 259 267 309 706 746 1094 1096 determin 
+2424 No No ed DT 7 324 744 747 749 889 1089 1143 no nobelium 
+2425 no no ed DT 6 41 243 326 327 328 748 nobelium No 
+2426 No No ed DT 7 324 744 747 749 889 1089 1143 no nobelium 
+2430 not not ed XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+2431 know know ed VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2433 commentator comment ed NN 5 308 364 373 670 752 observ review 
+2435 market market ed NN 7 362 692 753 894 922 1108 1199 marketplac groceri mart commerci commercialis 
+2436 trend trend ed NN 2 726 754 tendenc cours drift movement vogu style swerv sheer curv veer slue slew cut 
+2501 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2503 something someth ed PN 8 532 606 624 756 801 893 917 1008 
+2504 completely complet ed RB 1 757 wholli entir total all altogeth whole 
+2505 different differ ed JJ 5 358 498 758 897 1015 unlik dissimilar 
+2535 think think ed VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+2538 another anoth ed DT 1 760 
+2539 thing thing ed NN 7 89 179 483 517 577 761 861 matter affair 
+2541 interesting interest ed JJ 1 762 concern occupi worri 
+2544 consumers consum ed NNS 4 673 696 723 763 
+2545 actually actual ed RB 6 353 459 485 518 764 880 realli 
+2546 willing will ed JJ 1 765 volit bequeath leav uncoerc unforc 
+2548 pay pay ed VB 2 766 953 wage earn remuner salari give yield bear compens devot 
+2550 price price ed NN 4 767 981 1111 1194 cost term damag toll Price 
+2552 exciting excit ed JJ 1 768 stimul stir agit rous charg commov arous sex shake energ energis 
+2554 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2555 technology technolog ed NN 3 269 770 787 engin 
+2558 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2560 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2562 product product ed NN 6 680 713 773 963 1000 1163 merchandis ware intersect 
+2564 may may ed MD 2 246 774 May whitethorn 
+2566 more more ed RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+2567 expensive expens ed JJ 2 776 1061 
+2568 If If ed CS 6 315 464 704 777 780 1046 
+2570 comes come ed VBZ 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+2572 right right ed JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+2573 If If ed CS 6 315 464 704 777 780 1046 
+2576 not not ed XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+2577 look look ed VB 6 93 519 724 782 783 1181 express aspect face spirit tone feel feel flavor flavour smell appear seem search front attend see expect await wait count bet depend calcul reckon 
+2579 looks look ed VBZ 6 93 519 724 782 783 1181 express aspect face spirit tone feel feel flavor flavour smell appear seem search front attend see expect await wait count bet depend calcul reckon 
+2581 feels feel ed VBZ 1 784 spirit tone flavor flavour look smell experi find sens finger palpat 
+2582 good good ed JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+2584 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2585 technology technolog ed NN 3 269 770 787 engin 
+2696 Context Context christin NN 1 788 context circumst set 
+2697 instead instead christin RB 1 789 altern rather 
+2699 instructions instruct christin NNS 1 790 direct educ teach pedagogi didact command statement 
+2700 Right Right agn JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+2701 Okay Okay ed RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+2703 mean mean christin VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+2706 top top christin NN 1 794 upsid peak crown crest tip summit acm height elev pinnacl superl meridian tiptop whirligig teetotum cover exceed transcend overstep pass clear lead pinch 
+2708 mode mode christin NN 1 795 manner style way fashion modal mood 
+2710 t. t. christin NP 3 542 565 796 
+2711 v. v. christin IN 4 543 566 797 799 
+2714 d. d. christin NP 4 585 798 800 972 
+2715 v. v. christin IN 4 543 566 797 799 
+2716 d. d. christin NP 4 585 798 800 972 
+2718 something someth christin PN 8 532 606 624 756 801 893 917 1008 
+2719 else els christin RB 3 625 635 802 
+2721 say say christin VB 5 136 632 803 887 947 state tell alleg aver suppos read order enjoin pronounc articul enounc enunci 
+2723 "cause" "cause" ed NN 2 458 804 
+2725 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2726 seen seen ed VBN 1 806 see understand realiz realis wit find visual visualis envis project fanci figur pictur imag consid reckon view regard learn hear discov watch catch meet encount determin check ascertain insur ensur control assur visit attend look date examin experi escort interpret constru 
+2727 mostly most ed RB 3 722 807 1067 larg general 
+2729 standard standard ed JJ 2 554 808 criterion measur touchston banner receiv stock 
+2730 ones one ed NNS 2 334 809 1 I ace singl uniti 
+2731 yeah yeah ed UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+2768 Uh-huh Uh-huh agn UH 9 283 412 575 684 811 959 993 1055 1133 
+2778 Train Train ed NN 1 812 train string caravan gear gear geartrain develop prepar educ disciplin check condit groom school cultiv civil civilis aim take direct coach rail trail 
+2780 fancy fanci ed JJ 1 813 illus fantasi phantasi fond partial visual visualis envis project see figur pictur imag 
+2781 Feels Feel ed VBZ 1 814 feel spirit tone feel flavor flavour look smell experi find sens finger palpat 
+2782 good good ed JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+2786 display display ed NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+2793 Yeah Yeah christin UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2794 maybe mayb christin RB 4 731 818 1052 1158 possibl perchanc perhap mayhap peradventur 
+2797 could could christin MD 7 53 215 250 819 823 884 1145 
+2800 video video christin NN 1 820 pictur televis telecast TV 
+2801 orders order christin NNS 1 821 ordin orderli decre edict fiat rescript club societi guild gild lodg Order tell enjoin say prescrib dictat regul regular regularis govern ordain consecr ordin arrang put rate rank rang grade place 
+2803 device devic christin NN 3 822 951 958 gimmick twist 
+2805 could could christin MD 7 53 215 250 819 823 884 1145 
+2806 send send christin VB 1 824 direct mail post transport ship station place commit institution institutionalis charg air broadcast beam transmit 
+2808 like like christin IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+2813 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+2814 foam foam christin NN 1 827 froth fizz effervesc sparkl 
+2815 rubber rubber christin JJ 4 119 434 828 1146 caoutchouc condom safeti safe prophylact arctic galosh golosh gumsho rubberis no-good 
+2817 Ball Ball christin NN 1 829 ball globe orb testi testicl orchi ballock bollock nut egg clod glob lump clump chunk formal 
+2819 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+2821 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2822 squeeze squeez christin VB 1 832 wring hug clinch squash crush squelch mash wedg forc coerc hale pressur extort rack goug thrust stuff shove pinch twing tweet nip twitch embrac bosom compress constrict compact contract press 
+2825 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2826 take take christin VB 3 346 834 902 return issu proceed yield payoff occupi lead direct conduct guid assum acquir adopt read bring convey choos select accept have fill consid deal necessit ask postul need requir involv demand film shoot remov withdraw consum ingest submit strike admit learn studi claim exact make aim train carri pack leas rent hire charter engag subscrib contain hold drive contract get 
+2828 shape shape christin NN 1 835 form configur contour conform soma build figur physiqu anatomi bod chassi frame flesh embodi cast condit SHAPE pattern determin mold influenc regul work mould forg 
+2830 Arrow Arrow agn NN 1 836 arrow pointer 
+2831 yeah yeah agn UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+2832 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2836 moulded mould agn VBN 1 839 model mold cast shape form work forg 
+2842 specific specif agn JJ 1 840 particular 
+2850 then then christin RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+2852 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2856 geometry geometri christin NN 1 843 
+2859 hands hand christin NNS 4 45 497 612 844 custodi workforc manpow men manus mitt paw handwrit script deal pass reach give 
+2860 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2862 e. e. christin NP 1 846 
+2865 Hard Hard ed JJ 1 847 difficult hard unvoic voiceless surd concentr firm sever heavili intemper knockout sever arduous backbreak gruel gruell heavi labori operos punish toilsom intemper strong tough 
+2866 disk disk ed NN 1 848 disc saucer record platter harrow 
+2867 reason reason ed NN 2 849 948 ground understand intellect ration caus ground conclud argu 
+2869 Resisted Resist ed VBN 1 850 defi resist refus withstand protest dissent stand fend reject balk baulk jib 
+2870 resisted resist ed VBN 1 851 defi refus withstand protest dissent stand fend reject balk baulk jib 
+2874 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2877 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+2885 would would agn MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2886 also also agn RB 6 101 132 504 686 855 923 besid too likewis 
+2887 have have agn HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2890 sort sort agn NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+2893 average averag agn JJ 1 858 norm mean ordinari fair mediocr middl intermedi medium modal median 
+2894 across across agn IN 1 859 crosswis crossway 
+2895 families famili agn NNS 1 860 household hous home menag class categori folk kinfolk kinsfolk sept phratri kin kinsperson syndic mob fellowship 
+2897 things thing agn NNS 7 89 179 483 517 577 761 861 matter affair 
+2898 like like agn IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+2900 if if agn CS 9 52 266 303 316 427 622 863 1034 1173 
+2901 Unless Unless agn CS 1 864 
+2902 everyone everyon agn PN 1 865 
+2903 has has agn HVZ 4 77 98 133 866 HA have hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+2905 own own agn DT 3 212 366 867 have possess ain 
+2906 personal person agn JJ 3 181 868 956 
+2907 remote remot agn JJ 3 481 703 869 distant outsid remov outback 
+2909 right right christin JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+2911 right right christin JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+2913 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2914 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+2915 wanna wanna christin NP 4 414 465 874 937 
+2916 go go christin VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+2917 too too christin RB 1 876 excess over besid also likewis 
+2918 far far christin RB 1 877 ALIR FAR Interahamw 
+2919 down down christin RP 2 878 1050 Down pile pop kill devour consum land polish refin fine-tun downward downward downward master depress gloomi grim blue dispirit downcast downheart low low-spirit 
+2921 Oh Oh christin UH 5 68 351 630 879 1210 Ohio OH 
+2924 actually actual christin RB 6 353 459 485 518 764 880 realli 
+2925 would would christin MD 14 264 272 331 402 413 561 720 831 833 842 845 854 872 881 
+2927 increase increas christin NN 1 882 addit gain increment growth step-up 
+2931 revenue revenu christin NN 1 883 gross receipt taxat 
+2935 could could christin MD 7 53 215 250 819 823 884 1145 
+2936 expect expect christin VB 2 285 885 anticip ask requir look await wait bear carri gestat 
+2937 yeah yeah christin UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+2939 say say agn VB 5 136 632 803 887 947 state tell alleg aver suppos read order enjoin pronounc articul enounc enunci 
+2942 hope hope sridhar VB 4 5 42 888 1171 promis Hope trust desir 
+2944 No No ed DT 7 324 744 747 749 889 1089 1143 no nobelium 
+2946 incorporating incorpor ed VBG 1 890 integr contain compris 
+2948 three three ed CD 1 891 3 III trio threesom tierc leash troika triad trine triniti ternari ternion triplet tercet terzetto trey deuce-ac iii 
+2950 Obviously Obviousli ed RB 1 892 obvious evid manifest patent appar plain plain 
+2952 something someth ed PN 8 532 606 624 756 801 893 917 1008 
+2955 market market ed NN 7 362 692 753 894 922 1108 1199 marketplac groceri mart commerci commercialis 
+2956 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2957 Totally Total ed RB 1 896 wholli entir complet total all altogeth whole 
+2958 different differ ed JJ 5 358 498 758 897 1015 unlik dissimilar 
+2959 Yeah Yeah ed UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+2969 good good agn JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+2970 sort sort agn NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+2981 nokia nokia ed NP 1 901 
+2982 taking take ed VBG 3 346 834 902 pick occupi lead direct conduct guid assum acquir adopt read bring convey choos select accept have fill consid deal necessit ask postul need requir involv demand film shoot remov withdraw consum ingest submit strike admit learn studi claim exact make aim train carri pack leas rent hire charter engag subscrib contain hold drive contract get fetch win 
+2983 all all ed PDT 5 36 155 426 903 1239 wholli entir complet total altogeth whole 
+2986 New New agn JJ 1 904 new newli fresh fresh novel raw unexampl newfangl Modern young 
+2987 gimmick gimmick agn NP 1 905 catch doodad doohickey doojigg gizmo gismo gubbin thingamabob thingumabob thingmabob thingamajig thingumajig thingmajig thingummi whatchamacallit whatchamacallum whatsi widget devic twist 
+3003 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3004 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+3005 Right Right christin JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+3007 then then ed RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3009 sold sold ed VBN 1 910 sell deal trade betray 
+3010 millions million ed NNS 1 911 1000000 meg billion trillion zillion jillion gazillion 
+3014 Millions Million ed NNS 1 912 million 1000000 meg billion trillion zillion jillion gazillion 
+3028 whole whole ed JJ 1 913 unit wholli entir complet total all altogeth unharm unhurt unscath hale solid unanim 
+3030 know know ed VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+3032 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3034 come come ed VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3037 something someth ed PN 8 532 606 624 756 801 893 917 1008 
+3038 totally total ed RB 1 918 wholli entir complet all altogeth whole 
+3039 new new ed JJ 1 919 newli fresh fresh novel raw unexampl newfangl New Modern young 
+3040 there there ed EX 6 170 293 338 342 920 1236 thither 
+3041 not not ed XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3044 market market ed NN 7 362 692 753 894 922 1108 1199 marketplac groceri mart commerci commercialis 
+3046 also also christin RB 6 101 132 504 686 855 923 besid too likewis 
+3047 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3049 work work christin NN 7 97 320 337 377 522 925 954 employ studi workplac oeuvr act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn 
+3071 Right Right christin JJ 6 64 286 496 791 908 926 right rightfield right compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+3073 Learn Learn christin VB 1 927 learn larn acquir hear discov see memor memoris con studi read take teach instruct determin check ascertain watch 
+3076 labour labour christin NN 2 928 939 labor proletariat parturi confin lying-in travail childb Labour Labor toil fag grind drudg dig moil tug push drive 
+3077 wires wire christin NNS 1 929 telegram cabl telegraph electrifi 
+3079 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+3081 Different Differ christin JJ 3 609 701 931 differ unlik dissimilar 
+3082 countries countri christin NNS 3 197 932 942 state nation land commonwealth area 
+3085 forth forth christin RB 1 933 Forth away off forward onward 
+3088 can can christin MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3091 cheap cheap christin JJ 1 935 inexpens brassi flash flashi garish gaudi gimcrack loud meretrici tacki tatti tawdri trashi bum cheesi chintzi crummi punk sleazi tinni chinchi 
+3095 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3096 wanna wanna christin NP 4 414 465 874 937 
+3097 explore explor christin VB 2 116 938 research search 
+3101 labour labour christin NN 2 928 939 labor proletariat parturi confin lying-in travail childb Labour Labor toil fag grind drudg dig moil tug push drive 
+3104 third third christin OD 1 940 one-third tierc 3rd tertiari 
+3105 world world christin NN 3 528 602 941 univers exist creation cosmos macrocosm domain realiti Earth earth globe populac public human humankind human mankind man global planetari worldwid world-wid 
+3106 countries countri christin NNS 3 197 932 942 state nation land commonwealth area 
+3107 Actually Actualli christin RB 1 943 actual realli 
+3109 right right christin JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+3111 turn turn christin VB 3 541 570 945 bend crook twist play go spell tour bout round act routin number bit becom revers grow releas plow plough sprain wrench wrick rick flex deform sour ferment work 
+3112 around around christin IN 1 946 about approxim some rough round 
+3114 say say christin VB 5 136 632 803 887 947 state tell alleg aver suppos read order enjoin pronounc articul enounc enunci 
+3120 reason reason christin NN 2 849 948 ground understand intellect ration caus ground conclud argu 
+3122 cost cost christin NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3124 high high christin JJ 1 950 height highschool high-pitch rich luxuri emin gamey gami mellow 
+3127 devices devic christin NNS 3 822 951 958 gimmick twist 
+3128 because becaus christin CS 3 122 718 952 
+3130 paying pay christin VBG 2 766 953 give yield bear compens devot gain paid compens remun salari stipendiari 
+3133 working work christin VBG 7 97 320 337 377 522 925 954 act function oper go run process exercis make bring play wreak cultiv crop influenc shape form mold mould forg knead exploit solv lick ferment sour turn run oper function 
+3134 wage wage christin NN 1 955 pay earn remuner salari engag 
+3137 person person christin NN 3 181 868 956 individu someon somebodi mortal soul 
+3139 made made christin VBN 3 226 957 1105 make do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+3141 device devic christin NN 3 822 951 958 gimmick twist 
+3142 Uh-huh Uh-huh agn UH 9 283 412 575 684 811 959 993 1055 1133 
+3143 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3146 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3147 get get sridhar VB 5 86 280 428 962 1110 acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+3149 production product sridhar NN 6 680 713 773 963 1000 1163 output yield 
+3152 Confuse Confus sridhar VB 1 964 confus confound throw fox befuddl fuddl bedevil discombobul flurri disconcert jumbl blur obscur obnubil 
+3153 like like sridhar IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+3155 Cost Cost christin NN 1 966 cost price toll be 
+3157 living live christin VBG 1 967 life anim aliv support keep livelihood susten popul dwell inhabit surviv last go endur exist subsist be know experi surviv 
+3159 low low christin JJ 1 968 depress Low first moo low-pitch low-ton abject low-down miser scummi scurvi humbl lowli modest small deplet broken crush humbl humili gloomi grim blue depress dispirit down downcast downheart low-spirit 
+3163 yes yes sridhar UH 6 65 69 369 370 969 970 
+3164 yes yes sridhar UH 6 65 69 369 370 969 970 
+3166 disliking dislik sridhar VBG 1 971 
+3167 d. d. sridhar NP 4 585 798 800 972 
+3170 chain chain sridhar NN 1 973 concaten Chain rang string strand 
+3173 mono mono sridhar NN 1 974 mononucleosi monophon single-channel 
+3174 ratio ratio sridhar NN 1 975 proport 
+3177 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3178 go go sridhar VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+3180 bit bit sridhar NN 5 40 305 383 646 978 spot chip flake fleck scrap moment mo minut second piec morsel bite snatch act routin number turn sting burn prick 
+3182 features featur sridhar NNS 1 979 characterist lineament have sport boast 
+3183 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3186 price price sridhar NN 4 767 981 1111 1194 cost term damag toll Price 
+3187 any ani sridhar DT 5 433 493 982 991 1225 whatev whatsoev 
+3188 kind kind sridhar NN 1 983 sort form varieti genial toler 
+3189 some some sridhar DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+3190 more more sridhar RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+3203 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3204 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3206 Explore Explore christin VB 1 988 research search explor 
+3207 more more christin RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+3208 into into christin IN 4 48 480 990 1187 
+3216 any ani ed DT 5 433 493 982 991 1225 whatev whatsoev 
+3217 fashion fashion ed NN 1 992 manner mode style way forg 
+3220 Uh-huh Uh-huh christin UH 9 283 412 575 684 811 959 993 1055 1133 
+3221 Than Than ed CS 1 994 
+3222 other other ed JJ 5 88 437 547 567 995 earli former 
+3223 stuff stuff ed NN 1 996 materi clobber hooey poppycock thrust shove squeez lug block gorg ingurgit overindulg glut englut engorg overgorg overeat gormand gormandis gourmand bing satiat farc 
+3227 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3254 Come Come ed VB 1 998 semen seed ejacul cum come arriv get follow hail fall total number amount occur deriv descend do fare 
+3258 nice nice ed JJ 4 205 380 999 1154 Nice decent skill dainti overnic prissi squeamish courteous gracious 
+3259 product product ed NN 6 680 713 773 963 1000 1163 merchandis ware intersect 
+3260 Hmm Hmm christin UH 4 514 1001 1045 1056 
+3261 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+3265 not not sridhar XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3266 need need sridhar VB 1 1004 demand want motiv motiv indig penuri pauper pauper necessit ask postul requir take involv 
+3268 have have sridhar HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3273 fabric fabric sridhar NN 2 1006 1013 cloth materi textil framework 
+3274 factor factor sridhar NN 2 124 1007 compon constitu element ingredi divisor agent broker gene cistron 
+3276 something someth sridhar PN 8 532 606 624 756 801 893 917 1008 
+3279 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3280 have have sridhar HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3282 have have sridhar HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3285 There There sridhar EX 1 1012 there thither 
+3289 fabric fabric sridhar NN 2 1006 1013 cloth materi textil framework 
+3290 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3293 different differ sridhar JJ 5 358 498 758 897 1015 unlik dissimilar 
+3295 electronics electron sridhar NN 1 1016 
+3296 items item sridhar NNS 1 1017 point detail particular token 
+3297 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3299 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3300 have have sridhar HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3302 business busi sridhar NN 1 1021 concern occup job line clientel patronag byplay 
+3303 step step sridhar NN 1 1022 measur footstep pace stride stair gradat footfal tone footprint footmark tread mistreat maltreat abus ill-us ill-treat 
+3307 good good sridhar JJ 7 6 275 317 785 815 899 1023 commod well thorough sound full estim honor respect benefici just upright adept expert practic profici skill skil dear near depend safe secur right ripe effect serious sound salutari honest undecompos unspoil unspoilt 
+3309 cost cost sridhar NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3310 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3312 sell sell sridhar VB 3 310 314 1026 deal trade betray 
+3313 more more sridhar RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+3317 led led sridhar VBN 1 1028 LED lead take direct conduct guid leav result head run go pass extend top contribut conduc preced moder chair 
+3318 lights light sridhar NNS 2 586 1029 luminos bright lumin lumin illumin sparkl twinkl spark Light lighter ignit ignitor illum illumin illumin alight perch ignit fall unhors dismount 
+3320 decide decid sridhar VB 4 31 654 1030 1117 determin settl resolv adjud 
+3321 foster foster sridhar JJ 1 1031 Foster further nurtur surrog 
+3322 board board sridhar NN 4 129 249 463 1032 plank tabl panel card plug-in add-in gameboard room 
+3331 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3332 if if sridhar CS 9 52 266 303 316 427 622 863 1034 1173 
+3335 Picks Pick sridhar VBZ 1 1035 choic pick select pick cream woof weft fill plectrum plectron pickax pickax option pluck cull blame clean foot plunk peck beak nibbl piec 
+3338 phone phone sridhar NN 1 1036 telephon sound earphon earpiec headphon call ring 
+3340 both both sridhar PDT 1 1037 
+3347 talking talk sridhar VBG 2 475 1038 speak utter mouth verbal verbalis spill tattl blab peach babbl sing lectur 
+3351 design design sridhar NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+3403 big big agn JJ 3 536 1040 1058 larg boast vaunt bad promin heavi boast braggart brag braggi cock-a-hoop crow self-aggrand self-aggrandis swell vainglori adult full-grown grown grownup magnanim bigheart bounteous bounti freehand handsom give liber openhand enceint expect gravid great 
+3404 display display agn NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3405 right right agn JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+3407 front front agn NN 1 1043 forepart battlefront figurehead strawman presenc movement look face breast 
+3410 know know agn VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+3411 Hmm Hmm christin UH 4 514 1001 1045 1056 
+3413 If If agn CS 6 315 464 704 777 780 1046 
+3415 trying tri agn VBG 3 478 545 1047 seek attempt essay assay test prove examin judg adjud sampl tast hear strain stress render nerve-rack nerve-wrack stress 
+3417 keep keep agn VB 2 378 1048 support livelihood live susten donjon dungeon hold maintain continu proceed prevent observ retain sustain celebr restrain preserv save 
+3418 costs cost agn NNS 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3419 down down agn RP 2 878 1050 Down pile pop kill devour consum land polish refin fine-tun downward downward downward master depress gloomi grim blue dispirit downcast downheart low low-spirit 
+3420 Then Then agn RB 2 1051 1190 then so 
+3421 maybe mayb agn RB 4 731 818 1052 1158 possibl perchanc perhap mayhap peradventur 
+3422 sacrifice sacrific agn NN 1 1053 forfeit forfeitur give 
+3425 display display agn NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3426 Uh-huh Uh-huh christin UH 9 283 412 575 684 811 959 993 1055 1133 
+3458 Hmm Hmm christin UH 4 514 1001 1045 1056 
+3459 hmm hmm christin UH 8 503 515 617 627 652 907 1002 1057 
+3477 big big agn JJ 3 536 1040 1058 larg boast vaunt bad promin heavi boast braggart brag braggi cock-a-hoop crow self-aggrand self-aggrandis swell vainglori adult full-grown grown grownup magnanim bigheart bounteous bounti freehand handsom give liber openhand enceint expect gravid great 
+3478 display display agn NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3480 Probably Probabl agn RB 1 1060 probabl like belik credibl believ plausibl 
+3481 expensive expens agn JJ 2 776 1061 
+3482 just just agn RB 2 322 1062 equit fair mere simpli onli but precis exact bare hard scarc scarc good upright 
+3486 training train agn NN 1 1063 prepar groom educ breed develop prepar educ disciplin check condit groom school cultiv civil civilis aim take direct coach rail trail 
+3489 chip chip agn NN 2 221 1064 bit flake fleck scrap crisp check microchip splinter nick knap 
+3496 May May agn MD 1 1065 whitethorn may 
+3497 not not agn XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3500 most most agn RBS 3 722 807 1067 about almost near near nigh virtual well-nigh 
+3501 cost cost agn NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3502 efficient effici agn JJ 1 1069 effect 
+3503 way way agn NN 6 76 80 296 386 569 1070 manner mode style fashion mean agenc direct path room 
+3505 go go agn VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+3509 sort sort agn NN 6 90 472 553 857 900 1072 kind form varieti screen siev classifi class assort separ 
+3511 speculation specul agn NN 1 1073 guess conjectur supposit surmis surmis hypothesi ventur medit 
+3513 mean mean agn VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+3515 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3517 jean jean christin NP 1 1076 denim dungare 
+3519 like like christin IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+3521 display display christin NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3526 concepts concept christin NNS 2 1079 1130 construct 
+3529 share share christin NN 1 1080 portion part percentag parcel contribut plowshar ploughshar partak apport deal 
+3532 know know christin VB 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+3534 much much christin DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+3536 costs cost christin NNS 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3539 mm mm christin NN 3 367 448 1084 millimet millimetr 
+3542 add add christin VB 1 1085 ADD ADHD MBD append suppli lend impart bestow contribut bring total tot sum summat talli 
+3544 little littl christin JJ 6 281 344 382 582 645 1086 small slight short fiddl footl lilliputian niggl piddl piffl petti picayun trivial minuscul 
+3545 display display christin NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3546 like like christin IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+3549 No No ed DT 7 324 744 747 749 889 1089 1143 no nobelium 
+3551 knows know ed VBZ 17 185 192 217 258 268 449 614 640 743 751 852 853 914 930 1044 1081 1090 cogniz cognis experi live acknowledg recogn recognis love screw fuck jazz eff hump bed bang bonk 
+3553 want want christin VB 6 210 284 656 674 697 1091 privat depriv needi lack defici need wish wish desir requir 
+3555 connection connect christin NN 1 1092 connexion connected link connector associ join 
+3559 go go christin VB 8 46 231 238 666 875 977 1071 1093 spell tour turn Adam ecstasi XTC cristal X crack fling pass whirl offer travel move locomot proceed depart becom get run lead extend sound function work oper surviv last live endur die deceas perish exit expir conk choke croak belong start blend fit rifl plump fail break 
+3560 find find christin VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+3562 have have ed HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3564 find find ed VB 10 85 222 251 259 267 309 706 746 1094 1096 discoveri breakthrough uncov happen chanc bump encount detect observ discov notic regain determin ascertain feel wit see rule receiv get obtain incur recov retriev 
+3566 cost cost ed NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3567 Okay Okay christin RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3568 Sorry Sorri christin JJ 1 1099 regret sorri bad deplor distress lament piti sad good-for-noth good-for-naught meritless no-account no-count no-good blue dark dingi disconsol dismal gloomi grim drab drear dreari 
+3572 last last ed OD 2 476 1100 final fini finish conclus close death end endur surviv live go final conclud final termin net utmost last-plac lowest 
+3574 problem problem ed NN 4 134 229 300 1101 job troubl 
+3576 mean mean ed VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+3579 pushing push ed VBG 1 1103 forc advertis advert promot tug labor labour drive crowd crusad fight press campaign agit 
+3581 after after ed IN 2 288 1104 aft subsequ later afterward afterward 
+3583 made made ed VBN 3 226 957 1105 make do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+3584 i. i. ed NP 2 290 1106 
+3585 either either ed RB 1 1107 
+3586 market market ed NN 7 362 692 753 894 922 1108 1199 marketplac groceri mart commerci commercialis 
+3589 Once Once ed RB 1 1109 onc former erstwhil erst 
+3591 get get ed VB 5 86 280 428 962 1110 acquir becom go let have receiv find obtain incur arriv come bring convey fetch experi fix make induc stimul caus catch captur grow develop produc contract take drive aim arrest scram draw perplex vex stick puzzl mystifi baffl beat pose bewild flummox stupefi nonplus gravel amaz dumbfound begin start commenc suffer sustain beget engend father mother sire generat 
+3593 price price ed NN 4 767 981 1111 1194 cost term damag toll Price 
+3597 can can ed MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3601 advanced advanc christin JJ 2 220 1113 progress boost supercharg promot further encourag gain win upgrad rais elev forward-look innov modern sophist ripe 
+3602 chip-on-print chip-on-print christin NN 1 1114 
+3608 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3610 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3611 decided decid christin VBD 4 31 654 1030 1117 determin settl resolv adjud distinct 
+3613 determined determin christin VBN 1 1118 find ascertain shape mold influenc regul set specifi defin fix limit decid settl check see watch learn dictat compuls driven 
+3617 Engineering Engineer christin NN 1 1119 technolog engin engin mastermind direct organ organis orchestr 
+3618 industrial industri christin JJ 1 1120 
+3619 design design christin NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+3622 recommendation recommend christin NN 2 224 1122 testimoni passport 
+3626 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3628 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3629 kinda kinda christin RB 2 505 1125 rather 
+3630 come come christin VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3632 some some christin DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+3633 Agreement Agreement christin NN 1 1128 agreement understand correspond accord arrang concord 
+3634 regarding regard christin IN 1 1129 see consid reckon view involv affect 
+3637 concept concept christin NN 2 1079 1130 construct 
+3640 wooden wooden christin JJ 1 1131 
+3641 case case christin NN 4 106 213 1132 1138 instanc exampl event lawsuit suit caus causa subject charact eccentr type font fount typefac face sheath shell pillowcas slip showcas vitrin encas incas 
+3642 Uh-huh Uh-huh agn UH 9 283 412 575 684 811 959 993 1055 1133 
+3646 Nice Nice ed JJ 1 1134 nice decent skill dainti overnic prissi squeamish courteous gracious 
+3647 beautiful beauti ed JJ 1 1135 
+3648 mahogany mahogani ed NN 1 1136 sepia 
+3649 redwoods redwood ed NNS 1 1137 sequoia 
+3650 cases case ed NNS 4 106 213 1132 1138 instanc exampl event lawsuit suit caus causa subject charact eccentr type font fount typefac face sheath shell pillowcas slip showcas vitrin encas incas 
+3666 not not christin XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3667 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3671 not not sridhar XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3672 think think sridhar VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3674 No No christin DT 7 324 744 747 749 889 1089 1143 no nobelium 
+3676 think think christin VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3678 could could christin MD 7 53 215 250 819 823 884 1145 
+3680 rubber rubber christin JJ 4 119 434 828 1146 caoutchouc condom safeti safe prophylact arctic galosh golosh gumsho rubberis no-good 
+3681 like like christin IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+3683 Yes Yes sridhar UH 3 368 1148 1152 yes 
+3686 have have christin HV 40 0 75 92 173 357 403 411 415 416 487 529 531 552 562 581 605 610 644 679 687 694 699 755 769 771 772 786 805 856 915 924 1005 1010 1011 1020 1095 1115 1116 1124 1149 hold featur experi receiv get own possess let consum ingest take throw make give induc stimul caus accept suffer sustain deliv bear birth 
+3688 tactile tactil christin JJ 1 1150 haptic tactual 
+3689 experience experi christin NN 1 1151 see know live receiv have get feel 
+3691 Yes Yes sridhar UH 3 368 1148 1152 yes 
+3693 not not sridhar XNOT 26 1 10 99 107 111 150 234 236 257 306 325 388 394 525 539 592 750 781 873 921 936 1003 1066 1139 1141 1153 non 
+3695 nice nice sridhar JJ 4 205 380 999 1154 Nice decent skill dainti overnic prissi squeamish courteous gracious 
+3696 Yeah Yeah agn UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3697 Yeah Yeah sridhar UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3738 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3740 maybe mayb sridhar RB 4 731 818 1052 1158 possibl perchanc perhap mayhap peradventur 
+3743 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3749 few few sridhar DT 1 1160 
+3751 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3752 come come sridhar VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3757 product product sridhar NN 6 680 713 773 963 1000 1163 merchandis ware intersect 
+3758 right right sridhar JJ 7 180 779 870 871 944 1042 1164 rightfield compens redress correct rectifi flop proper decent decent mighti mightili power just correct aright proper right-hand good ripe veraci 
+3759 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3761 more more sridhar RBR 10 252 260 442 446 662 775 985 989 1027 1166 More 
+3762 than than sridhar CS 2 203 1167 
+3763 Okay Okay agn RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3764 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3765 Sure Sure agn JJ 4 440 708 710 1170 certain sure sure certain trust indisput 
+3775 hope hope sridhar VB 4 5 42 888 1171 promis Hope trust desir 
+3780 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3781 if if sridhar CS 9 52 266 303 316 427 622 863 1034 1173 
+3785 come come sridhar VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3789 prototype prototyp sridhar NN 1 1175 paradigm epitom imag 
+3790 design design sridhar NN 11 14 35 211 396 524 595 637 672 1039 1121 1176 plan blueprint pattern figur purpos intent intent aim invent innov excogit concept project contriv 
+3791 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3792 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3794 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3795 show show sridhar VB 2 471 1180 display appear demo exhibit present demonstr prove establish shew testifi evid pictur depict render express evinc indic point design read regist record usher 
+3799 looks look sridhar VBZ 6 93 519 724 782 783 1181 express aspect face spirit tone feel feel flavor flavour smell appear seem search front attend see expect await wait count bet depend calcul reckon 
+3800 like like sridhar IN 11 473 520 533 677 825 862 965 1077 1088 1147 1182 ilk wish care similar same alik compar correspond 
+3802 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3804 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3806 submitted submit sridhar VBN 1 1185 subject state posit present releg bow defer acced take render resign reconcil 
+3810 some some sridhar DT 10 126 186 187 201 204 339 826 984 1127 1186 approxim about rough around 
+3811 into into sridhar IN 4 48 480 990 1187 
+3813 management manag sridhar NN 2 21 1188 direct 
+3814 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3815 Then Then sridhar RB 2 1051 1190 then so 
+3816 mean mean sridhar VB 8 70 253 301 633 793 1074 1102 1191 intend entail impli signifi think averag hate base meanspirit beggar mingi miser tight bastard 
+3820 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3821 come come sridhar VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3825 price price sridhar NN 4 767 981 1111 1194 cost term damag toll Price 
+3828 much much sridhar DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+3830 cost cost sridhar NN 9 241 374 949 1024 1049 1068 1083 1097 1196 price toll be 
+3832 extra extra sridhar JJ 1 1197 supernumerari duplic excess redund spare supererogatori superflu surplus special addit 
+3836 display display sridhar NN 7 816 1041 1054 1059 1078 1087 1198 show exhibit show present expos 
+3838 marketing market christin NN 7 362 692 753 894 922 1108 1199 sell merchandis commerci commercialis 
+3839 strategy strategi christin NN 1 1200 scheme 
+3843 might might sridhar MD 4 125 209 319 1201 mighti power 
+3845 sturdy sturdi sridhar JJ 1 1202 uncompromis inflex hardi stalwart stout tough 
+3848 important import sridhar JJ 1 1203 signific crucial authorit 
+3849 okay okay sridhar RB 7 11 50 271 1014 1025 1172 1204 O.K. OK okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3850 Okay Okay ed RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3852 think think ed VB 21 39 118 183 200 207 242 294 295 389 401 454 593 594 664 759 1075 1123 1140 1142 1144 1206 believ consid conceiv opin suppos imagin reckon guess cogit cerebr rememb retriev recal recollect intend mean 
+3853 yeah yeah ed UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+3855 much much sridhar DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+3856 Finer Finer ed JJR 1 1209 finer 
+3857 Oh Oh sridhar UH 5 68 351 630 879 1210 Ohio OH 
+3860 much much sridhar DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+3862 much much sridhar DT 7 598 629 1082 1195 1208 1211 1212 lot practic often 
+3864 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3865 select select sridhar VB 1 1214 choos take choic prime prize qualiti blue-ribbon 
+3869 course cours sridhar RB22 1 1215 class line trend path track form grade row run flow feed natur 
+3871 make make sridhar VB 3 81 1216 1221 brand shuffl shuffl do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+3872 minute minut sridhar NN 2 38 1217 min moment mo second bit instant arcminut hour infinitesim narrow 
+3875 Yeah Yeah ed UH 23 177 240 311 348 375 385 420 436 615 690 740 817 838 895 898 906 960 986 987 997 1155 1156 1218 yea yeah 
+3876 yeah yeah ed UH 15 302 350 376 387 419 439 453 455 578 669 810 837 886 1207 1219 yea 
+3878 modified modifi sridhar VBN 2 711 1220 qualifi chang alter limit 
+3880 make make sridhar VB 3 81 1216 1221 brand shuffl shuffl do get creat induc stimul caus have produc draw gain clear earn realiz realis form constitut reach construct build name nomin attain hit establish hold throw give take stool defec shit ca-ca crap work cook fix readi prepar seduc score pretend urin piddl puddl mictur piss pee pee-pe wee wee-we 
+3881 money money sridhar NN 1 1222 
+3885 commission commiss sridhar NN 1 1223 committe deput deleg delegaci mission charg direct perpetr committ 
+3886 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3888 any ani sridhar DT 5 433 493 982 991 1225 whatev whatsoev 
+3889 questions question sridhar NNS 2 736 1226 inquiri enquiri queri interrog head interrog doubt dubious doubt motion oppugn interrog interview wonder 
+3892 next next sridhar OD 5 62 254 255 261 1227 follow adjac futur succeed 
+3893 meeting meet sridhar NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+3895 place place sridhar NN 1 1229 spot properti stead posit lieu shoe home post berth offic billet situat station seat plaza piazza space put set pose lay rate rank rang order grade locat site target aim direct point identifi local localis invest commit send 
+3896 come come sridhar VB 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 semen seed ejacul cum arriv get follow hail fall total number amount occur deriv descend do fare 
+3900 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3901 then then sridhar RB 19 27 100 117 130 169 392 444 500 551 559 657 830 841 909 980 1018 1178 1183 1232 so 
+3903 can can sridhar MD 29 43 84 113 114 198 199 321 332 343 430 484 580 596 658 705 738 934 961 976 1009 1019 1112 1159 1161 1179 1184 1192 1213 1233 tin buttock nate ars butt backsid bum bun fundament hindquart keister posterior prat rear rump stern seat tail tooshi tush bottom behind derrier fanni ass toilet commod crapper pot potti stool throne lavatori lav john privi bathroom displac fire dismiss sack termin 
+3904 proceed proceed sridhar VB 1 1234 continu go move keep 
+3905 from from sridhar IN 4 24 195 691 1235 
+3906 there there sridhar EX 6 170 293 338 342 920 1236 thither 
+3907 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3909 thanks thank sridhar NNS 2 1238 1246 
+3911 all all sridhar PDT 5 36 155 426 903 1239 wholli entir complet total altogeth whole 
+3914 efforts effort sridhar NNS 1 1240 attempt endeavor endeavour tri exert travail sweat feat exploit campaign caus crusad drive movement 
+3916 coming come sridhar VBG 12 2 194 623 721 778 916 1126 1162 1174 1193 1230 1241 approach approach advent orgasm climax arriv get follow hail fall total number amount occur deriv descend do fare forthcom upcom 
+3919 meeting meet sridhar NN 7 8 15 30 256 262 1228 1242 encount merg confluenc see converg satisfi fill fulfil fulfil fit match gather assembl forgath foregath play receiv suffer touch adjoin contact 
+3920 again again sridhar RB 2 579 1243 
+3923 c.s c.s sridhar NN 1 1244 
+3926 Okay Okay sridhar RB 21 16 51 61 263 443 675 685 792 1033 1098 1157 1165 1168 1169 1177 1189 1205 1224 1231 1237 1245 O.K. OK okay okey okeh approv sanction alright fine o.k. ok hunky-dori 
+3927 thank thank sridhar VB 2 1238 1246 

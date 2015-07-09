@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+
+\bibitem{brill2002diq}
+E.~Brill, J.~Lin, M.~Banko, S.~Dumais, and A.~Ng.
+\newblock {Data-Intensive Question Answering}.
+\newblock {\em NIST SPECIAL PUBLICATION SP}, pages 393--400, 2002.
+
+\bibitem{goharian2008dsp}
+N.~Goharian and S.S.R. Mengle.
+\newblock {On document splitting in passage detection}.
+\newblock In {\em Proceedings of the 31st annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  833--834. ACM New York, NY, USA, 2008.
+
+\bibitem{hirschman2002nlq}
+L.~HIRSCHMAN and R.~GAIZAUSKAS.
+\newblock {Natural language question answering: the view from here}.
+\newblock {\em Natural Language Engineering}, 7(04):275--300, 2002.
+
+\bibitem{hirschman1999drr}
+L.~Hirschman, M.~Light, E.~Breck, and J.D. Burger.
+\newblock {Deep Read: a reading comprehension system}.
+\newblock In {\em Proceedings of the 37th annual meeting of the Association for
+  Computational Linguistics on Computational Linguistics}, pages 325--332.
+  Association for Computational Linguistics Morristown, NJ, USA, 1999.
+
+\bibitem{kohavi1995scv}
+R.~Kohavi.
+\newblock {A Study of Cross-Validation and Bootstrap for Accuracy Estimation
+  and Model Selection}.
+\newblock In {\em INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE},
+  volume~14, pages 1137--1145. LAWRENCE ERLBAUM ASSOCIATES LTD, 1995.
+
+\bibitem{light2002aec}
+M.~LIGHT, G.S. MANN, E.~RILOFF, and E.~BRECK.
+\newblock {Analyses for elucidating current question answering technology}.
+\newblock {\em Natural Language Engineering}, 7(04):325--342, 2002.
+
+\bibitem{manson1997qpp}
+O.~Manson.
+\newblock {QTAG--A portable probabilistic tagger}.
+\newblock {\em Corpus Research, The University of Birmingham, UK}, 1997.
+
+\bibitem{mckechnie2001cap}
+J.~McKechnie, S.~Shaaban, and S.~Lockley.
+\newblock {Computer assisted processing of large unstructured document sets: a
+  case study in the construction industry}.
+\newblock In {\em Proceedings of the 2001 ACM Symposium on Document
+  engineering}, pages 11--17. ACM Press New York, NY, USA, 2001.
+
+\bibitem{ASR_summaries}
+G.~Murray and S.~Renals.
+\newblock {Term-Weighting for Summarization of Multi-party Spoken Dialogues}.
+\newblock {\em LECTURE NOTES IN COMPUTER SCIENCE}, 4892:156, 2008.
+
+\bibitem{pasca2001irw}
+M.~Pasca and S.~Harabagiu.
+\newblock {The informative role of WordNet in Open-Domain Question Answering}.
+\newblock In {\em Proceedings of NAACL-01 Workshop on WordNet and Other Lexical
+  Resources}, pages 138--143, 2001.
+
+\bibitem{popescubelis2007otm}
+A.~Popescu-Belis.
+\newblock {Objective Test for Meeting Browsers: the BET4TQB Pilot Experiment}.
+\newblock {\em H., B. and S., R., editors, to appear in Proceedings of Machine
+  Learning for Multimodal Interaction IV, LNCS, Brno, Czech Republic.
+  Springer}, 2007.
+
+\bibitem{porter2001ss}
+MF~Porter.
+\newblock {Snowball Stemmer}, 2001.
+
+\bibitem{prager2000qap}
+J.~Prager, E.~Brown, A.~Coden, and D.~Radev.
+\newblock {Question-answering by predictive annotation}.
+\newblock In {\em Proceedings of the 23rd annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  184--191. ACM New York, NY, USA, 2000.
+
+\bibitem{tellex2003qep}
+S.~Tellex, B.~Katz, J.~Lin, A.~Fernandes, and G.~Marton.
+\newblock {Quantitative evaluation of passage retrieval algorithms for question
+  answering}.
+\newblock In {\em Proceedings of the 26th annual international ACM SIGIR
+  conference on Research and development in informaion retrieval}, pages
+  41--47. ACM New York, NY, USA, 2003.
+
+\bibitem{TREC8}
+E.M. Voorhees.
+\newblock {The TREC-8 Question Answering Track Report}.
+\newblock {\em NIST SPECIAL PUBLICATION SP}, pages 77--82, 2000.
+
+\bibitem{TREC2001}
+E.M. Voorhees and D.~Harman.
+\newblock {Overview of TREC 2001}.
+\newblock {\em NIST Special Publication}, pages 500--250, 2001.
+
+\bibitem{wan2004srm}
+V.~Wan, M.~Karafi{\'a}t, and S.~Renals.
+\newblock {Speech Recognition on M4}.
+\newblock In {\em Workshop on Multimodal Interaction and Related Machine
+  Learning Algorithms}, pages 21--23, 2004.
+
+\end{thebibliography}

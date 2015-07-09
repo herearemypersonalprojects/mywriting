@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Meeting transcript IB4010\relax }}{22}{table.caption.12}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Meeting transcript IS1008c\relax }}{22}{table.caption.13}
+\contentsline {table}{\numberline {3.3}{\ignorespaces The BET questions IB4010\relax }}{23}{table.caption.15}
+\contentsline {table}{\numberline {3.4}{\ignorespaces The BET questions IS1008c\relax }}{23}{table.caption.16}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Word splitting and lexical extensions for the first question\relax }}{30}{table.caption.18}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Word splitting and lexical extensions for the second question\relax }}{30}{table.caption.19}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Word splitting and lexical extensions for transcript (see Appendix \ref {PoS} for the explanation of PoS tags)\relax }}{31}{table.caption.20}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Performance of the algorithm over two meetings\relax }}{49}{table.caption.21}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Experimental results for ASR transcripts\relax }}{51}{table.caption.22}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Results for IS1008c summaries\relax }}{54}{table.caption.23}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Results for IB4010 summaries\relax }}{54}{table.caption.24}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Parameter Optimization for IB4010\relax }}{55}{table.caption.25}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Parameter Optimization for IS1008c\relax }}{56}{table.caption.26}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Comparison with BET scores by human subjects for IB4010\relax }}{59}{table.caption.27}
+\contentsline {table}{\numberline {6.8}{\ignorespaces Comparison with BET scores by human subjects for IS1008c\relax }}{60}{table.caption.28}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces POS tags used by the QTAG tagger\relax }}{67}{table.caption.33}

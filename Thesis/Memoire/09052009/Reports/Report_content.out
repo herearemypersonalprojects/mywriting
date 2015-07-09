@@ -1,0 +1,41 @@
+\BOOKMARK [0][-]{figure.caption.1}{Abstract}{}
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgements}{}
+\BOOKMARK [0][-]{chapter*.3}{Table of contents}{}
+\BOOKMARK [0][-]{chapter*.4}{List of Figures}{}
+\BOOKMARK [0][-]{chapter*.5}{List of Tables}{}
+\BOOKMARK [0][-]{chapter*.6}{List of Algorithms}{}
+\BOOKMARK [0][-]{chapter*.7}{Glossary}{}
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Context}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Purpose}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Structure}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{State of the art}{}
+\BOOKMARK [0][-]{chapter.3}{Brief description of input data}{}
+\BOOKMARK [1][-]{section.3.1}{Meeting transcripts}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Questions}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Proposed algorithm}{}
+\BOOKMARK [1][-]{section.4.1}{Pre-processing}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Passage retrieval}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{True-False Decision}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Evaluation methods}{}
+\BOOKMARK [1][-]{section.5.1}{Passage Retrieval Evaluation}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{True-false Question Answering Evaluation}{chapter.5}
+\BOOKMARK [1][-]{section.5.3}{Cross-Validation method}{chapter.5}
+\BOOKMARK [1][-]{section.5.4}{Comparison with BET scores by human subjects}{chapter.5}
+\BOOKMARK [1][-]{section.5.5}{Comparison with ASR transcripts}{chapter.5}
+\BOOKMARK [1][-]{section.5.6}{Evaluation on summaries based on ASR transcripts}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Experimental results}{}
+\BOOKMARK [1][-]{section.6.1}{Data Processing}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{System Performance}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Parameter Optimization}{chapter.6}
+\BOOKMARK [1][-]{section.6.4}{Comparing with BET scores by human subjects}{chapter.6}
+\BOOKMARK [1][-]{section.6.5}{Experiment with ASR based summaries instead of transcripts}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}
+\BOOKMARK [1][-]{section.7.1}{Conclusion}{chapter.7}
+\BOOKMARK [1][-]{section.7.2}{Summary of contributions}{chapter.7}
+\BOOKMARK [1][-]{section.7.3}{Future Research}{chapter.7}
+\BOOKMARK [0][-]{chapter*.23}{Appendix}{}
+\BOOKMARK [1][-]{section.7.4}{Source code}{chapter*.23}
+\BOOKMARK [1][-]{section.7.5}{Source code of the procedure Determining True Statement}{chapter*.23}
+\BOOKMARK [1][-]{section.7.6}{List of stopwords}{chapter*.23}
+\BOOKMARK [0][-]{section.7.6}{Bibliography}{}

@@ -1,0 +1,1897 @@
+
+  BET Validated observations for meeting IB4010, by group size and
+  adjusted importance
+
+
+    Group Size: *8*
+
+#77 Group: Decision Status: A Median adjusted importance: 1
+
+Time: 0:47:44, Scope: Throughout
+
+	Importance:
+
+True statement: 	The group decided to show The Big Lebowski
+False statement: 	The group decided to show Saving Private Ryan
+
+Add Note
+------------------------------------------------------------------------
+#188 Group: NextMeetDate Status: A Median adjusted importance: 1
+
+Time: 0:48:29, Scope: Here
+
+	Importance:
+
+True statement: 	Date of next meeting confirmed as May 3rd
+False statement: 	Date of next meeting confirmed as May 5th
+
+Add Note
+------------------------------------------------------------------------
+
+There are *2* observations of group size 8.
+
+
+    Group Size: *6*
+
+#3 Group: Denis2Goals Status: A Median adjusted importance: 1
+
+Time: 0:01:55, Scope: Around
+
+	Importance:
+
+True statement: 	Denis informed the team that the first objective was to
+choose a film and the second was to discuss an advertising poster
+False statement: 	Denis informed the team that the first objective was
+to choose a film and the second was to discuss a date for the film to be
+shown
+
+
+originalTrue: /Denis informed the team that the first objective was to
+chose a film and the second was to discuss an advertising poster/
+originalFalse: /Denis informed the team that the first objective was to
+chose a film and the second was to discuss a date for the film to be shown/
+Author 	Comment 	Add Note
+APB-SP:  	to chose -> to choose (both observations) 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#66 Group: LikesPoster Status: A Median adjusted importance: 0
+
+Time: 0:41:43, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes did not like the third advertising poster, it had
+too many colours
+False statement: 	Agnes did not like the third advertising poster, it
+had no colour
+
+Add Note
+------------------------------------------------------------------------
+#55 Group: SawGoodfellas Status: A Median adjusted importance: 0
+
+Time: 0:18:22, Scope: Here
+
+	Importance:
+
+True statement: 	No one had seen Goodfellas
+False statement: 	Everyone had seen Goodfellas
+
+Add Note
+------------------------------------------------------------------------
+#165 Group: Mirek7 Status: A Median adjusted importance: 0
+
+Time: 0:11:25, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek suggests 7 movies to the group
+False statement: 	Mirek suggests 5 movies to the group
+
+Author 	Comment 	Add Note
+MR&DL:  	A: we don't see why not modifying the observations since they
+have been selected among a cluster. Thus, we suggest using "presents"
+instead of "suggests" (this is more neutral and do not imply the type of
+modality to use to find the answer) 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#122 Group: Agnes2Choices Status: A Median adjusted importance: 0
+
+Time: 0:04:01, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes proposes The Usual Suspects and The Sixth Sense
+as her movie selections.
+False statement: 	Agnes proposes American Beauty and Pulp Fiction as her
+movie selections.
+
+Add Note
+------------------------------------------------------------------------
+
+There are *5* observations of group size 6.
+
+
+    Group Size: *5*
+
+#179 Group: DropPulp Status: A Median adjusted importance: 1
+
+Time: 0:46:20, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes eliminates Pulp Fiction as she dislikes Quentin
+Tarantino
+False statement: 	Agnes eliminates Pulp Fiction as it is too violent
+
+Author 	Comment 	Add Note
+APB:  	Again, most DropPulp observations are 5*, this one is Accepted
+and is 2*. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#155 Group: SchindlerSad Status: A Median adjusted importance: 0
+
+Time: 0:46:11, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei nominates Schindler's List to be eliminated from
+the list because it is too sad.
+False statement: 	Andrei nominates Schindler's List to be eliminated
+from the list because it is too long.
+
+Add Note
+------------------------------------------------------------------------
+
+There are *2* observations of group size 5.
+
+
+    Group Size: *4*
+
+#176 Group: shortlist7 Status: A Median adjusted importance: 1
+
+Time: 0:44:52, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei confirms there are 7 movies on the short-list
+False statement: 	Andrei confirms there are 8 movies on the short-list
+
+Add Note
+------------------------------------------------------------------------
+#28 Group: DenisSpielberg Status: A Median adjusted importance: 0
+
+Time: 0:30:44, Scope: Around
+
+	Importance:
+
+True statement: 	Denis and Agnes discuss the film director Steven
+Spielberg and awards he may have won.
+False statement: 	Mirek and Andrei discuss the film director Steven
+Spielberg and awards he may have won.
+
+Add Note
+------------------------------------------------------------------------
+#183 Group: AgnesSuspects Status: A Median adjusted importance: 0
+
+Time: 0:47:11, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes votes for The Usual Suspects in the final selection
+False statement: 	Agnes votes for American Beauty in the final selection
+
+
+originalTrue: /Agnes votes for Usual Suspects/
+originalFalse: /Agnes votes for American Beauty/
+Author 	Comment 	Add Note
+AL-EX:  	Agnes votes for **** in the final selection. 	Edit Note 	Delete
+Note
+
+------------------------------------------------------------------------
+#130 Group: MirekSaw Status: A Median adjusted importance: 0
+
+Time: 0:11:35, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek states that he has not seen all of the seven
+films in his selection.
+False statement: 	Mirek states that he has seen all of the seven films
+in his selection.
+
+Add Note
+------------------------------------------------------------------------
+
+There are *4* observations of group size 4.
+
+
+    Group Size: *3*
+
+#61 Group: Saturation Status: A Median adjusted importance: 1
+
+Time: 0:31:31, Scope: Around
+
+	Importance:
+
+True statement: 	Interesting point of Saving Private Ryan was that the
+director turned down the colour saturation to enhance the film but
+viewers complained there was a problem so the TV companies turned it
+back up again
+False statement: 	Interesting point of Schindler's List was that the
+director turned down the colour saturation to enhance the film but
+viewers complained there was a problem so the TV companies turned it
+back up again
+
+
+originalFalse: /Interesting point of Schindlers List was that the
+director turned down the colour saturation to enhance the film but
+viewers complained there was a problem so the TV companies turned it
+back up again/
+Author 	Comment 	Add Note
+Agnes:  	Very similar to observation ID146 which was also accepted -
+this one is better. 	Edit Note 	Delete Note
+jeanc:  	This is true or false in the world - you don't need a meeting
+browser to answer it. That makes it a bad idea to include it. 	Edit
+Note 	Delete Note
+pdw:  	So jean's note suggest rejection on grounds of guessability, but
+I'm not sure. Any other opinions? 	Edit Note 	Delete Note
+APB:  	I'm not sure that this fact is very well known, but maybe we have
+enough observations to afford deletion when in doubt. (I haven't found
+ID146.) 	Edit Note 	Delete Note
+Agnes:  	ID146 is in the whole list...but it says True: Andrei says that
+the producers of the movie reduced the colour saturation of the movie.
+Edit Note 	Delete Note
+MR&DL:  	A: This observation relates to the meeting information and the
+answer can be found within the meeting,. Further the answer is not
+obvious t. and we haven't found ID146 neither. We thus suggest keeping
+it. 	Edit Note 	Delete Note
+APB-SP:  	It looks like we are going to keep it. Correct spelling in
+false obs = Schindler's List 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#169 Group: MirekNomBigLeb Status: A Median adjusted importance: 1
+
+Time: 0:43:23, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek nominated The Big Lebowski for the short list
+False statement: 	Mirek nominated Usual Suspects for the short list
+
+
+originalTrue: /Mirek nominated The Big Lebowski/
+originalFalse: /Mirek nominated Usual Suspects/
+Author 	Comment 	Add Note
+Agnes:  	These are only true at voting near the end, and not all the
+time. 	Edit Note 	Delete Note
+APB-EX:  	add "for the short-list" at the end of both obs 	Edit Note
+Delete Note
+
+------------------------------------------------------------------------
+#174 Group: DenisNom Status: A Median adjusted importance: 1
+
+Time: 0:44:15, Scope: Here
+
+	Importance:
+
+True statement: 	Denis nominates American Beauty and Big Lebowski for
+the short list
+False statement: 	Denis nominates Pulp Fiction and Big Lebowski for the
+short list
+
+
+originalTrue: /Denis nominates American Beauty and Big Lebowski/
+originalFalse: /Denis nominates Pulp Fiction and Big Lebowski/
+Author 	Comment 	Add Note
+APB-EX:  	add "for the short-list" at the end of both obs 	Edit Note
+Delete Note
+
+------------------------------------------------------------------------
+#107 Group: ChangePoster Status: A Median adjusted importance: 0
+
+Time: 0:42:16, Scope: Around
+
+	Importance:
+
+True statement: 	How to finalise the poster - Agnes suggests using the
+first as a template and combining aspects from the second and third posters
+False statement: 	How to finalise the poster - Mirek suggests using the
+first as a template and combining aspects from the second and third posters
+
+
+originalTrue: /How to finalise the poster - Agnes suggests using the
+first as a template and combining aspects from the second and third
+posters, Andrei wants to change the background colour/
+originalFalse: /How to finalise the poster - Mirek suggests using the
+first as a template and combining aspects from the second and third
+posters, Andrei wants to change the background colour/
+Author 	Comment 	Add Note
+APB-BR:  	delete the final part of each obs: ", Andrei wants to change
+the background colour " 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#151 Group: AndreiNoms Status: A Median adjusted importance: 0
+
+Time: 0:44:01, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei nominates Saving Private Ryan and Pulp Fiction
+for the short list.
+False statement: 	Andrei nominates Goodfellas and Schindler's List for
+the short list.
+
+
+originalTrue: /Andrei nominates Saving Private Ryan and Pulp Fiction./
+originalFalse: /Andrei nominates Goodfellas and Schindler's List./
+Author 	Comment 	Add Note
+APB-EX:  	add "for the short-list" for both obs 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#175 Group: MirekNom Status: A Median adjusted importance: 0
+
+Time: 0:44:37, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek nominates Schindler's List and The Silence of the
+Lambs for the short list
+False statement: 	Mirek nominates Schindler's List and Saving Private
+Ryan for the short list
+
+
+originalTrue: /Mirek nominates Schindler's List and Silence of the Lambs/
+originalFalse: /Mirek nominates Schindler's List and Saving Private Ryan/
+Author 	Comment 	Add Note
+APB-EX, APB-SP:  	add "for the short-list" for both obs, complete title
+"The Silence of the Lambs" 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#41 Group: PowerPoint Status: A Median adjusted importance: 0
+
+Time: 0:02:40, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes and Mirek had PowerPoint presentations and Denis
+and Andrei used paper notes
+False statement: 	Denis and Mirek had PowerPoint presentations and Agnes
+and Andrei used paper notes
+
+
+originalFalse: /Denis and Mirek had powerpoint presentations and Agnes
+and Andrei used paper notes/
+Author 	Comment 	Add Note
+jeanc:  	How can you justify this observation against the user
+requirements for browsers? If you can't, what is the BET testing for?
+Edit Note 	Delete Note
+pdw:  	BET user requirements are to find a maximum nubmer of
+observations of interest in a minimum abmount of time. 	Edit Note
+Delete Note
+APB:  	The nature of the presentations is explicitly discussed at the
+beginning of the meeting, there is no need for a document-oriented
+browser. 	Edit Note 	Delete Note
+APB-SP:  	PowerPoint (2 obs) 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#63 Group: DenisBigLeb Status: A Median adjusted importance: 0
+
+Time: 0:35:39, Scope: Here
+
+	Importance:
+
+True statement: 	Denis suggested The Big Lebowski as his choice
+False statement: 	Denis suggested The Usual Suspects as his choice
+
+
+originalFalse: /Denis suggested Usual Suspect as his choice/
+Author 	Comment 	Add Note
+APB-SP:  	false obs: "The Usual Suspects" 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#286 Group: Process Status: A Median adjusted importance: 0
+
+Time: 0:44:46, Scope: Here
+
+	Importance:
+
+True statement: 	The committee decided to vote by letting each member
+eliminate one movie.
+False statement: 	The committee decided to vote by letting each member
+eliminate two movies.
+
+
+originalTrue: /The committee decide how to vote for the movie by
+eliminating one in the first instance./
+originalFalse: /The committee decide how to vote for the movie by
+eliminating two in the first instance./
+Author 	Comment 	Add Note
+APB:  	This is only a 3-star observation, while the others in the
+semantic group are 5 stars - upgrade this one? 	Edit Note 	Delete Note
+APB:  	Formulation is unclear: "eliminate one each" sounds slightly
+better (but 155, 262 and 263 aren't any better). 	Edit Note 	Delete Note
+APB-EX:  	"The committee decided to vote by letting each member
+eliminate one movie in the first instance." 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#181 Group: AndreiBeauty Status: A Median adjusted importance: 0
+
+Time: 0:46:46, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei votes for American Beauty as he has not seen it
+False statement: 	Agnes votes for American Beauty as she has not seen it
+
+Add Note
+------------------------------------------------------------------------
+#139 Group: MirekPulpNo Status: A Median adjusted importance: 0
+
+Time: 0:16:45, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek says that he feels Pulp Fiction would not be an
+appropriate film to screen at the movie club.
+False statement: 	Mirek says that he feels Pulp Fiction is a
+particularly appropriate film to screen at the movie club.
+
+Add Note
+------------------------------------------------------------------------
+#80 Group: Commercial Status: A Median adjusted importance: -1
+
+Time: 0:05:53, Scope: Here
+
+	Importance:
+
+True statement: 	The Sixth Sense is identified as more commerical than
+The Usual Suspects
+False statement: 	The Usual Suspects is identified as more commerical
+than The Sixth Sense
+
+
+originalTrue: /Sixth sense is identified as more commerical than usual
+suspects/
+originalFalse: /Usual suspects is identified as more commerical than the
+sixth sense/
+Author 	Comment 	Add Note
+APB-SP:  	The Sixth Sense, The Usual Suspects 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+
+There are *12* observations of group size 3.
+
+
+    Group Size: *2*
+
+#78 Group: Attendance Status: A Median adjusted importance: 1
+
+Time: 0:01:58, Scope: Throughout
+
+	Importance:
+
+True statement: 	Not enough people came to the previous projection
+False statement: 	Too many people came to the previous projection
+
+Author 	Comment 	Add Note
+APB:  	Better than 294? 	Edit Note 	Delete Note
+pdw:  	ok, selecting this one instead of 294 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#224 Group: DenisAgenda Status: A Median adjusted importance: 0
+
+Time: 0:00:58, Scope: Here
+
+	Importance:
+
+True statement: 	Denis was interested in whether participants have
+received an agenda for the meeting
+False statement: 	Agnes was interested in whether participants have
+received an agenda for the meeting
+
+
+originalTrue: /Denis interested in whether participants have received an
+agenda/
+originalFalse: /Agnes wants to know whether the members of the Movie
+Club have received an agenda for ther meeting/
+Author 	Comment 	Add Note
+APB:  	ther -> their (in case we want to spell check...) 	Edit Note
+Delete Note
+jeanc:  	The only semantic difference between the true and false
+statements is the subject, but one is harder to read than the other,
+which will affect how often it is chosen. Why aren't the statements
+parallel? 	Edit Note 	Delete Note
+APB-CO:  	XXXXX was interested in whether participants had received an
+agenda for the meeting 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#320 Group: FinalFour Status: A Median adjusted importance: 0
+
+Time: 0:46:39, Scope: Here
+
+	Importance:
+
+True statement: 	Each person votes for one film from the final four
+False statement: 	Each person eliminates one film from the final four
+
+
+originalTrue: /Each person votes for 1 film from the final 4/
+originalFalse: /Each person chooses the film they least want to see from
+the final 4/
+Author 	Comment 	Add Note
+Agnes:  	These aren't really opposites. 	Edit Note 	Delete Note
+APB-CO:  	Each person votes for one film from the final four ; Each
+person eliminates one film from the final four 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#184 Group: PosterReady Status: A Median adjusted importance: 0
+
+Time: 0:47:28, Scope: Here
+
+	Importance:
+
+True statement: 	Denis justifies his vote for Big Lebowski as the
+posters are already prepared
+False statement: 	Denis justifies his vote for Big Lebowski as he found
+it very funny
+
+Author 	Comment 	Add Note
+APB:  	This is a 3* obs while others in the same group (redundant) are
+5*. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#299 Group: IMDBranking Status: A Median adjusted importance: 0
+
+Time: 0:08:01, Scope: Here
+
+	Importance:
+
+True statement: 	They were unclear about the meaning of the ratings and
+how they are dervied
+False statement: 	They clearly understood the meaning of the ratings and
+how they are dervied
+
+
+originalTrue: /They are unclear about the meaning of the ratings and how
+they are dervied/
+originalFalse: /They all agree that the ratings are not important/
+Author 	Comment 	Add Note
+Agnes:  	These aren't really a matching pair. 	Edit Note 	Delete Note
+MR&DL:  	dervied --> derived 	Edit Note 	Delete Note
+APB-CO:  	False obs: They clearly understood the meaning of the ratings
+and how they are derived 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#97 Group: AndreiRyan Status: A Median adjusted importance: 0
+
+Time: 0:27:57, Scope: Here
+
+	Importance:
+
+True statement: 	Saving Private Ryan is proposed by Andrei
+False statement: 	Saving Private Ryan is proposed by Mirek
+
+Add Note
+------------------------------------------------------------------------
+#316 Group: SeenBigLeb Status: A Median adjusted importance: 0
+
+Time: 0:35:41, Scope: Here
+
+	Importance:
+
+True statement: 	Only Denis has seen The Big Lebowski
+False statement: 	They have all seen The Big Lebowski
+
+
+originalTrue: /Only Denis has seen The Big Lebrowski/
+originalFalse: /They have all seen The Big Lebrowski/
+Author 	Comment 	Add Note
+APB-SP:  	Lebrowski -> Lebowski 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#311 Group: SeenPulp Status: A Median adjusted importance: 0
+
+Time: 0:17:39, Scope: Here
+
+	Importance:
+
+True statement: 	All four have seen Pulp Fiction
+False statement: 	Only two out of the four have seen Pulp Fiction
+
+Add Note
+------------------------------------------------------------------------
+#7 Group: DenisMemory Status: A Median adjusted importance: -1
+
+Time: 0:05:09, Scope: Here
+
+	Importance:
+
+True statement: 	Denis admits seeing the Usual Suspects twice but not
+remembering the plot
+False statement: 	Andrei admits seeing the Usual Suspects twice but not
+remembering the plot
+
+
+originalTrue: /Mirek and Andrei confess to not seeing the Usual
+Suspects, whilst Denis admits seeing it twice but not remembering the plot/
+originalFalse: /Mirek and Denis confess to not seeing the Usual
+Suspects, whilst Andrei admits seeing it twice but not remembering the
+plot/
+Author 	Comment 	Add Note
+APB-BR:  	"XXXXXX admits seeing The Usual Suspects twice but not
+remembering the plot" 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#50 Group: AgnesSixth Status: A Median adjusted importance: -1
+
+Time: 0:10:30, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes gave the ratings for the Sixth Sense as 19th in
+the list of the 90s and 101/250 all time movies with a score of 8.1/10
+False statement: 	Agnes gave the ratings for the Usual Suspect as 19th
+in the list of the 90s and 101/250 all time movies with a score of 8.1/10
+
+Add Note
+------------------------------------------------------------------------
+
+There are *10* observations of group size 2.
+
+
+    Group Size: *1*
+
+#193 Group: rating Status: A Median adjusted importance: 2
+
+Time: 0:09:26, Scope: Here
+
+	Importance:
+
+True statement: 	PG rating explained
+False statement: 	R rating explained
+
+Author 	Comment 	Add Note
+APB:  	Reformulate as "PG rating was explained during the meeting."
+Edit Note 	Delete Note
+pdw:  	not making changes, but if too unclear we could reject for
+reason C 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#161 Group: Status: A Median adjusted importance: 2
+
+Time: 0:21:57, Scope: Throughout
+
+	Importance:
+
+True statement: 	each participant has prepared suggestions of movies to
+be screened
+False statement: 	three of the participants have prepared suggestions of
+movies to be screened
+
+Add Note
+------------------------------------------------------------------------
+#159 Group: Status: A Median adjusted importance: 2
+
+Time: 0:22:17, Scope: Throughout
+
+	Importance:
+
+True statement: 	Goal 1 is to decide which movie is to be screened for
+April
+False statement: 	Goal 1 is to decide which movie is to be screened for May
+
+
+originalTrue: /Goal 1 is to decide which movie is to be screened for april/
+Author 	Comment 	Add Note
+APB:  	april -> April 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#277 Group: Status: A Median adjusted importance: 2
+
+Time: 0:34:20, Scope: Around
+
+	Importance:
+
+True statement: 	At the end of his presentation, Andrei gave a further
+three movies to consider.
+False statement: 	At the end of his presentation, Andrei gave a further
+four movies to consider.
+
+Add Note
+------------------------------------------------------------------------
+#64 Group: Status: A Median adjusted importance: 2
+
+Time: 0:36:23, Scope: Here
+
+	Importance:
+
+True statement: 	Denis said that The Big Lebowski was inspired by The
+Big Sleep
+False statement: 	Denis said that The Big Lebowski was inspired by Rear
+Window
+
+Add Note
+------------------------------------------------------------------------
+#65 Group: Status: A Median adjusted importance: 2
+
+Time: 0:40:07, Scope: Around
+
+	Importance:
+
+True statement: 	Denis displayed his ideas for advertising the Big
+Leboski complete with price lists
+False statement: 	Denis displayed his ideas for advertising the American
+Beauty complete with price lists
+
+Author 	Comment 	Add Note
+APB:  	Leboski -> Lebowski. Also, "complete with price lists" is a
+distractor only. Change status from A to rejected? 	Edit Note 	Delete Note
+pdw:  	Not making changes, and "distractors" can sometimes help find
+things. I'd like to keep because it doesn't meet any of our rejection
+reasons 	Edit Note 	Delete Note
+APB:  	OK, I agree to keep it. But there are other examples of very long
+distractors, which bias the test (we're no longer testing the browser,
+but the subject itself). 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#73 Group: Status: A Median adjusted importance: 2
+
+Time: 0:45:59, Scope: Around
+
+	Importance:
+
+True statement: 	Denis eliminated Silence of the Lambs as it was too
+violent
+False statement: 	Denis eliminated Silence of the Lambs as it was too long
+
+Add Note
+------------------------------------------------------------------------
+#293 Group: null Status: A Median adjusted importance: 1
+
+Time: 0:01:40, Scope: Around
+
+	Importance:
+
+True statement: 	They are going to choose a movie from the 90's
+False statement: 	Andrei does not want to choose a movie from the 90's
+
+Add Note
+------------------------------------------------------------------------
+#269 Group: Status: A Median adjusted importance: 1
+
+Time: 0:04:17, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes gives a resume of two movies, Usual Suspects and
+The Sixth Sense
+False statement: 	Agnes gives a resume of two movies, Usual Suspects and
+Schindler's List
+
+Add Note
+------------------------------------------------------------------------
+#45 Group: Status: A Median adjusted importance: 1
+
+Time: 0:06:49, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes reported that Sixth Sense acheived a score of
+8.7/10 on the internet database
+False statement: 	Agnes reported that Sixth Sense acheived a score of
+8.7/20 on the internet database
+
+Add Note
+------------------------------------------------------------------------
+#47 Group: Status: A Median adjusted importance: 1
+
+Time: 0:07:51, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes was reading her ratings from a list of the top
+250 movies of all time which the other members were unaware of
+False statement: 	Agnes was reading her ratings from a list of the top
+1000 movies of all time which the other members were unaware of
+
+Author 	Comment 	Add Note
+APB:  	It is difficult to find evidence that the others were unaware of
+Agnes' list - this is more like a distractor 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#274 Group: Status: A Median adjusted importance: 1
+
+Time: 0:28:19, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei gives a very good overview of 'Saving Private Ryan'
+False statement: 	Mirek gives a very good overview of 'Saving Private Ryan'
+
+Add Note
+------------------------------------------------------------------------
+#212 Group: Status: A Median adjusted importance: 1
+
+Time: 0:31:44, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei mentions that there are four points that they
+can introduce the movie with - presenting an argument for showing this
+movie particularly
+False statement: 	Andrei mentions that there are three points that they
+can introduce the movie with - presenting an argument for showing this
+movie particularly
+
+Add Note
+------------------------------------------------------------------------
+#282 Group: Status: A Median adjusted importance: 1
+
+Time: 0:40:08, Scope: Around
+
+	Importance:
+
+True statement: 	The cost of the movies is also discussed so this
+information can go on the poster.
+False statement: 	The length of time the movie lasts is discussed at the
+end for the information to go on the poster.
+
+Author 	Comment 	Add Note
+Agnes:  	Formulation of the false statement is a bit awkward. 	Edit
+Note 	Delete Note
+
+------------------------------------------------------------------------
+#108 Group: Status: A Median adjusted importance: 1
+
+Time: 0:43:20, Scope: Here
+
+	Importance:
+
+True statement: 	The group are nominating a couple of movies each which
+will then be voted on
+False statement: 	The group are nominating three movies each which will
+then be voted on
+
+Author 	Comment 	Add Note
+Agnes:  	Just a warning that for some people 'couple' in a context like
+this does not necessarily mean 2. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#186 Group: Status: A Median adjusted importance: 1
+
+Time: 0:47:28, Scope: Throughout
+
+	Importance:
+
+True statement: 	Denis is President of the movie club
+False statement: 	Andrei is President of the movie club
+
+Add Note
+------------------------------------------------------------------------
+#326 Group: Status: A Median adjusted importance: 1
+
+Time: 0:47:40, Scope: Here
+
+	Importance:
+
+True statement: 	They all agree on that the final choice is good
+False statement: 	Andrei disagree's on the final choice is good
+
+Author 	Comment 	Add Note
+APB:  	False stmt is ungrammatical. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#226 Group: Status: A Median adjusted importance: 0
+
+Time: 0:02:14, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei interested in knowing what participants have to
+present
+False statement: 	Andrei interested in knowing whether particpants found
+it difficult to come up with a movie list
+
+Add Note
+------------------------------------------------------------------------
+#268 Group: Status: A Median adjusted importance: 0
+
+Time: 0:02:49, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes begins by giving the group her presentations.
+False statement: 	Agnes begins by giving the group her posters.
+
+Add Note
+------------------------------------------------------------------------
+#297 Group: Status: A Median adjusted importance: 0
+
+Time: 0:03:13, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes has chosen more recent movies than shown previously
+False statement: 	Agnes has chosen films made in the 80's
+
+Author 	Comment 	Add Note
+APB:  	True and false stmts do not require the same type of information.
+False stmt is easier to check. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#123 Group: Status: A Median adjusted importance: 0
+
+Time: 0:05:05, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes asks who has seen the movie (The Usual Suspects).
+False statement: 	Mirek asks who has seen the movie (The Usual Suspects).
+
+Add Note
+------------------------------------------------------------------------
+#302 Group: Status: A Median adjusted importance: 0
+
+Time: 0:05:07, Scope: Here
+
+	Importance:
+
+True statement: 	Denis and Agnes have seen the Usual Suspects but Mirek
+and Andrei have not
+False statement: 	Denis and Mirek have seen the Usual Suspects but Agnes
+and Andrei have not
+
+Add Note
+------------------------------------------------------------------------
+#298 Group: Status: A Median adjusted importance: 0
+
+Time: 0:05:50, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes has chosen more commercial films
+False statement: 	Agnes has chosen films suitable for children
+
+Add Note
+------------------------------------------------------------------------
+#190 Group: Status: A Median adjusted importance: 0
+
+Time: 0:06:09, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei is discussing how the powerpoint presentation is
+constructed and not focusing on the information it portrays
+False statement: 	Mirekis discussing how the powerpoint presentation is
+constructed and not focusing on the information it portrays
+
+Add Note
+------------------------------------------------------------------------
+#126 Group: Status: A Median adjusted importance: 0
+
+Time: 0:07:10, Scope: Here
+
+	Importance:
+
+True statement: 	Denis disputes Agnes' information regarding the placing
+of the film in the "Top Films Of The 90's"
+False statement: 	Mirek disputes Agnes' information regarding the
+placing of the film in the "Top Films Of The 90's"
+
+Add Note
+------------------------------------------------------------------------
+#46 Group: Status: A Median adjusted importance: 0
+
+Time: 0:07:25, Scope: Here
+
+	Importance:
+
+True statement: 	Denis was confused about the rating of the movie and it
+was explained that the rating was 4th in the 90s
+False statement: 	Denis was confused about the rating of the movie and
+it was explained that the rating was 10th in the 90s
+
+Add Note
+------------------------------------------------------------------------
+#128 Group: Status: A Median adjusted importance: 0
+
+Time: 0:11:03, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek asks to display his slides, beginning his
+presentation.
+False statement: 	Denis asks to display his slides, beginning his
+presentation.
+
+Add Note
+------------------------------------------------------------------------
+#199 Group: Status: A Median adjusted importance: 0
+
+Time: 0:12:37, Scope: Here
+
+	Importance:
+
+True statement: 	Noone has seen the Shawshank redemption
+False statement: 	Only two have seen the Shawshank redemption
+
+Author 	Comment 	Add Note
+APB:  	Noone -> none 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#132 Group: Status: A Median adjusted importance: 0
+
+Time: 0:13:07, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek asks who has seen Schindlers List.
+False statement: 	Mirek asks who has seen Pulp Fiction.
+
+Add Note
+------------------------------------------------------------------------
+#306 Group: Status: A Median adjusted importance: 0
+
+Time: 0:13:12, Scope: Here
+
+	Importance:
+
+True statement: 	Denis,Agnes and Mirek have all seen Schindler's List,
+Andrei hasn't
+False statement: 	Andrei has seem Schindler's list but thinks it is too
+violent to show
+
+Author 	Comment 	Add Note
+APB:  	Not exactly paired. seem -> seen 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#307 Group: Status: A Median adjusted importance: 0
+
+Time: 0:13:56, Scope: Throughout
+
+	Importance:
+
+True statement: 	They consider a number of factors in their decision of
+which film to choose
+False statement: 	Their decision of which film to choose is based soley
+on wether they have all seen it before
+
+Add Note
+------------------------------------------------------------------------
+#52 Group: Status: A Median adjusted importance: 0
+
+Time: 0:14:07, Scope: Around
+
+	Importance:
+
+True statement: 	Mireks choice of Schindlers List provoked involvement
+from the other members and there was an obvious increased enthusiasm
+False statement: 	Mireks choice of The Big Lebowski provoked involvement
+from the other members and there was an obvious increased enthusiasm
+
+Add Note
+------------------------------------------------------------------------
+#301 Group: Status: A Median adjusted importance: 0
+
+Time: 0:14:44, Scope: Here
+
+	Importance:
+
+True statement: 	They agree that Shindlers List is not representative of
+the 1990's
+False statement: 	They agree that Shindlers List is representative of
+the 1990's
+
+Author 	Comment 	Add Note
+APB:  	Shindlers -> Schindler's 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#201 Group: Status: A Median adjusted importance: 0
+
+Time: 0:15:01, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek recommends that they think about Schindlers list
+False statement: 	Agnes recommends that they drop Schindlers list
+
+Add Note
+------------------------------------------------------------------------
+#53 Group: Status: A Median adjusted importance: 0
+
+Time: 0:15:17, Scope: Here
+
+	Importance:
+
+True statement: 	Mireks choice of Usual Suspects was also one of Agnes
+Choices
+False statement: 	Mireks choice of Pulp Fiction was also one of Agnes
+Choices
+
+Add Note
+------------------------------------------------------------------------
+#86 Group: Status: A Median adjusted importance: 0
+
+Time: 0:15:26, Scope: Here
+
+	Importance:
+
+True statement: 	Denis first notices a discrepancy with the rating of
+the usual suspects on Mirek's presentation compared with Agnes
+False statement: 	Andrei first notices a discrepancy with the rating of
+the usual suspects on Mirek's presentation compared with Agnes
+
+Author 	Comment 	Add Note
+APB:  	usual suspects -> Usual Suspects 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#308 Group: Status: A Median adjusted importance: 0
+
+Time: 0:15:40, Scope: Here
+
+	Importance:
+
+True statement: 	Denis's and Mirek's tables are different
+False statement: 	Denis's and Mirek's tables are identicle
+
+Add Note
+------------------------------------------------------------------------
+#237 Group: Status: A Median adjusted importance: 0
+
+Time: 0:16:15, Scope: Around
+
+	Importance:
+
+True statement: 	Agens interested in keeping track of who has seen what
+film
+False statement: 	Agnes asks Andrei to keep track of who has seen what film
+
+Author 	Comment 	Add Note
+Agnes:  	These statements are not mutually exclusive. 	Edit Note 	Delete
+Note
+pdw:  	not mutually exclusive is ok provided one is actually true and
+the other is actually false in the recording 	Edit Note 	Delete Note
+jeanc:  	I don't agree that it's OK. How will you know which statement
+the subject checked using the browser, if you want to do a post hoc
+analysis showing that items of type A or in context B worked best in
+browsers of type C? 	Edit Note 	Delete Note
+pdw:  	We must assume subjects use both statements in all cases. Should
+we add a new "must be mutually exclusive" validity criteria, and check
+all observations against it? 	Edit Note 	Delete Note
+Agnes:  	I think that the two sentences should be mutually exclusive and
+sufficiently parallel. There are a few cases where the statements don't
+really seems like t/f versions of one another. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#87 Group: Status: A Median adjusted importance: 0
+
+Time: 0:16:17, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes briefly interjects to ask who has seen Schindlers
+List - Denis, Mirek and herself have
+False statement: 	Agnes briefly interjects to ask who has seen
+Schindlers List - only Mirek and herself have
+
+Add Note
+------------------------------------------------------------------------
+#309 Group: Status: A Median adjusted importance: 0
+
+Time: 0:16:49, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek choose films based on their ranking not personal
+preference
+False statement: 	Mirek choose films based on how many awards they won
+
+Add Note
+------------------------------------------------------------------------
+#310 Group: Status: A Median adjusted importance: 0
+
+Time: 0:16:59, Scope: Here
+
+	Importance:
+
+True statement: 	Denis beliveves Pulp Fiction is representative of the 90's
+False statement: 	Denis beliveves Schindler's List is more
+representative of the 90's than Pulp Fiction
+
+Author 	Comment 	Add Note
+APB:  	False stmt much easier to guess. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#54 Group: Status: A Median adjusted importance: 0
+
+Time: 0:17:47, Scope: Around
+
+	Importance:
+
+True statement: 	Mirek and Denis decided that Pulp Fiction could be seen
+numerous times while still finding new observations
+False statement: 	Mirek and Denis decided that American Beauty could be
+seen numerous times while still finding new observations
+
+Add Note
+------------------------------------------------------------------------
+#22 Group: Status: A Median adjusted importance: 0
+
+Time: 0:19:58, Scope: Around
+
+	Importance:
+
+True statement: 	Mirek makes a joke about the next film, The Silence of
+the Lambs, the rest of the team join in his laughter
+False statement: 	Mirek makes a joke about the next film, The Silence of
+the Lambs, the rest of the team sit in slience
+
+Author 	Comment 	Add Note
+MR&DL:  	slience --> silence 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#273 Group: Status: A Median adjusted importance: 0
+
+Time: 0:23:19, Scope: Around
+
+	Importance:
+
+True statement: 	Quite a lot of discussion took place regarding American
+Beauty, and comments were quite positive.
+False statement: 	There was a lot of negative feeling about American
+Beauty.
+
+Add Note
+------------------------------------------------------------------------
+#205 Group: Status: A Median adjusted importance: 0
+
+Time: 0:23:22, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes makes an observation that American Beauty is a
+lot less dark than the other movies
+False statement: 	Agnes makes an observation that American Beauty is
+much darker than the other movies
+
+Add Note
+------------------------------------------------------------------------
+#57 Group: Status: A Median adjusted importance: 0
+
+Time: 0:23:40, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes and Denis commented that American Beauty was not
+a violent film although the characters were psychopathic
+False statement: 	Agnes and Denis commented that American Beauty was a
+violent film although the characters were psychopathic
+
+Author 	Comment 	Add Note
+Agnes:  	The wording of the false statements make it suspicious - the
+word 'although' is wrong. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#25 Group: Status: A Median adjusted importance: 0
+
+Time: 0:24:53, Scope: Throughout
+
+	Importance:
+
+True statement: 	Mirek plays with his pen and utilises it to point
+things out
+False statement: 	Denis plays with his pen and utilises it to point
+things out
+
+Author 	Comment 	Add Note
+jeanc:  	How can you justify this one against user requirements? 	Edit
+Note 	Delete Note
+
+------------------------------------------------------------------------
+#96 Group: Status: A Median adjusted importance: 0
+
+Time: 0:25:51, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei is suggesting that mainstream films have more
+than 60,000 votes
+False statement: 	Andrei is suggesting that mainstream films have more
+than 80,000 votes
+
+Add Note
+------------------------------------------------------------------------
+#312 Group: Status: A Median adjusted importance: 0
+
+Time: 0:26:11, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei uses the voting figures to define what is a
+mainstream film
+False statement: 	Andrei believes that mainstream films are worse than
+non- mainstream films
+
+Author 	Comment 	Add Note
+Agnes:  	These two observations aren't really compatible in the
+true/false sense. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#313 Group: Status: A Median adjusted importance: 0
+
+Time: 0:26:47, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei mentioned one movie with 2 alternatives
+False statement: 	Andrei only suggests Saving Private Ryan
+
+Author 	Comment 	Add Note
+Agnes:  	The true statement is false - there were 3 alternatives in the
+doc. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#244 Group: Status: A Median adjusted importance: 0
+
+Time: 0:26:47, Scope: Around
+
+	Importance:
+
+True statement: 	Denis wants to know what Andrei recommends
+False statement: 	Denies wants to know what film Andrew wishes to eliminate
+
+Author 	Comment 	Add Note
+APB:  	Andrew -> Andrei 	Edit Note 	Delete Note
+MR&DL:  	Denies --> Denis ;) 	Edit Note 	Delete Note
+MR&DL:  	The observer might have changed the names on purpose, but then
+if not corrected it becomes obvious that the first stmt is the true
+one. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#27 Group: Status: A Median adjusted importance: 0
+
+Time: 0:29:24, Scope: Around
+
+	Importance:
+
+True statement: 	Agnes and Denis are not comfortable with Andrei's
+explanation of the gory opening to Saving Private Ryan
+False statement: 	Agnes and Denis are comfortable with Andrei's
+explanation of the gory opening to Saving Private Ryan
+
+Author 	Comment 	Add Note
+Agnes:  	This might be too subjective in terms of what people interpret
+as 'comfortable' 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#29 Group: Status: A Median adjusted importance: 0
+
+Time: 0:32:43, Scope: Throughout
+
+	Importance:
+
+True statement: 	Agnes is very knowlegdable about the films
+False statement: 	Agnes does not know anything about the about the films
+
+Author 	Comment 	Add Note
+APB:  	Repeated words: _about the_ 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#315 Group: Status: A Median adjusted importance: 0
+
+Time: 0:33:59, Scope: Here
+
+	Importance:
+
+True statement: 	They have all seen Saving Private Ryan
+False statement: 	Only Agnes has not seen Saving Private Ryan
+
+Add Note
+------------------------------------------------------------------------
+#100 Group: Status: A Median adjusted importance: 0
+
+Time: 0:34:08, Scope: Here
+
+	Importance:
+
+True statement: 	Denis and Andrei check the time and note that they are
+running short
+False statement: 	Denis and Mirek check the time and note that they are
+running short
+
+Add Note
+------------------------------------------------------------------------
+#101 Group: Status: A Median adjusted importance: 0
+
+Time: 0:34:22, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei included two other films in his list which have
+been previously discussed by the group
+False statement: 	Andrei included three other films in his list which
+have been previously discussed by the group
+
+Add Note
+------------------------------------------------------------------------
+#166 Group: Status: A Median adjusted importance: 0
+
+Time: 0:38:16, Scope: Here
+
+	Importance:
+
+True statement: 	Denis suggests one movie to the group
+False statement: 	Denis suggests 2 movies to the group
+
+Add Note
+------------------------------------------------------------------------
+#280 Group: Status: A Median adjusted importance: 0
+
+Time: 0:39:18, Scope: Around
+
+	Importance:
+
+True statement: 	Denis reiterates that the casting is marvellous for The
+Big Lebowski
+False statement: 	Denis is not sure who the casting is for The Big Lebowski
+
+Add Note
+------------------------------------------------------------------------
+#281 Group: Status: A Median adjusted importance: 0
+
+Time: 0:39:41, Scope: Around
+
+	Importance:
+
+True statement: 	Denis would like to know what kind of information to
+put on the poster.
+False statement: 	Mirek would like to know what kind of information to
+put on the poster.
+
+Add Note
+------------------------------------------------------------------------
+#34 Group: Status: A Median adjusted importance: 0
+
+Time: 0:43:10, Scope: Throughout
+
+	Importance:
+
+True statement: 	Andrei pays attention to the running time of the meeting
+False statement: 	Andrei pays no attention to the running time of the
+meeting
+
+Add Note
+------------------------------------------------------------------------
+#172 Group: Status: A Median adjusted importance: 0
+
+Time: 0:43:55, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei nominates Saving Private Ryan
+False statement: 	Andrei nominates Usual Suspects
+
+Add Note
+------------------------------------------------------------------------
+#324 Group: Status: A Median adjusted importance: 0
+
+Time: 0:47:21, Scope: Here
+
+	Importance:
+
+True statement: 	Denis's vote is crucial in deciding which film is chosen
+False statement: 	Andrei's vote determines which film is chosen
+
+Add Note
+------------------------------------------------------------------------
+#314 Group: Status: A Median adjusted importance: 0
+
+Time: 0:49:06, Scope: Throughout
+
+	Importance:
+
+True statement: 	The meeting lasts three quaters of an hour
+False statement: 	The meeting lasts over an hour
+
+Author 	Comment 	Add Note
+APB:  	True stmt not exactly true! 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#329 Group: Status: A Median adjusted importance: 0
+
+Time: 0:49:10, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes leaves first
+False statement: 	Agnes follows Mirek out of the room
+
+Add Note
+------------------------------------------------------------------------
+#1 Group: null Status: A Median adjusted importance: -1
+
+Time: 0:01:00, Scope: Around
+
+	Importance:
+
+True statement: 	Mirek had not received the agenda for the meeting
+False statement: 	Andrei had not received the agenda for the meeting
+
+Add Note
+------------------------------------------------------------------------
+#291 Group: Status: A Median adjusted importance: -1
+
+Time: 0:01:16, Scope: Throughout
+
+	Importance:
+
+True statement: 	They are deciding a movie to watch in April
+False statement: 	They are deciding a movie to watch in May
+
+Add Note
+------------------------------------------------------------------------
+#292 Group: Status: A Median adjusted importance: -1
+
+Time: 0:01:21, Scope: Here
+
+	Importance:
+
+True statement: 	They have already seen Lawrence of Arabia, Apocolypse
+Now and Amadeus
+False statement: 	They have already considered Lawrence of Arabia but
+decided it was too violent
+
+Add Note
+------------------------------------------------------------------------
+#120 Group: Status: A Median adjusted importance: -1
+
+Time: 0:02:07, Scope: Here
+
+	Importance:
+
+True statement: 	Denis asks whether the participants have prepared
+documents for their proposed movie selections.
+False statement: 	Denis asks whether the participants have prepared film
+clips for their proposed movie selections.
+
+Add Note
+------------------------------------------------------------------------
+#227 Group: Status: A Median adjusted importance: -1
+
+Time: 0:02:39, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei and Denis agree on where to start
+False statement: 	Andrei and Denis disagree on what to do first
+
+Add Note
+------------------------------------------------------------------------
+#121 Group: Status: A Median adjusted importance: -1
+
+Time: 0:02:42, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes is selected for the first presentation of movie
+selection.
+False statement: 	Denis is selected for the first presentation of movie
+selection.
+
+Add Note
+------------------------------------------------------------------------
+#79 Group: Status: A Median adjusted importance: -1
+
+Time: 0:05:28, Scope: Here
+
+	Importance:
+
+True statement: 	Usual suspects and the sixth sense are suggested as
+possibilities, each have been summaried by Agnes
+False statement: 	Usual suspects and the sixth sense are suggested as
+possibilities, each have been summaried by Mirek
+
+Add Note
+------------------------------------------------------------------------
+#125 Group: Status: A Median adjusted importance: -1
+
+Time: 0:06:01, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei asks for clarification of the 2nd image
+displayed on the presentation slide.
+False statement: 	Andrei asks for clarification of the text displayed on
+the presentation slide.
+
+Author 	Comment 	Add Note
+APB:  	'the presentation' -> 'a presentation' 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#9 Group: Status: A Median adjusted importance: -1
+
+Time: 0:06:55, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes points out that The Usual Suspects got 8.7 in the
+Internet Movie Database, it was 16th in the top 250 movies and 4th in
+the movies of the 90s as well as being nominated for the Academy Awards
+False statement: 	Andrei points out that The Usual Suspects got 8.7 in
+the Internet Movie Database, it was 16th in the top 250 movies and 4th
+in the movies of the 90s as well as winning Academy Awards
+
+Add Note
+------------------------------------------------------------------------
+#270 Group: null Status: A Median adjusted importance: -1
+
+Time: 0:07:46, Scope: Here
+
+	Importance:
+
+True statement: 	Usual Suspects won a lot of awards.
+False statement: 	The Sixth Sense won a lot of awards.
+
+Add Note
+------------------------------------------------------------------------
+#14 Group: Status: A Median adjusted importance: -1
+
+Time: 0:10:18, Scope: Around
+
+	Importance:
+
+True statement: 	Denis points out that both films are similar in the
+fact that they don't give away the answer right until the end
+False statement: 	Mirek points out that both films are similar in the
+fact that they don't give away the answer right until the end
+
+Author 	Comment 	Add Note
+APB:  	_both_ sounds unclear. Replace by _two_ ? 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#127 Group: Status: A Median adjusted importance: -1
+
+Time: 0:10:40, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei asks whether the awards listed on Agnes' slides
+are the best awards received by the films, which Agnes confirms.
+False statement: 	Mirek asks whether the awards listed on Agnes' slides
+are the best awards received by the films, which Agnes confirms.
+
+Add Note
+------------------------------------------------------------------------
+#197 Group: Status: A Median adjusted importance: -1
+
+Time: 0:11:17, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek introduces his 6 or 7 movies
+False statement: 	Mirek introduces his 3 movies
+
+Add Note
+------------------------------------------------------------------------
+#17 Group: Status: A Median adjusted importance: -1
+
+Time: 0:13:16, Scope: Around
+
+	Importance:
+
+True statement: 	Mirek announces his second choice, Schindler's List,
+Only Andrei confesses to never seeing it.
+False statement: 	Mirek announces his second choice, Schindler's List,
+both Andrei and Agnes confesses to never seeing it.
+
+Add Note
+------------------------------------------------------------------------
+#85 Group: Status: A Median adjusted importance: -1
+
+Time: 0:14:59, Scope: Here
+
+	Importance:
+
+True statement: 	The group agrees that Schindlers List is similar to
+previous films they have present at their club and could be presented
+False statement: 	The group agrees that the usual suspects is similar to
+previous films they have present at their club and could be presented
+
+Add Note
+------------------------------------------------------------------------
+#88 Group: Status: A Median adjusted importance: -1
+
+Time: 0:16:29, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei has not seen many of the movies at all -
+approximately 10 in the complete list
+False statement: 	Andrei has not seen many of the movies at all -
+approximately 8 in the complete list
+
+Add Note
+------------------------------------------------------------------------
+#143 Group: Status: A Median adjusted importance: -1
+
+Time: 0:23:38, Scope: Around
+
+	Importance:
+
+True statement: 	Andrei tells the group he has not seen American Beauty,
+but would like to.
+False statement: 	Andrei tells the group he has seen American Beauty.
+
+Add Note
+------------------------------------------------------------------------
+#209 Group: Status: A Median adjusted importance: -1
+
+Time: 0:30:09, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei raises the issue of the film lasting 3 hours and
+the group (except Mirek) seem to accept it
+False statement: 	Andrei raises the issue of the film lasting 2hours and
+the group (except Mirek) seem to accept it
+
+Author 	Comment 	Add Note
+APB:  	_the film_ -> _a film_ ? 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#99 Group: Status: A Median adjusted importance: -1
+
+Time: 0:31:58, Scope: Here
+
+	Importance:
+
+True statement: 	Andrei presents his opinion well and suggests that the
+trivia he has compiled can be used to provide a 5-10 minute talk before
+the film is shown
+False statement: 	Andrei presents his opinion well and suggests that the
+trivia he has compiled can be used to provide a 3-5 minute talk before
+the film is shown
+
+Author 	Comment 	Add Note
+APB:  	The first part of the stmts is too subjective, and only a
+distractor. 	Edit Note 	Delete Note
+
+------------------------------------------------------------------------
+#276 Group: Status: A Median adjusted importance: -1
+
+Time: 0:32:59, Scope: Here
+
+	Importance:
+
+True statement: 	There is a lot more discussion about Saving Private
+Ryan than any other movie so far.
+False statement: 	There is very little discussion about Saving Private
+Ryan.
+
+Add Note
+------------------------------------------------------------------------
+#102 Group: Status: A Median adjusted importance: -1
+
+Time: 0:35:24, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek notes that three films they have discussed are on
+a theme of the second world war
+False statement: 	Mirek notes that four films they have discussed are on
+a theme of the second world war
+
+Add Note
+------------------------------------------------------------------------
+#283 Group: Status: A Median adjusted importance: -1
+
+Time: 0:40:16, Scope: Around
+
+	Importance:
+
+True statement: 	Denis also asks that being a member of the Committee
+could also be advertised on the poster.
+False statement: 	Denis also asks for small adverts to be placed on the
+poster.
+
+Add Note
+------------------------------------------------------------------------
+#319 Group: Status: A Median adjusted importance: -1
+
+Time: 0:45:11, Scope: Here
+
+	Importance:
+
+True statement: 	Each person eliminates one film from the shortlist
+False statement: 	Each person eliminates two films from the shortlist
+
+Add Note
+------------------------------------------------------------------------
+#177 Group: Status: A Median adjusted importance: -1
+
+Time: 0:45:57, Scope: Here
+
+	Importance:
+
+True statement: 	Denis removes Silence of the Lambs as he feels it is
+too violent
+False statement: 	Denis removes Silence of the Lambs as he has seen it
+before
+
+Add Note
+------------------------------------------------------------------------
+#182 Group: Status: A Median adjusted importance: -1
+
+Time: 0:46:52, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek votes for Big Lebowski
+False statement: 	Mirek votes for Saving Private Ryan
+
+Add Note
+------------------------------------------------------------------------
+#187 Group: Status: A Median adjusted importance: -1
+
+Time: 0:48:11, Scope: Here
+
+	Importance:
+
+True statement: 	Purpose of next meeting is to choose film for May
+False statement: 	Purpose of next meeting is to choose film for June
+
+Add Note
+------------------------------------------------------------------------
+#163 Group: Status: A Median adjusted importance: -2
+
+Time: 0:02:50, Scope: Here
+
+	Importance:
+
+True statement: 	Agnes states that her choice was influenced by the
+theme of mystery
+False statement: 	Agnes states that her choice was influenced by the
+theme of war
+
+Add Note
+------------------------------------------------------------------------
+#207 Group: Status: A Median adjusted importance: -2
+
+Time: 0:24:32, Scope: Here
+
+	Importance:
+
+True statement: 	Mirek again engages the group and raises the issue of
+Schindlers list again. His body language shows him closed and leaning
+away from Agnes.
+False statement: 	Andrei again engages the group and raises the issue of
+Schindlers list again. His body language shows him closed and leaning
+away from Mirek.
+
+Add Note
+------------------------------------------------------------------------
+#255 Group: Status: A Median adjusted importance: -2
+
+Time: 0:38:12, Scope: Around
+
+	Importance:
+
+True statement: 	Participants discuss movie posters
+False statement: 	Participants discuss cost of producing the movie posters
+
+Add Note
+------------------------------------------------------------------------
+#300 Group: Status: A Median adjusted importance: -2
+
+Time: 0:45:05, Scope: Throughout
+
+	Importance:
+
+True statement: 	Denis hands the meeting agenda to Mirek
+False statement: 	Andrei hands out the meeting agenda to everyone
+
+Add Note
+------------------------------------------------------------------------
+
+There are *94* observations of group size 1.
+

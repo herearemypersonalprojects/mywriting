@@ -1,0 +1,58 @@
+\chapter{Evaluation methods}
+
+The performance of the proposed algorithm is evaluated based on the results of both principal phases: Passage Retrieval and True-False Answer. 
+
+
+
+
+\section{Passage Retrieval Evaluation}
+In the first phase, the correctness of a retrieved passage is evaluated by comparing it with a reference corresponding passage, which was annotated by hand before. Information of the reference passage is the position of its first word in the transcript and its size in word. These are corresponding to two properties of a passage defined in the section Passage Retrieval of the previous chapter. 
+
+For example for the question and the transcript in the table \ref{Word splitting and lexical extensions for questions} and \ref{word_splitting_transcript}, the reference passage found for this question is (25,28) so that it contains only three words "25 No 27 have 28 not". The name of speaker who spoke these words is always integrated as a field of word record, thus it is not necessary to show the speaker name in the reference passage and even in the retrieved passage.
+
+The size of a reference passage is reduced as small as possible, but this reference passage still contains the most essential words to answer the question. For example above, a reference passage may be (9,28) that help us understand the context of answer but the keywords are "25 No 27 have 28 not" spoken by Mirek.
+
+If candidate passage and reference passage have a non-empty intersection, candidate passage is considered to be correct. The number of overlapped words is fixed as one word in this case. If the system is used to help users locate position of answer information, one overlapped word will be accepted as well. For experimental system, the size of retrieved passage is reduced to region which contains matched words instead of size of search window. For above example, with the first question, the size of search window is 5 x number of question words = 35 words. But the size of the found passage is 14 instead of 35 as size of window. The reason is that the position of the passage is defined as the position of the first matched word in the transcript whereas the size is defined as the distance between the first matched word and the last matched word. In this case, the position of the first matched word and of the last matched word are respectively 3 and 17.
+
+
+\section{True-false Question Answering Evaluation}
+
+It is supposed that we know the true question and the false question in a pair in the input database. Therefore, a question, which is considered to be true by the system, is evaluated by its index and returned by the program. In this case, in the database, the first question in a pair is known as true.  Thus, if the system returns 1 as answer, this answer is correct. On the contrary, if the system returns 2 as answer, this answer is incorrect.
+
+
+
+
+\section{Cross-Validation method}
+ 
+ The 5-fold Cross-Validation method \cite{kohavi1995scv} is applied to give the average of the best scores for the proposed algorithm. This method is suitable in the case that the algorithm have not enough data to test. Hence, it hides a part of data as unknown data in the future from building a configuration for the algorithm. After that, it uses these hidden data to test the built configuration. The data used to train the system is called training data and the data used to test the system is called test data.
+ 
+In this case, a configuration is a pair of parameters of search window: size of window and step of window that have been addressed in the section Passage Retrieval. According to the Cross-Validation method, questions are partitioned into 5 subsets, in which four subsets are used as training data and the remainning subset is used as test data. The algorithm is iterated five times so that each subset will be used as test data one time. Thus, final result is the average of results retrieved after running the algorithm five times in this way.
+
+For each iteration, the system returns a pair of parameters of search window that is considered the most suitable for training data. In which, values tested for both search window parameters are  from 1 x question size to 13 x question size. A pair of parameters helps the system obtain the highest score on training data, the it will be tested on the test data. The result obtainned on test data is used to estimate the average score of the algorithm.
+
+
+
+%\section{Lexical extensions evaluation}
+%In addition to evaluate the performance of the proposed algorithm, effect of lexical extensions in the pre-processing stage is also evaluated by comparing their separated score with each other as well as with the score of algorithm without lexical extensions. Three lexical extensions used in the proposed algorithm include stem, lemma and synonyms.
+%
+%
+%\section{Comparison to other approaches}
+%The performance of the proposed algorithm is also compared with two other methods that are widely known to retrieve passages in the system of question answering. The first method bases on parts of speech (PoS) to assign various scores to matched words. Meanwhile, the second method bases on word frequencies. Although the comparison is done for both principal phases of the algorithm, these methods are only used for passage retrieval as the first phase of the proposed algorithm. That means in the second phase of the system, all three approaches use the same way to distinguish the true statement from the false statement but based on different passagas retrieved from the first phase.
+
+%\section{Comparison with BET scores by human subjects}
+%
+%
+%
+%
+%
+%\section{Comparison with ASR transcripts}
+%In order to evaluate the performance of the proposed algorithm, the ASR transcripts as mentioned in the Chapter 2 are used in place of the manual transcripts. The ASR transcripts are certainly not as good as the manual transcripts, thus the proportion of correct results obtained must be lower. This shows the stability of the algorithm.
+%
+%
+%\section{Evaluation on summaries based on ASR transcripts}
+%
+%Lastly, some summaries based on ASR transcripts are used to test the algorithm. A comparison analysis on results obtained from summaries produced by chance and obtained from summaries produced by an automatic summatizer will show the stability of the algorithm as well as the quality of the automatic summatizer.
+%
+%All results are presented in detail in the next chapter.
+%
+%

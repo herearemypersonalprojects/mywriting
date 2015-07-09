@@ -1,0 +1,20 @@
+\newpage
+\chapter*{Abbreviations}   
+\addcontentsline{toc}{chapter}{Abbreviations}
+
+\begin{itemize}
+
+\item {AMI: Augmented Multi-party Interaction. This project is a 15-member multi-disciplinary European Commission-funded consortium dedicated to the research and development of technology that will greatly enhance people’s experience in meetings. \href{http://www.amiproject.org/}{\texttt{http://www.amiproject.org/}}}
+
+\item {IM2: Interactive Multimodal Information Management. This project is one the 20 Swiss National Centres of Competence in Research (NCCR) aiming at boosting research and development in several areas considered of strategic importance to the Swiss economy. \url{http://www.im2.ch/}}
+
+\item {BET: Browser Evaluation Test. This is a method for assessing the performance of a meeting browser on meeting recordings. This project is developed at the Idiap as part of IM2 project \url{http://www.idiap.ch/mmm/tools/bet-data}}
+
+\item {TQB: Transcript-based Query and Brower Interface. This is an interface for searching and browsing multimodal recordings of group meetings. This project is developed by Andrei Popescu-Belis at the Idiap and Maria Georgescul at the University of Geneva, is part of the IM2 project. \url{http://www.issco.unige.ch/en/research/projects/im2/bet/}}
+
+\item {BET questions: It is a set of pairs of true-false questions to be used in the BET method. They are determined by a group of observers, who produce \textit{observations of interest} that are noted as the most salient facts and events that occurred in the meeting. \url{http://www.idiap.ch/mmm/tools/bet-data/bet_observations}}
+
+\item {ASR: Automatic Speech Recognition}
+
+
+\end{itemize}

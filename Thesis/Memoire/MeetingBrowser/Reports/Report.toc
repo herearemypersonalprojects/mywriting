@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {chapter}{\numberline {2}State of the art}{9}
+\contentsline {chapter}{\numberline {3}Brief of data structure}{11}
+\contentsline {section}{\numberline {3.1}Meeting transcripts}{11}
+\contentsline {section}{\numberline {3.2}Questions}{12}
+\contentsline {chapter}{\numberline {4}Proposed algorithm}{14}
+\contentsline {section}{\numberline {4.1}Pre-processing}{14}
+\contentsline {section}{\numberline {4.2}Passage retrieval}{16}
+\contentsline {section}{\numberline {4.3}True-false questions answering}{20}
+\contentsline {chapter}{\numberline {5}Experiments and Evaluations}{23}
+\contentsline {section}{\numberline {5.1}Data Processing}{23}
+\contentsline {section}{\numberline {5.2}System Performance}{23}
+\contentsline {section}{\numberline {5.3}Parameters Optimization}{24}
+\contentsline {section}{\numberline {5.4}Comparing with BET scores by human subjects}{27}
+\contentsline {section}{\numberline {5.5}Experiment on ASR summaries}{32}
+\contentsline {chapter}{\numberline {6}Conclusion}{34}
+\contentsline {section}{\numberline {6.1}Conclusion}{34}
+\contentsline {section}{\numberline {6.2}Summary of contributions}{34}
+\contentsline {section}{\numberline {6.3}Future Research}{34}

@@ -1,0 +1,72 @@
+\chapter{Data description}
+
+This system is designed for data with defined format and type so that it has some specifications much clearer compared with those of other question answering systems that normally work with general textual data . In this Chapter, two meeting transcripts and BET questions of these two meetings will be described. An analysis on these data which also give the reasons to build our algorithm is also presented.
+
+
+
+\section{Meeting transcripts}
+
+Two meeting transcripts used to test the system are taken from the corpus built by Augmented Multi-party Interactions project \cite{AMI_corpus}. Both of them were discussed in English, involving four participants, native or non-native English speaker. The first meeting IB4010 lasted 50 minutes in which managers of a movie club discussed to select movie for the next shows; meanwhile, in the second one IS1008c, a team discusses the design of a remote control in 26 minutes. There are two versions of tested transcripts, including manual and automatic transcripts. 
+
+In addition, some unnecessary information of original transcripts from AMI Corpus are eliminated such as time of utterances, notations of episodes. Consequently, the most important information of two manual meeting transcripts remainned includes speaker name and utterances that are showed in the Table \ref{Meeting transcript}.
+
+In a conversational document as meeting transcript, information of speaker play an important role to answer questions that verify a statement with respect to the speaker of one/some utterances. That is why in the proposed algorithm, we pay more attention to the name of speakers in both question and transcript, for instance, score for a matched word as speaker name is the highest compared to other matched words.
+
+
+\begin{table}[htbp]
+\footnotesize
+\caption{Description of meeting transcript}
+\begin{center}
+\begin{tabular}{|lp{5cm}|lp{5cm}|}
+\hline
+\multicolumn{ 2}{|c|}{\textbf{Movie club meeting (IB4010)}} & \multicolumn{ 2}{c|}{\textbf{Remote control design meeting (IS1008c)}} \\ \hline
+\multicolumn{1}{|c}{\textbf{Speaker}} & \multicolumn{1}{c|}{\textbf{Utterances}} & \multicolumn{1}{c}{\textbf{Speaker}} & \multicolumn{1}{c|}{\textbf{Utterances}} \\ \hline
+Andrei  & Hi everyone.  & Sridhar  & so if you find out from the technology background, okay, so that would be good.  \\ 
+Denis  & So I don't know if you all received the the a- agenda for this meeting.  Do you - no?  & Christine  & Sounds good.  \\ 
+Mirek  & No, I haven't.  & Agnes  & Why was the plastic eliminated as a possible material?  \\ 
+Denis  & Here it is.  & Christine  & Because um it gets brittle, .. cracks -  \\ 
+Mirek  & Thank you.  & Christine  & We want - we expect these um uh these remote controls to be around for several hundred years.  Good expression.  \\ 
+Agnes  & I haven't.  & Ed  & Good expression.  \\ 
+Denis  & So um um the goal for today are um - We have two goals. Uh - First is to decide a movie for uh the next projection for our movie club.  & Christine  & I don't know, speak for yourself, I'm planning to be around for a while.  \\ 
+Mirek  & Mm-hmm.  & Agnes  & Although I think - \$ I think with wood though you'd run into the same types of problems, wouldn't you? I mean, it chips, it- if you drop it, uh it's - I'm not sure \$  \\ 
+Andrei  & Mm-hmm.  & Sridhar  & So so you're not convinced* about the the wood, yes.  \\ 
+... & ... & ... & ... \\ \hline
+\end{tabular}
+\end{center}
+\label{Meeting transcript}
+\end{table}
+
+
+
+\section{Questions}
+
+The BET Questions have been mentioned above. However, questions used in this system are not full versions of original BET questions which consists of miscellaneous information such as observation time, mediate time, important level, scope, etc. \cite{BET}.  The system needs only the true and the false statement in each question, which are considered as input data to distinguish one from another. But as a convention, we still use the name "BET question" to indicate these incomplete questions. Examples of some observations are in the Table \ref{The BET Questions}.
+
+
+For two meetings IB4010 and IS1008c, respectively 222 and 217 raw observations were collected by 9 and 6 observers. After being filtered and corrected, the results are only 129 and 158 final pairs of true/false observations correspondingly. However, as mentioned in the Chapter 1, such of questions as \textit{Throughout} are not included in the set of experimental questions. Thus, we have only 116 pairs of true-false statements for IB4010 and 50 pairs for IS1008c.
+
+
+\begin{table}[htbp]
+\footnotesize
+\caption{Description of the BET Questions}
+\begin{center}
+\begin{tabular}{|l|p{7cm}|p{7cm}|}
+\hline
+ & \textbf{Movie club meeting (IB4010)} & \textbf{Remote control design meeting (IS1008c)} \\ \hline
+True & Mirek had not received the agenda for the meeting & One of the features under consideration is speech recognition. \\ 
+False & Andrei had not received the agenda for the meeting & One of the features under consideration is fingerprint identification. \\ \hline
+True & None has seen the Shawshank redemption & The product is expected to last over several hundred years. \\ 
+False & Only two have seen the Shawshank redemption & The product is expected to last more than 5 but less than 15 years. \\ \hline
+True & Denis informed the team that the first objective was to choose a film and the second was to discuss an advertising poster & Christine eliminated plastic as too brittle over time. \\ 
+False & Denis informed the team that the first objective was to choose a film and the second was to discuss a date for the film to be shown & Christine eliminated plastic as it would flex and damage the chips \\ \hline
+... & ... & ... \\ \hline
+\end{tabular}
+\end{center}
+\label{The BET Questions}
+\end{table}
+
+The questions considered as statements is one main feature that makes this system different to other question answering systems, which normally consists of different questions like "How", "Why", "When", etc.. For this reason, it is not necessary to apply an existing complex algorithm, which is widely used to deal with various type of questions in other question answering systems. Our proposed algorithm is designed therefore to fit type-known questions. In this case, a typical question ask to verify information spoken by a speaker, for instance "Mirek asks who has seen Schindlers List". In this case, they have a speaker name at the beginning of the sentence. According to our statistics, there are over 55\% of such questions (28/50 such questions for IS1008c and 87/116 such questions for IB4010). This is an important remark that score of one matched word spoken by speaker whose name is mentioned in both the transcript and the question should be higher than other matched words.
+
+Another feature of the questions is the similarity of two statements in a pair. In most pairs, two statements are different from each other in only one or two words. Therefore, at the Passage Retrieval stage of the proposed algorithm the probability that two corresponding passages for two questions in a pair are coincided is very high. In this case, the true and the false statement can be distinguished by the similarity between each candidate statement with the corresponding passage. In other words, passage score for each statement is compared to determine the true statement/the false statement.
+
+%Remain questions seem to be straightforward.

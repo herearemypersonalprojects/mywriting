@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{section*.1}{Abstract}{}
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgements}{}
+\BOOKMARK [0][-]{chapter*.3}{Table of contents}{}
+\BOOKMARK [0][-]{chapter*.4}{List of Figures}{}
+\BOOKMARK [0][-]{chapter*.5}{List of Tables}{}
+\BOOKMARK [0][-]{chapter*.6}{List of Algorithms}{}
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Context}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Goal }{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Approach }{chapter.1}
+\BOOKMARK [1][-]{section.1.4}{Evaluation methods}{chapter.1}
+\BOOKMARK [1][-]{section.1.5}{Structure of the report}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}
+\BOOKMARK [0][-]{chapter.3}{Data description}{}
+\BOOKMARK [1][-]{section.3.1}{The BET method}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{The BET Questions}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Data used to test the system}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Proposed algorithm}{}
+\BOOKMARK [1][-]{section.4.1}{Pre-processing}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Passage retrieval}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{True-False Answer}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Evaluation methods}{}
+\BOOKMARK [1][-]{section.5.1}{Passage Retrieval Evaluation}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{True-false Question Answering Evaluation}{chapter.5}
+\BOOKMARK [1][-]{section.5.3}{Cross-Validation method}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Experimental Results}{}
+\BOOKMARK [1][-]{section.6.1}{Data Processing}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{System Performance}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Experiments with ASR transcripts}{chapter.6}
+\BOOKMARK [1][-]{section.6.4}{Summarization Results}{chapter.6}
+\BOOKMARK [1][-]{section.6.5}{Parameter Optimization}{chapter.6}
+\BOOKMARK [1][-]{section.6.6}{Comparison with BET scores by human subjects}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Future Research}{}
+\BOOKMARK [0][-]{chapter.8}{Conclusion}{}
+\BOOKMARK [0][-]{chapter*.27}{Appendix}{}
+\BOOKMARK [1][-]{section.8.1}{Intermediate results for parameter optimisation}{chapter*.27}
+\BOOKMARK [2][-]{subsection.8.1.1}{IB4010}{section.8.1}
+\BOOKMARK [2][-]{subsection.8.1.2}{IS1008c}{section.8.1}
+\BOOKMARK [1][-]{section.8.2}{List of stopwords}{chapter*.27}
+\BOOKMARK [0][-]{chapter*.30}{Bibliography}{}

@@ -1,0 +1,109 @@
+\documentclass[10pt,a4paper]{report}
+
+\begin{document}
+\chapter{Introduction}
+- The objective:  Create an agent (be virtual or physical) able to read a story expressively. The thesis focus on expressive behaviours, especially on model of expressive gesture. The work to be done concerns mainly the animation of the 3D Greta agent and of the humanoid robot NAO.
+
+- Context: Agent tell story for children
+
+- Case study: Greta, Nao
+
+- Method: Based on the SAIBA framework
+
+\chapter{Related work}
+
+\section{Literature}
+
+- Adam Kendon
+
+- David McNeil: \cite{Mcneil1992}
+
+- Calbris
+
+- Poggi
+
+\section{Gesture Specification}
+
+- BML
+
+- MURML \cite{Kranstedt2002}: is used to specify verbal utterances in combination with co-verbal gestures.
+
+- Use speech and gesture to give directions \cite{Cassell2007}: the speaker may mimic the surface quality of a building while describing it.
+
+- or using gesture to describe the size of an object \cite{Kopp2004}
+
+- Other works are based on motion capture data and modeled gesture movements such as walking, but not necessarily communicative gestures \cite{Menardais2004}, \cite{Liu2005} and \cite{Neff2004}.
+
+\section{Behaviour Realization}
+
+- EMOTE \cite{Chi2000}: The "Expressive Motion Engine" is a 3D character animation system designed to simulate natural gestures by applying effort and shape qualities to independently defined underlying movements (thus, taking an existing "lifeless" animation and modify it to add expressiveness and emotions). Shape qualities describe forms, dimensions and positions, and effort describes the body exertion. The categories that are used to differentiate the parameters are based on the Laban Movement Analysis \cite{LMA}. 
+EMOTE implements the Laban annotation scheme for dance to change, through a set of parameters, the way a gesture looks depending on values such as the strength of the gesture and its tempo. EMOTE works as a post-filter after a gesture animation has been computed and adds expressivity to its final animation.
+
+- Max \cite{Kopp2003}: aims at an integrated architecture in which the planning of both content and form across both modalities is coupled, hence taking into account the meaning conveyed in non-verbal utterances. The technique was described in detail in the article \cite{Kopp2004}.
+(The gesture stroke is either set to precede the affiliate's onset by a given offset (per default one syllable's approximate duration 0.3s) or to start exactly at the nucleus if a narrow focus has been defined. In any case, the stroke is set to span the whole affiliate before retraction starts - hold phase). 
+(Simulating these mechanisms is highly context-dependent for it has to take into account properties of the subsequent stroke (form, location, timing constraints) as well as current movement conditions when the previous chunk can be RELIEVED, i.e. when its intonation phrase and its gesture stroke are completed.
+
+- SmartBody \cite{Thiebaux2008}
+
+- ELCKERLYC \cite{Welbergen2010}
+
+- EMBR \cite{Heloir2009}
+
+- BEAT \cite{Cassell2001}: demonstrates appropriate and synchronized non-verbal behaviours by predicting the timing of gesture animations from synthesized speech in which the expressive phase coincides with the prominent syllable in speech. However its scheduler treats non-verbal behaviors as immutable, unable to adapt them to scheduling constrains nor refer to their inner structure.
+
+- REA \cite{Cassell1999}: The first ECA? the author introduced a ECA that plays the role of a real estate sales-person.
+
+- Greta: \cite{Hartmann2006} designed communicative gestures based on gesture phases as defined by McNeil (1992) and gesture description parameters that are based on Prillwitz et al. (1989). Contrary to Ruttkay et al.'s approach, gesture expressivity does not affect gesture selection (which is done through modalities preference \cite{Mancini2007}. The model modifies a gesture by modulating its spatial and temporal properties. This work differs from EMOTE as, in this approach, the gesture are first modified and then the animation is computed, while EMOTE acts as a filter of a pre-calculated animation.
+
+\section{Expressive gesture for humanoid robot}
+- Honda \cite{Salem2010}: firstly, the outer form gesture features of a gesture (i.e. the posture designated for the gesture stroke) are explicitly described by MURML \cite{Kranstedt2002}. Secondly, gestures can be specified as keyframe animations whereby each keyframe specifies a "key posture" in ACM \cite{Kopp2003}. However, ACM is originally designed for a virtual rather than physical platform.Conclusion: It is revealed that the physical robot is able to perform a generated gesture fairly accurately but with some inertial delay compared to the internal ACE model. That means movement generation tends to lag behind spoken language output because of a physically constrained body => To tackle this new dimension of requirement, however, the cross-modal adaptation mechanisms applied in ACE have to extended to allow for a finer mutual adaptation between robot gesture and speech.
+Limitation: The work did not consider the form of gesture realized by the robot but only on the synchronization between gesture and speech.
+
+
+- Robots Maggie \cite{Gorostiza2006} and Mel \cite{Sidner2003} use gestures to indicate engagement behaviours but the gestures were predefined and not generated on-line and not based on a complexed framework.
+
+- Robot Fritz \cite{Bennewitz2007} generates gestures on-line but not sophisticated platform and not complex robot (e.g. less degrees of freedom DOF, limited mobility, etc).
+
+\begin{thebibliography}{100} % 100 is a random guess of the total number of references
+\addtolength{\leftmargin}{0.2in} % sets up alignment with the following line.
+\setlength{\itemindent}{-0.2in}
+
+% Specification of gestures
+
+\bibitem[Cassell2007]{Cassell2007} Cassell, J. and Kopp, S. and Tepper, P. and Ferriman, K. and Striegnitz, K.: Trading spaces: How humans and humanoids use speech and gesture to give directions. In journal "Conversational Informatics" 2007.
+
+\bibitem[Kranstedt2002]{Kranstedt2002} Kranstedt, A. and Kopp, S. and Wachsmuth, I.: MURML: A multimodal utterance representation markup language for conversational agents. Proc. of the AAMAS Workshop on “Embodied conversational agents--Let’s specify and evaluate them {2002}.
+
+% Articulation Motor Engine
+\bibitem[Heloir2009]{Heloir2009} Heloir, A. and Kipp, M.: EMBR--A realtime animation engine for interactive embodied agents. In journal \emph{Intelligent Virtual Agents: 9th International Conference, IVA 2009 Amsterdam, The Netherlands, September 14-16, 2009 Proceedings}.
+
+\bibitem[Welbergen2010]{Welbergen2010} Herwin van Welbergen, Dennis Reidsma and Job Zwiers. A Demonstration of Continuous Interaction with Elckerlyc. 3rd Workshop on Multimodal Output Generation {MOG2010}.
+
+\bibitem[Kopp2004]{Kopp2004} Kopp, S. and Wachsmuth, I.: Synthesizing multimodal utterances for conversational agents. In journal "Computer Animation and Virtual Worlds" 2004.
+
+% Expressive Parameters
+\bibitem[Chi2000]{Chi2000} Chi, D. and Costa, M. and Zhao, L. and Badler, N.: The EMOTE model for effort and shape. Proceedings of the 27th annual conference on Computer graphics and interactive techniques 2000.
+
+% Embodied conversational agents
+\bibitem[Cassell1999]{Cassell1999} Cassell, J. and Bickmore, T. and Billinghurst, M. and Campbell, L. and Chang, K. and Vilhj{\'a}lmsson, H. and Yan, H.: Embodiment in conversational interfaces: Rea. Proceedings of the SIGCHI conference on Human factors in computing systems: the CHI is the limit 1999.
+
+\bibitem[Cassell2001]{Cassell2001} Cassell, J. and Vilhj{\'a}lmsson, H.H. and Bickmore, T.: BEAT: the behavior expression animation toolkit. Proceedings of the 28th annual conference on Computer graphics and interactive techniques 2001.
+
+\bibitem[Thiebaux2008]{Thiebaux2008} Thiebaux, M. and Marsella, S. and Marshall, A.N. and Kallmann, M.: Smartbody: Behavior realization for embodied conversational agents. Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems. Volume 1, page 151-158, 2008.
+
+\bibitem[Kopp2003]{Kopp2003} S. Kopp, B. Jung, N. Lessmann, I. Wachsmuth: Max - A Multimodal Assistant in Virtual Reality Construction. KI-Küstliche Intelligenz 4/03, pp 11-17, Bremen: arenDTap Verlag, 2003.
+
+% Robot Gestures
+\bibitem[Salem2010]{Salem2010} Salem, M., Kopp, S., Wachsmuth, I., and Joublin, F. (2010). Generating Robot Gesture Using a Virtual Agent Framework. In \emph{Proceedings of the 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems} (IROS 2010)
+
+\bibitem[Gorostiza2006]{Gorostiza2006} Gorostiza, J.F. and Barber, R. and Khamis, A.M. and Pacheco, MMR and Rivas, R. and Corrales, A. and Delgado, E. and Salichs, MA: Multimodal human-robot interaction framework for a personal robot. The 15th IEEE International Symposium on Robot and Human Interactive Communication, 2006. ROMAN 2006.
+
+\bibitem[Sidner2003]{Sidner2003} Sidner, C.L. and Lee, C. and Lesh, N.: The role of dialog in human robot interaction. Int. Workshop on Language Understanding and Agents for Real World Interaction {2003}
+
+\bibitem[Bennewitz2007]{Bennewitz2007} Bennewitz, M. and Faber, F. and Joho, D. and Behnke, S.: Fritz-A humanoid communication robot. Proc. of the IEEE Int. Symposium on Robot and Human Interactive Communication (RO-MAN) 2007.
+
+\bibitem[Xing2002]{Xing2002} Xing, S. and Chen, I.M. (2002). Design Expressive Behaviours for Robot Puppets. In \emph{International Conference on Control, Automation, Robotics And Vision} 	
+
+\end{thebibliography}
+
+\end{document}

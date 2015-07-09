@@ -1,0 +1,82 @@
+1
+Throughout
+The group decided to show The Big Lebowski
+The group decided to show Saving Private Ryan
+0
+0
+no answer
+---------------------------
+2
+Here
+Date of next meeting confirmed as May 3rd
+Date of next meeting confirmed as May 5th
+9421
+9422
+andrei 9421 may 9422 third 
+---------------------------
+3
+Around
+Denis informed the team that the first objective was to choose a film and the second was to discuss an advertising poster
+Denis informed the team that the first objective was to choose a film and the second was to discuss a date for the film to be shown
+126
+146
+denis  126 first 127 goal 128 decide 131 movie 134 projected 
+denis  136 second 137 goal 141 discuss 144 ad 145 advertising 146 poster 
+---------------------------
+4
+Here
+Agnes did not like the third advertising poster, it had too many colours
+Agnes did not like the third advertising poster, it had no colour
+8160
+8175
+mirek  8160 too 8161 many 8162 colours 8166 difficult 8168 read 
+agnes  8172 actually 8173 do 8174 not 8175 like
+---------------------------
+5
+Here
+No one had seen Goodfellas
+Everyone  had seen Goodfellas
+3545
+3554
+mirek  3545 goodfellas 3547 did 3548 not 3549 see 
+agnes  3551 no 
+andrei  3552 no 
+denis  3553 no 
+mirek  3554 no
+---------------------------
+6
+Here
+Mirek suggests 7 movies to the group
+Mirek suggests 5 movies to the group
+232
+233
+mirek  232 seven 233 movies
+---------------------------
+7
+Here
+Agnes proposes The Usual Suspects and The Sixth Sense as her movie selections.
+Agnes proposes American Beauty and Pulp Fiction as her movie selections.
+522
+527
+agnes  522 usual 523 suspects 526 sixth 527 sense 
+---------------------------
+8
+Here
+Agnes eliminates Pulp Fiction as she dislikes Quentin Tarantino
+Agnes eliminates Pulp Fiction as it is too violent
+9017
+9043
+agnes  9017 pulp 9018 fiction 
+andrei  9019 oh 9020 too 9021 bad 
+mirek  9022 yes 9025 would 9026 eliminate 
+denis  9028 you 9029 have 9031 reason 9035 ok 
+agnes  9037 not 9039 huge 9040 fan 9042 quentin 9043 tarantino
+---------------------------
+9
+Here
+Andrei nominates Schindler's List to be eliminated from the list because it is too sad.
+Andrei nominates Schindler's List to be eliminated from the list because it is too long.
+9000
+9007
+andrei  9001 remove 9002 schindler 9003 list 9004 because 9006 too 9007 sad 
+---------------------------

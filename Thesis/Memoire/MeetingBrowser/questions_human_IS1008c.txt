@@ -1,0 +1,80 @@
+1
+Around
+According to the manufacturers, the casing has to be made out of wood.
+According to the manufacturers, the casing has to be made out of rubber.
+550
+556
+christine  550 eliminated 551 all 553 our 554 options 555 except 556 wood
+---------------------------
+2
+Around
+Christine is considering cheaper manufacture in "other countries" before backtracking and suggesting the remote could support a premium price by promising to pay a decent wage to the workers producing it.
+Ed is considering cheaper manufacture in "other countries" before backtracking and suggesting the remote could support a premium price by promising to pay a decent wage to the workers producing it.
+3156
+3218
+christine  3156 different 3157 countries 3159 stuff 3160 wher 3163 can 3164 do 3166 cheap 
+christine  3167 but 3168 you 3169 do 3170 not 3171 wanna 3172 exploit 3174 labour 3176 third 3177 world 3178 countries 
+sridhar  3179 yes 
+christine  3181 actually 3182 you 3183 could 3184 turn 3187 turn 3188 around 3190 say 3192 you 3194 par 3196 reason 3198 cost 3200 high 3203 device 3205 because 3206 you 3207 paying 3210 working 3211 wage 3214 person 3215 who 3216 made 3218 device 
+---------------------------
+3
+Here
+The product is expected to last over several hundred years.
+The product is expected to last more than 5 but less than 15 years.
+1059
+1061
+christine  1059 several 1060 hundred 1061 years 
+---------------------------
+4
+Here
+Christine suggested that people/customers might want to submit their own design via the internet as custom orders.
+Christine suggested that people/customers would not be interested in custom design and prefer off-the-shelf products.
+785
+815
+christine  785 people 787 might 789 want 791 design 792 their 793 own 794 cases 
+christine  795 you 796 see 798 could 799 do 800 sort 804 threedimensional 805 design 808 internet 
+christine  810 then 812 could 813 submit 814 their 815 orders 
+---------------------------
+5
+Here
+Agnes expressed her opinion that with wood you would run into the same types of problems as with other materials.
+Agnes stated that with wood you wouldn't run into the same types of problems as with other materials.
+1096
+1106
+agnes  1096 wood 1097 though 1098 you 1099 would 1100 run 1101 into 1103 same 1104 types 1106 problems 
+---------------------------
+6
+Around
+Agnes notes some reasons to not have a display
+Agnes tries to persuade the group they should have a display
+3412
+3532
+sridhar  3412 your 3413 design 3414 whether 3415 you 3416 want 3419 display 3421 without 3422 display 3424 just 3426 simple 
+agnes  3429 think 3431 depends 3433 mean 3435 think 3438 good 3439 idea 
+agnes  3440 but 3442 need 3445 think 3448 useful 3450 gonna 3452 because 3453 theoretically 3456 tv 3457 you 3458 already 3459 have 3461 big 3462 display 3463 right 3465 front 3467 you 
+sridhar  3468 yes 
+agnes  3470 if 3472 trying 3474 keep 3475 costs 3476 down 3477 then 3478 maybe 3479 sacrificing 3481 display 3484 way 3486 go 
+agnes  3488 mean 3490 depends 3493 much 3494 putting 3496 display 3497 costs 3499 what 3501 would 3503 used 3506 specifically 3507 what 3509 would 3511 used 
+agnes  3513 cause 3514 if 3516 only 3517 used 3519 one 3520 little 3521 thing 3522 then 3523 putting 3526 big 3527 display 3528 case 3531 big 3532 display 
+---------------------------
+7
+Here
+Ed commented that they had a product but that cost was going to be a potential problem
+Ed commented that they had a product and that cost was not going to be a problem
+2338
+2343
+ed  2338 problem 2340 obviously 2341 gonna 2343 cost
+---------------------------
+8
+Around
+Market research suggests the remote has to be new and different.
+Market research suggests the remote has to be comfortable and familiar.
+2486
+2560
+ed  2486 market 2487 trend 
+ed  2490 what 2492 know 2493 from 2495 last 2497 from 2499 questionnaires 2500 from 2503 all 2506 surveys 2508 have 2509 done 
+ed  2510 fancy 2512 feelgood 2514 what 2516 have 2517 been 2518 looking 2520 something 2522 feels 2523 good 2526 hand 2528 easy 2530 use 
+ed  2531 looking 2533 next 2534 generation 2536 innovation 
+ed  2537 because 2538 all 2540 remotes 2542 there 2543 now 2545 all 2547 similar 2549 all 2550 do 2552 same 2553 thing 
+ed  2555 have 2557 have 2558 something 2559 completely 2560 different 
+---------------------------

@@ -1,0 +1,73 @@
+This tagset has been jointly agreed upon by Lancaster and Birmingham for a joint project on tagger evaluation. It is a variant of the quite common Brown/Penn-style tagsets. This list has kindly been provided by Martin Wynne.
+
+BE		be	
+BEDR		were
+BEDZ		was
+BEG		being
+BEM		am
+BEN		been
+BER		are
+BEZ		is
+CC		conjunction, coordinating (and)
+CD		number, cardinal (four)
+CS		conjunction, subordinating (until)
+DO		do
+DOD		did
+DOG		doing
+DON		done
+DOZ		does
+DT		determiner, general (a, the, this, that)
+EX		existential there
+FW		foreign word (ante, de)
+HV		have	
+HVD		had (past tense)
+HVG		having
+HVN		had (past participle)
+HVZ		has
+IN		preposition (on, of)
+JJ		adjective, general (near)
+JJR		adjective, comparative (nearer)
+JJS		adjective, superlative (nearest)
+MD		modal auxiliary (might, will)
+NN		noun, common singular (action)
+NNS		noun, common plural (actions)
+NP		noun, proper singular (Thailand, Thatcher)
+NPS		noun, proper plural (Americas, Atwells)
+OD		number, ordinal (fourth)
+PDT		determiner, pre- (all, both, half)
+PN		pronoun, indefinite (anyone, nothing)
+POS		possessive particle (', 's)
+PP		pronoun, personal (I, he)
+PP$		pronoun, possessive (my, his)
+PPX		pronoun, reflexive (myself, himself)
+RB		adverb, general (chronically, deep)
+RBR		adverb, comparative (easier, sooner)
+RBS		adverb, superlative (easiest, soonest)
+RP		adverbial particle (back, up)
+SYM		symbol or formula (US$500, R300)
+TO		infinitive marker (to)
+UH		interjection (aah, oh, yes, no)
+VB		verb, base (believe)
+VBD		verb, past tense (believed)
+VBG		verb, -ing (believing)
+VBN		verb, past participle (believed)
+VBZ		verb, -s (believes)
+WDT		det, wh- (what, which, whatever, whichever)
+WP		pronoun, wh- (who, that)
+WP$		pronoun, possessive wh- (whose)
+WRB		adv, wh- (how, when, where, why)
+XNOT		negative marker (not, n't)
+!		!
+"		quotation mark
+'		apostrophe
+(		(
+)		)
+,		,
+-		-
+.		.
+...		...
+:		:
+;		;
+?		?
+???		unclassified
+

@@ -1,0 +1,370 @@
+[0:25][0:30] sridhar : uh welcome back after lunch
+[0:25][0:30] sridhar : i hope uh you had a good lunch together
+[0:35][0:40] sridhar : for uh this meeting the main agenda ok uh to discuss about the conceptual design meeting
+[0:35][0:40] sridhar : ok
+[0:46][0:49] sridhar : and the agenda will be
+[0:52][1:2] sridhar : the opening and uh that's uh the product manager or secretary that's me and uh the presentations from the christine and uh agnes and from mister ed
+[1:08][1:12] sridhar : and finally in this meeting we have to decide
+[1:13][1:17] sridhar : and we are to take a decision on the remote control concept and uh the functional design
+[1:23][1:27] sridhar : so we have forty minutes
+[1:23][1:27] sridhar : i think it's uh little bit uh low
+[1:29][1:35] sridhar : but i i hope we can finish it up
+[1:29][1:35] sridhar : so i'll handle to the the functional team to the christine ok to discuss about uh the components concept
+[1:44][1:51] christine : ok
+[1:44][1:51] christine : so uh if you could open the powerpoint presentation
+[1:44][1:51] christine : i'm nber two
+[1:51][1:53] sridhar : you're nber two
+[1:57][1:57] sridhar : 'kay
+[2:01][2:3] christine : components design there we go
+[2:06][2:10] christine : so uh can we put it in slide show mode
+[2:06][2:10] christine : yes
+[2:10][2:11] sridhar : the next one
+[2:11][2:17] christine : it's that little that one yes
+[2:11][2:17] christine : please
+[2:11][2:17] christine : thank you
+[2:11][2:17] christine : i'll take the mouse
+[2:19][2:21] christine : so uh
+[2:23][3:38] christine : we were looking he specifically at the components uh the following components
+[2:23][3:38] christine : uh the case the power supply uh the means of counications with the television set
+[2:23][3:38] christine : in instance we had talked about using some sort of speech recognition you have to have microphone
+[2:23][3:38] christine : well no you don't actually i haven't have to have microphone in the device but maybe you do have it a a way
+[2:23][3:38] christine : it has to it has to hear the speaker and
+[2:23][3:38] christine : so it could be in the television set could be in the device but somewhere you have to put the microphone
+[2:23][3:38] christine : and a w a way of making beeps or sounds so you can find it when it's gets lost
+[2:23][3:38] christine : so the other w thing that we so
+[2:23][3:38] christine : our method for going about this is we've looked at uh the histo hi historical record what's worked what hasn't
+[2:23][3:38] christine : and then we also we wanted to evaluate some new materials
+[2:23][3:38] christine : and we contacted manufacturing for their input because course we m might come up and choose the material that then manufacturing didn't have the technologies or capabilities to offer us
+[2:23][3:38] christine : so uh this is the approach that we took during our our research
+[3:39][4:15] christine : so for the case we told we were making a specifica specific assption that it would be curved in design
+[3:39][4:15] christine : course you know i wanted it to be expandable and shrinkable but that uh doesn't seem to b be one of the choice nonoption we can uh we can really seriously explore
+[3:39][4:15] christine : so then we were thinking about rubber
+[4:16][4:18] christine : but unfortunately that's been eliminated because of the heat uh factor and th there might be some problems with the m uh how it's uh goes with the board
+[4:19][4:51] christine : uh and uh then th plastic also has this problem of melting and it's brittle it gets brittle after a while so
+[4:19][4:51] christine : we still had titani and and wood available
+[4:19][4:51] christine : but unfortunately uh uh titani's also been eliminated uh
+[4:19][4:51] christine : the m people in manufacturing said that you couldn't make d curved cases out of titani although how apple did it with th powerbook i'm not su quite sure but uh
+[4:19][4:51] christine : nevertheless they've eliminated all of our options except wood
+[4:51][4:57] agnes : at least it's environmentally friendly
+[4:51][5:42] christine : so this is our finding
+[4:51][5:42] christine : and a as she said it's an environmentally friendly uh material
+[4:51][5:42] christine : so we're we're currently uh proposing
+[4:51][5:42] christine : uh we'll get to all my personal preferences in just a second
+[4:51][5:42] christine : so then there's this other matter of the chips and
+[4:51][5:42] christine : well we could use a simple design on the board but uh these simple chips but that's only works for the bu you don't get very much intelligence with this simple one
+[4:51][5:42] christine : and then there was the regular which
+[4:51][5:42] christine : i regret that i've forgotten exactly why i'm eliminating that one
+[4:51][5:42] christine : uh the other option was this advanced chip on print
+[4:51][5:42] christine : and uh we liked th we we found that it it includes this infrared sender
+[4:51][5:42] christine : which w 'member the beam was that was an important component of finding the right chip
+[5:43][6:55] christine : and uh manufacturing has told us that they've uh recently developed a uh a sensor and a speaker that would uh be integrated into this advanced chip on print
+[5:43][6:55] christine : so uh we we uh now jping right to our personal preferences
+[5:43][6:55] christine : i i'd really think we should you know use some of uh some really exotic woods
+[5:43][6:55] christine : like you know uh well you guys come from tropical countries so you can kinda think of some trees and some nice woods
+[5:43][6:55] christine : i think that people will might really want to design their own cases
+[5:43][6:55] christine : you see they could do sort of a this threedimensional design on the internet
+[5:43][6:55] christine : and then they could submit their orders
+[5:43][6:55] christine : kinda like you submit a custom car order you know and you can choose the colour and the size of the wheels and the colours of the leather and things like that
+[5:43][6:55] christine : and then i uh think we should go with the solar cells as well as the microphone and speaker on the advanced chip
+[5:43][6:55] christine : so this is the findings of our research and
+[5:43][6:55] christine : my recommendations for the new remote control w would be to have have it be made out of wood
+[5:43][6:55] christine : do you have any problems with that
+[6:55][6:58] sridhar : can you go back uh one slide
+[6:59][7:2] christine : i'm not sure how do i
+[6:59][7:2] christine : oh i know let's see let's go back up here
+[7:02][7:10] sridhar : yes uh question uh what's mean exactly advanced chip on print
+[7:02][7:10] sridhar : what's the meaning of that
+[7:10][7:20] christine : i think it's a multiple uh chip design and it's uh maybe printed on to the circuit board
+[7:21][7:26] christine : uh i could find out more about that uh before the next fi next meeting
+[7:24][7:30] sridhar : yes is it means it's on the
+[7:24][7:30] sridhar : yes is it on a microproc microprocessor based or uh
+[7:32][7:35] christine : i don't know but i'll find out more at our next meeting
+[7:34][7:39] sridhar : ok tha that would be great
+[7:34][7:39] sridhar : so if you find out from the technology background ok so that would be good
+[7:39][7:40] christine : sounds good
+[7:41][7:44] agnes : why was the plastic eliminated as a possible material
+[7:43][7:46] christine : because it gets brittle cracks
+[7:53][7:59] christine : we want we expect these uh these remote controls to be around for several hundred years
+[8:00][8:10] christine : so good ex
+[8:02][8:2] agnes : whic
+[8:02][8:12] ed : wow
+[8:04][8:6] agnes : which
+[8:00][8:10] christine : good expression
+[8:02][8:12] ed : good expression
+[8:02][8:12] ed : well after us
+[8:12][8:16] christine : i don't know speak for yourself i'm planning to be around for a while
+[8:13][8:15] agnes : although i think
+[8:16][8:28] agnes : i think with wood though you'd run into the same types of problems wouldn't you i mean
+[8:16][8:28] agnes : it chips it if you drop it uh it's i'm not sure
+[8:26][8:30] sridhar : so so you're not convinced about the the wood yes
+[8:28][8:32] ed : actually i'm ready to sell it
+[8:28][8:31] christine : you're what
+[8:31][8:37] agnes : i think if you re
+[8:28][8:32] ed : i'm ready to sell it
+[8:32][8:34] christine : you think
+[8:31][8:37] agnes : if you use really good quality wood then it might work but you can't just use
+[8:35][8:40] christine : and you could you could sell oils with it to take care of it
+[8:35][8:45] ed : no y no no no
+[8:35][8:45] ed : the o the only w the only wood you can use are the ones that are hard extremely hard wood
+[8:41][8:42] agnes : yes exactly yes
+[8:35][8:45] ed : but there are some very pretty woods out there
+[8:43][8:46] christine : well i'm glad you
+[8:46][8:48] ed : that's actually very innovative idea
+[8:48][8:55] christine : ok good
+[8:48][8:55] christine : sorr having a hard time keeping wi control over my face
+[8:55][9:1] ed : well it's actually a very innovative n different idea that uh you know you can choose your colour of wood your type of wood
+[9:02][9:3] agnes : the stain
+[9:03][9:11] ed : i mean it's each person is gonna have their own personalised individualised speech recognition remote control in wood that's not on the market
+[9:12][9:17] sridhar : yes
+[9:12][9:17] sridhar : so it it's looks good the the design the functional design
+[9:12][9:17] sridhar : uh what about yo you
+[9:18][9:24] agnes : in terms of coents on this or in terms of my own
+[9:22][9:26] sridhar : yes in t yes in term in terms of coents first
+[9:34][9:38] ed : in terms of wow
+[9:27][9:35] christine : she works in the cubicle next to me so she's uh she was already a little bit prepared for this
+[9:31][9:32] agnes : y yes
+[9:27][9:35] christine : luckily ed was not
+[9:34][9:38] ed : wood
+[9:37][10:3] agnes : i think we can get the quality materials then it shouldn't influence the design principles too much which you'll see with my presentation
+[9:37][10:3] agnes : one thing we'd have to check though is what the users
+[9:37][10:3] agnes : whether how quickly the novelty wears off of having
+[0:25][0:30] agnes : uh
+[9:52][9:58] christine : yes you wouldn't wanna have to have splinters in your hand while you're using your
+[9:37][10:3] agnes : yes for example
+[9:37][10:3] agnes : so have to see how kidfriendly it is and and all that but
+[10:02][10:9] christine : it's really good if your dog gets ahold of it they can use it for teething
+[10:10][10:14] ed : they do that anyway with the rubber and plastic so and chew 'em up
+[10:12][10:15] christine : yes they do it with other materials as well yes
+[10:15][10:16] ed : and chew 'em up
+[10:16][10:20] sridhar : ok then uh let's move to agnes
+[10:19][10:19] agnes : sure
+[10:22][10:23] christine : oh i'm sorry
+[10:30][10:31] sridhar : s you're
+[10:38][10:40] sridhar : you are in participant three
+[10:42][10:43] agnes : participant three yes
+[10:42][10:43] agnes : uh yes
+[10:43][10:43] sridhar : this one
+[10:44][10:45] agnes : i think so yes
+[10:46][11:31] agnes : yes that's the one
+[10:46][11:31] agnes : so it's a very short presentation 'cause i'm actually gonna draw you the layout on the board
+[10:46][11:31] agnes : so if you want to just go straight to the second slide
+[10:46][11:31] agnes : which basically shows sort of
+[10:46][11:31] agnes : i took the ideas that we were talking about last time and tried to put that into the remote control
+[10:46][11:31] agnes : so the things that y you can actually see on it are the on off switch vole and channel control the menu access button
+[10:46][11:31] agnes : ergonomic shape which i completely agree with christine's idea to have it sort of molded so it's slightly more ergonomic and comfortable to hold than the r standard very straight remote controls
+[10:46][11:31] agnes : and actually the other thing with the wood if we take your customising idea is that people can actually do sort of quasimeasurements on their hand size so if someone has larger hands you have a wider remote control
+[11:28][11:32] christine : right my hand is uh different size than yours for example
+[11:33][12:21] agnes : so that's actually a really good idea for customi customisability
+[11:33][12:21] agnes : one thing i thought might be kind of interesting is to put a flip screen on it just like you have on flip phones
+[11:33][12:21] agnes : so that you don't have this case where someone sits on the remote control or accidentally puts their hand on it especially if you have little kids around
+[11:33][12:21] agnes : they're not pressing the buttons while you're trying to watch a t_v_ show and accidentally change the channel or turn it off
+[11:33][12:21] agnes : and also you had issues with the batteries running out so i thought maybe we could put a little battery lifelight on it that kind of goes dier and dier and dier as your battery is starts to die
+[11:33][12:21] agnes : and in terms of invisible features audio and tactile feedback on button presses and like you said speech recognition
+[11:33][12:21] agnes : so in terms of what this thing would actually look like
+[12:22][12:28] agnes : despite working in interface design i'm not the greatest artist in the world
+[12:22][12:28] agnes : so you'll have to forgive me
+[12:30][12:45] agnes : you'd have something like this with an onoff switch fairly big sort of in the corner and by itself so you don't accidentally turn your t_v_ off while you're trying to manoeuvre other buttons
+[12:30][12:45] agnes : and then you have sort of one of those toggle displays for oops channels and vole sort of for surfing channels and then vole so the vole would be the up and down 'cause vole goes up and down and then channels left to right
+[13:02][13:3] agnes : and then here you'd have your sort of standard telephonish nber pad
+[13:06][13:24] agnes : and then on one side you would have an access to the menu on your t_v_
+[13:06][13:24] agnes : and on the other side a way to turn off the voice control
+[13:06][13:24] agnes : so that if the user doesn't want to use their voice they can just turn it off and you don't have the remote control accidentally changing things on you
+[13:25][13:30] agnes : so again you can have a little l_c_d_ light somewhere the flip
+[13:31][13:34] agnes : thing
+[13:31][13:34] agnes : and have i forgotten anything
+[13:36][13:57] agnes : i don't think so
+[13:37][13:38] ed : no
+[13:36][13:57] agnes : so as you can see it's a very very simple design which is one of the things i really wanted to keep is keep it simple not have too many buttons not have too many functionalities thrown into it
+[13:36][13:57] agnes : i think the design can pretty much carry over to everything although with the wood the flip screen might have to do something slightly different
+[13:56][13:57] christine : a hinge
+[13:58][14:0] christine : be like a copper hinge or you know
+[13:59][14:25] agnes : yes
+[13:59][14:25] agnes : but you also have to d start watching out for the weight 'cause depending on how much the the flip screen will add to the weight of the remote control you don't want it to start getting too heavy
+[13:59][14:25] agnes : but that's the general layout with the general functionalities if we come up with something else
+[13:59][14:25] agnes : as you can see there's still lots of space on the actual remote control
+[13:59][14:25] agnes : and if you do it customisably you can make this thing fairly small or fairly o large depending on personal preferences
+[14:27][14:36] agnes : so that's pretty much all i had to say i mean everything else in terms of design issues
+[14:27][14:36] agnes : the centering of the key pad and
+[14:37][14:53] agnes : the channel is just depending on where your thb is
+[14:37][14:53] agnes : and you tend to use the the vole control and uh the browsing more than the actual nber pad so that would be sort of in direct line of where your thb goes when you are holding the remote control the nber pad a little bit lower 'cause it's used less frequently
+[14:55][15:1] agnes : so once we decide exactly what we want then we can figure out the exact positioning but more or less i think it should go along those lines
+[15:04][15:8] sridhar : so what's your uh the coents or uh
+[15:04][15:8] sridhar : s
+[15:09][15:10] ed : simple design
+[15:11][15:13] ed : it's what consers want
+[15:11][15:13] sridhar : ok
+[15:14][15:21] ed : it's almost like houston we have a product here
+[15:14][15:21] ed : problem is obviously gonna be cost
+[15:23][15:31] ed : ok i also have a f very simple presentation
+[15:23][15:31] ed : because for the marketing point you have to see what the consers want
+[15:40][15:43] sridhar : yes
+[15:40][15:43] agnes : yes
+[15:40][15:43] ed : i also have uh copied a different type of remote
+[15:40][15:43] ed : if you can find me where i'm at
+[15:44][15:47] ed : there should only be one in here
+[15:44][15:47] ed : that trend watch
+[15:53][15:53] christine : sure
+[15:54][15:58] ed : it's being modified
+[15:54][15:58] ed : they're stealing our product
+[15:59][16:20] ed : we've been giving simple questionnaires in different areas because th obviously we have to see what the com consers are looking for today
+[15:59][16:20] ed : 'cause uh trends change very very quickly
+[15:59][16:20] ed : in six months maybe this idea is already gone out the window
+[15:59][16:20] ed : so it's gonna be a question how fast we can act
+[15:59][16:20] ed : uh they already erased the rest of mine huh
+[16:20][16:22] christine : no f go to findings
+[16:21][16:21] agnes : no no
+[16:22][16:23] sridhar : no no no no
+[16:25][16:58] ed : 'cause i had another coent there
+[16:25][16:58] ed : uh the market trend
+[16:25][16:58] ed : this is what we know from the last uh from the questionnaires from the the all the p surveys we've done
+[16:25][16:58] ed : fancy and feelgood that's what we've been looking for something that feels good in the hand that's easy to use
+[16:25][16:58] ed : looking for next generation of innovation
+[16:25][16:58] ed : because all the remotes out there now they're all very similar they all do the same thing
+[16:25][16:58] ed : we have to have something completely different
+[16:25][16:58] ed : ok
+[16:25][16:58] ed : easy to use has always has become has become another major interest that uh
+[16:25][16:58] ed : with the whiteboard we can see that it's a remote that's easy to use
+[16:59][17:30] ed : and i think this is another thing that's interesting is the consers actually willing to pay the price for exciting tel technology
+[16:59][17:30] ed : so even if we have a product that may be more expensive
+[16:59][17:30] ed : if it comes out right if they look it looks and feels good and has technology
+[16:59][17:30] ed : the second two you can see the last one is a very easy simple design
+[16:59][17:30] ed : the second one there is about uh fortyfive thousand different buttons on it which makes it fairly hard to read uh very hard to use
+[16:59][17:30] ed : the first one i see that they put in a display
+[17:31][17:46] ed : now there's something else uh with the little flipup now we're adding all kinds of things in but with the little flipup if you have a little display on the flipup that when you close it everything is locked
+[17:31][17:46] agnes : yes
+[17:31][17:46] ed : maybe the display also makes it easier to use because sometimes when you're looking for buttons maybe if you see a display
+[17:46][17:53] christine : contextsensitive instructions depending on what the tel what mode the t_v_ or the d_v_d_ or something else is in
+[17:53][17:58] agnes : right
+[17:52][18:6] ed : ok
+[17:52][18:6] ed : because i've seen mostly the standard ones yes
+[17:53][17:58] agnes : especially you might need something like that for training the speech recognition and
+[17:52][18:6] ed : now you have it now you have one with the very simple also
+[15:30][15:30] agnes : yes
+[17:52][18:6] ed : the idea is simple but with a display so you can see what you're doing
+[17:52][18:6] ed : so maybe if we can incorporate the easiness of use
+[18:07][18:12] ed : trendy fancy feels good
+[18:13][18:16] ed : uh
+[18:13][18:16] ed : with a display
+[18:17][18:20] ed : wood designer wood designer colours we might've
+[18:20][18:39] christine : you know maybe what you could do is when somebody orders the device
+[18:20][18:39] christine : id you could send them like a uh uh b some sort of a foam rubber ball
+[18:35][18:36] agnes : oh yes
+[18:20][18:39] christine : and then they would squeeze it and it would take the shape of their hand
+[18:39][18:43] agnes : yes so it's really molded to to your specific
+[18:40][18:49] christine : to t an and then you would know like what the geometry of their hands would be and uh
+[18:49][18:56] ed : how hard they squeeze
+[18:50][18:54] christine : yes you'd know what kind of wood to get
+[18:49][18:56] ed : resistance resistance right
+[18:56][19:3] agnes : but th for that you'd also have to do sort of an average across families and things like that if unless everyone has their own personal remote
+[18:59][19:2] christine : that's right that's right you wouldn't wanna go too far down that
+[19:03][19:9] christine : oh that that actually would uh increase the the revenues we could expect yes
+[19:06][19:9] agnes : the sales yes
+[15:32][15:32] sridhar : the
+[15:32][15:32] sridhar : yes
+[19:10][19:11] sridhar : i hope so
+[19:11][19:19] ed : no but incorporating the three uh obviously it'd be something totally new on the market totally different and from
+[17:39][17:39] agnes : yes
+[19:18][19:24] agnes : well already the customisability is a really good sort of new giick
+[19:23][19:36] ed : although what it was it uh it was uh nokia that came out with this changeable colours right
+[17:53][17:58] agnes : yes
+[19:23][19:36] ed : you take it apart and put on another face take it off and put on another face and then they sold millions millions
+[19:08][19:8] agnes : yes
+[12:46][13:1] christine : right
+[19:33][19:35] agnes : and that took off yes yes
+[1:29][1:35] ed : so
+[19:37][19:46] ed : so say with the f with the findings with the research easy to use something totally new
+[19:37][19:46] ed : we have to come up with something totally new that is not on the market
+[19:46][19:58] christine : we'd also have to wor consider that uh who we were gonna get to make these custom cases in terms of manufacturing processes
+[19:46][19:58] christine : we might wanna learn about labour laws
+[19:59][20:22] christine : you know in different countries and stuff wher so we can do it cheap
+[19:59][20:22] christine : but you don't wanna exploit uh labour in third world countries
+[19:15][19:16] sridhar : yes
+[19:59][20:22] christine : so actually you could turn it y turn around and say that you're uh par the reason the cost is high for the device is because you're paying a a working wage to the person who made the device
+[20:23][20:36] sridhar : yes but we can get a production in uh countries like uh india
+[20:28][20:29] christine : cost of living is low
+[20:23][20:36] sridhar : yes yes countries like india or china or malaysia
+[20:23][20:36] sridhar : so you can go a better features and better price and you can sell more
+[20:23][20:36] sridhar : so
+[20:41][20:49] christine : good well th that'd be something that manufacturing would have to explore more and to where
+[20:44][20:45] sridhar : yes yes so
+[20:46][20:49] ed : where w where it would be manufactured
+[[20:46][20:49] agnes : yes
+[20:44][20:45] sridhar : yes
+[20:46][20:49] ed : is is another step
+[20:51][20:52] sridhar : so
+[20:51][20:52] sridhar : yes so
+[20:08][20:9] christine : yes
+[20:46][20:49] ed : we're here to design come up with a nice product
+[20:52][21:15] sridhar : yes uh but uh that that we can that we can talk about the production later ok depends on the the quantity ok
+[20:52][21:15] sridhar : so we don't need to have our own uh fabric factory or something
+[20:52][21:15] sridhar : so we can have a tieup with who the do the fabric ok for the different uh electronics items
+[20:52][21:15] sridhar : then we can have a business tieup and to get to cut the cost ok to sell more
+[21:16][21:28] sridhar : so but uh le let's decide first about the components concept and uh interface concept
+[21:16][21:28] sridhar : ok if is acceptable for both of you what uh ed was talking
+[21:30][21:36] sridhar : and your design whether you want with the display or without display or just a simple so
+[21:38][21:49] agnes : i think it depends i mean i think it's a good idea
+[21:38][21:49] agnes : but we need to really think about how useful it's gonna be because theoretically with the t_v_ you already have a big display right in front of you
+[20:46][20:47] sridhar : yes
+[21:58][22:10] agnes : so if we're trying to keep costs down then maybe sacrificing the display is a way to go
+[21:58][22:10] agnes : i mean it depends on how much putting a display costs and what it would be used for very specifically what it would be used for
+[21:58][22:10] agnes : 'cause if it's only used for one little thing then putting in a big display case or a big display that's
+[22:11][22:21] agnes : probably expensive just to do the training on the chip for the speech recognition or whatever
+[22:11][22:21] agnes : may not be the most costefficient way to go but that's just sort of speculation i mean
+[22:25][22:37] christine : what do you think ed
+[22:25][22:37] christine : do you
+[22:25][22:37] christine : he liked the display in one of the concepts that you showed
+[22:25][22:37] christine : do you know how much it costs to to add a little display like this uh
+[22:37][22:43] ed : no no no p spec
+[22:39][22:41] christine : do you wanna take an action item to go find out
+[22:37][22:43] ed : it's 'cause we have to find out cost on it
+[22:45][22:48] christine : ok
+[22:45][22:48] christine : sorry about that
+[22:46][22:56] ed : no that's no problem
+[22:46][22:56] ed : i'm here for the pushing it after it's made
+[20:46][20:47] sridhar : yes
+[22:46][22:56] ed : i will market it
+[22:46][22:56] ed : once we get a price on it then we can market it
+[23:04][23:19] christine : so the the advanced chip on print is what what we've we've deci we've determined and the uh engineering industrial design is the recoendation
+[23:04][23:19] christine : and i think we've kinda come to some agreement regarding this concept of a wooden case
+[23:21][23:22] christine : a customisable and
+[23:22][23:26] ed : nice beautiful mahogany red wooden case
+[23:24][23:25] agnes : what about the buttons would
+[23:26][23:28] agnes : would the buttons be wood too or
+[23:29][23:36] christine : uh i don't think so no i think they could be rubber like they are now so you have that tactile experience of
+[23:30][23:30] sridhar : i don't think so
+[23:30][23:30] sridhar : yes
+[23:30][23:30] sridhar : yes
+[23:34][23:35] sridhar : don't looks nice uh
+[23:37][23:59] sridhar : yes so uh what we'll do is uh we will stick with the the simple design for time being until uh th ed find outs about the how much it's cost to the extra in case we go for the display
+[23:37][23:59] sridhar : ok
+[23:37][23:59] sridhar : so maybe what you can do is uh both of you you can come up with the the prototype ok the model
+[22:43][22:44] agnes : ok
+[23:37][23:59] sridhar : ok
+[24:02][24:2] agnes : sure
+[24:10][24:13] christine : so are we done with this meeting
+[24:14][24:27] sridhar : yes i hope if
+[24:14][24:27] sridhar : is it ok if uh they will come up with the prototype design
+[24:14][24:27] sridhar : ok then they can show you how it looks like and then we can uh submit to the i will submit to the management
+[24:28][24:37] sridhar : ok
+[24:28][24:37] sridhar : then meantime you can come up with the price how much it's cost as extra for uh the display
+[24:33][24:34] christine : and a marketing strategy
+[24:28][24:37] sridhar : an and the marketing strategy that's very important ok
+[24:34][24:44] ed : and marketing strategy thank you
+[22:51][22:51] sridhar : yes
+[24:40][24:40] sridhar : how much you can
+[24:34][24:44] ed : fired
+[24:41][24:43] sridhar : how mu how much how much you can sell extra
+[24:44][24:46] sridhar : of course you'll make money too so
+[24:47][24:49] sridhar : it's not only payout you make money too your coission
+[24:52][24:54] sridhar : ok so any questions
+[24:54][24:57] agnes : no
+[24:57][25:5] sridhar : so by next meeting so please come up with the the prototype
+[24:14][24:27] sridhar : ok
+[24:57][25:5] sridhar : then uh then we can proceed from there
+[24:57][25:5] agnes : ok
+[25:06][25:15] sridhar : it's ok
+[25:06][25:15] sridhar : so thanks for all your uh efforts and coming for the meeting again
+[25:06][25:15] sridhar : and see you soon then
+[25:05][25:7] agnes : ok
+[25:06][25:15] sridhar : ok
+[25:06][25:15] sridhar : thank you

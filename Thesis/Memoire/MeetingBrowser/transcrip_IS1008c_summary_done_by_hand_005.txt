@@ -1,0 +1,518 @@
+sridhar I 1 have 2 not 3 come 4 back of the 7 lunch I 9 hope a very 12 good 13 lunch 
+sridhar To do that 
+sridhar For uh this 20 meeting 21 domain i did 24 not 25 okay 
+sridhar uh 
+sridhar to 28 discuss about the 
+sridhar 31 Conceptual 32 design 33 meeting 
+sridhar 34 Okay 
+sridhar and the 37 agenda will be 
+sridhar 40 Double 41 opening and uh 
+sridhar that uh 
+sridhar the 47 project 48 manager or 50 secretary that me and the the the 57 presentations 58 from the 60 christian 
+sridhar And the 
+sridhar 63 Agnes 
+sridhar And 65 then you 67 see it 
+sridhar And 70 finally in this 73 meeting we 
+sridhar 75 decide 
+sridhar And we 78 have to 80 take a 82 decision on the 85 remote 86 control 
+sridhar 87 Concepts 
+sridhar And uh 90 oh the 92 functional 93 design 
+sridhar So we 96 all 97 forty 98 minutes 
+sridhar I 100 think it uh 
+sridhar It a 105 bit uh 
+sridhar 107 no but i i 111 hope we 113 can 114 finish it up 
+sridhar So i will 120 hand 121 go to the 
+sridhar The 125 functionality 126 into the 128 christian 129 okay 
+sridhar to 131 discuss about the the 135 components 136 Concept 
+christine 137 Okay 
+christine So uh 140 if you 142 could 143 open the 145 powerpoint 146 presentation 
+christine And 148 number 149 two 
+sridhar 150 Mm but to 
+sridhar 153 "kay" 
+christine 154 Components 155 design 
+christine 156 Okay 
+christine to 158 put the 160 slideshow 161 moment 
+sridhar The 163 next 164 alright 
+christine 165 Right here 
+christine Is that that one 171 yes 172 please 
+christine 173 Thank you 
+christine 175 Oh 176 yes 
+christine So well um 
+christine We were 182 looking you 184 specifically uh the 187 components so that the 191 following 192 components 193 Not the 195 case the 197 power 198 supply 
+christine Uh 
+christine 200 means of 202 communications with the 205 television 206 set 
+christine And 208 then 209 since we 211 talked about 213 using 214 some 215 sort of 217 speech 218 recognition 219 have to 221 have 222 mike 223 from 224 all 225 made an 227 extra 228 hum 229 have to 231 have 232 mike 233 found in the 236 device 
+christine But um 
+christine 239 Maybe to 241 have it uh 
+christine A 245 way it 247 has to 249 pass to here at the 254 speaker And um 
+christine so it 259 could be in the 263 television 264 set 265 could be in the 269 device but 271 Summary 272 have to 274 put the 276 microphone 
+christine Um 
+christine and a 280 way of 282 making 283 beeps or 285 sounds you 287 can 288 find it when it 292 gets 293 lost 
+christine Um 
+christine so the 297 other one 299 thing that we 302 sort Are 304 method For 
+christine One about this as we 311 have 312 looked at uh of the 317 store it it 320 torque or 322 record what 324 work 325 has 326 not 
+christine And 328 then we 330 also um 
+ed 332 Mm 
+christine One to 335 evaluate 336 some 337 new 338 materials and we 341 contacted 342 manufacturing for their 345 input 346 because 
+christine 347 Course 348 stream 
+christine 349 Might 350 come up and 353 choose the 355 material that 357 then 358 manufacturing did 360 not 361 have the 363 technologies 364 capabilities to 366 offer us so well this is the 373 approach that which uh 377 during our um 
+christine our 381 research 
+christine So um 
+christine for the 386 case 
+christine Um 
+christine we at 390 all we were 393 making a 395 specification 396 specific 397 assumption that it 400 would be 402 curved and 404 design 405 course 406 now i 408 wanted it to be 412 expendable and 414 shrink a 416 ball but 
+christine Um 
+christine that that does 422 not 423 seem to be one of the 429 year 430 choice 431 not 432 option we 434 can 
+christine We 436 can really 438 serious the 440 explorer 
+christine So 442 then we were 445 thinking about um 
+christine 448 rubber but um 
+christine 451 Unfortunately that 453 gonna 454 because of the 457 sheets uh 
+christine 459 factor and um 
+christine that 463 might be 465 some 
+christine 466 Problems with them uh how it 
+christine It 473 goes with the 476 board 
+christine Uh 
+christine and uh 480 then 481 plastic 482 also 483 has its 485 problems 486 melt 487 saying and it 490 brittle it is 493 brittle 494 laughter 495 while so i 498 still 499 had 500 thai 501 titanium and and what 505 available 
+ed 506 Mm 
+christine But um 
+christine 509 unfortunately uh 
+christine uh 512 titanium 513 also 514 gonna 515 laminated the them 518 people and 520 manufacturing 521 said that you 524 could 525 make 526 curved 527 case a 529 set of 531 titanium 532 although 
+christine 533 Apple do it with 
+christine 537 Power but i 540 not 541 quite 542 sure but 
+christine At 545 nevertheless so um the 549 eliminated 550 all of our 553 options 554 except what 
+christine So 
+agnes 557 Financially 558 friendly 
+christine This is our 562 flying 
+christine And it is she 567 said it 569 environmentally 570 friendly a 572 mature or so 
+christine were 576 correctly uh 578 proposing 
+christine Uh we will 582 get 583 oh my 585 personal 586 preferences in 588 just a 590 sec so 592 there this 594 other 595 matter of the 598 chips and um 
+christine well we 603 could 604 use a 606 simple 607 design on the 610 board but uh this 614 simple 615 chips but that 618 only 619 works for the 622 buttons you do 625 not 626 get very 628 much um 
+christine 630 intelligence with the 633 simple one 
+christine And um 
+christine 637 then 638 there was a 641 regular which 
+christine I 644 regret that i 647 have 648 forgotten 649 exactly what 
+christine Why um well 654 emanating that one 
+christine Uh the 659 other 660 option was is 663 advanced 664 chip on 666 print 
+christine And uh we 670 like we we 673 found that it it 677 includes is 679 infrared 680 sender which we 683 member the 685 beam was that was an 690 important 691 component of 693 finding the 695 right 696 chip 
+christine And and 699 manufacturing as 701 tall as they they 705 if i um 
+christine uh 709 recently 710 developed a uh a 714 sensor and a 717 speaker at that 720 would that be 723 integrated 724 into this 726 advanced 727 chip on 729 print so 
+christine Uh we we uh 
+christine 735 Yeah 736 jen 737 thing 738 right you are 741 personal 742 preferences 
+christine Well um 
+christine i 
+christine 746 think we 748 should you 750 know you 752 some of us 755 some 756 real 757 exotic 758 words 
+christine 759 Like um 
+christine you 762 know uh 
+christine well you 766 guys 767 come 768 from 769 tropical 770 country so you 773 can 774 can 775 think of 777 some 778 trees 779 than 780 some 781 nice 782 words i 784 think that 
+christine 786 People 787 might really 789 want to 791 design their 793 own 794 cases to 796 see they 798 could do 800 through the the 
+christine 803 dimensional 804 design on the 807 internet and 809 then they 811 could 812 submit their 814 orders 815 can 816 like you 818 submit a 820 custom 821 car or do or you 826 know when you 829 can 830 choose the 832 colour and 834 size of the 837 wheels and the 840 colours of the 843 weather and 845 things 846 like that and 849 then i uh i 853 think we 855 should 856 go with the 859 solar 860 cells as well as the um 
+ed You 867 know 
+christine the 869 microphone and 871 speaker on the 874 advanced 875 chip 
+christine So the so the 880 findings of our 883 research and my 886 recommendations 
+christine Um 
+christine for the 890 new 891 remote 892 control well 894 mm 895 would be to 898 have um 
+christine 900 Have be 902 made out of 905 wood 
+christine 906 Any 907 problems with a 
+sridhar 910 Can you 912 go 913 back uh one 916 slide 
+christine I 918 not 919 sure uh well i do 924 not 925 see it 927 go 928 back here 
+sridhar 930 Yeah it uh 
+sridhar our 934 costs and uh 
+sridhar uh 
+sridhar What 939 mean 940 exactly a a 943 once a 945 chip on 947 print what 949 meaning of that 
+christine I 953 think it um 
+christine 956 no um 
+christine a 959 multiple uh 
+christine 961 chip 962 design um 
+ed 964 Mm 
+christine and it that 968 may be 970 printed on to the 974 circuit 975 board 
+christine Uh 
+christine it i 979 could 980 find out 982 more about that uh 
+sridhar Is it 988 means it on this 
+christine the for the 995 next a 997 next 998 meeting 
+sridhar 999 Yeah is it on uh 1004 michael was my 1007 control 1008 set 1009 based or or uh 
+christine I do 1015 not 1016 know but i will 1020 find out 1022 more our 1024 next 1025 meeting 
+sridhar 1026 Okay that that 1029 would be 1031 great so 1033 if you 1035 find out 1037 know 1038 technology 1039 background 1040 okay so that 1043 would be 1045 cord 
+christine 1046 Sounds 1047 good 
+agnes Why the 1050 plastic 1051 eliminated as a 1054 possible to 
+christine 1056 Because um 
+christine it 1059 gets a 1061 little 
+christine 1062 Cracks 
+agnes 1063 Uh-huh 
+christine Um 
+christine We 1066 want we 1068 expect these um 
+christine And these 1073 remote 1074 controls to be 1077 around for 1079 several 1080 hundred 1081 years 
+christine So 
+agnes What 
+ed Well i 
+ed 1086 Right but it 1089 fresh as well 1092 after 1093 s. 1094 i. 
+christine 1095 Ah to 1097 speak for itself up 1101 there 
+agnes Well i 1104 think 
+agnes I 1106 think what the 1109 way that you 1112 ran in the 1115 same 1116 types of 1118 problems with me i 1122 mean it 1124 yeah so it 1127 if you 1129 drop 1130 bit 
+agnes It i 1133 not so it 
+sridhar 1136 See on a 1139 comment about the 
+ed I 1143 find where to 1146 sell it 
+christine 1148 Yeah 1149 oh well 
+ed 1151 Ready to 1153 sell it 
+agnes 1155 If you we 1158 if he is really 1162 good 1163 quality what it that 1167 might 1168 work but you 1171 can 1172 just 1173 use 
+ed 1174 No it 1176 not 1177 no 1178 no 1179 no the 1181 only one 1183 delay 1184 would you 1186 can 1187 use of the 1190 ones that are 1193 hard it 1195 hard 1196 work but 1198 there 1199 some very 1201 pretty 1202 close that 1204 there 
+christine And you 1207 can 
+christine It a 1210 little 1211 sweater to 1213 take 1214 care of 
+agnes 1216 Yeah 1217 exactly 1218 yeah 
+christine 1219 Oh i 1221 glad 
+ed That 1223 actually very 1225 innovative 1226 idea 
+christine 1227 O. 1228 k. 1229 i. 1230 c. 1231 r. and 1233 r. 1234 time 1235 people 1236 remote 1237 control of my uh it 
+ed 1242 Let 1243 have a very 
+ed 1246 different 1247 idea that uh 
+ed you 1251 can 1252 choose you 1254 colour 1255 would you 1257 type of what 
+agnes The 1261 stain 
+ed I 1263 mean 1264 each 1265 person they 1267 have their 1269 personalised 1270 individualised 1271 Speech 1272 recognition 1273 remote 1274 control and what it 
+ed 1278 Not on the 1281 market 
+sridhar 1282 Yeah so it it 1286 looks 1287 got the the 1290 design the 1292 function 1293 design uh what about a 1298 year you 1300 know 
+agnes Um 
+agnes In 1303 terms of 1305 comments on that so in 1310 terms of my 1313 own 1314 mm 
+sridhar 1315 Yes 1316 yes 1317 yes 
+ed 1318 Because of well i 
+sridhar In 1323 terms of 1325 comments 1326 cost 
+agnes 1327 Yeah 
+agnes 1328 yeah 
+christine She 1330 works and 1332 keep the 1334 context a 1336 nice to she that she was a 1343 real 1344 little 1345 bit 1346 prepared for 
+agnes 1348 Yeah 
+ed But 
+christine But the 1352 way 1353 yeah it was 1356 not 
+ed Well i 
+agnes I 1360 think that the 1363 quality 1364 materials that 1366 then It 1368 should 1369 not 1370 influence the 1372 design 1373 principles to 1375 match which you will 1379 see with my 1382 presentation When 1384 think we 1386 would 1387 have to 1389 check those what the 1393 user 1394 whether How 1396 quickly the 1398 novelty 1399 wears 1400 off of 1402 having 
+christine 1403 Uh-huh 
+christine That you 1406 would 1407 wanna 1408 have to 1410 have 1411 splinters and and what you 1416 using 1417 yeah 
+agnes 1418 Yeah 
+agnes for 1420 example 
+agnes So 
+agnes 1422 Have to 1424 see how 
+agnes 1426 Kid 1427 friendly and it and it 
+agnes And 1433 all that but 
+christine So you 1438 if you do i 1442 get 1443 ahold of it they 1447 can 1448 use it 
+christine For 1451 teething 
+ed I do 1454 any with the 1457 rubber 1458 plastic so 
+christine 1460 Yeah they do it with 1465 other 1466 materials as well 1469 yeah 
+ed 1470 Sure 
+ed 1471 Joe 1472 more 
+sridhar 1473 Okay 1474 then uh 1476 let 1477 more to uh 
+sridhar 1480 acne 
+sridhar So 1482 mm 
+sridhar You 1484 know in 1486 parts 1487 bin to it 
+agnes 1490 Three 
+agnes Uh 
+agnes 1492 yeah 
+sridhar So 
+agnes I 1495 think so 1497 yeah 
+agnes So it a very 1502 short 1503 presentation 1504 "cause" i 1506 actually 1507 gonna 1508 draw you the 1511 layout on the 1514 board so 
+agnes 1516 If you 1518 wanna 1519 discuss 1520 stick to the 1523 second 1524 slide 
+agnes Um 
+agnes which 1527 basically 1528 shows is 1530 sort of 1532 like to the 1535 ideas that we 1538 talking about 1540 last 1541 time 
+agnes Um 
+agnes and 1544 try to 1546 put that 1548 into the 1550 remote 1551 control so 1553 things it you 1556 can 1557 actually 1558 see on i i 1562 have a on 1565 off 1566 switch 1567 Volume and 1569 channel 1570 control them 1572 any 1573 access 1574 button 
+agnes 1575 Ergonomic 1576 shape which are 1579 completely 1580 agree for 1582 scenes 1583 idea to 1585 have it 1587 sort of 1589 moulded so it 1592 slightly 1593 more 1594 ergonomic and 1596 comfortable to 1598 hold on the 1601 standard Very 1603 straight 1604 remote 1605 controls 1606 Actually the 1608 thing with the 1611 word 1612 if we 1614 take your 1616 customising 1617 idea is that 
+agnes 1620 actually do 1622 sort of 1624 quasi 1625 measurements on their 1628 hand 1629 size of 1631 someone as 1633 large your 1635 hands You 1637 have a 1639 wider 1640 remote 1641 control 
+christine 1642 Right my 1644 hand it 1646 different 1647 size 1648 then you 1650 worse for 1652 example 
+agnes So that 1655 takes a really 1658 good 1659 idea to 1661 estimate 1662 customise 1663 ability 
+agnes Um one 1666 thing i 1668 thought 1669 might be 1671 kind of 1673 interesting is to 1676 put a 1678 flipscreen i 1680 just 1681 like you 1683 have one 1685 flip 1686 phones 
+agnes So that you do 1691 not 1692 have this 1694 case where 1696 someone 1697 sits on the 1700 remote 1701 controller 1702 accidentally 1703 press their 1705 hand on 1707 especially 1708 get 1709 little 1710 kids 1711 around They 1713 not 1714 pressing the 1716 buttons well you 1719 trying to 1721 watch a 1723 t. 1724 v. 1725 show and 1727 accidentally 1728 change the 1730 channel or 1732 turn it 1734 off 
+christine 1735 hmm 
+agnes And 1737 also 
+agnes Um you 1740 have 1741 issues of 1743 batteries are 1745 aiming at 1747 said that 1749 maybe we 1751 could 1752 put a 1754 little 1755 battery 1756 life 1757 like 
+agnes On it 1760 kinda 1761 goes 1762 demand 1763 demand them as your 1767 battery it 1769 starts to 1771 die 
+agnes And in 1774 terms of 1776 invisible 
+agnes and um 1779 tax uh 1781 feedback on 1783 button 1784 presses 
+christine 1785 Hmm 
+christine 1786 hmm 
+agnes And 1788 Like you 1790 said 1791 speech 1792 recognition 
+agnes So in 1795 terms 
+agnes this 1797 thing that 1799 actually 1800 look 1801 like 
+agnes 1802 Despite 1803 working in 1805 interface 1806 designer 1807 not the 1809 greatest 1810 artists in the 1813 world so you 1816 have to 1818 forgive me 
+agnes You 1821 have 1822 something 1823 like 
+agnes an on 1826 off 1827 switch really 1829 big 1830 Sort of in a 1834 corner and by itself so you do 1841 not 1842 accidentally 1843 turn the 1845 t. 1846 v. 1847 off are are 1850 trying to 1852 manoeuvre 1853 other 1854 buttons 
+agnes And 1856 then you 1858 have 1859 sort of one of those 1864 topple 1865 display is 
+agnes For 1868 oops 
+agnes 1869 Channels 
+agnes And 1871 volume 1872 sort of for 1875 surfing 1876 channels and 1878 then 1879 volume so the 1882 volume 1883 would be the up and 1888 down 1889 volume 1890 goes up and 1893 down and 1895 then 1896 channels 1897 left or 1899 right 
+agnes And 1901 then here you 1904 have your 1906 sort of 1908 standard 
+agnes 1909 Telephone 1910 ish 
+agnes 1911 Number 1912 pad 
+agnes And 1914 then on one 1917 side you 1919 would 1920 have an 1922 access to the 1925 manual 
+agnes On your 1928 t. 1929 v. And on the 1933 other 1934 side 
+agnes A 1936 way to 1938 turn 1939 off the 1941 voice 1942 control 
+agnes So that 1945 if the 1947 user does 1949 not 1950 want to 1952 use the 1954 voice they 1956 can 1957 just 1958 turn it 1960 off and you do 1964 not 1965 have a 1967 remote 1968 control 1969 Accidentally 
+christine 1970 Mm 
+christine 1971 Uh-huh 
+agnes 1972 Changing 1973 things on 1975 yeah 
+agnes Um 
+agnes so 1978 again you 1980 can 1981 have a 1983 little 1984 l. 1985 c. 1986 d. 1987 light 1988 somewhere 
+agnes The 1990 flat 
+agnes 1991 Thing and the 1994 forgotten 1995 anything 
+agnes I do 1998 not 1999 think so 
+agnes So as you 2004 can 2005 see it a very very 2010 simple 2011 design which is one of the 2017 things i really 2020 wanted to 2022 keep 
+agnes 2023 simple 2024 not 2025 have 2026 too 2027 many 2028 buttons that 2030 have to me 2033 functionalities 2034 trying to it 
+agnes I 2038 think the 2040 design 2041 can 2042 pretty 2043 much 2044 carry 
+agnes 2045 everything 2046 although With the 2049 world the 2051 flipscreen 
+agnes 2052 Might 2053 have to do 2056 something 2057 slightly 
+christine A 2059 hinge 
+agnes 2060 Difference 
+christine We 2062 have to 2064 copper 2065 hand 2066 sure you 2068 know 
+agnes 2069 Yeah 
+agnes It does 2072 have will 2074 start 2075 watching uh for the 2079 weight is 2081 depending on how 2084 much the the 2087 flipscreen will 2089 add to the 2092 way 
+christine 2093 Mm 2094 hmm 
+agnes Of the 2097 remote 2098 control you do 2101 not 2102 want it to 2105 start 2106 getting 2107 too 2108 happy 
+agnes But that the 2112 general 2113 layout with the 2116 general 2117 functionalities 2118 if we 2120 come up with 2123 something 2124 else 
+agnes As you 2127 can 2128 see 2129 there 2130 still 2131 lots of 2133 space on the 2136 actual 2137 remote 2138 control 
+agnes And 2140 if you do a 2144 customisable 2145 e. You 2147 could 2148 make this 2150 thing 2151 fairly 2152 small 2153 fairly 2154 all 2155 large 
+christine 2156 Mm 2157 hmm 
+agnes 2158 Depending on 2160 personal 2161 preferences 
+agnes So that 2164 pretty 2165 much 
+agnes 2166 Oh i 2168 had to 2170 say i 2172 mean 2173 everything 2174 else in 2176 terms of 2178 design 2179 issues 
+agnes And this 2182 century 2183 know the 2185 keypad and 
+agnes The 2188 channel is 2190 just 2191 depending on where you 2195 from it is 
+agnes And you 2200 tend to 2202 use the the 2205 volume 2206 control and uh 
+agnes The 2210 browsing 2211 more 2212 than the 2214 actual 2215 number 2216 pad so that 2219 would be 2221 sort of 2223 interact 2224 line for your 2227 time 2228 goes when you 2231 holding the 2233 remote 2234 control 
+christine 2235 Mm 
+agnes That 2237 number 2238 have 2239 little 2240 bit 2241 lower to 2243 use 2244 less 2245 frequently 
+christine 2246 Mm 2247 hmm 
+agnes So 2249 once we 2251 decide 2252 exactly what we 2255 want 2256 then we 2258 can 2259 figure out the 2262 exact 2263 positioning 
+agnes But 2265 more or 2267 less i 2269 think it 2271 should 2272 go 2273 along those 2275 lines 
+sridhar So what your 2279 yeah 
+sridhar The 2281 comments or uh 
+ed 2284 Simple 2285 design 
+ed So 2287 consumers 2288 want 
+sridhar 2289 Okay 
+ed 2290 Some of 2292 like 2293 fifteen we 2295 have a 2297 product i i 
+agnes I 
+ed 2301 Problems 2302 obviously 2303 gonna be 
+agnes 2305 Uh-huh 
+ed 2306 Okay i 2308 also 2309 have of 
+ed Very 2312 simple 
+ed 2313 Presentation 
+sridhar 2314 Yeah 
+ed But 2316 from a 2318 marketing 2319 point you 2321 have to 2323 see what the 2326 consumers 2327 want 
+ed 2328 Also 2329 have well 
+ed 2331 Copied uh 
+ed 2333 Different 2334 type of 2336 remote 
+ed 2337 If you 2339 can 2340 find me where i at 
+ed 2345 Should we be one in here 
+ed 2351 Sure 2352 sure 
+christine 2353 Sure 
+ed Being 2355 modified 
+ed For 2357 stealing our 2359 product 
+ed With the 2362 municipal 2363 questionnaires and 2365 every 2366 year is 2368 because it was a 2372 cinetis you 2374 would 2375 come 2376 most 2377 consumers are 2379 looking for 2381 today This is the 2385 trends 2386 changing very very 2389 quickly 
+ed In 2391 six 2392 months 2393 maybe this 2395 ideas 2396 already 2397 got out the 2400 window So 
+ed be a 2404 question how 2406 fast we 2408 can 2409 act 
+ed 2410 Yeah 
+ed uh 
+ed they are your 2415 wrist 2416 wrist am i 2419 know 
+christine 2420 No 
+christine 2421 Go to 2423 findings 
+ed 2424 No 2425 no 
+ed 2426 No 
+ed So i do 2430 not 2431 know the 2433 commentator 
+ed the 2435 market 2436 trend 
+ed This is what we 2441 know 2442 from the 2444 last uh or 2447 from the 2449 questionnaires and 2451 although 2452 although 2453 Surveys we 2455 have done 2457 fancy and 2459 feel 2460 good that what we 2464 looking for 2466 something that 2468 feels 2469 good in the 2472 hand that 2474 easy to 2476 use 
+ed But 2478 different 2479 next 2480 generation of 2482 innovation 2483 because 2484 all the 2486 remote out 2488 there 2489 now they 2491 all very 2493 similar they will do the 2498 same 2499 thing 
+ed We 2501 have to 2503 something 2504 completely 2505 different 
+ed 2506 "kay" 2507 easy to 2509 use as well as 2513 become 2514 has 2515 become 2516 another 2517 major 2518 interest that the 
+ed With the 2523 whiteboard we 2525 can 2526 see that uh 2529 remote that 2531 easy to 
+ed And i 2535 think this is 2538 another 2539 thing is 2541 interesting is the 2544 consumers 2545 actually 2546 willing to 2548 pay the 2550 price for 2552 exciting to 2554 have 2555 technology 
+ed So we 2558 have we 2560 have a 2562 product that 2564 may be 2566 more 2567 expensive 
+ed 2568 If it 2570 comes out 2572 right 
+ed 2573 If they did 2576 not 2577 look it 2579 looks and 2581 feels 2582 good to 2584 have 2585 technology 
+ed The 2587 second 2588 two you 2590 can 2591 see the 2593 last one is a very 2598 easy 2599 simple 2600 design 
+ed The 2602 second one is about uh 2607 forty 2608 five 2609 thousand 2610 different 2611 buttons on it which 2615 makes it very 2618 hard to 2620 read for an 2623 i. 2624 d. is the 2627 first one i 2630 see 
+ed But they 2633 put in a 2636 display 
+ed That is 2639 something 2640 also with a 2643 little 2644 flip up 2646 now we 2648 adding 2649 all 2650 kinds of 2652 things and a 2655 little 2656 flip up 2658 if you 2660 have a 2662 little 2663 display on the 2666 flip up the 2669 wanna 2670 close it 2672 everything 2673 locked 
+ed 2674 Maybe the 2676 display 2677 also 2678 makes it 2680 easier to 2682 use 2683 because 2684 sometimes in your 2687 looking for 2689 buttons 2690 maybe 2691 if you 2693 see a 2695 display 
+christine 2696 Context 2697 instead of 2699 instructions 
+agnes 2700 Right 
+ed 2701 Okay 
+christine I 2703 mean with the 2706 top what 2708 mode the 2710 t. 2711 v. you the 2714 d. 2715 v. 2716 d. or 2718 something 2719 else to 2721 say and 
+ed 2723 "cause" i 2725 have 2726 seen 2727 mostly the 2729 standard 2730 ones 2731 yeah 
+agnes 2732 Especially 2733 many 2734 something 2735 like that for 2738 training the 2740 speech 2741 recognition 
+ed 2742 Now you 2744 have as 2746 many 2747 have one with a very 2752 simple 2753 also the 2755 idea 2756 simple but with the 2760 display So you 2763 can 2764 see which are 2767 going 
+agnes 2768 Uh-huh 
+ed So 2770 maybe 2771 three in 2773 incorporate the 2775 easiness of 2777 use 
+ed 2778 Train be 2780 fancy 
+ed 2781 Feels 2782 good 
+ed Uh 
+ed With the 2786 display 
+ed 2787 Would 2788 designer 2789 would 2790 design 2791 colours 
+ed Mine 
+christine 2793 Yeah 2794 maybe which you 2797 could do is 
+christine 2800 video 2801 orders the 2803 device 
+christine You 2805 could 2806 send them 2808 like um 
+christine He uh 
+christine At 2813 some 
+christine 2814 foam 2815 rubber 
+christine Um 
+christine 2817 Ball And 2819 then they 2821 would 2822 squeeze it you 2825 would 2826 take the 2828 shape of 
+agnes 2830 Arrow 2831 yeah 
+agnes 2832 Yeah so it really 2836 moulded to do it to your 2842 specific 
+christine To to it it it in and 2850 then you 2852 would 
+christine Um 
+christine what the 2856 geometry of their 2859 hands 2860 would be 2862 e. and uh 
+ed 2865 Hard 2866 disk 2867 reason i 
+ed 2869 Resisted 2870 resisted i uh 
+christine You 2874 know what i 2877 know what 
+agnes I 
+agnes But the for that you 2885 would 2886 also 2887 have to do 2890 sort of an 2893 average 2894 across 2895 families and 2897 things 2898 like that 2900 if 2901 Unless 2902 everyone 2903 has their 2905 own 2906 personal 2907 remote 
+christine That 2909 right that 2911 right you 2913 would 2914 not 2915 wanna 2916 go 2917 too 2918 far 2919 down that 
+christine 2921 Oh that that 2924 actually 2925 would uh 2927 increase the um 
+christine the 2931 revenue it so we 2935 could 2936 expect 2937 yeah 
+agnes To 2939 say i 
+sridhar I 2942 hope so 
+ed 2944 No but 2946 incorporating the 2948 three uh 
+ed 2950 Obviously be 2952 something 
+ed on the 2955 market 
+agnes 2956 Yeah 
+ed 2957 Totally 2958 different 
+ed 2959 Yeah 
+ed for my 
+agnes 2962 Already the 2964 customisable really is 
+agnes A really 2969 good 2970 sort of 
+ed Well what it was the the uh was a 2981 nokia 2982 taking 2983 all of those 
+agnes 2986 New 2987 gimmick 
+ed 2988 Changeable 2989 colours 2990 Right you 2992 take a 2994 part for 2996 another 2997 face 2998 take it 3000 off 3001 button 3002 interface 
+agnes 3003 Yeah 
+christine 3004 hmm 
+christine 3005 Right 
+ed And 3007 then they 3009 sold 3010 millions 
+agnes That a a 
+ed 3014 Millions 
+ed So 
+ed And so with that do the 3022 findings were the 3025 researched 3026 easy to 
+ed 3028 whole you 3030 know 
+ed We 3032 have to 3034 come up with 3037 something 3038 totally 3039 new 3040 there 3041 not on the 3044 market 
+christine But 3046 also 3047 have to 3049 work um 
+christine 3051 consider that to who we were 3057 gonna 3058 get to 3060 make this 3062 custom 3063 cases in 3065 terms of 3067 manufacturing 3068 process 3069 system 3070 right 
+christine 3071 Right um 
+christine 3073 Learn about um 
+christine 3076 labour 3077 wires 
+christine You 3079 know and 3081 Different 3082 countries and so 3085 forth so we 3088 can do it 3091 cheap but you do 3095 not 3096 wanna 3097 explore it to uh 
+christine 3101 labour and um 
+christine 3104 third 3105 world 3106 countries 
+christine 3107 Actually that 3109 right you 3111 turn 3112 around and 3114 say they your um for the 3120 reason the 3122 cost is 3124 high for the 3127 devices 3128 because 
+christine you 3130 paying uh a 3133 working 3134 wage to the 3137 person who 3139 made 
+christine The 3141 device 
+agnes 3142 Uh-huh 
+sridhar 3143 Yeah but we 3146 can 3147 get the 3149 production and uh 
+sridhar 3152 Confuse 3153 like uh 
+christine 3155 Cost of 3157 living is 3159 low 
+sridhar in the uh 3163 yes 3164 yes and 3166 disliking 3167 d. or a 3170 chain or a 3173 mono 3174 ratio so 
+sridhar You 3177 can 3178 go a 3180 bit of 3182 features 3183 then but the 3186 price 3187 any 3188 kind 3189 some 3190 more 
+sridhar So 
+christine That 3193 would that be 3196 something that 3198 manufacturing 3199 would 3200 have to um 
+sridhar 3203 Yeah 
+sridhar 3204 Yeah so 
+christine 3206 Explore 3207 more 3208 into where 
+ed Where are we are we in 3216 any 3217 fashion is is 
+christine 3220 Uh-huh 
+ed 3221 Than 3222 other 3223 stuff We here to 
+sridhar 3227 Yeah so 
+sridhar 3229 Yes uh but uh but that that they 3237 ca 3238 not that we 3241 can 3242 talk about the 3245 production 3246 later 3247 okay 3248 depends on the the 3252 quantity 3253 okay 
+ed 3254 Come up with a 3258 nice 3259 product 
+christine 3260 Hmm 
+christine 3261 hmm 
+sridhar So we do 3265 not 3266 need to 3268 have uh well one uh 3273 fabric 3274 factor or 3276 something so we 3279 can 3280 have a 3282 have it will 
+sridhar 3285 There are do the 3289 fabric 3290 okay but the 3293 different uh 
+sridhar 3295 electronics 3296 items 3297 then we 3299 can 3300 have a 3302 business 3303 step and the the 3307 good the 3309 cost 3310 okay 
+sridhar to 3312 sell 3313 more 
+sridhar So that the 3317 led 3318 lights to 3320 decide 3321 foster 3322 board uh 
+sridhar 3324 oh 3325 components 3326 concept and uh 3329 interface 3330 concept 
+sridhar 3331 Okay 3332 if it is 
+sridhar 3335 Picks up the 3338 phone for 3340 both of you what uh 
+sridhar it was 3347 talking 
+sridhar And you are 3351 design 
+sridhar With uh 
+sridhar 3354 oh you 3356 wanna the 3358 display or 3360 bit of a 3363 display or 3365 just a 3367 simple so 
+agnes I 3370 think it 3372 depends i 3374 mean i 3376 think it a 3379 good 3380 idea that we 3383 need to really 3386 think about how 3389 useful it 3391 gonna be 3393 because 3394 theoretically with the 3397 t. 3398 v. you 3400 already 3401 have 
+agnes A 3403 big 3404 display 3405 right in 3407 front of you 3410 know 
+christine 3411 Hmm 
+agnes So 
+agnes 3413 If we 3415 trying to 3417 keep 3418 costs 3419 down 
+agnes 3420 Then 3421 maybe 3422 sacrifice in the 3425 display 
+christine 3426 Uh-huh 
+agnes Is a 3429 way to 3431 go out and it 3435 depends on how 3438 much 3439 putting a 3441 display 3442 costs And what it 3446 would be 3448 used for very 3451 specifically 3452 would it 3454 would be 3456 used for 
+christine 3458 Hmm 
+christine 3459 hmm 
+agnes 3460 "cause" 3461 if it 3463 only 3464 use for one 3467 little 3468 thing 3469 then 3470 putting in a 3473 big 3474 display 
+agnes Or a 3477 big 3478 display that 
+agnes 3480 Probably 3481 expensive 3482 just to do the 3486 training on the 3489 chip 
+agnes For the 3492 speech 3493 recognition or 3495 whatever 
+agnes 3496 May 3497 not be the 3500 most 3501 cost 3502 efficient 3503 way to 3505 go but 
+agnes That a 3509 sort of 3511 speculation i 3513 mean 
+christine We 3515 think uh 3517 jean 
+christine You 3519 like the 3521 display in one of the 3526 concepts that you 3529 share 
+christine Um 
+christine you 3532 know how 3534 much it 3536 costs uh uh 
+christine 3539 mm to to 3542 add a 3544 little 3545 display 3546 like that uh 
+ed 3549 No one 3551 knows 
+christine You 3553 want a 3555 connection i am to 3559 go 3560 find out 
+ed 3562 have to 3564 find that 3566 cost 
+christine 3567 Okay 
+christine 3568 Sorry about that 
+ed And 3572 last a 3574 problem i 3576 mean for them 3579 pushing it 3581 after it 3583 made 3584 i. 3585 either 3586 market it i 
+ed 3589 Once we 3591 get a 3593 price on that we 3597 can 
+christine So but The 3601 advanced 3602 chip-on-print is what um 
+christine what we 3608 have 
+christine We 3610 have 3611 decided we 3613 determined in the uh 
+christine 3617 Engineering 3618 industrial 3619 design is the 3622 recommendation 
+christine And um 
+christine i 3626 think we 3628 have 3629 kinda 3630 come to 3632 some 3633 Agreement 3634 regarding um 
+christine This 3637 concept of a 3640 wooden 3641 case 
+agnes 3642 Uh-huh 
+christine Uh 3644 customisable um 
+ed 3646 Nice 3647 beautiful 3648 mahogany 3649 redwoods 3650 cases 
+agnes What about that 3654 Buttons 3655 would 
+agnes With the 3658 buttons be 3660 would 3661 say 3662 over 
+christine Uh 
+christine i do 3666 not 3667 think so 
+sridhar I do 3671 not 3672 think so 
+christine 3674 No i 3676 think they 3678 could be 3680 rubber 3681 like they 
+sridhar 3683 Yes 
+christine so you 3686 have a 3688 tactile 3689 experience of 
+sridhar 3691 Yes 
+sridhar Do 3693 not that 3695 nice 
+agnes 3696 Yeah 
+sridhar 3697 Yeah so 
+sridhar Or what we will do is uh 
+sridhar we will we will 3710 stick with the the 3714 simple 3715 design for 3717 coming 3718 into the 3720 egg 3721 find out about 3724 know how 3726 much it 3728 cost of 3730 extra 3731 think 3732 if we 3734 go for the 3737 display 
+sridhar 3738 Okay 
+sridhar so 3740 maybe what you 3743 can do is uh about a 3749 few you 3751 can 3752 come up with the 
+sridhar The 3757 product 3758 right 
+sridhar 3759 Okay the 3761 more 3762 than 
+agnes 3763 Okay 
+sridhar 3764 Okay 
+agnes 3765 Sure 
+christine So um 
+christine Are we done that me 
+sridhar Uh i 3775 hope uh for is it 3780 okay 3781 if uh they will 3785 come up with a 3789 prototype 3790 design 
+sridhar 3791 Okay 3792 then they 3794 can 3795 show you how it 3799 looks 3800 like and 3802 then we 3804 can uh 3806 submitted a 
+sridhar I do 3810 some 3811 into the 3813 management 
+sridhar 3814 Okay 
+sridhar 3815 Then 3816 mean that and you 3820 can 3821 come up with the 3825 price so how 3828 much it 3830 cost of 3832 extra for the the 3836 display 
+christine I 3838 marketing 3839 strategy 
+sridhar And and a 3843 might be 3845 sturdy that very 3848 important 3849 okay 
+ed 3850 Okay 
+ed i 3852 think 3853 yeah 
+sridhar How 3855 much 
+ed 3856 Finer 
+sridhar 3857 Oh my how 3860 much how 3862 much you 3864 can 3865 select so uh 
+sridhar Of 3869 course you 3871 make 3872 minute or so 
+ed 3875 Yeah 
+ed 3876 yeah 
+sridhar It 3878 modified you 3880 make 3881 money to uh your 3885 commission 
+sridhar 3886 Okay so 3888 any 3889 questions 
+sridhar So by 3892 next 3893 meeting so 3895 place 3896 come up with the 
+sridhar 3900 Okay 
+sridhar 3901 then uh 
+sridhar 3903 can 3904 proceed 3905 from 3906 there 
+sridhar 3907 Okay 
+sridhar So 3909 thanks for 3911 all your uh 3914 efforts 
+sridhar And 3916 coming for the 3919 meeting 3920 again 
+sridhar And the 3923 c.s on that 
+sridhar 3926 Okay 
+sridhar 3927 thank you 

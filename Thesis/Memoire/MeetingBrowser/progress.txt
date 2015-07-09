@@ -1,0 +1,268 @@
+Run uni-gram search on IB4010
+
+Passage (bcde,a): 34 at (7,1)Correct answers for test data:5
+True false answers (bcde,a): 45 at (13,12)Correct answers for test data:4
+
+Passage (acde,b): 36 at (13,7)Correct answers for test data:6
+True false answers (acde,b): 37 at (9,7)Correct answers for test data:12
+
+Passage (abde,c): 37 at (11,7)Correct answers for test data:5
+True false answers (abde,c): 38 at (13,1)Correct answers for test data:11
+
+Passage (abce,d): 39 at (13,1)Correct answers for test data:3
+True false answers (abce,d): 42 at (13,1)Correct answers for test data:7
+
+Passage (abcd,e): 29 at (9,5)Correct answers for test data:12
+True false answers (abcd,e): 40 at (12,6)Correct answers for test data:9
+For passage: 6.2 +/-3.420526275297414
+For final answer: 8.6 +/-3.209361307176243
+
+1047584 ms
+
+Run N-gram search on IB4010
+Passage (bcde,a): 36 at (11,7)Correct answers for test data:8
+True false answers (bcde,a): 52 at (10,8)Correct answers for test data:6
+Passage (acde,b): 37 at (12,5)Correct answers for test data:7
+True false answers (acde,b): 43 at (13,1)Correct answers for test data:15
+Passage (abde,c): 39 at (11,7)Correct answers for test data:5
+True false answers (abde,c): 46 at (3,1)Correct answers for test data:10
+Passage (abce,d): 38 at (13,1)Correct answers for test data:4
+True false answers (abce,d): 51 at (13,1)Correct answers for test data:7
+Passage (abcd,e): 29 at (10,1)Correct answers for test data:13
+True false answers (abcd,e): 46 at (10,8)Correct answers for test data:12
+For passage: 7.4 +/-3.5071355833500366
+For final answer: 10.0 +/-3.6742346141747673
+
+2438136 ms
+
+Run N-gram search + speaker-directed on IB4010
+Passage (bcde,a): 52 at (10,3)Correct answers for test data:15
+True false answers (bcde,a): 62 at (11,11)Correct answers for test data:13
+Passage (acde,b): 54 at (11,1)Correct answers for test data:11
+True false answers (acde,b): 59 at (5,1)Correct answers for test data:14
+Passage (abde,c): 57 at (10,3)Correct answers for test data:10
+True false answers (abde,c): 62 at (5,2)Correct answers for test data:13
+Passage (abce,d): 56 at (9,1)Correct answers for test data:10
+True false answers (abce,d): 62 at (3,1)Correct answers for test data:11
+Passage (abcd,e): 49 at (9,1)Correct answers for test data:17
+True false answers (abcd,e): 60 at (11,11)Correct answers for test data:15
+For passage: 12.6 +/-3.2093613071762426
+For final answer: 13.2 +/-1.4832396974191326
+
+2824178 ms
+
+Run N-gram search + speaker-directed + distance on IB4010
+
+step = 13:
+Passage (bcde,a): 52 at (10,3)Correct answers for test data:15
+True false answers (bcde,a): 62 at (11,11)Correct answers for test data:13
+
+Passage (acde,b): 54 at (11,1)Correct answers for test data:11
+True false answers (acde,b): 59 at (5,1)Correct answers for test data:14
+Passage (abde,c): 57 at (10,3)Correct answers for test data:10
+True false answers (abde,c): 62 at (5,2)Correct answers for test data:13
+
+Passage (abce,d): 56 at (9,1)Correct answers for test data:10
+True false answers (abce,d): 62 at (3,1)Correct answers for test data:11
+Passage (abcd,e): 49 at (9,1)Correct answers for test data:17
+True false answers (abcd,e): 60 at (11,11)Correct answers for test data:15
+For passage: 12.6 +/-3.2093613071762426
+For final answer: 13.2 +/-1.4832396974191326
+
+3132287 ms
+
+Run uni-gram search on IS1008c
+
+Passage (bcde,a): 22 at (9,1)Correct answers for test data:7
+True false answers (bcde,a): 20 at (12,10)Correct answers for test data:2
+
+Passage (acde,b): 23 at (9,1)Correct answers for test data:6
+True false answers (acde,b): 18 at (12,1)Correct answers for test data:3
+Passage (abde,c): 22 at (11,10)Correct answers for test data:7
+True false answers (abde,c): 20 at (13,1)Correct answers for test data:2
+Passage (abce,d): 27 at (9,1)Correct answers for test data:2
+True false answers (abce,d): 17 at (8,5)Correct answers for test data:4
+Passage (abcd,e): 24 at (11,10)Correct answers for test data:5
+True false answers (abcd,e): 15 at (13,1)Correct answers for test data:7
+For passage: 5.4 +/-2.073644135332772
+For final answer: 3.6 +/-2.073644135332772
+
+91017 ms
+Run n-gram search on IS1008c
+Passage (bcde,a): 24 at (6,4)Correct answers for test data:5
+True false answers (bcde,a): 24 at (4,4)Correct answers for test data:3
+Passage (acde,b): 23 at (4,1)Correct answers for test data:6
+True false answers (acde,b): 20 at (12,6)Correct answers for test data:5
+Passage (abde,c): 22 at (1,1)Correct answers for test data:7
+True false answers (abde,c): 23 at (12,9)Correct answers for test data:3
+Passage (abce,d): 27 at (4,1)Correct answers for test data:2
+True false answers (abce,d): 22 at (4,4)Correct answers for test data:5
+Passage (abcd,e): 24 at (1,1)Correct answers for test data:5
+True false answers (abcd,e): 22 at (4,4)Correct answers for test data:5
+For passage: 5.0 +/-1.8708286933869707
+For final answer: 4.2 +/-1.0954451150103321
+
+273728 ms
+Run n-gram + speaker search on IS1008c
+
+
+Passage (bcde,a): 28 at (12,1)Correct answers for test data:8
+True false answers (bcde,a): 31 at (7,5)Correct answers for test data:5
+Passage (acde,b): 29 at (13,5)Correct answers for test data:7
+True false answers (acde,b): 28 at (7,5)Correct answers for test data:8
+Passage (abde,c): 28 at (10,1)Correct answers for test data:7
+True false answers (abde,c): 28 at (4,2)Correct answers for test data:4
+Passage (abce,d): 32 at (13,5)Correct answers for test data:4
+True false answers (abce,d): 29 at (7,5)Correct answers for test data:7
+Passage (abcd,e): 30 at (6,5)Correct answers for test data:5
+True false answers (abcd,e): 28 at (7,5)Correct answers for test data:8
+For passage: 6.2 +/-1.6431676725154984
+For final answer: 6.4 +/-1.816590212458495
+
+748505 ms
+
+Run n-gram + speaker + distance search on IS1008c
+
+step = 1:
+
+step = 2:
+
+step = 3:
+
+step = 4:
+
+step = 5:
+
+step = 6:
+
+step = 7:
+
+step = 8:
+
+step = 9:
+
+step = 10:
+
+step = 11:
+
+step = 12:
+
+step = 13:
+Passage (bcde,a): 28 at (12,1)Correct answers for test data:8
+True false answers (bcde,a): 31 at (7,5)Correct answers for test data:5
+
+step = 1:
+
+step = 2:
+
+step = 3:
+
+step = 4:
+
+step = 5:
+
+step = 6:
+
+step = 7:
+
+step = 8:
+
+step = 9:
+
+step = 10:
+
+step = 11:
+
+step = 12:
+
+step = 13:
+Passage (acde,b): 29 at (13,5)Correct answers for test data:7
+True false answers (acde,b): 28 at (7,5)Correct answers for test data:8
+
+step = 1:
+
+step = 2:
+
+step = 3:
+
+step = 4:
+
+step = 5:
+
+step = 6:
+
+step = 7:
+
+step = 8:
+
+step = 9:
+
+step = 10:
+
+step = 11:
+
+step = 12:
+
+step = 13:
+Passage (abde,c): 28 at (10,1)Correct answers for test data:7
+True false answers (abde,c): 28 at (4,2)Correct answers for test data:4
+
+step = 1:
+
+step = 2:
+
+step = 3:
+
+step = 4:
+
+step = 5:
+
+step = 6:
+
+step = 7:
+
+step = 8:
+
+step = 9:
+
+step = 10:
+
+step = 11:
+
+step = 12:
+
+step = 13:
+Passage (abce,d): 32 at (13,5)Correct answers for test data:4
+True false answers (abce,d): 29 at (7,5)Correct answers for test data:7
+
+step = 1:
+
+step = 2:
+
+step = 3:
+
+step = 4:
+
+step = 5:
+
+step = 6:
+
+step = 7:
+
+step = 8:
+
+step = 9:
+
+step = 10:
+
+step = 11:
+
+step = 12:
+
+step = 13:
+Passage (abcd,e): 30 at (6,5)Correct answers for test data:5
+True false answers (abcd,e): 28 at (7,5)Correct answers for test data:8
+For passage: 6.2 +/-1.6431676725154984
+For final answer: 6.4 +/-1.816590212458495
+
+729062 ms

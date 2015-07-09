@@ -1,0 +1,30 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.2.7)  7 FEB 2009 15:39
+entering extended mode
+**ifpdf-test1.tex
+(ifpdf-test1.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+(ifpdf.sty
+
+LaTeX Warning: You have requested package `',
+               but the package provides `ifpdf'.
+
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+) ) 
+Here is how much of TeX's memory you used:
+ 23 strings out of 95304
+ 253 string characters out of 1183071
+ 47089 words of memory out of 1500000
+ 3319 multiletter control sequences out of 110000
+ 3640 words of font info for 14 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 11i,0n,7p,101b,25s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

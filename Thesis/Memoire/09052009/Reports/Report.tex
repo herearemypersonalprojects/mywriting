@@ -1,0 +1,169 @@
+% Subordinating conjunction: because, although, since, until, while, if, when, etc,..
+
+% Conjunctive adverb: accordingly, besides, consequently, furthermore, hence, honwever, instead, moreover, nevertheless, otherwise, therefore, then, thus etc,..
+
+% in other words, 
+
+
+% Giong nhu Goujon da noi, phai biet minh dang lam gi, de lam gi, gioi han bai toan la gi
+
+
+
+\documentclass[12pt,a4paper]{report}
+\author{Quoc Anh Le}
+%\usepackage[utf8x]{inputenc}
+%\usepackage[latin1]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage{lmodern}
+%\usepackage[english, frenchb]{babel}
+
+\usepackage{ucs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{psfrag}
+\usepackage{epsfig}
+\usepackage[hang,small,bf]{caption} 
+\usepackage{amsmath,amssymb}
+
+\usepackage{threeparttable}
+\usepackage{colortbl}
+\usepackage{slashbox}
+
+\usepackage{verbatim} % For multi-line comments
+
+\usepackage{setspace} % For page setup
+%\onehalfspacing
+\doublespace
+\usepackage[left=5cm,right=5cm,top=3cm,bottom=3cm,bindingoffset=0cm]{geometry}
+
+\usepackage{hyperref} % For hyperlink
+\usepackage{url}
+
+% Include any extra LaTeX packages required
+\usepackage[square, numbers, comma, sort&compress]{natbib}  % Use the "Natbib" style for the references in the Bibliography
+\usepackage{verbatim}  % Needed for the "comment" environment to make LaTeX comments
+\usepackage{vector}  % Allows "\bvec{}" and "\buvec{}" for "blackboard" style bold vectors in maths
+\hypersetup{urlcolor=blue, colorlinks=true}  % Colours hyperlinks in blue, but this can be distracting if there are many links.
+
+% For pseudo
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\numberwithin{algorithm}{chapter}  % <--- chapter, section etc. depending on what is required
+\usepackage{listings} % Include the listings-package
+
+
+%When using hyperref and referencing algorithms latex gives an error: ! Undefined control sequence. <argument> algorithm.\theHalgorithm This can be solved adding at the preamble:
+%\newcommand{\theHalgorithm}{\arabic{algorithm}}
+\renewcommand{\algorithmiccomment}[1]{//#1}
+
+%%%%%%%%%%%%%%
+
+
+
+\setlength{\captionmargin}{50pt}
+
+\author{Quoc Anh Le}
+\title{Master Thesis in Computer Science}
+
+% MARGES
+\setlength{\hoffset}{-0.4in} \addtolength{\textwidth}{1.1in}
+\setlength{\voffset}{-0.4in} \addtolength{\textheight}{0.2in}
+
+
+
+%\selectlanguage{english}
+\begin{document}
+
+
+
+%\begin{center}
+%\thispagestyle{empty}
+%
+%\begin{figure}[h]
+%\centering
+%\begin{minipage}{5cm}
+%\includegraphics[width=1\textwidth]{logo-fundp.jpg}
+%\end{minipage}
+%\hfill
+%\begin{minipage}{5cm}
+%\includegraphics[width=1\textwidth]{Idiap-logo-E.png}
+%\end{minipage}
+%\end{figure}
+%
+%\centering
+%\vfill
+%
+%\Huge{\textbf{Automatic true-false question answering in meetings}}\\
+%\vspace{7mm}
+%\Large{\textsc{Quoc Anh Le}}\\
+%
+%\vspace{3mm}
+%%Master Thesis in Computer Science\\
+%Master Internship Report \\
+%\normalsize
+%\vspace{3mm}
+%University of Namur \\
+%Faculty of Computer Science \\
+%\large
+%
+%\vfill
+%\begin{tabular}{l l l}
+%Advisors: & Andrei Popescu-Belis &  (Idiap Research Institute)\\
+%%& & 
+%
+% & Jean-Paul Leclercq & (University of Namur, FUNDP)\\
+%\end{tabular}
+%
+%\vfill
+%\normalsize
+%%\today
+%August 2008 - January 2009
+%\end{center}
+%
+%\setstretch{1.4}  % It is better to have smaller font and larger line spacing than the other way round
+
+\input{Abstract.tex}
+
+\input{Acknowledgement.tex}
+
+\newpage
+\tableofcontents
+\addcontentsline{toc}{chapter}{Table of contents}
+
+\newpage
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+
+\newpage
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\newpage
+\listofalgorithms
+\addcontentsline{toc}{chapter}{List of Algorithms}
+
+%\input{Abbreviations.tex}
+
+\input{Introduction.tex}
+
+\input{State_of_the_art.tex}
+
+\input{Description_data.tex}
+
+\input{Algorithm.tex}
+
+\input{Evaluation_method.tex}
+
+\input{Results.tex}
+
+\input{Conclusion.tex}
+
+\input{Appendix.tex}
+
+%\input{Glossary.tex}
+
+\input{Bibliography.tex}
+
+\end{document}
